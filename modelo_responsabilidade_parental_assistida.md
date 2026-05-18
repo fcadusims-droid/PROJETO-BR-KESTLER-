@@ -1,69 +1,56 @@
 # Modelo de Responsabilidade Parental e Institucional Assistida com Piso Mínimo de Cuidado
 
-**Documento-base de formulação conceitual, desenho institucional e política pública**  
-**Versão:** 2.4.2 — versão limpa, consolidada e atualizada, com ajustes de piloto inaugural, matriz de maturidade municipal, adesão voluntária protegida de microprestadores, RTTA, Protocolo de Resposta Protetiva Imediata, governança de dados, cadeia de custódia audiovisual, auditoria antiviés, definição operacional de risco materializável, sequência recomendada de pilotos, métricas finais de expansão, pacote jurídico tripartite de implementação, cartão operacional do Código Vermelho, coordenação intensiva da quinzena inicial, rebaixamento com continuidade assistencial e travas contra prêmio da clandestinidade, ilusão orçamentária e guerra intersecretarial de dados.  
-**Finalidade:** sistematizar uma proposta de proteção infantil baseada em responsabilidade parental e institucional, com piso mínimo de cuidado, assistência antes da punição, intervenção proporcional, proteção contra vigilância doméstica, resposta imediata a risco grave, responsabilidade econômica efetiva de instituições e prestadores, controle de custos administrativos e transição regulatória realista para microprestadores locais.
 
 ---
 
 ## 1. Resumo executivo
 
-O **Modelo de Responsabilidade Parental e Institucional Assistida com Piso Mínimo de Cuidado** propõe uma alternativa à falsa escolha entre omissão estatal diante da negligência infantil e expansão de um Estado fiscalizador da intimidade familiar. A versão 2.4.2 consolida o modelo como uma política de **gestão proporcional de risco infantil**, e não como um catálogo de virtudes parentais ou uma autorização para vigilância social ampla.
+O **Modelo de Responsabilidade Parental e Institucional Assistida com Piso Mínimo de Cuidado** propõe uma alternativa à falsa escolha entre omissão estatal diante da negligência infantil e expansão de um Estado fiscalizador da intimidade familiar. O modelo organiza uma política de **gestão proporcional de risco infantil**, e não um catálogo de virtudes parentais nem uma autorização para vigilância social ampla.
 
-A tese central permanece: crianças e adolescentes possuem direito a um piso mínimo objetivo de cuidado físico, emocional, educacional, sanitário, ambiental, digital e institucional. Pais, mães, responsáveis legais e ambientes que recebem crianças assumem deveres próprios. O Estado deve apoiar, capacitar, corrigir e, quando necessário, responsabilizar. Porém, a intervenção estatal deve respeitar proporcionalidade, devido processo, proteção de dados, inviolabilidade domiciliar, distinção entre pobreza e negligência, e controle rigoroso dos custos administrativos.
+A tese central é que crianças e adolescentes possuem direito a um piso mínimo objetivo de cuidado físico, emocional, educacional, sanitário, ambiental, digital e institucional. Pais, mães, responsáveis legais e ambientes que recebem crianças assumem deveres próprios. O Estado deve apoiar, capacitar, corrigir e, quando necessário, responsabilizar. A intervenção estatal deve respeitar proporcionalidade, devido processo, proteção de dados, inviolabilidade domiciliar, distinção entre pobreza e negligência, e controle rigoroso dos custos administrativos.
 
-A versão 2.4.2 corrige fragilidades operacionais das formulações anteriores. O modelo deixa de tratar todos os deveres como igualmente coercitivos e passa a usar uma **Matriz de Densidade Normativa**, separando piso essencial obrigatório, indicadores de atenção, boas práticas recomendadas e medidas contextuais. Essa matriz impede que conceitos vagos, como “supervisão adequada”, “rotina mínima” ou “ambiente seguro”, sejam usados de forma subjetiva para punir famílias ou instituições.
+O modelo usa uma **Matriz de Densidade Normativa**, separando piso essencial obrigatório, indicadores de atenção, boas práticas recomendadas e medidas contextuais. Essa matriz impede que conceitos vagos, como “supervisão adequada”, “rotina mínima” ou “ambiente seguro”, sejam usados de forma subjetiva para punir famílias ou instituições.
 
-A versão 2.4.2 também atualiza o enquadramento normativo brasileiro, incorporando expressamente o Estatuto Digital da Criança e do Adolescente, sua regulamentação administrativa, a política de prevenção à violência em estabelecimentos educacionais, os instrumentos de escuta protegida de crianças e adolescentes vítimas ou testemunhas de violência, as regras de proteção de dados pessoais de crianças e adolescentes e as alterações penais e protetivas recentes contra crimes de dignidade sexual envolvendo vulneráveis.
+O modelo incorpora o princípio de **economicidade protetiva**: se for mais barato, menos invasivo e mais eficaz universalizar creches, escolas, saúde básica, alimentação, apoio parental ou infraestrutura do que fiscalizar caso a caso, o Estado deve priorizar a oferta direta do serviço. O objetivo é impedir a criação de uma indústria de fiscalização que custe mais caro do que a solução material do problema.
 
-O modelo também incorpora o princípio de **economicidade protetiva**: se for mais barato, menos invasivo e mais eficaz universalizar creches, escolas, saúde básica, alimentação, apoio parental ou infraestrutura do que fiscalizar caso a caso, o Estado deve priorizar a oferta direta do serviço. O objetivo é impedir a criação de uma indústria de fiscalização que custe mais caro do que a solução material do problema.
+Na dimensão institucional, crianças não podem ser punidas pelos erros de escolas, creches, transportadores, mantenedores ou gestores. Contudo, o Estado protege a criança, não o infrator. Qualquer custeio emergencial deve ocorrer por pagamento direto, fundo garantidor, caução, seguro, bloqueio de recebíveis, sub-rogação automática e ressarcimento posterior, sem resgate econômico livre de mantenedores privados ou gestores irresponsáveis.
 
-Na dimensão institucional, a versão 2.4.2 mantém a regra de que crianças não podem ser punidas pelos erros de escolas, creches, transportadores, mantenedores ou gestores. Contudo, corrige o risco moral: o Estado protege a criança, não o infrator. Qualquer custeio emergencial deve ocorrer por pagamento direto, fundo garantidor, caução, seguro, bloqueio de recebíveis, sub-rogação automática e ressarcimento posterior, sem resgate econômico livre de mantenedores privados ou gestores irresponsáveis.
+Para microprestadores locais — cuidadoras comunitárias, creches periféricas, contraturno informal, pequenos transportadores e iniciativas de bairro — o modelo cria um **Regime de Formalização Assistida**. Esse regime não reduz o núcleo indeclinável de segurança, mas substitui exigências financeiras uniformes por instrumentos proporcionais: microsseguro, fundo mutualista, vistoria simplificada, capacitação gratuita, subsídio regulatório, compras coletivas, apoio técnico e decisão motivada de não interdição quando não houver risco crítico imediato.
 
-Para microprestadores locais — cuidadoras comunitárias, creches periféricas, contraturno informal, pequenos transportadores e iniciativas de bairro — a versão 2.4.2 cria um **Regime de Formalização Assistida**. Esse regime não reduz o núcleo indeclinável de segurança, mas substitui exigências financeiras uniformes por instrumentos proporcionais: microsseguro, fundo mutualista, vistoria simplificada, capacitação gratuita, subsídio regulatório, compras coletivas, apoio técnico e decisão motivada de não interdição quando não houver risco crítico imediato.
+O instrumento recomendado é o **Cadastro de Regularização Assistida com Decisão Motivada de Não Interdição**. O Estado não chancela funcionamento precário. Ele identifica o prestador, verifica riscos críticos, impõe limites, registra pendências e decide, de forma motivada, não interditar imediatamente quando a interdição abrupta causar dano maior às crianças e o núcleo indeclinável estiver preservado.
 
-A antiga ideia de “licença provisória” é abandonada. O novo instrumento é o **Cadastro de Regularização Assistida com Decisão Motivada de Não Interdição**. O Estado não chancela funcionamento precário. Ele identifica o prestador, verifica riscos críticos, impõe limites, registra pendências e decide, de forma motivada, não interditar imediatamente quando a interdição abrupta causar dano maior às crianças e o núcleo indeclinável estiver preservado.
-
-A versão 2.4.2 também cria um **Sistema Público de Status Operacional Infantil**, com semáforo regulatório, símbolos, frases simples, QR Code dinâmico, número curto, foto da fachada, canal telefônico, SMS ou WhatsApp, e consulta assistida em equipamentos públicos. O objetivo é impedir que o prestador controle sozinho a narrativa sobre seu risco. O status público deve ser compreensível por famílias com baixa instrução e difícil de manipular.
+O modelo também cria um **Sistema Público de Status Operacional Infantil**, com semáforo regulatório, símbolos, frases simples, QR Code dinâmico, número curto, foto da fachada, canal telefônico, SMS ou WhatsApp, e consulta assistida em equipamentos públicos. O objetivo é impedir que o prestador controle sozinho a narrativa sobre seu risco. O status público deve ser compreensível por famílias com baixa instrução e difícil de manipular.
 
 Para quebrar a dependência da lista fornecida pelo próprio prestador, o modelo institui o **Cadastro Reverso de Vínculo**, permitindo que famílias confirmem que usam determinado serviço por SMS, WhatsApp, ligação, CRAS, UBS, escola, Conselho Tutelar, agente comunitário ou gov.br, quando possível. Esses sinais são classificados por uma **Matriz de Confiança Progressiva e Inclusiva**: sinais leves, médios, fortes digitais e fortes assistidos. A confirmação presencial em CRAS, UBS ou escola terá valor equivalente à confirmação digital forte, para evitar exclusão das famílias sem smartphone adequado, biometria funcional ou conta gov.br avançada.
 
-A proteção de dados é redesenhada para impedir a criação de um mapa nominal da vulnerabilidade infantil. O município deve guardar, como regra, contagens agregadas, tokens pseudonimizados, níveis de confiança, datas de confirmação e logs. Nomes, rotinas, endereços residenciais, prontuários de saúde, renda e composição familiar detalhada somente poderão ser acessados em hipóteses excepcionais, justificadas e auditadas.
+A proteção de dados impede a criação de um mapa nominal da vulnerabilidade infantil. O município deve guardar, como regra, contagens agregadas, tokens pseudonimizados, níveis de confiança, datas de confirmação e logs. Nomes, rotinas, endereços residenciais, prontuários de saúde, renda e composição familiar detalhada somente poderão ser acessados em hipóteses excepcionais, justificadas e auditadas.
 
-Por fim, a versão 2.4.2 substitui grandes varreduras territoriais por uma **Fiscalização Sentinela de Baixo Custo com Aleatoriedade Ponderada por Risco**. A fiscalização passa a combinar sorteio puro, ciclos periódicos e risco ponderado. Denúncias, divergências e sinais familiares aumentam a probabilidade de seleção para checagem, mas não geram batida automática, salvo risco grave ou iminente. Assim, o Estado fiscaliza o alvo provável sem revelar que houve delação e sem multiplicar o custo logístico por varreduras de bairro.
+A fiscalização deve operar por **Fiscalização Sentinela de Baixo Custo com Aleatoriedade Ponderada por Risco**. A fiscalização combina sorteio puro, ciclos periódicos e risco ponderado. Denúncias, divergências e sinais familiares aumentam a probabilidade de seleção para checagem, mas não geram batida automática, salvo risco grave ou iminente.
 
+A execução municipal deve respeitar uma **Matriz de Maturidade Municipal**, diferenciando municípios de baixa, média e alta capacidade administrativa. Em municípios de baixa capacidade, a execução deve começar por fluxo analógico-assistido, uso de órgãos existentes, consulta presencial, escola, UBS, CRAS, Conselho Tutelar, agentes comunitários e protocolos simples. A infraestrutura digital completa é etapa posterior ou própria de municípios com maior capacidade institucional.
 
-A versão consolidada de piloto acrescenta uma **Matriz de Maturidade Municipal**, que diferencia municípios de baixa, média e alta capacidade administrativa. O modelo não exige de uma cidade pequena a mesma infraestrutura digital, jurídica e técnica de uma capital. Em municípios de baixa capacidade, a execução deve começar por fluxo analógico-assistido, uso de órgãos existentes, consulta presencial, escola, UBS, CRAS, Conselho Tutelar, agentes comunitários e protocolos simples. A infraestrutura digital completa passa a ser etapa posterior ou própria de municípios com capacidade institucional superior.
+O modelo substitui a criação de novos órgãos por **funções e protocolos atribuídos a estruturas existentes**. Núcleos, unidades e respostas emergenciais devem ser entendidos, prioritariamente, como competências funcionais, fluxos de trabalho, escalas de plantão, checklists e decisões motivadas, e não como novas secretarias, cargos ou equipamentos físicos.
 
-A versão também substitui a criação de novos órgãos por **funções e protocolos atribuídos a estruturas existentes**. Núcleos, unidades e respostas emergenciais devem ser entendidos, prioritariamente, como competências funcionais, fluxos de trabalho, escalas de plantão, checklists e decisões motivadas, e não como novas secretarias, cargos ou equipamentos físicos. Essa regra reduz custo, evita guerra de competências e permite implementação por decreto, termo de cooperação ou ato administrativo quando juridicamente suficiente.
+Para microprestadores, a lógica é de **adesão voluntária protegida**, com janela inicial de cadastro assistido, separação entre triagem e punição, status de transição, limites operacionais provisórios e apoio técnico condicionado. O objetivo é criar incentivo racional para que cuidadoras comunitárias, microcreches, contraturnos e pequenos transportadores saiam da clandestinidade sem que o primeiro contato com o Estado produza multa, interdição automática ou destruição da economia local de cuidado.
 
-Para microprestadores, a versão consolidada adota uma lógica de **adesão voluntária protegida**, com janela inicial de cadastro assistido, separação entre triagem e punição, status de transição, limites operacionais provisórios e apoio técnico condicionado. O objetivo é criar incentivo racional para que cuidadoras comunitárias, microcreches, contraturnos e pequenos transportadores saiam da clandestinidade sem que o primeiro contato com o Estado produza multa, interdição automática ou destruição da economia local de cuidado.
+A decisão de não interdição imediata é documentada por um **Relatório Técnico de Triagem e Transição Assistida — RTTA**, que não funciona como licença, alvará ou laudo de segurança. O RTTA registra escopo limitado da triagem, riscos críticos aparentes, restrições provisórias, prazos escalonados, responsabilidade do prestador, necessidade de avaliação especializada e decisão motivada da autoridade competente.
 
-A decisão de não interdição imediata passa a ser documentada por um **Relatório Técnico de Triagem e Transição Assistida — RTTA**, que não funciona como licença, alvará ou laudo de segurança. O RTTA registra escopo limitado da triagem, riscos críticos aparentes, restrições provisórias, prazos escalonados, responsabilidade do prestador, necessidade de avaliação especializada e decisão motivada da autoridade competente. Assim, o fiscal de campo não se torna fiador universal do local vistoriado.
+Na resposta emergencial, o **Protocolo de Resposta Protetiva Imediata** é acionável por Código Vermelho Protetivo. O protocolo usa dupla chave assimétrica: qualquer agente público capacitado pode reconhecer preliminarmente o risco vermelho, enquanto uma função de plantão coordena o acionamento dos órgãos competentes. O fluxo inclui bypass automático quando o coordenador não responde, regra antiempurra, acionamento simultâneo, desmobilização ou rebaixamento de falsos positivos e revisão obrigatória em 24 horas.
 
-Na resposta emergencial, a antiga **Unidade de Resposta Protetiva Imediata (URPI)** é redesenhada como **Protocolo de Resposta Protetiva Imediata**, acionável por código vermelho. O protocolo usa dupla chave assimétrica: qualquer agente público capacitado pode reconhecer preliminarmente o risco vermelho, enquanto uma função de plantão coordena o acionamento dos órgãos competentes. O fluxo inclui bypass automático quando o coordenador não responde, regra antiempurra, acionamento simultâneo, desmobilização ou rebaixamento de falsos positivos e revisão obrigatória em 24 horas.
+O piloto deve ser avaliado por três métricas centrais: conversão segura da informalidade com base em linha de base documentada, tempo de proteção efetiva em Código Vermelho e execução proporcional, segura e auditável. O piloto não deve ser medido por número de multas, cadastros ou interdições, mas por redução verificável da invisibilidade, mitigação rápida de risco grave e governança sem abuso estatal, clientelismo, vazamento mal gerido, viés injustificado ou custo administrativo excessivo.
 
-Por fim, a versão consolidada define três métricas definitivas para avaliar o piloto em seis meses: conversão segura da informalidade com base em linha de base documentada, tempo de proteção efetiva em código vermelho com metas territoriais e execução proporcional, segura e auditável. O piloto não será medido por número de multas, cadastros ou interdições, mas por redução verificável da invisibilidade, mitigação rápida de risco grave e governança sem abuso estatal, clientelismo, vazamento mal gerido, viés injustificado ou custo administrativo excessivo.
+A implementação recomenda três peças: decreto do Executivo para instituir o piloto, portaria intersecretarial para anexos operacionais e projeto de lei municipal curto apenas para autorizar matérias que exigem base legal mais robusta, como fomento condicionado, fundo, voucher, sanções específicas, isenções, status obrigatório perante particulares e compartilhamento intersetorial estruturado de dados.
 
-A versão final também adota uma **engenharia jurídica tripartite** para aprovação e execução: decreto do Executivo para instituir o piloto, portaria intersecretarial para anexos operacionais e projeto de lei municipal curto apenas para autorizar matérias que exigem base legal mais robusta, como fomento condicionado, fundo, voucher, sanções específicas, isenções, status obrigatório perante particulares e compartilhamento intersetorial estruturado de dados. A regra de implementação passa a ser: decreto para testar, lei curta para autorizar, lei ampla apenas depois de provar efetividade.
+A proteção infantil deve ser concreta, proporcional e executável. O Estado deve universalizar o que for estrutural, apoiar o que for corrigível, responsabilizar quem recusa ou frauda, proteger imediatamente diante de risco grave e fiscalizar com inteligência de risco, não com vigilância generalizada.
 
-A versão final incorpora ainda duas salvaguardas de execução. A primeira é a **Coordenação Intensiva da Quinzena Inicial**, pela qual o prefeito ou autoridade equivalente designa um coordenador central exclusivo, com autoridade direta de articulação sobre assistência social, saúde, educação, controle interno e demais áreas envolvidas, para impedir que os primeiros quinze dias colapsem por acúmulo de decreto, portaria, treinamento, linha de base e distribuição de instrumentos. A segunda é a regra de **Rebaixamento com Continuidade Assistencial**, segundo a qual a desmobilização operacional do Código Vermelho no Minuto 20 libera órgãos emergenciais desnecessários, mas não apaga o registro social da ocorrência nem impede acompanhamento posterior quando houver vulnerabilidade, crise neurodivergente, risco familiar, dúvida razoável ou possibilidade de manipulação da cena por agressor.
-
-A síntese da versão 2.4.2 é:
-
-> A proteção infantil deve ser concreta, proporcional e executável. O Estado deve universalizar o que for estrutural, apoiar o que for corrigível, responsabilizar quem recusa ou frauda, proteger imediatamente diante de risco grave e fiscalizar com inteligência de risco, não com vigilância generalizada.
-
-> O modelo não cria um ECA Digital ampliado nem uma infraestrutura de vigilância familiar. Ele cria uma política local de cuidado mínimo, regularização assistida e resposta proporcional a risco infantil materializável.
-
----
-
+O modelo não cria um ECA Digital ampliado nem uma infraestrutura de vigilância familiar. Ele cria uma política local de cuidado mínimo, regularização assistida e resposta proporcional a risco infantil materializável.
 ## 2. Nome do modelo
 
 Nome recomendado:
 
 **Responsabilidade Parental e Institucional Assistida com Piso Mínimo de Cuidado**
 
-Subtítulo técnico da versão 2.4.2:
+Subtítulo técnico:
 
 **Modelo de Responsabilidade Parental e Institucional Assistida com Piso Mínimo de Cuidado, Gestão Proporcional de Risco Infantil, Regularização Assistida e Fiscalização Sentinela.**
 
@@ -92,13 +79,13 @@ Terceiro, a **confusão entre pobreza e negligência**. Famílias vulneráveis p
 
 Quarto, a **responsabilidade institucional difusa**. Crianças circulam por escolas, creches, transporte, parques, clubes, instituições religiosas, contraturno, atividades esportivas e ambientes digitais. Quando um espaço recebe crianças de forma previsível, assume deveres objetivos. O modelo evita concentrar toda a carga na família e incorpora responsabilidade institucional proporcional.
 
-Quinto, a **inviabilidade operacional de modelos maximalistas**. Uma política que tenta fiscalizar todos os lares, todas as escolas, todos os prestadores e todos os riscos cria uma burocracia mais cara que a solução material do problema. A versão 2.4.2 incorpora teto administrativo, economicidade protetiva, microauditorias, validação cruzada e fiscalização sentinela para tornar o modelo executável.
+Quinto, a **inviabilidade operacional de modelos maximalistas**. Uma política que tenta fiscalizar todos os lares, todas as escolas, todos os prestadores e todos os riscos cria uma burocracia mais cara que a solução material do problema. O modelo incorpora teto administrativo, economicidade protetiva, microauditorias, validação cruzada e fiscalização sentinela para se manter executável.
 
 ---
 
 ## 4. Tese central
 
-A tese da versão 2.4.2 pode ser formulada assim:
+A tese central pode ser formulada assim:
 
 > Crianças e adolescentes devem ser protegidos por um piso mínimo objetivo de cuidado, mas essa proteção não pode justificar vigilância doméstica generalizada, punição da pobreza, transferência indiscriminada de custos a terceiros inocentes ou construção de uma burocracia fiscalizatória mais cara que o próprio serviço público essencial. Pais, responsáveis e instituições infantis possuem deveres próprios. O Estado deve apoiar, capacitar, universalizar serviços básicos quando for mais eficiente, intervir por gatilhos objetivos, responsabilizar quem recusa, frauda ou reincide, e agir imediatamente diante de risco grave. A coerção deve ser proporcional, auditável e limitada ao necessário.
 
@@ -117,9 +104,9 @@ Essa tese combina dez elementos:
 
 ---
 
-## 5. Arquitetura modular da versão 2.4.2
+## 5. Arquitetura modular do modelo
 
-A versão 2.4.2 deve ser lida em cinco camadas.
+O modelo organiza-se em cinco camadas.
 
 **Camada 1 — Núcleo conceitual e jurídico.** Define responsabilidade parental e institucional, piso mínimo, proporcionalidade, teste pobreza-negligência, economicidade protetiva e garantias contra abuso estatal.
 
@@ -179,17 +166,13 @@ Formulação:
 
 ### 6.7. Não assimilação ao regime digital
 
-Este modelo não constitui extensão, réplica ou ampliação do Estatuto Digital da Criança e do Adolescente. Sua finalidade principal não é regular plataformas, impor identificação digital, monitorar comunicações, vigiar famílias ou controlar a vida online de crianças e responsáveis. O modelo trata de gestão proporcional de risco infantil em ambientes de cuidado, com prioridade para assistência, regularização assistida, redução de riscos materiais, proteção contra negligência grave e resposta emergencial. O componente digital é apenas um domínio auxiliar de cuidado, limitado à orientação, apoio técnico e mitigação de risco concreto.
-
-Cláusula:
-
 > Este modelo não constitui extensão, réplica ou ampliação do Estatuto Digital da Criança e do Adolescente. O componente digital presente neste modelo é domínio auxiliar de cuidado — limitado à orientação familiar, apoio técnico e mitigação de risco concreto —, não eixo organizador do sistema nem instrumento de vigilância, identificação digital ou controle de plataformas. O modelo trata de gestão proporcional de risco infantil em ambientes reais de cuidado: família, escola, microprestadores, transporte e instituições locais.
 
 ---
 
 ## 7. Matriz de Densidade Normativa
 
-A versão 2.4.2 substitui a lista uniforme de deveres por uma **Matriz de Densidade Normativa**. Nem todo dever possui o mesmo grau de exigibilidade. Nem todo item pode gerar sanção. Nem todo sinal autoriza visita. O modelo opera por camadas.
+O modelo substitui a lista uniforme de deveres por uma **Matriz de Densidade Normativa**. Nem todo dever possui o mesmo grau de exigibilidade. Nem todo item pode gerar sanção. Nem todo sinal autoriza visita. O modelo opera por camadas.
 
 | Camada | Natureza | Exemplos | Consequência |
 |---|---|---|---|
@@ -356,7 +339,6 @@ Fórmula:
 
 ---
 
-
 ## 12. Medidas corretivas, educativas e assistenciais
 
 O princípio de assistência antes da punição precisa aparecer em medidas concretas. A resposta estatal prioritária diante de falhas corrigíveis deve aumentar a capacidade real da família de cumprir o piso mínimo de cuidado. O objetivo não é apenas registrar a falha, mas remover ou reduzir a causa que produz risco para a criança.
@@ -507,7 +489,6 @@ A visita não deve ser:
 
 ---
 
-
 ## 16. Protocolo de Segurança Operacional, Triagem Pré-Visita e Equipes Modulares
 
 As visitas domiciliares e atendimentos de campo exigem protocolo próprio. O modelo não pode depender da intuição do agente, nem transformar nervosismo, pobreza, trauma ou baixa escolaridade em indício de culpa. A avaliação correta é de **risco operacional da intervenção**, não de valor moral da família.
@@ -604,7 +585,6 @@ A linguagem do Estado deve ser compreensível para a família. O agente deverá 
 
 A família não deve ser tratada como resistente apenas porque não compreende linguagem técnica.
 
-
 ## 17. Bodycams e Escada Probatória de Intrusão Mínima
 
 O registro audiovisual de visita domiciliar continua facultativo por regra geral. A residência é espaço de intimidade reforçada.
@@ -613,7 +593,7 @@ A bodycam somente poderá ser usada com consentimento livre, prévio, informado,
 
 A recusa ao uso de bodycam não poderá ser interpretada como culpa, negligência, má-fé, resistência, ocultação ou falta de cooperação.
 
-Contudo, a versão 2.4.2 incorpora uma regra adicional:
+Regra adicional:
 
 > A recusa à bodycam não prejudica a família, mas pode alterar o modo, o local e o grau de formalidade da intervenção quando houver risco operacional elevado.
 
@@ -677,7 +657,6 @@ Quando houver tratamento em escala, cruzamento de bases, inferência de risco, i
 A regra técnica deve ser: quanto mais sensível o dado, menor sua circulação; quanto maior o risco de abuso, maior o controle externo; quanto menor a necessidade operacional, menor a retenção.
 
 ---
-
 
 ## 19. Cláusula de emergência e Protocolo de Resposta Protetiva Imediata
 
@@ -785,7 +764,6 @@ Em suspeita de violência sexual, violência doméstica grave ou criança testem
 **URPI-N3 — alta capacidade.** Usa central digital, equipe móvel, integração com SAMU, georreferenciamento, painel de indicadores, auditoria antiviés, protocolos especializados de escuta e resposta regionalizada.
 
 A implementação deve começar pelo nível compatível com a capacidade municipal. A ausência de estrutura N3 não justifica omissão em N1.
-
 
 ### 19.9. Cartão operacional da Chave 1
 
@@ -928,7 +906,6 @@ Regra:
 
 ---
 
-
 ## 24. Escala de sanções institucionais e cláusula anti-chantagem
 
 A responsabilidade institucional deve ser progressiva, exceto diante de risco grave ou iminente. A finalidade da sanção é corrigir o risco, responsabilizar o controlador e proteger a criança, não agravar a precariedade do serviço.
@@ -986,7 +963,6 @@ Instrumentos:
 - consultoria contábil simplificada;
 - decisão motivada de não interdição.
 
-
 ### 25.1. Janela de adesão voluntária protegida
 
 O piloto deverá começar por janela pública de adesão voluntária, preferencialmente entre 60 e 120 dias, denominada **Período de Cadastro Assistido sem Sanção Inicial** ou expressão equivalente.
@@ -1042,7 +1018,6 @@ Essa assimetria não é prêmio à irregularidade. É estratégia de redução d
 A regra:
 
 > Pequenos prestadores recebem rampa de formalização, não dispensa de segurança essencial.
-
 
 ### 25.7. Neutralização do prêmio da clandestinidade
 
@@ -1109,7 +1084,7 @@ Podem ser objeto de prazo e apoio:
 
 ## 27. Cadastro de Regularização Assistida com Decisão Motivada de Não Interdição
 
-A versão 2.4.2 elimina a expressão “licença provisória”.
+A expressão “licença provisória” é substituída.
 
 O instrumento correto é:
 
@@ -1129,7 +1104,6 @@ Esse instrumento não autoriza funcionamento precário. Ele registra que:
 Cláusula:
 
 > O regime de regularização assistida não constitui licença provisória, alvará definitivo, certificação de segurança ou autorização plena. Trata-se de instrumento excepcional de transição regulatória destinado a microprestadores locais, limitado a hipóteses em que não tenha sido identificado risco crítico imediato à criança.
-
 
 ### 27.1. Relatório Técnico de Triagem e Transição Assistida — RTTA
 
@@ -1245,8 +1219,6 @@ O agente de campo não responderá individualmente por decisão administrativa d
 
 Essa regra não impede controle externo, responsabilização do Estado ou apuração administrativa. Ela apenas afasta a personalização indevida da decisão quando o servidor cumpriu o procedimento, registrou limites e não extrapolou sua competência.
 
-
-
 ### 27.10. Uso limitado do RTTA perante controle externo e instrumentos de ajuste
 
 O RTTA não poderá ser convertido, por termo de ajustamento de conduta, recomendação administrativa, despacho judicial, relatório ministerial, contrato ou ato interno, em laudo de conformidade plena. Sua natureza deve permanecer limitada: triagem inicial, constatação de risco aparente, restrição provisória, plano de adequação e decisão motivada de não interdição imediata.
@@ -1305,7 +1277,6 @@ Cláusula:
 > O subsídio regulatório ao microprestador será preferencialmente in natura, por pagamento direto a fornecedores credenciados, capacitação gratuita, seguro coletivo, voucher de adequação ou assistência técnica, vedado seu uso como transferência livre de receita ou cobertura de lucro operacional.
 
 Para evitar clientelismo, a concessão do subsídio deve observar critérios públicos, fila auditável, prioridade por risco e vulnerabilidade, proibição de uso eleitoral e controle externo.
-
 
 ### 29.1. Fase inicial preferencialmente imaterial
 
@@ -1514,7 +1485,6 @@ Mensagem simples:
 
 > Sua criança usa este serviço? Envie o código para o canal oficial e receba avisos. O prestador não verá seu nome.
 
-
 ### 37.1. Cadastro Reverso Analógico-Assistido
 
 Em municípios de baixa capacidade, o Cadastro Reverso de Vínculo funcionará prioritariamente por validação assistida presencial ou institucional, mediante escola, UBS, CRAS, CREAS, Conselho Tutelar, agente comunitário, posto público designado ou busca ativa territorial. A confirmação digital direta pela família será meio complementar, nunca condição de acesso, proteção ou validade do vínculo.
@@ -1584,7 +1554,6 @@ Sistemas de saúde não devem ser usados como fonte de prontuário para fiscaliz
 Cláusula:
 
 > A indisponibilidade de base federal não impedirá a coleta de sinais, a confirmação assistida, o envio de alertas públicos ou a triagem por risco grave. Apenas impedirá a elevação automática de confiança por integração federada.
-
 
 ### 39.4. Comando intersetorial mínimo e vedação à LGPD como escudo de inércia
 
@@ -1846,7 +1815,6 @@ Podem ser adotados, conforme risco:
 
 ---
 
-
 ## 51. Anexo setorial escolar ampliado
 
 As seções escolares do modelo devem ser lidas como anexo setorial. Elas não transformam todos os itens em obrigações universais imediatas. Cada exigência dependerá de porte, risco, território, idade atendida, norma técnica, capacidade institucional e plano progressivo de adequação.
@@ -1990,7 +1958,6 @@ Medidas universais de identificação de adultos devem ser excepcionais, necess�
 
 ---
 
-
 ## 56. Implementação por pilotos
 
 O modelo não deve ser implementado nacionalmente em escala plena sem piloto. O primeiro piloto deve testar o núcleo menos intrusivo e mais administrativamente viável: microprestadores infantis, status operacional simples, validação assistida de vínculos e resposta emergencial por protocolo.
@@ -2079,7 +2046,6 @@ A regra é:
 
 > O município pequeno deve entregar proteção proporcional à sua capacidade, não simular infraestrutura de capital.
 
-
 ### 56.5. Engenharia jurídica tripartite de implementação
 
 O piloto inaugural deverá ser empacotado em três peças, para equilibrar velocidade, segurança jurídica e controle político.
@@ -2133,7 +2099,6 @@ Cláusula:
 > Durante os primeiros quinze dias do piloto, a coordenação central deverá operar em regime de prioridade administrativa, com autoridade expressa para articular secretarias, consolidar dados mínimos, cobrar entregas e resolver conflitos operacionais. A ausência de coordenação exclusiva nessa fase poderá comprometer a linha de base, a janela de adesão voluntária, o treinamento da Chave 1 e a credibilidade do Código Vermelho.
 
 ---
-
 
 ## 57. Métricas de avaliação
 
@@ -2213,7 +2178,7 @@ Critério de continuidade:
 
 ## 58. Desenho institucional recomendado
 
-A versão 2.4.2 não cria uma nova polícia familiar, nem exige novos órgãos físicos como condição de implementação. Ela recomenda organização funcional com separação entre apoio, proteção, dados, regularização, resposta emergencial e controle externo. Núcleos e unidades devem ser entendidos, prioritariamente, como funções, protocolos, fluxos de trabalho e responsabilidades atribuíveis a órgãos já existentes.
+O modelo não cria uma nova polícia familiar, nem exige novos órgãos físicos como condição de implementação. Ela recomenda organização funcional com separação entre apoio, proteção, dados, regularização, resposta emergencial e controle externo. Núcleos e unidades devem ser entendidos, prioritariamente, como funções, protocolos, fluxos de trabalho e responsabilidades atribuíveis a órgãos já existentes.
 
 ### 58.1. Entrada universal não estigmatizante
 
@@ -2254,7 +2219,6 @@ Essa função não deve acumular funções acusatórias ordinárias, para reduzi
 
 Responsável por microprestadores, planos de adequação, subsídio regulatório, fundo mutualista, credenciamento técnico, sinalização pública e decisão motivada de não interdição.
 
-
 ### 58.6. Função de Resposta Protetiva Imediata
 
 Responsável por acionar e coordenar o Protocolo de Resposta Protetiva Imediata em risco vermelho, perigo grave ou iminente e situações em que a espera administrativa possa agravar dano à criança.
@@ -2290,7 +2254,6 @@ Estados devem apoiar coordenação regional, formação de equipes, sistemas de 
 Municípios devem executar a maior parte da busca ativa, apoio familiar, CRAS, CREAS, UBS, escolas municipais, regularização local de microprestadores, consulta assistida, status operacional territorial e fiscalização administrativa proporcional.
 
 O desenho federativo deve evitar dois erros: exigir do município pequeno uma estrutura incompatível com sua capacidade e concentrar na União dados nominais desnecessários de crianças e famílias. A regra deve ser cooperação federativa com minimização de dados e execução territorial.
-
 
 ### 58.9. Matriz de Maturidade Municipal
 
@@ -2339,7 +2302,6 @@ A família deve ter direito a:
 - revisão judicial quando houver restrição relevante de direitos.
 
 ---
-
 
 ## 60. Garantias contra abuso estatal
 
@@ -2423,7 +2385,6 @@ Bodycams, fotos, gravações, relatórios e dados digitais não substituem devid
 
 > A fiscalização observará modelo sentinela de baixo custo, combinando sorteio, ciclos periódicos e priorização por risco. Sinais familiares, divergências cadastrais, dados agregados ou denúncias elevarão a probabilidade de seleção, sem revelar a fonte específica ao prestador, salvo determinação legal ou judicial.
 
-
 ### 61.9. RTTA
 
 > A decisão de não interdição imediata em regime de regularização assistida deverá ser instruída por Relatório Técnico de Triagem e Transição Assistida, quando aplicável, com escopo limitado, classificação de risco, restrições operacionais, prazos escalonados, responsabilidade do prestador, pontos que exigem especialista, gatilhos de caducidade e decisão motivada da autoridade competente. O RTTA não constitui licença, alvará, laudo de segurança, certificação ou garantia estatal de ausência de acidentes.
@@ -2448,7 +2409,6 @@ Bodycams, fotos, gravações, relatórios e dados digitais não substituem devid
 
 > Penalidades devem atingir o responsável pelo risco, não a criança. Se a sanção ameaçar serviço essencial, o Estado poderá garantir provisoriamente a continuidade por meios diretos e recuperáveis, preservando integralmente a obrigação de ressarcimento, correção e responsabilização do infrator.
 
-
 ### 61.15. Pacote jurídico tripartite
 
 > A implementação do piloto poderá ocorrer por decreto municipal, portaria intersecretarial e projeto de lei municipal curto. O decreto instituirá o piloto e seus fluxos administrativos; a portaria disciplinará anexos operacionais e formulários; a lei curta autorizará fomento condicionado, fundo, voucher, isenções, sanções específicas, status obrigatório perante particulares e tratamento intersetorial estruturado de dados quando necessário. A lei ampla somente será recomendada após avaliação do piloto.
@@ -2470,7 +2430,6 @@ Bodycams, fotos, gravações, relatórios e dados digitais não substituem devid
 > O rebaixamento ou desmobilização do Código Vermelho libera órgãos emergenciais desnecessários, mas não arquiva automaticamente a ocorrência. Havendo vulnerabilidade residual, crise neurodivergente, sofrimento psíquico, conflito doméstico, suspeita ambígua, risco social ou possibilidade de manipulação da cena por agressor, o caso permanecerá referenciado na assistência social, saúde, escola, Conselho Tutelar ou serviço competente, com revisão em até 24 horas e acompanhamento proporcional.
 
 ---
-
 
 ## 62. Anexo de casos de aplicação prática
 
@@ -2593,7 +2552,6 @@ Resposta:
 4. alternativa emergencial para crianças, se necessário;
 5. responsabilização do operador em caso de fraude, reincidência ou risco grave.
 
-
 ### 62.10. Adesão voluntária de cuidadora comunitária
 
 Situação: cuidadora do bairro atende crianças em casa, sem cadastro formal, mas procura o município durante a janela de adesão voluntária.
@@ -2651,8 +2609,6 @@ Resposta:
 5. revisão em 24 horas;
 6. preservação do registro para calibragem do protocolo, sem punição automática da família;
 7. vedação de arquivamento social automático quando a normalidade aparente puder decorrer de medo, coerção, manipulação da cena ou desconhecimento técnico da primeira equipe.
-
-
 
 ### 62.14. Prêmio da clandestinidade
 
@@ -2743,7 +2699,7 @@ Sim. O modelo respeita estilos razoáveis acima do piso mínimo. A liberdade par
 
 ### 63.7. “O Estado não tem capacidade para isso.”
 
-Por isso a versão 2.4.2 usa pilotos, economicidade protetiva, teto administrativo, fiscalização sentinela, microauditorias, validação cruzada e preferência por serviço universal quando ele for mais barato que fiscalizar caso a caso.
+Por isso o modelo usa pilotos, economicidade protetiva, teto administrativo, fiscalização sentinela, microauditorias, validação cruzada e preferência por serviço universal quando ele for mais barato que fiscalizar caso a caso.
 
 ### 63.8. “Busca ativa pode virar fiscalização disfarçada.”
 
@@ -2764,7 +2720,6 @@ Medidas de segurança escolar são contextuais, proporcionais e subordinadas ao 
 ### 63.12. “Sanções contra instituições podem prejudicar crianças.”
 
 A sanção deve atingir controlador do risco, não criança. Se a penalidade ameaça serviço essencial, o Estado pode garantir continuidade de forma recuperável, com sub-rogação, bloqueio de recebíveis e cobrança posterior.
-
 
 ## 64. O que o modelo não defende
 
@@ -2814,33 +2769,9 @@ O modelo defende:
 
 ---
 
-## 65. Maturidade do modelo e uso recomendado
+## 65. Referências normativas e técnicas
 
-Este documento deve ser lido como modelo-base de política pública e desenho institucional. Ele não substitui minuta legislativa, estudo de impacto orçamentário, relatório de impacto à proteção de dados, regulamentação setorial, análise federativa ou consulta pública.
-
-O uso recomendado é modular. O núcleo conceitual deve orientar princípios, matriz de risco, garantias e linguagem institucional. Os anexos setoriais devem ser convertidos em protocolos próprios apenas quando houver capacidade administrativa, orçamento, órgão responsável, controle externo e métrica de resultado.
-
-Antes de expansão ampla, cada módulo deverá demonstrar:
-
-- melhora verificável de proteção infantil;
-- custo administrativo justificável;
-- baixa taxa de falso positivo;
-- ausência de viés sistemático contra famílias pobres ou prestadores comunitários;
-- proteção efetiva de dados;
-- canal de reclamação funcional;
-- revisão independente;
-- comparação com alternativa menos invasiva ou com serviço universal direto.
-
-A maturidade institucional do modelo não será medida pelo número de cadastros, visitas, denúncias, vistorias ou sanções, mas pela redução de riscos reais com o menor grau possível de intrusão, custo, estigma e arbitrariedade.
-
----
-
-
-## 66. Referências normativas e técnicas indicativas
-
-Este documento é uma formulação conceitual e não substitui análise jurídica específica. A implementação deverá observar a Constituição Federal, o Estatuto da Criança e do Adolescente, a Lei Geral de Proteção de Dados, a Lei de Acesso à Informação, a Lei de Governo Digital, a legislação educacional, sanitária, assistencial, penal, processual, de trânsito, acessibilidade, contratação pública, defesa do consumidor, proteção digital e normas técnicas aplicáveis.
-
-Referências indicativas para regulamentação:
+A implementação deverá observar a Constituição Federal, o Estatuto da Criança e do Adolescente, a Lei Geral de Proteção de Dados, a Lei de Acesso à Informação, a Lei de Governo Digital, a legislação educacional, sanitária, assistencial, penal, processual, de trânsito, acessibilidade, contratação pública, defesa do consumidor, proteção digital e normas técnicas aplicáveis.
 
 - Constituição Federal de 1988, especialmente dignidade da pessoa humana, direitos fundamentais, inviolabilidade domiciliar, devido processo, proteção integral, prioridade absoluta, saúde, educação, assistência social, competências federativas e responsabilidade estatal;
 - Estatuto da Criança e do Adolescente — Lei nº 8.069/1990;
@@ -2872,14 +2803,13 @@ Referências indicativas para regulamentação:
 - normas sanitárias, assistenciais, educacionais, de engenharia, acessibilidade, segurança contra incêndio, defesa civil, vigilância sanitária e proteção infantil;
 - normas técnicas do sistema Confea/Crea, CAU, Corpo de Bombeiros, vigilância sanitária, transporte, acessibilidade e segurança aplicáveis a cada setor.
 
-A lista é indicativa. A implementação local deverá verificar legislação estadual, municipal, resoluções de conselhos, atos administrativos, jurisprudência vinculante, normas técnicas vigentes e competências específicas do órgão executor.
+A implementação local deverá verificar legislação estadual, municipal, resoluções de conselhos, atos administrativos, jurisprudência vinculante, normas técnicas vigentes e competências específicas do órgão executor.
 
 ---
 
+## 66. Síntese final
 
-## 67. Síntese final
-
-A versão 2.4.2 transforma o modelo em uma política pública executável de proteção infantil.
+O modelo organiza uma política pública executável de proteção infantil.
 
 Sua fórmula é:
 
