@@ -25,6 +25,8 @@ Para prevenir captura comunitária, política, religiosa ou econômica, o modelo
 
 A implementação deve ser fatiada por competência: decreto para instituir e testar o piloto, portaria para anexos operacionais e projeto de lei curto apenas para matérias que exigem base legal robusta, como fomento material, fundo, voucher, isenções, sanções específicas, status obrigatório perante particulares ou tratamento intersetorial estruturado de dados. O documento completo é a arquitetura-mãe; o piloto inaugural deve começar por escopo reduzido.
 
+Para leitura rápida do núcleo executável, deve-se utilizar a seção 1.7, que resume em linguagem operacional o problema, a solução, o que entra primeiro, o que fica fora do primeiro ciclo e quais critérios permitem expandir, corrigir ou suspender o piloto.
+
 ### 1.1. Como ler e implementar este documento
 
 Este documento é uma arquitetura completa de política pública. Ele não deve ser implementado integralmente no primeiro ciclo. Sua leitura e execução devem observar quatro camadas internas.
@@ -75,6 +77,35 @@ A regra geral é progressiva: primeiro tornar visível a rede informal de cuidad
 Este projeto protege crianças atendidas por redes informais de cuidado sem destruir a economia comunitária que sustenta famílias trabalhadoras. O Município não pretende fiscalizar estilos familiares nem punir pobreza. Pretende identificar riscos materiais, apoiar correções possíveis, impedir acidentes graves, dar informação clara às famílias, formalizar pequenos prestadores e bloquear o uso político da fila de proteção infantil.
 
 A fórmula pública do modelo é: **regularizar sem destruir, proteger sem invadir, apoiar antes de punir, punir quem explora risco e impedir que a proteção infantil vire moeda política.**
+
+
+### 1.7. Leitura em 10 minutos: núcleo executável do modelo
+
+Esta seção resume a versão executável do projeto para prefeito, secretário, vereador, Ministério Público, Conselho Tutelar, imprensa, famílias e microprestadores. Ela não substitui o documento completo; serve como porta de entrada para a implantação inicial.
+
+**Problema.** O município convive com crianças atendidas por redes informais de cuidado: cuidadoras comunitárias, microcreches, contraturnos, pequenos transportadores e espaços locais sem plena regularização. Ignorar essa rede mantém crianças invisíveis. Fechá-la por choque repressivo pode deixar famílias sem cuidado infantil e empurrar prestadores para a clandestinidade.
+
+**Solução.** O município cria uma rampa de regularização assistida. O prestador aparece, é triado, recebe limites operacionais, passa a ter status público simples, neutraliza riscos críticos e entra em plano de adequação. A família ganha informação. O prestador ganha orientação. A criança ganha redução imediata de exposição ao risco.
+
+**Piloto inaugural.** A primeira fase começa por três entregas: regularização assistida de microprestadores, status operacional simples com consulta assistida e validação de vínculos pela rede já instalada. Escola, UBS, CRAS, CREAS, Conselho Tutelar e agentes comunitários ajudam a confirmar a existência do serviço e orientar famílias, sem criar fiscalização doméstica universal.
+
+**O que não será feito no primeiro ciclo.** O piloto inaugural não fará cadastro geral de famílias, não fiscalizará estilos parentais, não realizará visitas domiciliares universais, não implantará plataforma digital obrigatória, não exigirá conta digital qualificada, não distribuirá bens físicos sem base legal, não usará voluntários em contato domiciliar sensível e não tratará status operacional como selo de qualidade.
+
+**Instrumentos mínimos.** A execução inicial exige ficha de adesão, relatório de triagem limitada, termo de ciência do prestador, status operacional simples, consulta assistida, cartão de resposta emergencial, matriz mínima de dados, relatório mensal e métrica simples de captura da fila.
+
+**Resposta a risco grave.** Diante de perigo atual, a rede aciona o órgão materialmente competente: segurança quando houver violência, ameaça, arma, crime ou necessidade de acesso seguro; saúde quando houver lesão, intoxicação, crise ou desidratação; assistência e proteção quando houver abandono, ausência de adulto apto ou necessidade de acolhimento emergencial. Vulnerabilidade social sem perigo físico atual não vira caso policial por falta de CRAS ou Conselho Tutelar.
+
+**Proteção contra captura.** Nenhum vereador, liderança, igreja, associação, empresa, voluntário ou intermediário controla fila, indica beneficiário, acessa dados nominais ou define quem recebe apoio. A participação social escolhe prioridades e ajuda na execução; a decisão sensível permanece pública, motivada e auditável.
+
+**Critério de sucesso.** O piloto deve mostrar que mais prestadores informais ficaram visíveis, que riscos críticos foram neutralizados rapidamente, que as famílias conseguem consultar status, que o custo administrativo é proporcional, que não houve policialização da pobreza, que dados foram protegidos e que a fila não foi capturada por intermediários.
+
+**Critério de parada.** O piloto deve ser corrigido, pausado ou suspenso se produzir abuso estatal, vazamento grave de dados, captura política da fila, uso recorrente da polícia para demandas sociais, acolhimento emergencial prolongado fora do fluxo legal, custo administrativo desproporcional ou fechamento de serviço sem continuidade infantil mínima.
+
+### 1.8. Salvaguardas comuns e linguagem executiva
+
+Em todos os módulos aplicam-se as mesmas salvaguardas-mãe: não punição da pobreza isolada, não privatização da coerção, proteção de dados, direito de contestação, fila auditável, neutralização da exposição a risco grave, vedação de intermediação obrigatória, controle externo e continuidade infantil antes de fechamento abrupto.
+
+Na comunicação pública e na leitura executiva, os nomes técnicos devem ser traduzidos para linguagem simples. RTTA pode ser apresentado como relatório de triagem limitada; TEPE como termo de entrega protetiva emergencial; ICO como alerta simples contra captura da fila. Expressões operacionais como bypass originário, Envelope 3, Chave 1, URPI-N1 ou matriz de confiança devem permanecer nos protocolos técnicos, sem dominar a apresentação política do projeto.
 
 ## 2. Nome do modelo
 
@@ -618,9 +649,23 @@ A equipe deve ser proporcional à finalidade e ao risco.
 
 **Equipe excepcional:** equipe técnica com apoio policial ou segurança armada apenas diante de risco grave, ameaça concreta, flagrante, ordem judicial ou proteção urgente da criança ou dos profissionais.
 
-### 16.5. Treinamento obrigatório
+### 16.5. Treinamento obrigatório em dois níveis
 
-Todos os profissionais que participem de visitas, checagens ou atendimentos de campo deverão receber treinamento em:
+O treinamento será escalonado para não impedir o arranque do piloto em municípios de baixa capacidade. A formação mínima deve permitir início seguro; a formação ampliada deve ser exigida de quem executará atos técnicos, visitas, RTTA, reavaliações ou respostas de maior sensibilidade.
+
+**Treinamento mínimo de arranque — 2 a 4 horas.** Destinado às portas de entrada: escola, UBS, CRAS, CREAS, agentes comunitários, recepção institucional, transporte escolar, Conselho Tutelar quando possível e gestores locais. Conteúdo mínimo:
+
+- tese do piloto e escopo negativo;
+- pobreza versus negligência;
+- quando orientar, registrar ou acionar;
+- cartão do Código Vermelho;
+- diferença entre risco policial, médico, tutelar, institucional e social grave;
+- consulta assistida de status;
+- proteção básica de dados;
+- vedação de intermediação política, religiosa ou econômica;
+- registro mínimo de ocorrência e encaminhamento.
+
+**Formação técnica ampliada.** Destinada a equipes que farão visitas, checagens, RTTA, reavaliações, Porta 93, análise de dados, fiscalização sentinela, quarentena de atos capturados ou resposta protetiva. Conteúdo recomendado:
 
 - segurança em visita domiciliar;
 - leitura de ambiente;
@@ -638,7 +683,12 @@ Todos os profissionais que participem de visitas, checagens ou atendimentos de c
 - pobreza versus negligência;
 - trauma e neurodivergência;
 - viés de classe, raça, religião e estrutura familiar;
-- linguagem simples e adaptação comunicacional.
+- linguagem simples e adaptação comunicacional;
+- preenchimento de RTTA, TEPE, relatório de reavaliação e registros de status;
+- critérios de neutralização de exposição ao risco;
+- prevenção de captura territorial e uso do ICO.
+
+A ausência de formação ampliada não impede ações mínimas de orientação, consulta assistida e acionamento emergencial por portas de entrada capacitadas no treinamento de arranque. Ela impede apenas atos técnicos sensíveis que exijam competência, supervisão ou responsabilidade específica.
 
 ### 16.6. Contextualização familiar
 
@@ -879,6 +929,8 @@ A Porta 93 não cria nova hipótese de acolhimento, não substitui decisão judi
 A Porta 93 somente será usada quando não houver responsável legal seguro, familiar apto ou adulto de referência confiável, e quando a permanência da criança no local, em viatura, delegacia, hospital sem indicação clínica, via pública ou residência insegura representar risco maior. O Município deverá buscar pactuação prévia com Conselho Tutelar, Ministério Público, Judiciário, serviços de acolhimento e, quando cabível, segurança pública, para padronizar o uso do TEPE.
 
 A Porta 93 operacionaliza o acolhimento excepcional e urgente por serviço de acolhimento institucional próprio, contratado, conveniado, regional ou pactuado, com comunicação obrigatória em até 24 horas à autoridade judiciária competente, ao Conselho Tutelar, ao Ministério Público e ao órgão municipal responsável.
+
+A permanência por Porta 93 deverá durar apenas o tempo estritamente necessário à assunção pelo fluxo ordinário, à entrega a responsável apto ou à ratificação pela autoridade competente, vedada sua conversão em acolhimento prolongado sem o procedimento legal aplicável.
 
 O recebimento emergencial será documentado por **Termo de Entrega Protetiva Emergencial — TEPE**, assinado pelo órgão ou agente entregador e pelo responsável pelo serviço de acolhimento, com registro mínimo de data, hora, local de origem, identificação disponível da criança, motivo da entrega, risco constatado, órgãos acionados, tentativa de contato com Conselho Tutelar, estado aparente da criança e providências imediatas.
 
@@ -2500,8 +2552,27 @@ Critério de continuidade:
 
 > O programa só deve expandir se demonstrar melhora real de indicadores infantis, baixo índice de abuso estatal, tratamento adequado de incidentes de dados, custo justificável, ausência de viés sistemático contra famílias pobres ou prestadores comunitários e maior eficiência que alternativas menos invasivas ou mais universais.
 
+### 57.5. Matriz decisória do piloto
 
-### 57.5. Indicadores adicionais da camada de sobrevivência institucional
+A avaliação do piloto deverá produzir decisão administrativa expressa, e não apenas relatório descritivo. A autoridade competente deverá classificar o resultado em uma das seguintes saídas:
+
+| Resultado observado | Decisão recomendada | Consequência |
+|---|---|---|
+| metas mínimas cumpridas, sem falha crítica de dados, captura, abuso ou custo | expandir gradualmente | ativar nova fase ou novo território, mantendo escopo controlado |
+| avanço parcial com falhas corrigíveis | manter e corrigir | preservar piloto, ajustar formulário, treinamento, status, fila ou fluxo |
+| custo administrativo desproporcional | reduzir escopo | simplificar módulos, cortar rotinas caras e priorizar ações de maior impacto |
+| uso recorrente do 190 para vulnerabilidade social sem perigo físico atual | recalibrar Código Vermelho | refazer treinamento, cartão operacional e destinos materiais de acionamento |
+| alertas ICO laranja ou vermelho recorrentes | pausar governança local afetada | reforçar canal direto, fila cega, sorteio, rodízio e controle externo |
+| vazamento grave, acesso indevido ou tratamento de dados sem base suficiente | pausar módulo de dados | suspender integração, reduzir coleta e refazer matriz de dados |
+| Porta 93 usada como acolhimento prolongado ou sem comunicação tempestiva | suspender uso ordinário da Porta 93 até pactuação | corrigir protocolo, pactuar fluxo e reforçar comunicação às autoridades |
+| fechamento de microprestador sem continuidade infantil mínima | suspender expansão | revisar Envelope 3, plano de continuidade e critérios de interdição |
+| abuso estatal, punição da pobreza ou visita domiciliar indevida | suspender módulo sensível | apurar responsabilidade, retreinar equipes e reforçar controle externo |
+| risco crítico não neutralizado ou acidente grave ligado a falha do fluxo | suspender e redesenhar | bloquear expansão, revalidar RTTAs e revisar matriz de risco |
+
+A decisão de expandir, manter, corrigir, pausar ou suspender deverá ser motivada, publicada em versão agregada e acompanhada de plano de correção quando houver falha relevante.
+
+
+### 57.6. Indicadores adicionais da camada de sobrevivência institucional
 
 O piloto deverá monitorar, conforme capacidade local:
 
