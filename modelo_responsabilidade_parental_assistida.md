@@ -5,45 +5,77 @@
 
 ## 1. Resumo executivo
 
-O **Modelo de Responsabilidade Parental e Institucional Assistida com Piso Mínimo de Cuidado** propõe uma alternativa à falsa escolha entre omissão estatal diante da negligência infantil e expansão de um Estado fiscalizador da intimidade familiar. O modelo organiza uma política de **gestão proporcional de risco infantil**, e não um catálogo de virtudes parentais nem uma autorização para vigilância social ampla.
+O **Modelo de Responsabilidade Parental e Institucional Assistida com Piso Mínimo de Cuidado** propõe uma política municipal de proteção infantil proporcional, orientada por risco materializável e desenhada para escapar de dois extremos: omissão estatal diante de perigo concreto e expansão de vigilância doméstica sobre famílias vulneráveis.
 
-A tese central é que crianças e adolescentes possuem direito a um piso mínimo objetivo de cuidado físico, emocional, educacional, sanitário, ambiental, digital e institucional. Pais, mães, responsáveis legais e ambientes que recebem crianças assumem deveres próprios. O Estado deve apoiar, capacitar, corrigir e, quando necessário, responsabilizar. A intervenção estatal deve respeitar proporcionalidade, devido processo, proteção de dados, inviolabilidade domiciliar, distinção entre pobreza e negligência, e controle rigoroso dos custos administrativos.
+A tese central é que crianças e adolescentes possuem direito a um piso mínimo objetivo de cuidado físico, emocional, educacional, sanitário, ambiental, digital e institucional. Pais, responsáveis e ambientes que recebem crianças assumem deveres próprios. O Estado deve apoiar, capacitar, corrigir e, quando necessário, responsabilizar, sem confundir pobreza com negligência, sem transformar cuidado em controle moral e sem criar burocracia fiscalizatória mais cara que a solução material do problema.
 
-O modelo usa uma **Matriz de Densidade Normativa**, separando piso essencial obrigatório, indicadores de atenção, boas práticas recomendadas e medidas contextuais. Essa matriz impede que conceitos vagos, como “supervisão adequada”, “rotina mínima” ou “ambiente seguro”, sejam usados de forma subjetiva para punir famílias ou instituições.
+O eixo inicial do modelo é a **regularização assistida de microprestadores infantis**: cuidadoras comunitárias, microcreches, contraturnos, pequenos transportadores e espaços locais de cuidado. A proposta não romantiza a informalidade nem a destrói por choque repressivo. Ela cria uma rampa de entrada: cadastro assistido, RTTA, limites operacionais, status público simples, consulta assistida, validação de vínculos pela rede instalada, apoio técnico e fiscalização sentinela proporcional.
 
-O modelo incorpora o princípio de **economicidade protetiva**: se for mais barato, menos invasivo e mais eficaz universalizar creches, escolas, saúde básica, alimentação, apoio parental ou infraestrutura do que fiscalizar caso a caso, o Estado deve priorizar a oferta direta do serviço. O objetivo é impedir a criação de uma indústria de fiscalização que custe mais caro do que a solução material do problema.
+O **RTTA — Relatório Técnico de Triagem e Transição Assistida** é o instrumento de decisão motivada de não interdição imediata. Ele não é licença, alvará, laudo de segurança, selo de qualidade ou garantia estatal. Serve para registrar riscos aparentes, impor restrições, exigir neutralização imediata da exposição da criança ao perigo, definir prazos escalonados, indicar pendências técnicas e documentar por que a interdição abrupta, naquele momento, pode causar dano maior que a continuidade limitada e condicionada.
 
-Na dimensão institucional, crianças não podem ser punidas pelos erros de escolas, creches, transportadores, mantenedores ou gestores. Contudo, o Estado protege a criança, não o infrator. Qualquer custeio emergencial deve ocorrer por pagamento direto, fundo garantidor, caução, seguro, bloqueio de recebíveis, sub-rogação automática e ressarcimento posterior, sem resgate econômico livre de mantenedores privados ou gestores irresponsáveis.
+O modelo adota **Degradação Operacional Segura**. Quando o município não possui equipe, dinheiro, plantão, viatura, sistema digital, vaga, abrigo ou Conselho Tutelar responsivo, o fluxo não deve ser abandonado nem simulado. Ele degrada para o mínimo seguro: neutralizar exposição ao risco, registrar a decisão, acionar o órgão materialmente competente, impedir policialização da pobreza, preservar dados, evitar plantão informal e revisar posteriormente conforme a capacidade real.
 
-Para microprestadores locais — cuidadoras comunitárias, creches periféricas, contraturno informal, pequenos transportadores e iniciativas de bairro — o modelo cria um **Regime de Formalização Assistida**. Esse regime não reduz o núcleo indeclinável de segurança, mas substitui exigências financeiras uniformes por instrumentos proporcionais: microsseguro, fundo mutualista, vistoria simplificada, capacitação gratuita, subsídio regulatório, compras coletivas, apoio técnico e decisão motivada de não interdição quando não houver risco crítico imediato.
+Na emergência, o **Código Vermelho Protetivo** é classificado por natureza material: policial, médico, tutelar, institucional ou social grave. O objetivo é evitar que toda vulnerabilidade social vire caso de polícia. Quando uma criança retirada de risco não puder permanecer em local seguro e o fluxo ordinário falhar, o modelo prevê a **Porta 93 de Acolhimento Emergencial sem Guia Prévia**, documentada por **TEPE — Termo de Entrega Protetiva Emergencial**, com comunicação posterior obrigatória às autoridades competentes.
 
-O instrumento recomendado é o **Cadastro de Regularização Assistida com Decisão Motivada de Não Interdição**. O Estado não chancela funcionamento precário. Ele identifica o prestador, verifica riscos críticos, impõe limites, registra pendências e decide, de forma motivada, não interditar imediatamente quando a interdição abrupta causar dano maior às crianças e o núcleo indeclinável estiver preservado.
+A participação social é admitida por um **Ecossistema Plural de Cooperação Protetiva**. Voluntários, empresas, universidades, organizações sociais, comunidades e especialistas podem apoiar mutirões, capacitação, logística, consulta assistida, orientação técnica e fomento finalístico. Não podem exercer coerção, fiscalizar famílias de forma autônoma, acessar dados nominais, decidir risco, aplicar sanção, interditar ou substituir autoridade pública.
 
-O modelo também cria um **Sistema Público de Status Operacional Infantil**, com semáforo regulatório, símbolos, frases simples, QR Code dinâmico, número curto, foto da fachada, canal telefônico, SMS ou WhatsApp, e consulta assistida em equipamentos públicos. O objetivo é impedir que o prestador controle sozinho a narrativa sobre seu risco. O status público deve ser compreensível por famílias com baixa instrução e difícil de manipular.
+A execução territorial pode ser ajustada por **Autonomia Local Parametrizada**. Bairros, distritos ou territórios podem escolher meios, prioridades, linguagem pública, formas de cooperação e instrumentos complementares. Essa personalização não pode reduzir o piso mínimo infantil, punir pobreza, privatizar coerção, expor dados sensíveis, eliminar defesa, enfraquecer resposta a risco grave ou transformar maioria local em poder moral sobre famílias vulneráveis.
 
-Para quebrar a dependência da lista fornecida pelo próprio prestador, o modelo institui o **Cadastro Reverso de Vínculo**, permitindo que famílias confirmem que usam determinado serviço por SMS, WhatsApp, ligação, CRAS, UBS, escola, Conselho Tutelar, agente comunitário ou gov.br, quando possível. Esses sinais são classificados por uma **Matriz de Confiança Progressiva e Inclusiva**: sinais leves, médios, fortes digitais e fortes assistidos. A confirmação presencial em CRAS, UBS ou escola terá valor equivalente à confirmação digital forte, para evitar exclusão das famílias sem smartphone adequado, biometria funcional ou conta gov.br avançada.
+Para prevenir captura comunitária, política, religiosa ou econômica, o modelo institui fila cega, critérios públicos, canais diretos, vedação de intermediação obrigatória, **Índice de Captura Operacional — ICO**, quarentena de atos contaminados, revalidação técnica e plano de continuidade infantil. A comunidade escolhe prioridades; não escolhe quem merece proteção.
 
-A proteção de dados impede a criação de um mapa nominal da vulnerabilidade infantil. O município deve guardar, como regra, contagens agregadas, tokens pseudonimizados, níveis de confiança, datas de confirmação e logs. Nomes, rotinas, endereços residenciais, prontuários de saúde, renda e composição familiar detalhada somente poderão ser acessados em hipóteses excepcionais, justificadas e auditadas.
+A implementação deve ser fatiada por competência: decreto para instituir e testar o piloto, portaria para anexos operacionais e projeto de lei curto apenas para matérias que exigem base legal robusta, como fomento material, fundo, voucher, isenções, sanções específicas, status obrigatório perante particulares ou tratamento intersetorial estruturado de dados. O documento completo é a arquitetura-mãe; o piloto inaugural deve começar por escopo reduzido.
 
-A fiscalização deve operar por **Fiscalização Sentinela de Baixo Custo com Aleatoriedade Ponderada por Risco**. A fiscalização combina sorteio puro, ciclos periódicos e risco ponderado. Denúncias, divergências e sinais familiares aumentam a probabilidade de seleção para checagem, mas não geram batida automática, salvo risco grave ou iminente.
+### 1.1. Como ler e implementar este documento
 
-A execução municipal deve respeitar uma **Matriz de Maturidade Municipal**, diferenciando municípios de baixa, média e alta capacidade administrativa. Em municípios de baixa capacidade, a execução deve começar por fluxo analógico-assistido, uso de órgãos existentes, consulta presencial, escola, UBS, CRAS, Conselho Tutelar, agentes comunitários e protocolos simples. A infraestrutura digital completa é etapa posterior ou própria de municípios com maior capacidade institucional.
+Este documento é uma arquitetura completa de política pública. Ele não deve ser implementado integralmente no primeiro ciclo. Sua leitura e execução devem observar quatro camadas internas.
 
-O modelo substitui a criação de novos órgãos por **funções e protocolos atribuídos a estruturas existentes**. Núcleos, unidades e respostas emergenciais devem ser entendidos, prioritariamente, como competências funcionais, fluxos de trabalho, escalas de plantão, checklists e decisões motivadas, e não como novas secretarias, cargos ou equipamentos físicos.
+**Camada A — Doutrina do modelo.** Abrange fundamentos, princípios, matriz de risco, teste pobreza-negligência, economicidade protetiva, garantias contra abuso estatal, proteção de dados e limites da intervenção pública.
 
-Para microprestadores, a lógica é de **adesão voluntária protegida**, com janela inicial de cadastro assistido, separação entre triagem e punição, status de transição, limites operacionais provisórios e apoio técnico condicionado. O objetivo é criar incentivo racional para que cuidadoras comunitárias, microcreches, contraturnos e pequenos transportadores saiam da clandestinidade sem que o primeiro contato com o Estado produza multa, interdição automática ou destruição da economia local de cuidado.
+**Camada B — Piloto mínimo.** Abrange regularização assistida de microprestadores, RTTA, status operacional simples, consulta assistida, validação de vínculos pela rede instalada, Código Vermelho mínimo e ICO básico.
 
-A decisão de não interdição imediata é documentada por um **Relatório Técnico de Triagem e Transição Assistida — RTTA**, que não funciona como licença, alvará ou laudo de segurança. O RTTA registra escopo limitado da triagem, riscos críticos aparentes, restrições provisórias, prazos escalonados, responsabilidade do prestador, necessidade de avaliação especializada e decisão motivada da autoridade competente.
+**Camada C — Kit operacional.** Abrange ficha de adesão, RTTA, termo de ciência, cartão do Código Vermelho, matriz de dados, TEPE, formulário de status, protocolo de consulta assistida, formulário de reavaliação e relatório mensal.
 
-Na resposta emergencial, o **Protocolo de Resposta Protetiva Imediata** é acionável por Código Vermelho Protetivo. O protocolo usa dupla chave assimétrica: qualquer agente público capacitado pode reconhecer preliminarmente o risco vermelho, enquanto uma função de plantão coordena o acionamento dos órgãos competentes. O fluxo inclui bypass automático quando o coordenador não responde, regra antiempurra, acionamento simultâneo, desmobilização ou rebaixamento de falsos positivos e revisão obrigatória em 24 horas.
+**Camada D — Expansão progressiva.** Abrange fomento material robusto, fundo, voucher, integração digital avançada, voluntariado territorial ampliado, autonomia local aprofundada, módulos domésticos, supervisão digital assistida e auditorias mais complexas.
 
-O piloto deve ser avaliado por três métricas centrais: conversão segura da informalidade com base em linha de base documentada, tempo de proteção efetiva em Código Vermelho e execução proporcional, segura e auditável. O piloto não deve ser medido por número de multas, cadastros ou interdições, mas por redução verificável da invisibilidade, mitigação rápida de risco grave e governança sem abuso estatal, clientelismo, vazamento mal gerido, viés injustificado ou custo administrativo excessivo.
+A implementação inicial deverá começar pela Camada B. A Camada D somente será ativada após maturidade operacional, avaliação do piloto, pactuação institucional e base legal adequada.
 
-A implementação recomenda três peças: decreto do Executivo para instituir o piloto, portaria intersecretarial para anexos operacionais e projeto de lei municipal curto apenas para autorizar matérias que exigem base legal mais robusta, como fomento condicionado, fundo, voucher, sanções específicas, isenções, status obrigatório perante particulares e compartilhamento intersetorial estruturado de dados.
+### 1.2. Núcleo do piloto inaugural
 
-A proteção infantil deve ser concreta, proporcional e executável. O Estado deve universalizar o que for estrutural, apoiar o que for corrigível, responsabilizar quem recusa ou frauda, proteger imediatamente diante de risco grave e fiscalizar com inteligência de risco, não com vigilância generalizada.
+O piloto inaugural não executa todo o modelo. Ele começa por três entregas:
 
-O modelo não cria um ECA Digital ampliado nem uma infraestrutura de vigilância familiar. Ele cria uma política local de cuidado mínimo, regularização assistida e resposta proporcional a risco infantil materializável.
+1. regularização assistida de microprestadores infantis, com janela de adesão voluntária protegida, RTTA, limites operacionais e plano de adequação;
+2. status operacional simples, consulta assistida e linguagem pública compreensível, sem efeito de selo ou recomendação estatal;
+3. validação de vínculos pela rede instalada, especialmente escola, UBS, CRAS, CREAS, Conselho Tutelar e agentes comunitários.
+
+O Código Vermelho entra como protocolo mínimo de emergência. O risco doméstico parental amplo, a integração digital avançada, a fiscalização domiciliar complexa, o fomento material robusto e os módulos de autonomia local avançada ficam em fase posterior.
+
+### 1.3. Escopo negativo do piloto inaugural
+
+O piloto inaugural não realizará visitas domiciliares universais, não criará cadastro geral de famílias, não fiscalizará estilos parentais, não implantará plataforma digital obrigatória, não exigirá gov.br avançado, não distribuirá bens físicos sem base legal, não abrirá módulo amplo de risco doméstico, não usará voluntários para contato domiciliar sensível e não tratará o status operacional como recomendação pública de prestador.
+
+Também não deverá usar o componente digital como eixo organizador do piloto. A dimensão digital, quando presente na fase inicial, limitar-se-á a orientação, educação digital básica, consulta assistida, comunicação pública e apoio técnico simples.
+
+### 1.4. Regra de não ativação simultânea
+
+Nenhum município deverá ativar simultaneamente todos os módulos do modelo no piloto inaugural. A ativação simultânea de regularização assistida, fiscalização doméstica, fomento material, voluntariado territorial, autonomia local avançada, integração digital, status público obrigatório, Código Vermelho completo e anticaptura robusto será considerada implementação de alto risco, exigindo justificativa técnica, capacidade administrativa demonstrada, pactuação institucional e controle externo prévio.
+
+A regra geral é progressiva: primeiro tornar visível a rede informal de cuidado; depois neutralizar riscos críticos; em seguida consolidar status, dados e governança; por fim expandir módulos sensíveis.
+
+### 1.5. Mapa de ativação por fase
+
+| Fase | Módulos ativados | Módulos adiados ou condicionados |
+|---|---|---|
+| Fase 1 — 180 dias | microprestadores, RTTA, status simples, consulta assistida, validação pela rede, Código Vermelho mínimo, ICO básico | risco doméstico amplo, plataforma avançada, fomento material robusto, voluntariado domiciliar, sanções complexas |
+| Fase 2 — 6 a 12 meses | fomento material com base legal, fundo ou voucher, TEPE pactuado, auditoria de dados, expansão territorial limitada | visitas domiciliares amplas, integração federada complexa, autonomia local deliberativa |
+| Fase 3 — expansão controlada | transporte, evasão escolar, supervisão digital assistida, autonomia local ampliada, auditoria independente | módulos domésticos sensíveis sem defesa, dados e controle externo completos |
+| Fase 4 — maturidade | risco doméstico material grave com garantias completas, integração digital proporcional, indicadores robustos | qualquer módulo sem teste pobreza-negligência, proteção de dados, direito de defesa e controle externo |
+
+### 1.6. Exposição de motivos resumida
+
+Este projeto protege crianças atendidas por redes informais de cuidado sem destruir a economia comunitária que sustenta famílias trabalhadoras. O Município não pretende fiscalizar estilos familiares nem punir pobreza. Pretende identificar riscos materiais, apoiar correções possíveis, impedir acidentes graves, dar informação clara às famílias, formalizar pequenos prestadores e bloquear o uso político da fila de proteção infantil.
+
+A fórmula pública do modelo é: **regularizar sem destruir, proteger sem invadir, apoiar antes de punir, punir quem explora risco e impedir que a proteção infantil vire moeda política.**
+
 ## 2. Nome do modelo
 
 Nome recomendado:
@@ -89,7 +121,7 @@ A tese central pode ser formulada assim:
 
 > Crianças e adolescentes devem ser protegidos por um piso mínimo objetivo de cuidado, mas essa proteção não pode justificar vigilância doméstica generalizada, punição da pobreza, transferência indiscriminada de custos a terceiros inocentes ou construção de uma burocracia fiscalizatória mais cara que o próprio serviço público essencial. Pais, responsáveis e instituições infantis possuem deveres próprios. O Estado deve apoiar, capacitar, universalizar serviços básicos quando for mais eficiente, intervir por gatilhos objetivos, responsabilizar quem recusa, frauda ou reincide, e agir imediatamente diante de risco grave. A coerção deve ser proporcional, auditável e limitada ao necessário.
 
-Essa tese combina dez elementos:
+Essa tese combina dezesseis elementos:
 
 1. responsabilidade primária dos responsáveis legais;
 2. responsabilidade própria dos ambientes institucionais infantis;
@@ -99,26 +131,36 @@ Essa tese combina dez elementos:
 6. economicidade protetiva e controle do custo administrativo;
 7. intervenção baseada em gatilhos objetivos e matriz de risco;
 8. regularização assistida para microprestadores sem reduzir segurança essencial;
-9. proteção de dados familiares e infantis por minimização e pseudonimização;
-10. fiscalização sentinela, com aleatoriedade ponderada e resposta imediata a risco grave.
+9. neutralização imediata da exposição ao risco antes de exigência material definitiva;
+10. degradação operacional segura quando o município não tiver capacidade plena;
+11. proteção de dados familiares e infantis por minimização e pseudonimização;
+12. fiscalização sentinela, com aleatoriedade ponderada e resposta imediata a risco grave;
+13. cooperação plural de voluntários, empresas e comunidade sem privatização da coerção;
+14. autonomia local parametrizada sem redução do núcleo rígido de proteção infantil;
+15. prevenção de captura comunitária, política, religiosa ou econômica por fila cega, canais diretos e ICO;
+16. estratégia de implementação legislativa que autoriza o piloto sem transformar a fila em moeda política.
 
 ---
 
 ## 5. Arquitetura modular do modelo
 
-O modelo organiza-se em cinco camadas.
+O modelo organiza-se em sete camadas.
 
 **Camada 1 — Núcleo conceitual e jurídico.** Define responsabilidade parental e institucional, piso mínimo, proporcionalidade, teste pobreza-negligência, economicidade protetiva e garantias contra abuso estatal.
 
 **Camada 2 — Matriz operacional de risco.** Separa piso essencial, indicadores de atenção, boas práticas e medidas contextuais. Define gatilhos, níveis de intervenção e resposta emergencial.
 
-**Camada 3 — Regularização assistida.** Trata de microprestadores, decisão motivada de não interdição, garantias proporcionais, subsídio regulatório e núcleo indeclinável de segurança.
+**Camada 3 — Regularização assistida.** Trata de microprestadores, decisão motivada de não interdição, garantias proporcionais, subsídio regulatório, núcleo indeclinável de segurança, neutralização da exposição e RTTA.
 
 **Camada 4 — Informação pública e validação cruzada.** Institui status operacional, semáforo regulatório, Cadastro Reverso de Vínculo, confiança progressiva, proteção de dados e canais discretos de confirmação.
 
 **Camada 5 — Fiscalização e implementação.** Estabelece fiscalização sentinela, teto administrativo, pilotos, métricas, governança, controle externo e anexos setoriais.
 
-A estrutura modular reduz o risco de feature creep. O núcleo do modelo não deve se transformar em código predial, manual sanitário, estatuto de segurança pública, protocolo de transporte e lei digital ao mesmo tempo. Esses temas devem ser tratados em anexos setoriais, sempre subordinados ao princípio de cuidado mínimo objetivo, proporcionalidade e economicidade.
+**Camada 6 — Degradação operacional e resposta de crise.** Define como o modelo funciona quando faltam equipe, orçamento, plantão, viatura, abrigo, tecnologia ou resposta tutelar. Inclui N1-LRF, bypass originário, Porta 93, TEPE, taxonomia do Código Vermelho, regra do lugar seguro e plano de continuidade infantil.
+
+**Camada 7 — Governança plural, autonomia local e anticaptura.** Admite cooperação de voluntários, empresas, universidades, organizações sociais e comunidades, bem como personalização territorial, mas preserva coerção pública, dados protegidos, fila cega, controle contra intermediação política e Índice de Captura Operacional.
+
+A estrutura modular reduz o risco de feature creep. O núcleo do modelo não deve se transformar em código predial, manual sanitário, estatuto de segurança pública, protocolo de transporte, lei digital, estatuto de voluntariado e reforma administrativa ao mesmo tempo. Esses temas devem ser tratados em anexos setoriais, sempre subordinados ao princípio de cuidado mínimo objetivo, proporcionalidade, economicidade, proteção de dados, não punição da pobreza e controle contra captura.
 
 ---
 
@@ -167,6 +209,27 @@ Formulação:
 ### 6.7. Não assimilação ao regime digital
 
 > Este modelo não constitui extensão, réplica ou ampliação do Estatuto Digital da Criança e do Adolescente. O componente digital presente neste modelo é domínio auxiliar de cuidado — limitado à orientação familiar, apoio técnico e mitigação de risco concreto —, não eixo organizador do sistema nem instrumento de vigilância, identificação digital ou controle de plataformas. O modelo trata de gestão proporcional de risco infantil em ambientes reais de cuidado: família, escola, microprestadores, transporte e instituições locais.
+
+
+### 6.8. Degradação Operacional Segura
+
+O modelo não presume Estado perfeito. Quando o município não possuir capacidade fiscal, material, técnica, humana ou digital para executar o fluxo ideal, a política deverá degradar para um fluxo mais simples, mais restritivo, mais documentado e compatível com a capacidade real.
+
+A degradação operacional não autoriza omissão diante de risco grave. Também não autoriza promessa falsa de plantão, SLA, equipe móvel, voucher, fiscalização, tecnologia ou resposta contínua que o município não consegue sustentar. Onde não houver plantão formal, gratificação, escala legal ou disponibilidade funcional remunerada quando devida, não haverá sobreaviso informal por telefone pessoal, aplicativo de mensagem ou disponibilidade tácita.
+
+Formulação:
+
+> A insuficiência de capacidade municipal não afasta o dever de acionar a proteção possível, mas impede a simulação de capacidade inexistente. O fluxo degradado deve preservar o mínimo seguro: neutralizar exposição ao risco, registrar a decisão, acionar o órgão materialmente competente, proteger dados, evitar policialização da pobreza e revisar posteriormente a resposta.
+
+### 6.9. Responsabilidade compartilhada sem privatização da coerção
+
+A proteção infantil mínima é dever da família, da sociedade, das instituições e do Estado. O modelo pode admitir voluntários, empresas, universidades, organizações sociais, comunidades religiosas, associações e especialistas independentes como apoiadores, financiadores, orientadores ou avaliadores do piloto.
+
+Essa participação não autoriza privatização da coerção. Particulares podem apoiar famílias, capacitar microprestadores, doar bens finalísticos, oferecer conhecimento técnico, participar de mutirões, fiscalizar o próprio programa e propor prioridades territoriais. Não podem decidir sanção, interdição, medida protetiva, retirada de criança, classificação final de risco, fiscalização sancionatória ou acesso nominal a dados infantis.
+
+Formulação:
+
+> O modelo é plural na governança, comunitário no apoio, privado na cooperação finalística, estatal na coerção e público no controle.
 
 ---
 
@@ -238,6 +301,17 @@ Fórmula:
 ### 8.9. Fiscalização como inteligência de risco
 
 O modelo não deve fiscalizar tudo. Deve usar sinais, histórico, divergências, sorteio, ciclos e risco ponderado para selecionar poucos casos que justifiquem checagem mais cara.
+
+
+### 8.10. Autonomia local parametrizada
+
+Bairros, distritos, comunidades ou territórios piloto poderão adaptar meios e prioridades do modelo conforme sua cultura política, capacidade local e rede comunitária, desde que preservem o núcleo rígido de proteção infantil.
+
+A autonomia local pode escolher se prefere mutirões, vouchers, fundos privados, cooperação empresarial, redes comunitárias, soluções analógicas, ferramentas digitais, auditoria independente ou execução pública direta. Não pode reduzir o piso mínimo, punir pobreza, privatizar coerção, eliminar defesa, expor dados sensíveis, enfraquecer resposta a risco grave ou impor padrão moral, religioso, ideológico ou econômico como condição de proteção.
+
+Formulação:
+
+> O território pode escolher os meios, mas não pode decidir quais crianças terão menos proteção.
 
 ---
 
@@ -656,54 +730,91 @@ Quando houver tratamento em escala, cruzamento de bases, inferência de risco, i
 
 A regra técnica deve ser: quanto mais sensível o dado, menor sua circulação; quanto maior o risco de abuso, maior o controle externo; quanto menor a necessidade operacional, menor a retenção.
 
+Modelo mínimo de matriz de dados do piloto:
+
+| Operação | Dado coletado | Finalidade | Base legal operacional | Quem acessa | Retenção | Compartilhamento | Proteção | Contestação |
+|---|---|---|---|---|---|---|---|---|
+| Pré-cadastro do prestador | nome, endereço comercial, responsável, contato | identificar microprestador e iniciar triagem | execução de política pública de proteção infantil | equipe do piloto e autoridade competente | prazo do piloto e auditoria | órgãos de controle quando necessário | acesso restrito e logs | ouvidoria ou órgão gestor |
+| Validação de vínculo | código do prestador, confirmação agregada, token ou registro assistido | medir uso do serviço sem depender só do prestador | proteção infantil e minimização de dados | equipe de dados ou ponto assistido autorizado | prazo curto definido no protocolo | sem compartilhamento nominal ordinário | pseudonimização e logs | CRAS, UBS, escola ou canal oficial |
+| Código Vermelho | identificação da criança quando necessária, local, risco, órgão acionado | proteção emergencial da vida, saúde e integridade | proteção da vida e melhor interesse da criança | rede materialmente competente | conforme protocolo e necessidade de controle | Conselho, saúde, assistência, segurança ou Judiciário quando cabível | acesso por perfil e registro de acesso | revisão posterior e direito de contestação |
+| Status operacional | situação administrativa do prestador, limites, data de atualização | informar famílias e reduzir opacidade do risco | interesse público e proteção infantil | público, sem dados infantis | enquanto vigente e histórico mínimo | público, sem identificação de crianças | sem dados de criança e linguagem neutra | contestação rápida do prestador |
+| TEPE | identificação disponível da criança, órgão entregador, motivo, destino | documentar recepção emergencial excepcional | proteção emergencial e comunicação obrigatória | acolhimento, órgão gestor e autoridades competentes | conforme norma de acolhimento e controle | Juízo, Conselho Tutelar, Ministério Público e órgão gestor | sigilo, acesso restrito e logs | revisão pelo órgão competente |
+
 ---
 
 ## 19. Cláusula de emergência e Protocolo de Resposta Protetiva Imediata
 
 Quando houver perigo grave, concreto ou iminente, a escala ordinária pode ser superada. A emergência não cria uma nova polícia familiar nem autoriza fiscalização genérica. Ela aciona uma coreografia obrigatória da rede pública para impedir que a criança permaneça exposta enquanto órgãos discutem competência.
 
-O instrumento recomendado é o **Protocolo de Resposta Protetiva Imediata**, acionado por **Código Vermelho Protetivo**. Trata-se de função operacional e fluxo de rede, não de órgão físico novo. O município poderá atribuir as funções do protocolo a estruturas existentes, como Conselho Tutelar, assistência social, CREAS ou CRAS, saúde, educação, guarda municipal, defesa civil, secretaria responsável, polícia, SAMU e autoridade judiciária competente, conforme disponibilidade local e norma aplicável.
+O instrumento recomendado é o **Protocolo de Resposta Protetiva Imediata**, acionado por **Código Vermelho Protetivo**. Trata-se de função operacional e fluxo de rede, não de órgão físico novo. O município poderá atribuir as funções do protocolo a estruturas existentes, conforme disponibilidade local e norma aplicável.
 
-Risco emergencial inclui:
+A regra de emergência é:
 
-- agressão física em curso ou recente;
-- abuso sexual;
-- violência doméstica grave;
-- abandono imediato;
-- ameaça de morte;
-- arma em contexto de conflito;
-- cárcere privado;
-- exploração sexual;
-- trabalho infantil grave;
-- intoxicação grave;
-- surto violento com criança exposta;
-- autolesão iminente;
-- desaparecimento;
-- negligência extrema com perigo atual;
-- transporte escolar em operação com risco de morte;
-- microcreche, contraturno ou espaço infantil com risco crítico atual, como adulto alcoolizado responsável, ausência de adulto responsável, fio energizado, laje sem proteção, superlotação extrema, bloqueio de saída ou ameaça de incêndio.
+> Progressividade é regra para falhas corrigíveis. Proteção imediata é regra diante de perigo grave, concreto ou iminente.
 
-### 19.1. Dupla chave assimétrica
+### 19.1. Taxonomia material do Código Vermelho
 
-O Código Vermelho Protetivo opera com dupla chave assimétrica.
+O Código Vermelho deve ser classificado conforme a natureza material do risco. A cor indica gravidade; o tipo indica o primeiro destino operacional.
 
-**Chave 1 — reconhecimento preliminar.** Qualquer agente público capacitado da rede poderá reconhecer preliminarmente o código vermelho: professor, diretor escolar, agente comunitário de saúde, enfermeiro, médico, assistente social, fiscal municipal, guarda municipal, conselheiro tutelar, profissional de CRAS ou CREAS, equipe de abordagem social, motorista escolar público ou policial.
+| Tipo | Situação | Primeiro acionamento |
+|---|---|---|
+| Vermelho-policial | agressão, ameaça, arma, cárcere, abuso em flagrante, agressor presente, crime em curso, necessidade de acesso seguro ou contenção | polícia, guarda municipal quando cabível, autoridade de segurança |
+| Vermelho-médico | ferimento, intoxicação, autolesão iminente, surto grave, desidratação, crise clínica, inconsciência, sofrimento psíquico agudo | SAMU, UPA, hospital, UBS ou serviço de saúde disponível |
+| Vermelho-tutelar | criança abandonada, sem adulto apto, retirada de situação insegura, necessidade de medida protetiva imediata | Conselho Tutelar, assistência social, Porta 93 quando cabível |
+| Vermelho-institucional | escola, creche, microcreche, transporte, abrigo ou contraturno com risco crítico atual | cessação da exposição, responsáveis, fiscalização competente, Conselho Tutelar e órgão materialmente competente |
+| Vermelho-social grave | vulnerabilidade extrema com risco de deterioração rápida, especialmente primeira infância, fome aguda, desidratação provável, criança pequena sem adulto apto | assistência, saúde, Conselho Tutelar e proteção emergencial conforme risco material |
 
-O reconhecimento preliminar não é decisão jurídica complexa. É apenas declaração operacional de que há perigo grave, atual ou iminente e de que a rede emergencial deve ser acionada imediatamente.
+Também poderá ser usado o **Laranja Protetivo Prioritário** para situações graves, mas sem perigo físico atual: fome recorrente sem abandono atual, moradia precária sem risco imediato de morte ou lesão grave, negligência suspeita, ausência de vaga, cuidador inadequado, família em colapso social ou necessidade de apoio urgente sem violência atual.
 
-**Chave 2 — coordenação formal.** O município deverá designar um **Coordenador de Acionamento Protetivo de Plantão**, como função rotativa ou atribuição administrativa, sem necessidade de criação de cargo novo. Em municípios com plantão do Conselho Tutelar, ele será o coordenador natural. Onde não houver plantão tutelar contínuo, a função poderá ser exercida por servidor designado da assistência social, CREAS, CRAS, defesa civil, guarda municipal, secretaria responsável ou outra autoridade administrativa indicada em ato formal.
+Cláusula:
 
-A indisponibilidade do coordenador não suspende o dever de proteção imediata.
+> Código Vermelho Protetivo não é sinônimo de acionamento policial. O acionamento deve seguir a natureza material do risco. Pobreza, CRAS fechado, Conselho Tutelar indisponível, conflito verbal sem ameaça ou suspeita genérica de negligência não autorizam, isoladamente, acionamento automático do 190.
 
-### 19.2. Bypass automático
+### 19.2. Dupla chave assimétrica e bypass originário
 
-Se o Coordenador de Acionamento Protetivo não responder em até três minutos ou se houver perigo físico atual à criança, o agente que reconheceu o código vermelho fica autorizado a acionar diretamente 190, 192, unidade de saúde, polícia, SAMU, Conselho Tutelar, guarda municipal ou autoridade disponível, invocando o **Código Vermelho Protetivo**.
+**Chave 1 — reconhecimento preliminar.** Qualquer agente público capacitado da rede poderá reconhecer preliminarmente o Código Vermelho: professor, diretor escolar, agente comunitário de saúde, enfermeiro, médico, assistente social, fiscal municipal, guarda municipal, conselheiro tutelar, profissional de CRAS ou CREAS, equipe de abordagem social, motorista escolar público ou policial.
 
-Nessa hipótese, o registro inicial poderá ser complementado posteriormente pelo coordenador ou pela primeira autoridade pública que assumir a cena. A falha de atendimento do plantão deverá ser registrada e revisada administrativamente no primeiro dia útil ou na revisão obrigatória em 24 horas, conforme a gravidade.
+O reconhecimento preliminar não é decisão jurídica complexa. É declaração operacional de que há perigo grave, atual ou iminente e de que o órgão materialmente competente deve ser acionado imediatamente.
 
-### 19.3. Acionamento simultâneo e regra antiempurra
+**Chave 2 — coordenação formal quando existente.** O município poderá designar Coordenador de Acionamento Protetivo de Plantão, como função rotativa ou atribuição administrativa formal, quando houver base legal, escala, remuneração quando devida e capacidade real.
 
-O acionamento deve ser simultâneo quando houver risco físico, médico, policial ou protetivo combinado. O fluxo não deve ser sequencial quando a espera aumentar o dano.
+Nos municípios classificados como N1-LRF, sem plantão formal ou impedidos de criar despesa de pessoal, o Código Vermelho operará por **bypass originário**: a primeira porta pública que reconhecer risco grave acionará diretamente os órgãos emergenciais competentes, sem necessidade de validação prévia por coordenador municipal.
+
+Cláusula:
+
+> A indisponibilidade do coordenador não suspende o dever de proteção imediata. Em modo N1-LRF, o bypass originário é regra, não exceção.
+
+### 19.3. Vedação ao plantão informal e ao sobreaviso tácito
+
+É vedado instituir plantão informal, sobreaviso tácito, disponibilidade permanente por telefone pessoal, grupo de aplicativo, escala verbal, favor administrativo ou convocação extrajornada sem previsão legal, controle de jornada e remuneração quando devida.
+
+A falta de capacidade fiscal não autoriza omissão diante de risco grave, mas impede a simulação de disponibilidade funcional inexistente. Em modo degradado, o município deverá capacitar portas de entrada, distribuir cartão operacional, padronizar registro posterior e consolidar a revisão no primeiro ciclo administrativo possível.
+
+### 19.4. Regra do lugar seguro
+
+Quando a criança já estiver em local institucional ou familiar seguro — escola, UBS, hospital com indicação médica, CRAS, abrigo, casa de familiar apto ou outro espaço protegido — a indisponibilidade temporária do Conselho Tutelar não justificará acionamento policial automático, salvo ameaça externa, tentativa de retirada por pessoa não autorizada, violência, risco médico, ordem legal, necessidade de acesso seguro ou perigo físico atual.
+
+Cláusula:
+
+> A falta de resposta administrativa não transforma vulnerabilidade social em ocorrência policial. A polícia atua quando sua presença for necessária à integridade, contenção, acesso seguro, flagrante, crime em curso ou preservação imediata da vida.
+
+### 19.5. Fluxo mínimo de ação
+
+**Detecção.** O agente identifica risco grave, preserva a criança e sua própria segurança dentro do possível, evita investigação extensa e limita perguntas à criança ao mínimo necessário para proteção imediata.
+
+**Acionamento material.** O agente aciona o órgão competente conforme a taxonomia do risco: segurança pública, saúde, Conselho Tutelar, assistência social, fiscalização institucional, defesa civil, Ministério Público ou Judiciário, conforme o caso.
+
+**Registro mínimo.** O primeiro agente ou autoridade disponível registra hora, local, criança envolvida ou não identificada, tipo de risco, agressor presente, arma ou ameaça, necessidade médica, necessidade policial, necessidade tutelar, necessidade de acolhimento, órgãos acionados e destino provisório.
+
+**Marco de reavaliação.** No marco de reavaliação operacional, a coordenação formal, quando existente, ou a primeira autoridade materialmente competente verificará se houve assunção, despacho, contato qualificado, chegada em cena, necessidade de escalonamento, rebaixamento ou manutenção do risco. O rebaixamento somente ocorrerá se houver informação suficiente sobre cessação do perigo grave atual.
+
+**Primeira decisão protetiva.** Deve ser definida medida imediata: permanência com responsável seguro, atendimento de saúde, contenção de agressor, entrega a familiar apto, acionamento do Conselho Tutelar, Porta 93, acolhimento emergencial, cessação de operação perigosa, interdição parcial ou pedido urgente à autoridade judicial.
+
+**Revisão posterior.** Todo Código Vermelho deverá ser revisado em até 24 horas quando houver plantão formal ou equipe disponível. Em modo N1-LRF sem disponibilidade regular, a revisão ocorrerá no primeiro ciclo administrativo possível, sem prejuízo do acionamento emergencial imediato dos órgãos materialmente competentes.
+
+### 19.6. Acionamento simultâneo e regra antiempurra
+
+O acionamento deve ser simultâneo quando houver risco físico, médico, policial, tutelar ou institucional combinado. O fluxo não deve ser sequencial quando a espera aumentar o dano.
 
 Cláusula antiempurra:
 
@@ -711,88 +822,120 @@ Cláusula antiempurra:
 
 A primeira autoridade pública que tomar conhecimento de risco vermelho deverá acionar a rede emergencial disponível, ainda que não seja a autoridade final competente para a medida protetiva.
 
-Quando houver recusa imotivada, demora injustificada, ausência de despacho ou abandono de fluxo em caso de risco grave, o coordenador registrará o fato e comunicará a autoridade superior do órgão, o Conselho Tutelar, o Ministério Público ou a instância de controle prevista no protocolo local.
-
-### 19.4. Fluxo mínimo de ação
-
-**Minuto 0 — detecção.** O agente identifica risco vermelho, preserva a criança e sua própria segurança dentro do possível e evita investigação extensa.
-
-**Minuto 1 — acionamento simultâneo.** O agente aciona o coordenador de plantão e, se houver risco físico ou médico imediato, aciona diretamente polícia, SAMU ou serviço de urgência.
-
-**Minuto 3 — registro mínimo.** O coordenador, ou a primeira autoridade disponível, registra quem acionou, local, criança envolvida ou não identificada, tipo de risco, agressor presente, arma ou ameaça, necessidade médica, necessidade policial, necessidade de retirada, necessidade de acolhimento e órgãos chamados.
-
-**Minuto 5 — despacho por tipo de risco.** Violência, ameaça, arma, cárcere, abuso em flagrante ou agressor presente acionam polícia como primeira resposta material. Ferimento, intoxicação, autolesão, surto ou risco médico acionam SAMU ou saúde. Abandono, negligência extrema ou criança sem responsável acionam Conselho Tutelar e assistência social, com apoio policial quando o local for inseguro. Risco institucional grave aciona cessação imediata da exposição, responsáveis, Conselho Tutelar, fiscalização competente e polícia quando houver crime ou perigo atual.
-
-**Minuto 20 — desmobilização operacional, rebaixamento ou continuidade assistencial.** A primeira autoridade materialmente competente que chegar à cena poderá registrar **Código Vermelho Desmobilizado — Falso Positivo**, **Código Vermelho Rebaixado para Amarelo** ou **Código Vermelho Rebaixado com Seguimento Assistencial**, quando constatar ausência de perigo grave atual. A desmobilização libera órgãos emergenciais não necessários, mas não apaga o registro social da ocorrência. Sempre que houver criança em crise neurodivergente, sofrimento psíquico, vulnerabilidade familiar, conflito doméstico, relato inconsistente, dúvida razoável, risco ambiental remanescente ou possibilidade de manipulação da cena por agressor, o caso deverá permanecer referenciado na assistência social, saúde, escola, Conselho Tutelar ou serviço competente para acompanhamento proporcional. Essa válvula reduz fadiga de alarme sem transformar falso positivo operacional em arquivamento social automático.
-
-**Até 2 horas — primeira decisão protetiva.** Deve ser definida a medida imediata: permanência com responsável seguro, atendimento de saúde, contenção de agressor, entrega a familiar apto, acionamento do Conselho Tutelar, acolhimento emergencial, cessação de operação perigosa ou pedido urgente à autoridade judicial.
-
-**Até 24 horas — revisão obrigatória.** Todo código vermelho deve ser revisado quanto a fundamento, tempo de resposta, órgão que assumiu, medida aplicada, criança localizada, falhas da rede, eventual falso positivo, necessidade de continuidade e eventual abuso de acionamento.
-
-### 19.5. Competências materiais no protocolo
+### 19.7. Competências materiais no protocolo
 
 A polícia atua na contenção de violência, risco armado, flagrante, proteção de equipe, acesso seguro ao local e preservação inicial de cena quando houver crime.
 
-O SAMU ou serviço de saúde atua em ferimento, intoxicação, crise psiquiátrica, autolesão, surto, atendimento clínico e transporte sanitário.
+O SAMU ou serviço de saúde atua em ferimento, intoxicação, crise psiquiátrica, autolesão, surto, atendimento clínico, desidratação, sofrimento clínico e transporte sanitário.
 
 O Conselho Tutelar aplica medidas protetivas, requisita serviços públicos, aciona responsáveis, comunica Ministério Público ou autoridade judiciária quando necessário e acompanha a continuidade do caso.
 
-A assistência social providencia acolhimento emergencial, contato com família extensa, alimentação, transporte social, apoio psicossocial e acompanhamento posterior.
+A assistência social providencia acolhimento emergencial, contato com família extensa, alimentação, transporte social, apoio psicossocial, benefício eventual quando cabível e acompanhamento posterior.
 
 A educação protege a criança sob sua guarda imediata, impede retirada por pessoa não autorizada, comunica a rede e preserva registros escolares mínimos.
 
-O Ministério Público atua diante de omissão grave da rede, necessidade de medida judicial, crime, falha institucional reiterada, resistência de órgão público ou risco de arquivamento informal.
+O Ministério Público atua diante de omissão grave da rede, necessidade de medida judicial, crime, falha institucional reiterada, resistência de órgão público, captura política do fluxo ou risco de arquivamento informal.
 
-O Judiciário atua quando a medida exigir ordem judicial, busca, afastamento, acolhimento judicializado, restrição relevante de direitos ou entrada domiciliar não amparada por flagrante, socorro, consentimento válido ou hipótese legal equivalente.
+O Judiciário atua quando a medida exigir ordem judicial, busca, afastamento, acolhimento judicializado, restrição relevante de direitos ou entrada domiciliar não amparada por flagrante, socorro, desastre, consentimento válido ou hipótese legal equivalente.
 
-### 19.6. Entrada domiciliar e limites da emergência
+### 19.8. Entrada domiciliar e limites da emergência
 
-Código vermelho não autoriza entrada domiciliar genérica. Entrada forçada somente ocorrerá nas hipóteses juridicamente admitidas, como flagrante, desastre, prestação de socorro, consentimento válido ou ordem judicial. Fora dessas hipóteses, o fluxo adequado é preservar a criança quando acessível, acionar autoridade competente e buscar ordem judicial urgente quando necessária.
+Código Vermelho não autoriza entrada domiciliar genérica. Entrada forçada somente ocorrerá nas hipóteses juridicamente admitidas, como flagrante, desastre, prestação de socorro, consentimento válido ou ordem judicial. Fora dessas hipóteses, o fluxo adequado é preservar a criança quando acessível, acionar autoridade competente e buscar ordem judicial urgente quando necessária.
 
 A via emergencial não autoriza fiscalização ampla, punição por pobreza, coleta massiva de dados, revista geral, gravação indiscriminada ou supressão permanente de contraditório.
 
-### 19.7. Preservação sem revitimização
+### 19.9. Preservação sem revitimização
 
 Em suspeita de violência sexual, violência doméstica grave ou criança testemunha de crime, o primeiro agente deverá limitar a coleta de relato ao mínimo necessário para proteção imediata. São vedadas perguntas repetitivas, sugestivas ou investigativas por agentes não habilitados. O encaminhamento deverá observar o fluxo de escuta protegida e depoimento especial quando cabível.
 
-### 19.8. Escalonamento por maturidade municipal
+### 19.10. Cartão operacional da Chave 1
 
-**URPI-N1 — baixa capacidade.** Usa telefone, escala de plantão, ficha de uma página, acionamento paralelo de 190, 192, Conselho Tutelar, saúde e assistência social, bypass automático e revisão em 24 horas.
-
-**URPI-N2 — média capacidade.** Usa número único municipal, grupo institucional fechado, plantão formal de assistência ou CREAS, termo de cooperação com polícia, hospital e Conselho Tutelar, relatório mensal de tempos de resposta e simulações periódicas.
-
-**URPI-N3 — alta capacidade.** Usa central digital, equipe móvel, integração com SAMU, georreferenciamento, painel de indicadores, auditoria antiviés, protocolos especializados de escuta e resposta regionalizada.
-
-A implementação deve começar pelo nível compatível com a capacidade municipal. A ausência de estrutura N3 não justifica omissão em N1.
-
-### 19.9. Cartão operacional da Chave 1
-
-A efetividade do Código Vermelho depende de instrumento simples para o agente que reconhece o risco na ponta. O município deverá produzir cartão físico ou digital de bolso, em linguagem binária, para escolas, UBS, CRAS, CREAS, Conselho Tutelar, transporte escolar, agentes comunitários, fiscais, guardas municipais e demais portas de entrada.
+O município deverá produzir cartão físico ou digital de bolso, em linguagem binária, para escolas, UBS, CRAS, CREAS, Conselho Tutelar, transporte escolar, agentes comunitários, fiscais, guardas municipais e demais portas de entrada.
 
 O cartão deverá conter, no mínimo:
 
-> **Código Vermelho Protetivo — acione agora se houver:** agressão em curso ou recente; abuso sexual; criança abandonada sem adulto capaz; ameaça de morte; arma; cárcere; intoxicação grave; autolesão iminente; desaparecimento; adulto alcoolizado ou incapaz cuidando de crianças; risco de incêndio, choque, queda grave ou transporte escolar com perigo atual.
+> **Acione 190 quando houver:** agressão, ameaça, arma, cárcere, agressor presente, crime em curso, criança em local inseguro, tentativa de retirada por pessoa não autorizada, risco físico atual, necessidade de acesso seguro ou contenção.
 >
-> **Ação imediata:** proteja-se; afaste a criança do risco se for seguro; acione o coordenador; se o coordenador não responder em três minutos ou houver perigo atual, acione 190 ou 192; registre hora, local, criança, risco e órgão acionado; não investigue profundamente nem repita perguntas à criança.
+> **Acione saúde, 192, UPA, hospital ou UBS quando houver:** ferimento, intoxicação, autolesão iminente, surto grave, desidratação, inconsciência, crise clínica, sofrimento psíquico agudo ou necessidade de transporte sanitário.
+>
+> **Acione Conselho Tutelar, assistência social ou Porta 93 quando houver:** abandono, ausência de adulto apto, necessidade de entrega a responsável seguro, acolhimento emergencial ou medida protetiva.
+>
+> **Não acione 190 apenas porque:** há pobreza, falta de vaga, CRAS fechado, Conselho Tutelar sem resposta, conflito verbal sem ameaça, suspeita genérica de negligência, demanda de benefício social ou moradia precária sem risco atual de morte ou lesão grave.
+>
+> **Ação imediata:** proteja-se; afaste a criança do risco se for seguro; acione o órgão materialmente competente; registre hora, local, criança, risco e órgão acionado; não investigue profundamente nem repita perguntas à criança.
 
-O cartão não substitui o protocolo completo. Sua função é reduzir hesitação operacional, especialmente em plantões, madrugadas, finais de semana, áreas rurais ou situações em que o agente público teme puxar o alarme sozinho.
+### 19.11. Notificação mínima de fim de semana, feriado e madrugada
 
-### 19.10. Rebaixamento com continuidade assistencial
+Em modo N1-LRF, a notificação mínima fora do expediente não constitui plantão nem gera obrigação de resposta imediata por servidor municipal sem escala formal. Sua função é preservar rastro administrativo para consolidação no primeiro ciclo útil e permitir responsabilização do órgão que assumiu materialmente o caso.
 
-O rebaixamento ou desmobilização do Código Vermelho no Minuto 20 tem finalidade operacional: liberar viaturas, equipes de saúde, plantões ou órgãos emergenciais quando não houver perigo grave atual. Ele não equivale a arquivamento social, baixa definitiva do caso ou declaração de inexistência de vulnerabilidade.
+A notificação mínima deverá conter: criança ou identificação disponível, local, risco, órgão acionado, horário, quem assumiu, para onde a criança foi, necessidade de saúde, abrigo, família extensa, acompanhamento ou reavaliação.
 
-A primeira autoridade em cena deverá escolher uma das classificações:
+### 19.12. Porta 93 de Acolhimento Emergencial sem Guia Prévia
+
+O município deverá instituir, no âmbito de seus serviços próprios, contratados, conveniados, subvencionados ou pactuados, uma **Porta 93 de Acolhimento Emergencial sem Guia Prévia**, destinada a impedir que criança ou adolescente retirado de situação de risco permaneça em viatura, delegacia, hospital sem indicação médica, via pública, residência insegura ou local sem responsável apto.
+
+A Porta 93 não cria nova hipótese de acolhimento, não substitui decisão judicial, não substitui o Conselho Tutelar, não dispensa o Ministério Público quando cabível e não institui regime municipal autônomo de medida protetiva. Trata-se de procedimento excepcional de recepção emergencial, utilizado apenas quando houver urgência protetiva, ausência de responsável apto, impossibilidade de permanência segura e falha momentânea do fluxo ordinário.
+
+A Porta 93 somente será usada quando não houver responsável legal seguro, familiar apto ou adulto de referência confiável, e quando a permanência da criança no local, em viatura, delegacia, hospital sem indicação clínica, via pública ou residência insegura representar risco maior. O Município deverá buscar pactuação prévia com Conselho Tutelar, Ministério Público, Judiciário, serviços de acolhimento e, quando cabível, segurança pública, para padronizar o uso do TEPE.
+
+A Porta 93 operacionaliza o acolhimento excepcional e urgente por serviço de acolhimento institucional próprio, contratado, conveniado, regional ou pactuado, com comunicação obrigatória em até 24 horas à autoridade judiciária competente, ao Conselho Tutelar, ao Ministério Público e ao órgão municipal responsável.
+
+O recebimento emergencial será documentado por **Termo de Entrega Protetiva Emergencial — TEPE**, assinado pelo órgão ou agente entregador e pelo responsável pelo serviço de acolhimento, com registro mínimo de data, hora, local de origem, identificação disponível da criança, motivo da entrega, risco constatado, órgãos acionados, tentativa de contato com Conselho Tutelar, estado aparente da criança e providências imediatas.
+
+A ausência de guia prévia, requisição tutelar ou decisão judicial não poderá ser invocada pelo serviço municipal, contratado, conveniado, subvencionado ou pactuado como motivo de recusa quando houver urgência protetiva, criança sem responsável apto e impossibilidade de permanência segura.
+
+### 19.13. Vedação à hospitalização social
+
+Hospital, UPA, pronto-socorro ou unidade de saúde somente serão destino primário quando houver necessidade clínica, suspeita de lesão, intoxicação, abuso, desidratação, sofrimento psíquico grave, crise médica ou avaliação sanitária indispensável.
+
+É vedado usar unidade de saúde como abrigo social por ausência de guia, vaga, plantão tutelar ou resposta administrativa. Após estabilização ou liberação médica, a criança deverá ser entregue a responsável seguro, família extensa apta, Porta 93, Conselho Tutelar ou autoridade competente.
+
+### 19.14. Entrega protetiva temporária a familiar ou adulto de referência
+
+Sempre que houver familiar, responsável legal ou adulto de referência imediatamente seguro, identificado e apto, a entrega protetiva temporária poderá preceder o acolhimento institucional, mediante registro mínimo, compromisso de apresentação posterior e comunicação ao Conselho Tutelar ou autoridade competente.
+
+Critérios mínimos: identificação do adulto, vínculo com a criança, sobriedade, ausência de condição de agressor ou coabitante do agressor, local seguro, assinatura de termo e compromisso de apresentação posterior.
+
+Havendo dúvida relevante sobre conivência, retorno ao agressor, coação, manipulação familiar, intoxicação, ameaça ou incapacidade de cuidado, prevalecerá a Porta 93.
+
+### 19.15. Plano de continuidade infantil em risco crítico
+
+Se uma instituição, microcreche, transporte ou espaço infantil precisar ser fechado por risco crítico não neutralizável, a resposta não poderá se limitar à inclusão em fila de espera.
+
+Deverá ser acionado o **Envelope 3 — Resposta Emergencial**, conforme disponibilidade e proporcionalidade, podendo envolver vaga temporária em rede privada formal, voucher emergencial, auxílio temporário à família, transporte para outra unidade, apoio do CRAS, família extensa segura, contraturno temporário, parceria emergencial, redução de capacidade com realocação parcial ou uso provisório de espaço público seguro.
+
+Cláusula:
+
+> Se o fechamento for inevitável por risco crítico, a criança não volta para o vazio. O município deve acionar resposta emergencial mínima, proporcional, documentada e temporária.
+
+### 19.16. Escalonamento por maturidade municipal
+
+**URPI-N1 — baixa capacidade.** Opera com cartão de bolso, ficha de uma página, bypass originário, acionamento direto do órgão materialmente competente, registro posterior, consulta presencial, lista mínima de contatos, Porta 93 quando houver acolhimento pactuado e revisão no primeiro ciclo administrativo possível.
+
+**URPI-N1-LRF — baixa capacidade com restrição fiscal.** Não promete plantão municipal próprio, gratificação, sobreaviso ou SLA interno. Veda plantão informal e usa bypass originário, notificação mínima e consolidação posterior.
+
+**URPI-N2 — média capacidade.** Usa número municipal, formulários digitais simples, grupo institucional formal, plantão quando legalmente instituído, termo de cooperação com segurança, saúde e acolhimento, relatório mensal de tempos de resposta e simulações periódicas.
+
+**URPI-N3 — alta capacidade.** Usa central digital, equipe móvel, integração com SAMU, georreferenciamento, painel de indicadores, auditoria antiviés robusta, protocolos especializados de escuta e resposta regionalizada.
+
+A ausência de estrutura N3 não justifica omissão em N1. A implementação deve começar pelo nível compatível com a capacidade municipal, sem simular infraestrutura inexistente.
+
+### 19.17. Rebaixamento com continuidade assistencial
+
+O rebaixamento ou desmobilização do Código Vermelho tem finalidade operacional: liberar recursos emergenciais desnecessários quando não houver perigo grave atual. Ele não equivale a arquivamento social, baixa definitiva do caso ou declaração de inexistência de vulnerabilidade.
+
+A primeira autoridade em cena ou a coordenação formal, quando existente, deverá escolher uma das classificações:
 
 | Classificação | Quando usar | Consequência |
 |---|---|---|
-| Desmobilizado — sem seguimento obrigatório | alarme comprovadamente equivocado, sem criança em risco, vulnerabilidade, necessidade de saúde ou dúvida relevante | registro mínimo e revisão em 24 horas |
+| Desmobilizado — sem seguimento obrigatório | alarme comprovadamente equivocado, sem criança em risco, vulnerabilidade, necessidade de saúde ou dúvida relevante | registro mínimo e revisão quando cabível |
 | Rebaixado para Amarelo | não há perigo grave atual, mas há risco corrigível, conflito, vulnerabilidade ou necessidade de orientação | encaminhamento à assistência, saúde, escola, Conselho Tutelar ou serviço competente |
 | Rebaixado com Seguimento Assistencial | crise neurodivergente, sofrimento psíquico, suspeita não confirmada, relato ambíguo, cena potencialmente manipulada ou risco social relevante | plano breve de acompanhamento, contato posterior e revisão do caso |
 | Mantido como Vermelho | perigo grave atual, agressor presente, ferimento, ameaça, arma, abuso, abandono, cárcere, intoxicação, autolesão iminente ou risco institucional crítico | resposta emergencial integral |
 
 Cláusula:
 
-> A desmobilização operacional não apagará o registro da ocorrência nem impedirá acompanhamento social, sanitário, escolar ou tutelar quando houver vulnerabilidade residual, dúvida razoável, crise neurodivergente, sofrimento psíquico, risco familiar ou possibilidade de manipulação da cena. O objetivo é evitar fadiga de alarme sem permitir que a normalidade aparente produzida diante da primeira resposta encerre prematuramente a proteção da criança.
+> A desmobilização operacional não apagará o registro da ocorrência nem impedirá acompanhamento social, sanitário, escolar ou tutelar quando houver vulnerabilidade residual, dúvida razoável, crise neurodivergente, sofrimento psíquico, risco familiar ou possibilidade de manipulação da cena.
 
 ---
 
@@ -1036,6 +1179,17 @@ Cláusula operacional:
 
 > O regime de adesão voluntária protegida deverá ser acompanhado de estratégia pública de orientação da demanda, de modo que famílias sejam informadas sobre o status operacional conhecido dos prestadores e possam escolher alternativas mais rastreáveis, sem que o município transforme o status de transição em recomendação, ranking ou garantia de segurança integral.
 
+
+### 25.8. Fraude de intermediação e uso político do acesso
+
+Constitui fraude de intermediação afirmar, insinuar ou fazer crer que o acesso ao programa depende de pagamento, favor, voto, apoio político, presença em comício, culto, reunião, filiação, vínculo associativo, autorização de liderança local ou uso obrigatório de intermediário privado.
+
+A prática sujeitará o infrator ao descredenciamento, cancelamento de parceria, exclusão da Rede Cívica, suspensão de participação em Câmara Local, comunicação ao controle interno e, quando cabível, ao Ministério Público, Ministério Público Eleitoral, autoridade policial ou órgão competente.
+
+Cláusula:
+
+> O acesso ao cadastro assistido, à consulta, à capacitação, ao fomento autorizado ou à proteção emergencial será gratuito, direto e independente de vereador, liderança comunitária, entidade religiosa, associação, empresa, voluntário, intermediário ou apoio político.
+
 ---
 
 ## 26. Núcleo indeclinável de segurança
@@ -1080,6 +1234,31 @@ Podem ser objeto de prazo e apoio:
 - melhoria estética;
 - regularização contábil.
 
+
+### 26.4. Tabela Negra de Riscos Não Transicionáveis
+
+Não poderão ser tratados como exigências transicionáveis enquanto houver criança exposta:
+
+- fiação energizada acessível;
+- risco de queda de altura;
+- piscina, poço ou caixa d'água acessível;
+- arma acessível;
+- produto tóxico acessível;
+- botijão, gás ou chama em condição perigosa;
+- adulto alcoolizado ou incapaz como único responsável;
+- ausência de adulto identificado;
+- saída bloqueada;
+- risco de incêndio;
+- superlotação extrema;
+- transporte inseguro;
+- estrutura com colapso aparente;
+- abuso, violência ou exploração;
+- cárcere, ameaça grave ou presença de agressor.
+
+Cláusula:
+
+> Risco fatal visualizado só poderá ser tratado como transicionável se a exposição da criança for eliminada antes da continuidade do atendimento. Sem neutralização da exposição, o caso será Vermelho-exposto.
+
 ---
 
 ## 27. Cadastro de Regularização Assistida com Decisão Motivada de Não Interdição
@@ -1110,6 +1289,12 @@ Cláusula:
 A decisão de não interdição imediata deverá ser instruída, sempre que aplicável, por **Relatório Técnico de Triagem e Transição Assistida — RTTA**.
 
 O RTTA não é laudo de segurança, licença, alvará, autorização definitiva, certificação, selo de qualidade ou garantia estatal de ausência de acidentes. Trata-se de instrumento administrativo de triagem inicial, limitado à constatação de riscos críticos aparentes, definição de restrições operacionais provisórias, escalonamento de providências e fundamentação da decisão de não interdição imediata.
+
+Todo RTTA deverá conter, no cabeçalho e no rodapé, em destaque visual:
+
+> **TRIAGEM LIMITADA — NÃO É LICENÇA — NÃO É ALVARÁ — NÃO É SELO DE QUALIDADE — NÃO É GARANTIA DE AUSÊNCIA DE RISCO.**
+
+O RTTA informa apenas a situação conhecida no escopo da triagem, as restrições impostas e a decisão administrativa de não interdição imediata. A continuidade depende do cumprimento permanente das condições descritas, da ausência de risco crítico exposto e da responsabilidade continuada do prestador.
 
 Formulação central:
 
@@ -1159,30 +1344,32 @@ Campo obrigatório:
 
 ### 27.5. Classificação de risco no RTTA
 
-A classificação deverá usar quatro níveis.
+A classificação deverá usar níveis que distingam o risco existente da exposição efetiva da criança.
 
 | Nível | Situação | Consequência |
 |---|---|---|
 | Verde-transição | irregularidades formais, sem risco crítico aparente | plano de adequação e reavaliação |
-| Amarelo-transição | risco corrigível com limite operacional imediato | operação assistida com restrições |
-| Laranja-condicionado | risco relevante que exige mitigação antes da continuidade plena | operação muito restrita ou suspensão parcial até mitigação |
-| Vermelho-contenção | risco crítico atual | contenção, interdição parcial ou total, acionamento da rede protetiva |
+| Amarelo-contido | risco simples ou corrigível, com exposição neutralizada antes da continuidade | operação assistida com limites e prazo de solução definitiva |
+| Laranja-sem-exposição | risco relevante, mas área, atividade ou equipamento está vedado, isolado ou fora do alcance das crianças | operação muito restrita, suspensão parcial ou continuidade condicionada |
+| Vermelho-exposto | risco crítico atual com criança exposta ou sem contenção confiável | contenção, interdição parcial ou total e acionamento da rede protetiva |
 
-O fiscal não declara que o local é seguro. Ele declara, quando cabível, que não identificou risco crítico aparente dentro do escopo da triagem, desde que cumpridas as restrições impostas.
+O fiscal não declara que o local é seguro. Ele declara, quando cabível, que não identificou risco crítico exposto dentro do escopo da triagem, desde que cumpridas integralmente as restrições impostas.
 
-### 27.6. Matriz de prazos do RTTA
+### 27.6. Matriz de prazos do RTTA e neutralização da exposição
 
-O prazo de 60 dias não poderá ser usado para qualquer risco. As providências devem ser escalonadas.
+O prazo de 60 dias não poderá ser usado para qualquer risco. As providências devem ser escalonadas e devem distinguir neutralização imediata, solução provisória e solução definitiva.
 
-**Imediato — antes da continuidade:** isolamento de área perigosa, retirada de produto químico, bloqueio de escada, fechamento de laje, identificação dos adultos, telefone emergencial, lista de crianças e responsáveis.
+**Imediato — antes da continuidade:** neutralização da exposição da criança ao risco, isolamento de área perigosa, retirada de produto químico, bloqueio de escada, fechamento de laje, desligamento de circuito quando necessário, vedação de cômodo, identificação dos adultos, telefone emergencial, lista de crianças e responsáveis.
 
-**48 horas:** proteção de tomadas, tranca, barreira física simples, retirada de objetos cortantes, reorganização de fluxo e correção de risco simples de alto impacto.
+**48 horas:** reforço de contenção, proteção de tomadas, tranca, barreira física simples, retirada de objetos cortantes, reorganização de fluxo, comunicação às famílias e correção simples de alto impacto.
 
-**7 dias:** curso emergencial, lista padronizada, autorização de retirada, kit mínimo, comunicação às famílias e organização básica de rotina.
+**7 dias:** curso emergencial, lista padronizada, autorização de retirada, kit mínimo quando juridicamente disponível, comunicação às famílias e organização básica de rotina.
 
 **30 dias:** adequação documental básica, vistoria de retorno, organização sanitária, primeiros socorros, registro de incidentes e correções não críticas.
 
 **60 dias:** pendências formais, plano de adequação, regularização contábil, seguro, laudo técnico quando necessário e medidas estruturais não críticas.
+
+Quando a mitigação material depender de recurso indisponível ao microprestador e ainda não ofertado pelo Estado, a obrigação imediata será impedir a exposição da criança ao risco, e não necessariamente realizar a compra ou obra definitiva no prazo curto. A autoridade deverá substituir a exigência imediata por restrição de uso, redução de capacidade, suspensão parcial, isolamento de área ou encaminhamento a apoio material, salvo risco crítico atual não neutralizável.
 
 ### 27.7. Responsabilidade do prestador
 
@@ -1212,6 +1399,13 @@ A decisão de não interdição imediata perderá seus efeitos em caso de:
 - surgimento de risco crítico.
 
 A caducidade deverá gerar reavaliação imediata, podendo resultar em restrição, interdição, comunicação ao Conselho Tutelar, Ministério Público, autoridade sanitária, defesa civil, polícia ou Judiciário.
+
+
+A decisão de não interdição também perderá efeitos se o prestador violar a barreira provisória, reabrir área interditada, permitir acesso a espaço isolado, religar circuito vedado, retirar contenção ou descumprir a neutralização da exposição que justificou o RTTA.
+
+Cláusula:
+
+> A quebra de contenção transforma o risco contido em risco exposto. Nessa hipótese, o status poderá cair imediatamente para Vermelho-contenção ou Vermelho-exposto, com perda dos benefícios da adesão voluntária protegida e reavaliação urgente.
 
 ### 27.9. Proteção procedimental do agente público
 
@@ -1287,6 +1481,17 @@ A entrega de bens físicos, instalação em imóvel privado, voucher, fundo, pag
 Regra de prudência:
 
 > O Estado não deve firmar plano de adequação que dependa de contrapartida pública material impossível de entregar dentro do prazo do RTTA. Quando a compra, contratação ou fomento depender de lei, licitação, credenciamento, convênio ou fundo, o prazo do prestador deverá refletir a capacidade real de execução pública, sem tolerar risco crítico atual.
+
+
+### 29.2. Fomento em municípios N1 e N2
+
+Em municípios N1 e N2, o fomento padrão inicial será preferencialmente operacional e imaterial: orientação prática, reorganização do espaço, isolamento de área, modelo de lista, termo de retirada, cartaz de emergência, capacitação, projeto simples de adequação, apoio da rede comunitária e encaminhamento para compras coletivas futuras quando houver base legal.
+
+Voucher, kit físico, pagamento direto, fundo, instalação em imóvel privado, entrega de bens, credenciamento de fornecedor ou subsídio material somente deverão ser ativados após base legal, dotação orçamentária, critério público, instrumento jurídico adequado e controle de finalidade.
+
+Cláusula:
+
+> O município não deve prometer fomento material que não pode entregar. Onde não houver base legal ou orçamento, a resposta inicial será neutralização da exposição, reorganização operacional e restrição proporcional.
 
 ---
 
@@ -1389,6 +1594,10 @@ Toda página, placa ou resposta oficial deverá conter formulação simples:
 
 > Este status informa a situação administrativa e operacional conhecida na última verificação. Não é selo de qualidade, ranking, recomendação estatal, garantia de ausência de acidentes nem substituto da responsabilidade do prestador.
 
+Famílias que consultarem status ou receberem comunicação sobre prestador em regularização deverão ter acesso a texto simples:
+
+> Este prestador está em regularização assistida. Isso não significa que o Município recomenda o serviço nem garante ausência de acidentes. Significa que o prestador foi identificado, possui limites operacionais e está sujeito a acompanhamento. Verifique capacidade, áreas vedadas, prazo de reavaliação e canais de reclamação.
+
 O status amarelo deve indicar limites principais:
 
 - capacidade máxima;
@@ -1398,6 +1607,16 @@ O status amarelo deve indicar limites principais:
 - próxima vistoria;
 - pendência crítica já mitigada;
 - prazo de adequação.
+
+---
+
+### 33.1. Travas de confiabilidade do status operacional
+
+O status operacional deverá exibir data da última verificação, data da última atualização, limites vigentes, prazo de reavaliação e canal de contestação. Alterações relevantes de status deverão manter histórico mínimo para auditoria, prevenção de manipulação silenciosa e correção de erro material.
+
+O prestador poderá solicitar correção rápida de erro factual, sem que a contestação suspenda automaticamente restrição fundada em risco relevante. A resposta pública deverá ser neutra, objetiva e limitada ao estado administrativo conhecido, evitando linguagem acusatória, promocional ou reputacional excessiva.
+
+Toda comunicação pública do status deverá repetir que o status não é selo, ranking, recomendação estatal, autorização plena ou garantia de ausência de risco.
 
 ---
 
@@ -1432,6 +1651,13 @@ Mensagem pública:
 > O prestador informou correção em data determinada. A verificação pública está pendente. Até confirmação, permanecem os limites anteriores.
 
 O órgão público terá prazo para reavaliar. Atraso estatal injustificado deve ser registrado e auditado.
+
+
+### 35.1. Validade curta da correção informada
+
+A mensagem **Correção informada — aguardando verificação** não poderá permanecer indefinidamente. O protocolo local deverá definir validade curta conforme a gravidade: prazo reduzido para risco relevante, prazo intermediário para risco moderado e prazo maior apenas para pendência formal.
+
+Expirado o prazo sem verificação, o sistema deverá indicar **Dados vencidos — limites anteriores permanecem**. Risco crítico não admite autocorreção reputacional sem contenção documentada ou avaliação competente.
 
 ---
 
@@ -1687,6 +1913,44 @@ A auditoria deverá comparar, no mínimo:
 
 Se o sistema produzir concentração injustificada de ônus fiscalizatório em grupos vulneráveis, a matriz de risco deverá ser recalibrada. Risco social não pode ser confundido automaticamente com culpa individual.
 
+
+### 43.2. Alerta de Captura Territorial e Índice de Captura Operacional
+
+Municípios de baixa capacidade administrativa não serão obrigados a realizar auditorias sociológicas complexas para detectar captura comunitária, religiosa, política, econômica ou associativa. O piloto deverá adotar métrica simples de alerta, baseada em concentração operacional, reclamações, janelas temporais de entrada e amostragem direta.
+
+O **Índice de Captura Operacional — ICO** não mede religião, ideologia, filiação partidária ou posição política da família. Mede padrões administrativos simples: concentração de cadastros por mesmo intermediário, concentração de benefícios em uma entidade, muitos cadastros no mesmo telefone ou na mesma janela temporal, reclamações repetidas, pedido de dinheiro, voto, presença em comício, culto ou reunião, retenção de documentos, diferença anormal de tempo de atendimento, mutirão fechado em uma única entidade e ausência de canais diretos.
+
+Classificação recomendada:
+
+| Nível | Situação | Consequência |
+|---|---|---|
+| Verde | nenhum gatilho ativo ou concentração explicável | monitoramento ordinário |
+| Amarelo | um gatilho de concentração moderada | checagem leve e amostragem |
+| Laranja | múltiplos sinais ou reclamação grave isolada | reforço de canais diretos, revisão de fila e suspensão cautelar de recomendações contaminadas |
+| Vermelho | indício forte de cobrança, coação, uso político, religioso, econômico ou intermediação obrigatória | quarentena, revalidação, comunicação ao controle e retorno provisório ao modo municipal padrão quando necessário |
+
+O ICO não produz sanção automática. Produz revisão obrigatória.
+
+### 43.3. Gatilhos simples de captura
+
+Serão gatilhos de alerta, conforme protocolo local:
+
+- mais de 40% dos cadastros de um território em 30 dias por mesmo ator não público;
+- mais de 60% dos cadastros por mesmo ator não público;
+- mais de 40% dos benefícios, vistorias, mutirões ou capacitações concentrados em uma mesma entidade, rede familiar, grupo ou intermediário;
+- mesmo telefone, e-mail, aparelho, endereço de contato ou pessoa auxiliar em múltiplos cadastros;
+- grande volume de cadastros supostamente diretos na mesma janela temporal e microterritório;
+- três reclamações em 60 dias contra a mesma liderança, entidade, voluntário, empresa, grupo político ou religioso;
+- pedido de dinheiro, voto, favor, presença em comício, culto, reunião ou filiação;
+- retenção de documentos;
+- ausência anormal de prestadores independentes conhecidos na linha de base;
+- diferença anormal de tempo de atendimento entre indicados e não indicados;
+- mutirão público com participação esmagadora de uma única entidade sem justificativa territorial.
+
+Quando houver concentração em território de deserto assistencial, o alerta não deverá gerar punição automática. O status deverá ser tratado como **Parceiro de Alta Dependência**, exigindo presença física do município, canal direto e diversificação gradual da rede, não destruição da única ponte comunitária existente.
+
+A amostragem ativa poderá usar perguntas indiretas de triangulação, tais como: “Para abrir novas vagas, é melhor o município procurar diretamente a escola, a UBS, o CRAS ou alguma liderança local?” Essa pergunta evita exigir denúncia direta de família intimidada e ajuda a identificar medo de intermediários.
+
 ---
 
 ## 44. Probabilidade em vez de batida automática
@@ -1715,6 +1979,9 @@ Salvo risco grave, o Estado não deve aparecer imediatamente após um sinal, par
 Sinais não emergenciais entram em janela aleatória de checagem. A duração exata será definida em protocolo, conforme risco e capacidade local.
 
 Quando houver risco elevado de retaliação, pode-se usar amostragem pareada mínima: o alvo e um ou dois prestadores semelhantes entram no mesmo ciclo de revisão. Isso protege a fonte sem multiplicar o custo por dez.
+
+
+A inspeção pareada, em bloco ou por tema não será padrão universal. Ela será reservada a microterritórios com alto risco de retaliação, coerção comunitária, dependência econômica, milícia, tráfico, monopólio de cuidadora, captura política, controle religioso coercitivo ou histórico de conflito local. Em áreas comuns, deve-se usar fiscalização sentinela ordinária para evitar imposto logístico excessivo sobre a capacidade municipal.
 
 ---
 
@@ -1944,6 +2211,8 @@ Regra:
 
 ## 55. Ambiente digital
 
+Este bloco é anexo lateral de cuidado, não eixo do piloto inaugural. Na fase inicial, o componente digital deve limitar-se a orientação, educação digital, apoio técnico simples, consulta assistida e comunicação pública. O eixo inaugural é cuidado infantil real, microprestadores, status operacional e validação assistida.
+
 A proteção digital infantil deve ser cooperativa.
 
 Responsáveis devem cumprir supervisão compatível com idade, orientar sobre riscos, configurar limites quando possível e responder a sinais de aliciamento, cyberbullying, automutilação, pornografia, extorsão ou exposição de imagem.
@@ -2050,7 +2319,7 @@ A regra é:
 
 O piloto inaugural deverá ser empacotado em três peças, para equilibrar velocidade, segurança jurídica e controle político.
 
-**Primeira peça — Decreto Municipal do Piloto.** Institui o piloto por prazo determinado, define território, escopo, órgãos participantes, matriz de maturidade, janela de adesão voluntária protegida, RTTA, status operacional, cadastro reverso analógico-assistido, consulta assistida, Protocolo de Resposta Protetiva Imediata, bypass automático, regra antiempurra, rebaixamento de falso positivo, linha de base, KPIs, teto administrativo, governança de dados, relatórios mensais e vedação de uso eleitoral.
+**Primeira peça — Decreto Municipal do Piloto.** Institui o piloto por prazo determinado, define território, escopo, órgãos participantes, matriz de maturidade, janela de adesão voluntária protegida, RTTA, status operacional, cadastro reverso analógico-assistido, consulta assistida, Protocolo de Resposta Protetiva Imediata, bypass originário em N1-LRF, bypass por falha de coordenação quando houver plantão formal, regra antiempurra, rebaixamento de falso positivo, linha de base, KPIs, teto administrativo, governança de dados, relatórios mensais e vedação de uso eleitoral.
 
 **Segunda peça — Portaria Intersecretarial.** Traz os anexos operacionais: ficha de adesão, RTTA, ficha de Código Vermelho, cartão de bolso da Chave 1, matriz de risco, termo de ciência do prestador, protocolo de consulta assistida, matriz de dados, relatório mensal, fluxo de validação assistida e formulário de revisão em 24 horas.
 
@@ -2070,7 +2339,7 @@ O cronograma recomendado é:
 
 **Dia 0 a 15:** construção simultânea da linha de base do Mês 0, mediante operação relâmpago com escolas, UBS, CRAS, CREAS, agentes comunitários, Conselho Tutelar, listas de espera de creche, cadastros locais e denúncias qualificadas.
 
-**Dia 15 a 45:** campanha institucional, abertura da janela de adesão voluntária protegida, consulta assistida, início de pré-cadastros, teste do Protocolo de Resposta Protetiva Imediata e simulação do bypass automático.
+**Dia 15 a 45:** campanha institucional, abertura da janela de adesão voluntária protegida, consulta assistida, início de pré-cadastros, teste do Protocolo de Resposta Protetiva Imediata, simulação do bypass originário em N1-LRF e, quando houver plantão formal, simulação do bypass por falha de coordenação.
 
 **Dia 45 a 180:** execução dos RTTAs, status operacional, validação assistida de vínculos, revisões de risco, relatórios mensais, auditoria de custo administrativo, relatório de incidentes de dados e monitoramento de KPIs.
 
@@ -2097,6 +2366,63 @@ Atribuições mínimas do Coordenador Executivo de Arranque:
 Cláusula:
 
 > Durante os primeiros quinze dias do piloto, a coordenação central deverá operar em regime de prioridade administrativa, com autoridade expressa para articular secretarias, consolidar dados mínimos, cobrar entregas e resolver conflitos operacionais. A ausência de coordenação exclusiva nessa fase poderá comprometer a linha de base, a janela de adesão voluntária, o treinamento da Chave 1 e a credibilidade do Código Vermelho.
+
+
+### 56.8. Degradação da governança em N1-LRF
+
+Quando o município estiver classificado como N1 e impedido, por restrição fiscal, limite de despesa com pessoal, ausência de dotação ou vedação legal, de instituir plantão remunerado, gratificação, sobreaviso formal ou equipe dedicada, o Protocolo de Resposta Protetiva Imediata operará em modo de governança degradada.
+
+Nesse modo, não haverá promessa de plantão municipal próprio, SLA interno de três minutos ou coordenação contínua por servidor sem remuneração, escala formal e base legal. A proteção funcionará por bypass originário: qualquer agente público capacitado que reconheça risco grave acionará diretamente os serviços emergenciais existentes, conforme a natureza do risco.
+
+A função municipal remanescente será de capacitação das portas de entrada, distribuição de cartão operacional, registro posterior, consolidação administrativa, encaminhamento da continuidade assistencial e revisão no primeiro ciclo administrativo possível.
+
+### 56.9. Ecossistema Plural de Cooperação Protetiva
+
+O piloto poderá instituir Rede Cívica de Apoio Protetivo, formada por voluntários, profissionais, entidades, empresas, organizações sociais, universidades, associações comunitárias, instituições religiosas e grupos técnicos que desejem colaborar com a proteção infantil mínima.
+
+A rede poderá atuar em atividades não coercitivas: mutirões, capacitações, apoio logístico, orientação técnica, consulta assistida, alfabetização funcional, educação digital, oficinas de primeiros socorros, doações finalísticas e apoio a microprestadores.
+
+Voluntários e parceiros não poderão realizar visita domiciliar fiscalizatória autônoma, interrogar criança vítima, decidir Código Vermelho, aplicar sanção, interditar, acessar dados nominais, transportar criança de forma independente, exigir documentos, atuar armados ou apresentar-se como autoridade pública.
+
+### 56.10. Autonomia Local Parametrizada e Plano de Priorização Territorial
+
+Bairros, distritos, comunidades ou territórios piloto poderão adaptar meios e prioridades por meio de **Plano de Priorização Territorial**, aprovado por consulta pública, audiência, conselho local ou outro mecanismo participativo reconhecido pelo município.
+
+O plano poderá definir prioridades, arranjos de cooperação, participação de voluntários, uso de recursos privados, intensidade de mutirões, desenho de consulta assistida, composição consultiva local, mecanismos de transparência, modalidades de fomento e forma de acompanhamento comunitário.
+
+O plano não terá natureza de lei local autônoma, não vinculará despesas, contratações, sanções, vistorias ou decisões individuais e não substituirá lei, decreto, portaria, ECA, Constituição, decisão judicial, Conselho Tutelar ou autoridade pública competente.
+
+A personalização territorial observará três zonas: núcleo rígido não votável, zona flexível votável e zona experimental controlada. O núcleo rígido inclui proteção integral, devido processo, teste pobreza-negligência, proteção de dados, sigilo de casos individuais, resposta a risco grave, competência pública para coerção e controle externo.
+
+### 56.11. Proteção contra captura comunitária
+
+A Câmara Local ou instância territorial terá natureza consultiva, propositiva e avaliativa. Suas recomendações incidirão sobre prioridades gerais, linguagem pública, calendário, mutirões, temas de capacitação, formas de cooperação e avaliação do piloto.
+
+A decisão administrativa final caberá à autoridade pública competente. A Câmara Local não controlará portas de entrada, filas de atendimento, escolha nominal de beneficiários, definição de alvos de fiscalização, acesso a dados sensíveis, sanções, interdições, RTTA individual, medidas protetivas ou casos concretos.
+
+Nenhuma família, criança, responsável, voluntário ou microprestador dependerá de indicação, aprovação, filiação, pertencimento religioso, alinhamento político, vínculo associativo, relação pessoal ou validação comunitária para acessar proteção, consulta assistida, cadastro, capacitação, regularização assistida, fomento permitido ou canal de reclamação.
+
+### 56.12. Quarentena, revalidação e substituição protegida de atos capturados
+
+Confirmado alerta vermelho de captura territorial, intermediação política, cobrança, exigência de presença em comício, pedido de voto, favor, filiação, apoio religioso, associativo ou ideológico como condição de acesso ao programa, o órgão gestor instaurará **Protocolo de Quarentena, Revalidação e Substituição Protegida de Atos Capturados**.
+
+A instauração implicará bloqueio imediato do intermediário suspeito, suspensão de novos encaminhamentos por seu canal, congelamento de benefícios ainda não executados, abertura de canal direto alternativo, preservação de registros e comunicação ao controle interno e aos órgãos competentes quando houver indício de ilícito.
+
+RTTAs, prioridades, capacitações, apoios, vistorias ou benefícios vinculados ao fluxo suspeito entrarão em quarentena administrativa. A quarentena não produzirá interdição automática nem encerramento abrupto do serviço, salvo risco crítico atual não neutralizado. Sua finalidade é separar a nulidade da vantagem indevida da necessidade de proteção contínua das crianças atendidas.
+
+Cada RTTA em quarentena deverá ser revalidado por equipe independente do fluxo suspeito. Em município N1, a revalidação de caso capturado deverá incluir, quando possível, observador externo ao Executivo ou controle reforçado: Ministério Público, Defensoria, controle interno de carreira, Procuradoria de carreira, técnico de outro município, consórcio regional ou observador externo pactuado. Se isso não for possível, a revalidação degradada deverá ser justificada e comunicada ao órgão de controle.
+
+### 56.13. Estratégia de aprovação legislativa
+
+A lei municipal curta deverá autorizar o piloto, o fomento condicionado, fundos ou envelopes financeiros, isenções, sanções específicas, parcerias e deveres gerais de particulares, quando necessário. O decreto regulamentará critérios operacionais, matriz de risco, fila cega, RTTA, quarentena administrativa, indicadores de captura e salvaguardas contra intermediação. A portaria disciplinará formulários, fluxos, cartões operacionais, relatórios e anexos técnicos.
+
+A negociação política deverá ser transparente: lei, decreto e portaria poderão ser apresentados aos líderes legislativos como pacote institucional completo, para evitar acusação de cheque em branco. A votação legislativa deverá recair apenas sobre matérias que exijam autorização legal. Elementos técnicos ajustáveis não deverão ser engessados em lei, para que formulários, matrizes, filas, prazos operacionais e critérios de triagem possam ser corrigidos por decreto ou portaria conforme os resultados do piloto.
+
+Parlamentares poderão apoiar territórios, temas e políticas públicas, propor audiências, destinar emendas territoriais, acompanhar relatórios e receber crédito público legítimo pela entrega territorial. Não poderão escolher beneficiários, controlar filas, indicar prestadores, acessar dados nominais, intermediar cadastro, interferir em RTTA ou condicionar atendimento a apoio político.
+
+Cláusula:
+
+> A emenda territorial define onde ou em que tema o recurso será aplicado; não define quem recebe primeiro. A ordem de execução será determinada pela matriz técnica de risco, por critérios públicos e por fila auditável.
 
 ---
 
@@ -2138,9 +2464,9 @@ Medida concreta de proteção inclui retirada de exposição atual, contenção 
 **Indicadores auxiliares:**
 
 - percentual de códigos vermelhos com acionamento simultâneo registrado;
-- percentual com bypass automático quando o coordenador não respondeu;
+- percentual de casos em que houve bypass originário em N1-LRF ou bypass por falha de coordenação formal em N2/N3;
 - percentual com primeiro órgão em cena ou assunção formal dentro do SLA territorial;
-- percentual com desmobilização ou rebaixamento formal no Minuto 20 quando configurado falso positivo ou risco inferior;
+- percentual com desmobilização ou rebaixamento formal no marco de reavaliação operacional quando configurado falso positivo ou risco inferior;
 - percentual de casos rebaixados que permaneceram referenciados na assistência social, saúde, escola, Conselho Tutelar ou serviço competente quando havia vulnerabilidade residual, crise neurodivergente, dúvida razoável ou risco social;
 - percentual com revisão obrigatória em até 24 horas;
 - número de casos sem assunção formal por nenhum órgão;
@@ -2173,6 +2499,29 @@ O piloto somente será expandido se, após seis meses, demonstrar conversão ver
 Critério de continuidade:
 
 > O programa só deve expandir se demonstrar melhora real de indicadores infantis, baixo índice de abuso estatal, tratamento adequado de incidentes de dados, custo justificável, ausência de viés sistemático contra famílias pobres ou prestadores comunitários e maior eficiência que alternativas menos invasivas ou mais universais.
+
+
+### 57.5. Indicadores adicionais da camada de sobrevivência institucional
+
+O piloto deverá monitorar, conforme capacidade local:
+
+- número de RTTAs classificados como Amarelo-contido, Laranja-sem-exposição e Vermelho-exposto;
+- número de quebras de contenção e caducidades por reabertura de área vedada;
+- quantidade de acionamentos ao 190 e percentual efetivamente policial;
+- percentual de acionamentos policiais por vulnerabilidade social sem perigo físico atual;
+- número de TEPES emitidos;
+- recusas de Porta 93 ou acolhimento emergencial;
+- uso de hospital sem necessidade médica;
+- Códigos Vermelhos em fim de semana, feriado ou madrugada;
+- tempo até assunção formal por órgão competente;
+- casos sem porta de destino;
+- acionamentos em modo N1-LRF;
+- alertas ICO por território;
+- quarentenas de atos capturados;
+- RTTAs revalidados por equipe independente;
+- fechamentos com acionamento do Envelope 3;
+- reclamações de intermediação política, religiosa, econômica ou associativa;
+- concentração de benefícios ou cadastros por intermediário não público.
 
 ---
 
@@ -2230,9 +2579,9 @@ Funções:
 - receber ou registrar acionamentos emergenciais;
 - operar a lista de acionamento protetivo;
 - acionar simultaneamente polícia, SAMU, Conselho Tutelar, saúde, assistência, Ministério Público, Judiciário ou autoridade competente;
-- aplicar bypass automático quando o plantão não responder;
+- aplicar bypass originário em N1-LRF ou bypass por falha de coordenação quando houver plantão formal;
 - registrar assunção formal do caso por órgão materialmente competente;
-- controlar desmobilização ou rebaixamento no Minuto 20 quando houver falso positivo ou risco inferior;
+- controlar desmobilização ou rebaixamento no marco de reavaliação operacional quando houver falso positivo ou risco inferior;
 - impedir que desmobilização operacional apague registro social quando houver vulnerabilidade residual, crise neurodivergente, dúvida razoável ou risco familiar;
 - encaminhar casos rebaixados com seguimento assistencial à saúde, assistência, escola, Conselho Tutelar ou serviço competente;
 - reduzir tempo de resposta;
@@ -2261,7 +2610,7 @@ A implementação deverá observar três níveis de maturidade municipal.
 
 | Nível | Capacidade | Implementação recomendada |
 |---|---|---|
-| N1 — baixa capacidade | município pequeno, baixa infraestrutura digital, equipes reduzidas, conselho tutelar sem plantão contínuo, CRAS/UBS com limitações | modo analógico-assistido, RTTA simples, consulta presencial, validação por escola/UBS/CRAS/agente comunitário, ficha de Código Vermelho, telefone de plantão, relatório mensal simplificado |
+| N1 — baixa capacidade | município pequeno, baixa infraestrutura digital, equipes reduzidas, conselho tutelar sem plantão contínuo, CRAS/UBS com limitações | modo analógico-assistido, RTTA simples, consulta presencial, validação por escola/UBS/CRAS/agente comunitário, ficha de Código Vermelho, canal funcional ou canal de registro quando existente, sem promessa de plantão sem escala formal, relatório mensal simplificado |
 | N2 — média capacidade | estrutura administrativa regular, algum suporte digital, equipe técnica parcial, capacidade de coordenação intersetorial | formulários digitais simples, número municipal, planilha segura ou sistema leve, status público básico, grupo institucional, auditoria amostral, SLA territorializado |
 | N3 — alta capacidade | capital, região metropolitana ou município com equipe técnica, TI, controle interno e capacidade de integração | plataforma integrada, tokens, logs sofisticados, painel de indicadores, auditoria antiviés robusta, integração federada, central digital de resposta |
 
@@ -2274,6 +2623,41 @@ Sempre que possível, o modelo deverá converter substantivos institucionais em 
 Cláusula:
 
 > A criação de nova estrutura administrativa somente será recomendada quando demonstrada necessidade, custo, fonte orçamentária, ganho operacional e impossibilidade de execução por órgãos existentes.
+
+
+### 58.11. Rede Cívica de Apoio Protetivo
+
+A Rede Cívica de Apoio Protetivo será camada auxiliar não coercitiva. Sua adesão dependerá de termo formal, identificação, escopo definido, treinamento obrigatório, código de conduta, compromisso de sigilo, declaração de conflito de interesses, vedação de uso político-eleitoral e possibilidade de descredenciamento.
+
+Poderão participar voluntários comunitários, profissionais técnicos, universidades, empresas, organizações da sociedade civil, entidades religiosas ou comunitárias, associações de bairro, conselhos profissionais quando cabível e especialistas independentes.
+
+### 58.12. Câmara Plural e Câmara Local
+
+A Câmara Plural do piloto e eventual Câmara Local terão natureza consultiva, propositiva e avaliativa. Não decidirão casos individuais, não acessarão dados nominais, não aplicarão sanção, não autorizarão visita domiciliar, não decidirão retirada de criança e não substituirão autoridade pública.
+
+A composição deverá observar pluralidade, rotatividade, declaração de vínculos, ata pública e vedação de maioria absoluta de membros vinculados à mesma entidade, grupo econômico, organização religiosa, partido, associação, rede familiar ou prestador interessado.
+
+### 58.13. Voluntários e contato domiciliar
+
+Voluntários e parceiros comunitários não realizarão contato ativo domiciliar individualizado com famílias ou responsáveis para tratar de risco, negligência, cuidado parental, denúncia ou confirmação sensível, salvo em mutirão público, atividade coletiva, solicitação expressa da família ou acompanhamento por servidor público competente.
+
+A atuação voluntária em territórios de difícil acesso deverá reduzir distância operacional, e não criar fiscalização informal, delação comunitária, controle moral ou punição de famílias vulneráveis.
+
+### 58.14. Canais diretos e vedação de despachante obrigatório
+
+Nenhuma família, responsável ou microprestador dependerá de aprovação, indicação, apadrinhamento, validação comunitária, filiação religiosa, vínculo associativo, apoio político ou reconhecimento pela Câmara Local para acessar cadastro, orientação, consulta assistida, capacitação ou proteção emergencial.
+
+É vedada a exigência de passagem prévia por associação de bairro, entidade religiosa, liderança comunitária, câmara local, empresa apoiadora, vereador, movimento político ou intermediário informal para acessar direitos, apoio técnico, regularização assistida ou proteção infantil.
+
+### 58.15. Filas cegas, conflitos de interesse e distribuição objetiva
+
+Filas, apoios, capacitações, mutirões, vistorias, subsídios, consultorias e acesso a benefícios seguirão critérios objetivos, públicos, auditáveis e compatíveis com risco infantil, ordem de inscrição, vulnerabilidade, territorialidade, sorteio, rodízio ou decisão técnica motivada.
+
+Integrante de Câmara Local, voluntário ou parceiro deverá declarar conflito de interesses e ficará impedido de participar de discussão ou recomendação que beneficie diretamente sua entidade, empresa, grupo, rede familiar, prestador vinculado ou concorrente direto.
+
+### 58.16. Status de captura e retorno ao modo municipal padrão
+
+Identificada captura ideológica, religiosa, econômica, familiar, partidária, comunitária ou empresarial da Câmara Local, Rede Cívica, parceiro ou Plano de Priorização Territorial, o órgão gestor poderá suspender seus efeitos consultivos, invalidar recomendações contaminadas, reabrir consulta pública, substituir membros, acionar controle interno e retornar provisoriamente ao modo municipal padrão de implementação.
 
 ---
 
@@ -2349,6 +2733,31 @@ O sistema deverá ser fiscalizado por instâncias independentes: defensorias, co
 
 Bodycams, fotos, gravações, relatórios e dados digitais não substituem devido processo, contraditório, defesa, perícia ou prova técnica. A família poderá contestar a interpretação de qualquer registro, e a ausência de gravação não poderá prejudicá-la automaticamente.
 
+
+### 60.8. Garantia contra captura comunitária, política e econômica
+
+A participação comunitária, privada, voluntária ou parlamentar não poderá controlar portas de entrada, filas, benefícios, fiscalização individual, dados nominais, RTTA, sanções ou medidas protetivas.
+
+O controle do programa deverá impedir boicote silencioso, concentração injustificada de benefícios, intermediação obrigatória, captura de mutirões, uso eleitoral de fomento, exclusão de minorias locais e transformação de maioria comunitária em poder informal sobre famílias vulneráveis.
+
+### 60.9. Proteção contra retaliação
+
+Constitui infração grave qualquer retaliação contra família, criança, responsável, microprestador, voluntário ou servidor em razão de denúncia, confirmação de vínculo, recusa de participação comunitária, divergência política, religiosa ou ideológica, contestação de decisão local ou uso de canal direto do Município.
+
+Retaliação inclui expulsão de criança, aumento de preço, negativa de vaga, exposição pública, ameaça, boato, exigência de print, cobrança de favor, bloqueio de acesso a mutirão ou uso de denúncia como intimidação.
+
+### 60.10. Matriz de judicialização provável
+
+| Ponto sensível | Risco jurídico provável | Trava de contenção |
+|---|---|---|
+| RTTA | interpretação como licença, alvará ou chancela estatal | tarja de triagem limitada, escopo restrito, termo de ciência, limites operacionais e reavaliação |
+| Status público | dano reputacional, concorrência predatória ou erro de informação | data visível, contestação rápida, histórico mínimo e linguagem neutra |
+| Porta 93 | aparência de acolhimento municipal paralelo ao ECA | excepcionalidade, TEPE, comunicação em até 24 horas, pactuação prévia e vedação de substituição do Conselho ou Judiciário |
+| Dados pessoais | vazamento, excesso de coleta ou recusa genérica de cooperação | matriz de dados, minimização, logs, acesso por perfil, retenção limitada e canal de contestação |
+| ICO | acusação de perseguição política, religiosa ou comunitária | gatilho não sancionatório, revisão obrigatória, amostragem, contraditório e retorno ao modo padrão |
+| Fomento | clientelismo, favorecimento ou emenda de destinatário disfarçado | fila cega, critério público, vedação de intermediação e matriz de risco |
+| Voluntariado | vigilantismo moral ou coerção informal | sem visita domiciliar autônoma, sem dados nominais, sem decisão de risco e sem poder sancionatório |
+
 ---
 
 ## 61. Formulações normativas consolidadas
@@ -2391,7 +2800,7 @@ Bodycams, fotos, gravações, relatórios e dados digitais não substituem devid
 
 ### 61.10. Protocolo de Resposta Protetiva Imediata
 
-> O Código Vermelho Protetivo poderá ser reconhecido preliminarmente por qualquer agente público capacitado da rede diante de risco grave, concreto ou iminente à criança ou adolescente, devendo haver acionamento simultâneo dos órgãos competentes, bypass automático se o coordenador de plantão não responder, vedação de recusa passiva por incompetência, possibilidade de rebaixamento ou desmobilização quando constatado falso positivo, continuidade assistencial obrigatória quando houver vulnerabilidade residual, crise neurodivergente, dúvida razoável ou risco social, e revisão obrigatória em até 24 horas.
+> O Código Vermelho Protetivo poderá ser reconhecido preliminarmente por qualquer agente público capacitado da rede diante de risco grave, concreto ou iminente à criança ou adolescente, devendo haver acionamento simultâneo dos órgãos competentes, bypass originário em N1-LRF, bypass por falha de coordenação quando houver plantão formal, vedação de recusa passiva por incompetência, possibilidade de rebaixamento ou desmobilização no marco de reavaliação operacional quando constatado falso positivo, continuidade assistencial obrigatória quando houver vulnerabilidade residual, crise neurodivergente, dúvida razoável ou risco social, e revisão em até 24 horas quando houver plantão formal ou equipe disponível, ou no primeiro ciclo administrativo possível em N1-LRF.
 
 ### 61.11. Matriz de maturidade municipal
 
@@ -2428,6 +2837,51 @@ Bodycams, fotos, gravações, relatórios e dados digitais não substituem devid
 ### 61.19. Rebaixamento com continuidade assistencial
 
 > O rebaixamento ou desmobilização do Código Vermelho libera órgãos emergenciais desnecessários, mas não arquiva automaticamente a ocorrência. Havendo vulnerabilidade residual, crise neurodivergente, sofrimento psíquico, conflito doméstico, suspeita ambígua, risco social ou possibilidade de manipulação da cena por agressor, o caso permanecerá referenciado na assistência social, saúde, escola, Conselho Tutelar ou serviço competente, com revisão em até 24 horas e acompanhamento proporcional.
+
+
+### 61.20. Degradação operacional segura
+
+> Quando o município não possuir capacidade fiscal, material, técnica ou humana para executar o fluxo ideal, o modelo degradará para fluxo mais simples, restritivo e documentado, sem omissão diante de risco grave e sem simulação de plantão, equipe, SLA, tecnologia ou fomento inexistente.
+
+### 61.21. Neutralização da exposição no RTTA
+
+> A providência imediata em RTTA será neutralizar a exposição da criança ao risco. Compra, obra ou solução definitiva poderão ser escalonadas quando o risco estiver isolado, a área vedada ou a exposição eliminada antes da continuidade.
+
+### 61.22. Riscos não transicionáveis
+
+> Risco fatal visualizado não poderá ser tratado como pendência transicionável enquanto houver criança exposta. Sem neutralização da exposição, o caso deverá ser classificado como Vermelho-exposto, com restrição, interdição parcial ou total e acionamento protetivo quando cabível.
+
+### 61.23. Bypass originário em N1-LRF
+
+> Em município de baixa capacidade sob restrição fiscal, o Código Vermelho operará por bypass originário: qualquer agente capacitado acionará diretamente o órgão materialmente competente, sem plantão municipal fictício, sobreaviso informal ou SLA incompatível com a capacidade real.
+
+### 61.24. Porta 93 e TEPE
+
+> Criança ou adolescente retirado de situação de risco e sem responsável apto não poderá permanecer em viatura, hospital sem indicação médica, via pública, delegacia ou local inseguro por ausência de guia. O acolhimento emergencial poderá ocorrer por Porta 93, mediante TEPE e comunicação posterior em até 24 horas às autoridades competentes.
+
+### 61.25. Ecossistema plural sem privatização da coerção
+
+> Voluntários, empresas, universidades, organizações sociais e comunidades poderão apoiar o modelo em funções não coercitivas, com termo formal, treinamento, sigilo e supervisão. Não poderão fiscalizar famílias autonomamente, decidir risco, acessar dados nominais, aplicar sanção, interditar ou substituir autoridade pública.
+
+### 61.26. Autonomia local parametrizada
+
+> Territórios poderão personalizar meios, prioridades e instrumentos operacionais por Plano de Priorização Territorial, sem reduzir o piso mínimo infantil, privatizar coerção, punir pobreza, expor dados sensíveis, eliminar defesa ou impor padrão moral, religioso, ideológico ou econômico como condição de proteção.
+
+### 61.27. Proteção contra captura comunitária
+
+> A Câmara Local será consultiva, propositiva e avaliativa. A comunidade poderá escolher prioridades, mas não controlar portas de entrada, filas, beneficiários, dados, RTTA, fiscalizações, sanções, interdições ou casos individuais.
+
+### 61.28. Índice de Captura Operacional
+
+> O piloto adotará métrica simples de alerta baseada em concentração operacional, reclamações e amostragem. O ICO não prova captura nem gera sanção automática; aciona revisão, canal direto, fila cega, sorteio, rodízio, revalidação ou retorno provisório ao modo municipal padrão.
+
+### 61.29. Quarentena de atos capturados
+
+> Confirmado alerta vermelho de captura, RTTAs, prioridades, apoios, vistorias ou benefícios contaminados entrarão em quarentena administrativa. A vantagem fraudada será congelada ou cancelada, mas a proteção das crianças será preservada por revalidação técnica, limites operacionais e plano de continuidade.
+
+### 61.30. Aprovação legislativa e papel parlamentar
+
+> A lei curta autorizará matérias que exigem base legal; decreto e portaria disciplinarão critérios operacionais ajustáveis. Parlamentares poderão apoiar territórios, temas e fiscalização pública, mas não indicar beneficiários, controlar filas, intermediar cadastros, acessar dados infantis ou interferir em RTTAs.
 
 ---
 
@@ -2575,7 +3029,7 @@ Situação: microcreche comunitária possui documentação incompleta e escada s
 Resposta:
 
 1. isolamento imediato da escada antes da continuidade;
-2. RTTA com risco amarelo-transição;
+2. RTTA com risco Amarelo-contido;
 3. limitação de áreas e número de crianças;
 4. providência em 48 horas para barreira física;
 5. comunicação simples às famílias;
@@ -2584,17 +3038,17 @@ Resposta:
 
 ### 62.12. Código Vermelho Protetivo às 3 da manhã
 
-Situação: profissional de saúde ou agente público toma conhecimento de criança exposta a agressão grave durante a madrugada e o coordenador de plantão não atende em três minutos.
+Situação: profissional de saúde ou agente público toma conhecimento de criança exposta a agressão grave durante a madrugada. No município N1-LRF não há coordenador formal de plantão; em município com plantão formal, a coordenação não responde no prazo operacional definido.
 
 Resposta:
 
-1. acionamento direto de 190 e/ou 192 pelo bypass automático;
+1. acionamento direto de 190 e/ou 192 pelo bypass originário em N1-LRF ou pelo bypass por falha de coordenação quando houver plantão formal;
 2. registro mínimo do Código Vermelho;
-3. comunicação posterior ao coordenador e Conselho Tutelar;
+3. comunicação posterior ao órgão gestor, à coordenação formal quando existente e ao Conselho Tutelar;
 4. assunção formal pelo primeiro órgão materialmente competente;
 5. medida protetiva imediata conforme risco;
 6. revisão obrigatória em até 24 horas;
-7. apuração administrativa da falha de plantão.
+7. apuração administrativa da falha de coordenação quando houver plantão formal; em N1-LRF, registro da ocorrência para consolidação no primeiro ciclo administrativo possível.
 
 ### 62.13. Falso positivo ou rebaixamento em Código Vermelho
 
@@ -2603,7 +3057,7 @@ Situação: vizinho relata espancamento, mas a primeira autoridade em cena const
 Resposta:
 
 1. registro da ocorrência;
-2. desmobilização dos órgãos emergenciais não necessários no Minuto 20;
+2. desmobilização dos órgãos emergenciais não necessários no marco de reavaliação operacional;
 3. classificação como **Código Vermelho Rebaixado com Seguimento Assistencial**, quando houver crise neurodivergente, sofrimento psíquico, vulnerabilidade ou dúvida razoável;
 4. encaminhamento à saúde, assistência social, escola, Conselho Tutelar ou serviço competente, conforme a necessidade;
 5. revisão em 24 horas;
@@ -2671,6 +3125,209 @@ Resposta:
 4. o caso permanece referenciado na assistência social, escola, saúde ou Conselho Tutelar para contato posterior proporcional;
 5. a revisão em 24 horas verifica se a normalidade aparente era suficiente para encerrar ou se exige acompanhamento.
 
+
+### 62.19. Microcreche com escada isolada
+
+Situação: microcreche tem escada sem grade em área que pode ser bloqueada imediatamente.
+
+Resposta:
+
+1. bloquear a escada antes da continuidade;
+2. registrar Amarelo-contido;
+3. vedar uso da área;
+4. reduzir circulação ou capacidade se necessário;
+5. exigir solução definitiva em prazo compatível;
+6. caducar o RTTA se a área for reaberta antes da adequação.
+
+### 62.20. Quebra de contenção após RTTA
+
+Situação: prestador reabre cômodo interditado para acomodar crianças em dia de chuva.
+
+Resposta:
+
+1. classificar como quebra de contenção;
+2. suspender efeitos da decisão de não interdição;
+3. reclassificar como Vermelho-exposto se houver risco crítico;
+4. acionar reavaliação urgente;
+5. perder benefícios da adesão voluntária protegida se houver dolo ou reincidência.
+
+### 62.21. Município N1-LRF sem plantão
+
+Situação: professor identifica risco grave à noite, mas o município não possui plantão formal.
+
+Resposta:
+
+1. usar bypass originário;
+2. acionar órgão materialmente competente;
+3. registrar notificação mínima;
+4. comunicar no primeiro ciclo administrativo possível;
+5. vedar cobrança de sobreaviso informal de servidor sem escala legal.
+
+### 62.22. Criança trancada sem comida
+
+Situação: crianças de 2 e 4 anos estão trancadas em casa há dois dias, sem adulto apto e sem comida.
+
+Resposta:
+
+1. classificar como Vermelho-tutelar com componente médico e possível componente policial;
+2. acionar saúde por risco biológico;
+3. acionar segurança se houver necessidade de acesso seguro;
+4. acionar Conselho Tutelar ou Porta 93;
+5. não tratar como simples Laranja administrativo.
+
+### 62.23. PM retira criança de violência doméstica e Conselho não atende
+
+Situação: polícia afasta agressor de madrugada, criança está sem responsável seguro e o Conselho Tutelar não responde.
+
+Resposta:
+
+1. tentar responsável seguro ou família extensa apta;
+2. se inexistente ou duvidoso, acionar Porta 93;
+3. preencher TEPE;
+4. serviço de acolhimento recebe sem exigir guia prévia;
+5. comunicar Juízo, Conselho Tutelar, Ministério Público e órgão gestor em até 24 horas.
+
+### 62.24. Hospital usado como abrigo social
+
+Situação: criança sem lesão é deixada em pronto-socorro porque abrigo exigiu guia.
+
+Resposta:
+
+1. registrar desvio de fluxo;
+2. acionar Porta 93;
+3. manter hospital apenas se houver necessidade clínica;
+4. comunicar recusa do serviço de acolhimento;
+5. revisar pactuação interinstitucional.
+
+### 62.25. Entrega temporária à avó
+
+Situação: criança retirada de conflito doméstico pode ficar com avó sóbria, identificada e não vinculada ao agressor.
+
+Resposta:
+
+1. identificar a avó;
+2. registrar vínculo e local seguro;
+3. colher termo de recebimento;
+4. comunicar Conselho Tutelar no primeiro ciclo possível;
+5. optar pela Porta 93 se houver dúvida de conivência ou retorno ao agressor.
+
+### 62.26. Voluntário tenta visitar família sozinho
+
+Situação: voluntária de entidade local quer ir à casa de mãe solo para orientar sobre cuidado infantil.
+
+Resposta:
+
+1. vedar visita domiciliar autônoma;
+2. redirecionar para oficina pública, escola, UBS, CRAS ou mutirão;
+3. permitir contato domiciliar apenas por solicitação expressa da família ou com servidor competente;
+4. registrar orientação ao voluntário.
+
+### 62.27. Bairro libertário escolhe execução privada complementar
+
+Situação: território prefere fundo privado, seguro mutualista e auditoria independente.
+
+Resposta:
+
+1. admitir como zona flexível ou experimental;
+2. exigir transparência, controle de conflito e proteção de dados;
+3. vedar escolha nominal de beneficiários;
+4. manter sanção, interdição e decisão de risco sob autoridade pública.
+
+### 62.28. Câmara Local tenta priorizar entidade dominante
+
+Situação: Câmara Local recomenda que apenas prestadores ligados a associação reconhecida recebam capacitação.
+
+Resposta:
+
+1. vetar recomendação por efeito discriminatório;
+2. aplicar critérios objetivos;
+3. abrir canal direto;
+4. usar sorteio ou rodízio entre elegíveis;
+5. registrar risco de captura comunitária.
+
+### 62.29. Intermediário político cobra presença em comício
+
+Situação: vereador condiciona regularização assistida de microcreches à presença em evento político.
+
+Resposta:
+
+1. acionar ICO vermelho;
+2. bloquear o intermediário;
+3. suspender novos encaminhamentos por seu canal;
+4. colocar RTTAs ligados ao fluxo em quarentena;
+5. abrir canal direto;
+6. comunicar controle interno, Ministério Público e órgão eleitoral quando cabível.
+
+### 62.30. RTTA capturado com crianças atendidas
+
+Situação: microcreche obteve RTTA por fluxo político contaminado, mas atende 12 crianças.
+
+Resposta:
+
+1. não fechar automaticamente;
+2. revalidar por equipe limpa ou controle reforçado;
+3. verificar risco crítico atual;
+4. se não houver risco exposto, emitir RTTA substituto limpo;
+5. se houver risco crítico, acionar plano de continuidade infantil.
+
+### 62.31. Fechamento inevitável sem vagas públicas
+
+Situação: microcreche deve fechar por risco de colapso estrutural e não há vaga pública suficiente.
+
+Resposta:
+
+1. acionar Envelope 3;
+2. mapear crianças e faixas etárias;
+3. buscar vaga privada formal temporária, voucher emergencial, transporte, CRAS, família extensa segura ou contraturno provisório;
+4. documentar insuficiência estrutural;
+5. não limitar o plano a “inserção em fila de espera”.
+
+### 62.32. Gatilho de captura por janela temporal
+
+Situação: 40 cadastros supostamente diretos entram na mesma terça-feira entre 14h e 16h no mesmo bairro.
+
+Resposta:
+
+1. acionar alerta ICO;
+2. checar se houve mutirão informal ou intermediação;
+3. realizar amostragem indireta;
+4. reforçar canal direto;
+5. não punir automaticamente famílias ou prestadores.
+
+### 62.33. Território com único parceiro real
+
+Situação: 80% dos cadastros vêm da única ONG que atua em área isolada.
+
+Resposta:
+
+1. não presumir captura;
+2. classificar como Parceiro de Alta Dependência;
+3. criar canal direto municipal no território;
+4. ampliar presença pública e diversificar rede gradualmente;
+5. monitorar sem destruir a única ponte assistencial.
+
+### 62.34. Emenda parlamentar territorial em bairro com um único prestador
+
+Situação: vereador destina emenda para bairro que possui apenas uma microcreche.
+
+Resposta:
+
+1. verificar se a delimitação territorial equivale a beneficiário nominal;
+2. ampliar a unidade territorial ou agrupar microáreas;
+3. aplicar matriz de risco, sorteio ou rodízio;
+4. vedar execução que funcione como indicação individual disfarçada.
+
+### 62.35. Sessão solene sem controle da fila
+
+Situação: vereador destinou recurso para capacitação territorial e quer participar da entrega pública.
+
+Resposta:
+
+1. permitir crédito simbólico, audiência, relatório ou sessão solene;
+2. vedar escolha de beneficiários;
+3. publicar critérios de fila;
+4. registrar que a emenda define território ou tema, não destinatário individual.
+
 ## 63. Anexo de críticas previsíveis e respostas sintéticas
 
 ### 63.1. “Isso pode virar autoritarismo estatal.”
@@ -2721,6 +3378,27 @@ Medidas de segurança escolar são contextuais, proporcionais e subordinadas ao 
 
 A sanção deve atingir controlador do risco, não criança. Se a penalidade ameaça serviço essencial, o Estado pode garantir continuidade de forma recuperável, com sub-rogação, bloqueio de recebíveis e cobrança posterior.
 
+
+### 63.13. “Voluntários podem virar fiscais morais.”
+
+Sim, se não houver limites. Por isso voluntários não fazem visita domiciliar fiscalizatória autônoma, não acessam dados nominais, não decidem risco, não aplicam sanção e não substituem autoridade pública.
+
+### 63.14. “A autonomia local pode virar tirania da maioria.”
+
+Sim, se a maioria puder decidir direitos. Por isso a autonomia local incide apenas sobre meios e prioridades. O núcleo rígido de proteção infantil, devido processo, sigilo, dados e resposta a risco grave não é votável.
+
+### 63.15. “A Câmara Local pode capturar a fila.”
+
+Não deve. A Câmara é consultiva. Filas, benefícios, RTTA, sanções, dados e decisões individuais seguem critérios públicos, fila cega, matriz de risco e autoridade pública competente.
+
+### 63.16. “O município pequeno não consegue auditar captura.”
+
+Por isso o modelo usa o Índice de Captura Operacional, baseado em concentração simples, reclamações, janelas temporais, canais de entrada e amostragem. O objetivo não é provar intenção ideológica, mas detectar anomalia operacional e acionar revisão.
+
+### 63.17. “Cancelar RTTA fraudado pode jogar crianças na rua.”
+
+Por isso atos capturados entram em quarentena e revalidação, não cancelamento explosivo. Cancela-se a vantagem fraudada; preserva-se a proteção da criança até avaliação técnica e plano de continuidade.
+
 ## 64. O que o modelo não defende
 
 O modelo não defende:
@@ -2742,7 +3420,15 @@ O modelo não defende:
 - licença provisória para operar abaixo do núcleo indeclinável;
 - banco municipal nominal de rotina infantil;
 - punição automática por denúncia anônima;
-- varredura territorial permanente e cara.
+- varredura territorial permanente e cara;
+- voluntários como fiscais morais;
+- privatização da coerção;
+- Câmara Local decidindo caso individual;
+- bairro votando para reduzir direito da criança;
+- vereador, líder religioso, associação ou empresa controlando fila;
+- hospital como abrigo social;
+- plantão informal por WhatsApp;
+- cancelamento explosivo de RTTA sem continuidade infantil.
 
 O modelo defende:
 
@@ -2765,11 +3451,24 @@ O modelo defende:
 - RTTA;
 - Protocolo de Resposta Protetiva Imediata;
 - métricas auditáveis de expansão;
-- controle externo.
+- controle externo;
+- degradação operacional segura;
+- neutralização imediata da exposição ao risco;
+- Porta 93 e TEPE;
+- bypass originário em N1-LRF;
+- ecossistema plural sem privatizar coerção;
+- autonomia local parametrizada;
+- fila cega e proteção contra captura comunitária;
+- Índice de Captura Operacional;
+- quarentena e revalidação de atos capturados;
+- plano de continuidade infantil real;
+- estratégia legislativa com crédito político legítimo sem intermediação individual.
 
 ---
 
 ## 65. Referências normativas e técnicas
+
+Antes da edição de decreto, portaria ou projeto de lei local, as referências normativas recentes deverão ser verificadas quanto a vigência, regulamentação, competência aplicável e pertinência ao escopo municipal. As normas digitais citadas funcionam como compatibilidade lateral, não como eixo organizador do piloto inaugural.
 
 A implementação deverá observar a Constituição Federal, o Estatuto da Criança e do Adolescente, a Lei Geral de Proteção de Dados, a Lei de Acesso à Informação, a Lei de Governo Digital, a legislação educacional, sanitária, assistencial, penal, processual, de trânsito, acessibilidade, contratação pública, defesa do consumidor, proteção digital e normas técnicas aplicáveis.
 
@@ -2799,6 +3498,10 @@ A implementação deverá observar a Constituição Federal, o Estatuto da Crian
 - Plano Nacional de Educação vigente e normas educacionais complementares;
 - Lei Complementar nº 123/2006, quanto ao tratamento diferenciado de microempresas e empresas de pequeno porte;
 - Lei nº 14.133/2021 e regulamentos de contratação pública, credenciamento, controle, pagamento direto, garantias e responsabilização;
+- Lei nº 9.608/1998, Lei do Serviço Voluntário;
+- Lei nº 13.019/2014, Marco Regulatório das Organizações da Sociedade Civil, quando houver parcerias com organizações sociais;
+- Lei Complementar nº 101/2000, Lei de Responsabilidade Fiscal, especialmente quanto a despesa de pessoal, criação de vantagens, plantões e sobreavisos;
+- legislação eleitoral aplicável, quando houver risco de uso político, comício, voto, apoio eleitoral ou intermediação parlamentar indevida;
 - Código de Trânsito Brasileiro — Lei nº 9.503/1997, especialmente transporte escolar;
 - normas sanitárias, assistenciais, educacionais, de engenharia, acessibilidade, segurança contra incêndio, defesa civil, vigilância sanitária e proteção infantil;
 - normas técnicas do sistema Confea/Crea, CAU, Corpo de Bombeiros, vigilância sanitária, transporte, acessibilidade e segurança aplicáveis a cada setor.
@@ -2836,8 +3539,21 @@ Sua fórmula é:
 21. garantir cooperação intersetorial mínima sem transformar LGPD em escudo de inércia;
 22. proteger a quinzena inicial com coordenação executiva exclusiva e linha de base relâmpago;
 23. permitir rebaixamento operacional do Código Vermelho sem arquivamento social automático;
-24. expandir apenas após demonstração de efetividade, proporcionalidade e segurança informacional.
+24. operar em degradação segura quando faltar capacidade municipal;
+25. neutralizar a exposição ao risco antes de exigir solução definitiva;
+26. acionar Porta 93 e TEPE quando o fluxo tutelar ordinário falhar em urgência;
+27. impedir hospitalização social e policialização da pobreza;
+28. admitir cooperação plural sem privatizar coerção;
+29. permitir autonomia local parametrizada sem reduzir direitos infantis;
+30. impedir captura comunitária por fila cega, canais diretos e ICO;
+31. colocar atos capturados em quarentena, com revalidação e continuidade infantil;
+32. permitir crédito parlamentar legítimo sem intermediação individual;
+33. expandir apenas após demonstração de efetividade, proporcionalidade e segurança informacional.
 
 Frase-síntese:
 
-> A proteção infantil não deve virar vigilância doméstica, punição da pobreza, resgate de infratores ou burocracia mais cara que o cuidado. O caminho mais justo é definir limiares materiais de risco, oferecer meios reais de adequação, responsabilizar quem controla o perigo e fiscalizar com inteligência proporcional ao risco.
+> A proteção infantil não deve virar vigilância doméstica, punição da pobreza, resgate de infratores, palanque de intermediários ou burocracia mais cara que o cuidado. O caminho mais justo é definir limiares materiais de risco, neutralizar exposição imediata, oferecer meios reais de adequação, responsabilizar quem controla o perigo, proteger a criança durante a transição e fiscalizar com inteligência proporcional ao risco.
+
+Frase final da camada de implementação:
+
+> O modelo não depende de Estado perfeito, comunidade virtuosa, vereador honesto, voluntário neutro ou prestador ideal. Ele presume escassez, captura, medo, informalidade e conflito; por isso troca confiança cega por limites, registros, filas auditáveis, revalidação, proteção de dados, neutralização de risco e continuidade infantil.
