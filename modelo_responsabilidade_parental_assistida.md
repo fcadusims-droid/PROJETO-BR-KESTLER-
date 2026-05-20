@@ -83,6 +83,10 @@ A fórmula pública do modelo é: **regularizar sem destruir, proteger sem invad
 
 Esta seção resume a versão executável do projeto para prefeito, secretário, vereador, Ministério Público, Conselho Tutelar, imprensa, famílias e microprestadores. Ela não substitui o documento completo; serve como porta de entrada para a implantação inicial.
 
+**Nome público do piloto.** Para fins de comunicação pública do piloto inaugural, recomenda-se utilizar a denominação **"Programa Municipal de Regularização Assistida de Ambientes Infantis"**, reservando o nome completo do modelo à arquitetura técnica. O piloto não fiscaliza residências, não cria cadastro geral de famílias e não regula estilos parentais. Seu objeto inicial é tornar visíveis ambientes infantis informais, reduzir riscos críticos e informar famílias sobre a situação operacional conhecida dos prestadores.
+
+**O piloto não começa pela casa das famílias.** Começa pelos ambientes infantis já existentes, hoje invisíveis, onde crianças permanecem por necessidade real das famílias trabalhadoras.
+
 **Problema.** O município convive com crianças atendidas por redes informais de cuidado: cuidadoras comunitárias, microcreches, contraturnos, pequenos transportadores e espaços locais sem plena regularização. Ignorar essa rede mantém crianças invisíveis. Fechá-la por choque repressivo pode deixar famílias sem cuidado infantil e empurrar prestadores para a clandestinidade.
 
 **Solução.** O município cria uma rampa de regularização assistida. O prestador aparece, é triado, recebe limites operacionais, passa a ter status público simples, neutraliza riscos críticos e entra em plano de adequação. A família ganha informação. O prestador ganha orientação. A criança ganha redução imediata de exposição ao risco.
@@ -100,6 +104,8 @@ Esta seção resume a versão executável do projeto para prefeito, secretário,
 **Critério de sucesso.** O piloto deve mostrar que mais prestadores informais ficaram visíveis, que riscos críticos foram neutralizados rapidamente, que as famílias conseguem consultar status, que o custo administrativo é proporcional, que não houve policialização da pobreza, que dados foram protegidos e que a fila não foi capturada por intermediários.
 
 **Critério de parada.** O piloto deve ser corrigido, pausado ou suspenso se produzir abuso estatal, vazamento grave de dados, captura política da fila, uso recorrente da polícia para demandas sociais, acolhimento emergencial prolongado fora do fluxo legal, custo administrativo desproporcional ou fechamento de serviço sem continuidade infantil mínima.
+
+**Kit impresso do Dia 1.** O piloto inaugural deverá ser executável no Dia 1 por meio de kit impresso mínimo: quadro de decisão emergencial, ficha de validação por lote e rodapé de proteção procedimental do agente. A lógica é reduzir medo, dúvida, retrabalho e empurra-empurra antes de ativar sistemas digitais ou módulos complexos. Os três instrumentos estão detalhados no Capítulo 67 — Kit de Prateleira N1.
 
 ### 1.8. Salvaguardas comuns e linguagem executiva
 
@@ -872,6 +878,18 @@ Cláusula antiempurra:
 
 A primeira autoridade pública que tomar conhecimento de risco vermelho deverá acionar a rede emergencial disponível, ainda que não seja a autoridade final competente para a medida protetiva.
 
+#### 19.6.1. Assunção material do caso
+
+Todo Código Vermelho deverá registrar qual órgão assumiu materialmente a primeira resposta, qual risco justificou o acionamento e qual medida concreta foi adotada. A assunção material poderá ocorrer por chegada ao local, atendimento de saúde, contenção de agressor, recepção institucional, entrega a responsável seguro, acolhimento emergencial ou outra providência verificável.
+
+Acionar um órgão não equivale a proteger a criança. O registro da assunção material é o que distingue resposta protetiva real de despacho administrativo sem efeito.
+
+Vulnerabilidade social sem perigo físico atual não será registrada como ocorrência policial por ausência de transporte, plantão tutelar, vaga ou resposta administrativa. Nesses casos, o fluxo deverá indicar encaminhamento assistencial, sanitário, escolar ou tutelar, conforme a natureza do risco, com registro do órgão destinatário e do prazo esperado de resposta.
+
+Cláusula:
+
+> Nenhum Código Vermelho será considerado encerrado por acionamento sem assunção. O caso permanece aberto até que um órgão materialmente competente registre a providência concreta adotada ou justifique formalmente o rebaixamento do risco.
+
 ### 19.7. Competências materiais no protocolo
 
 A polícia atua na contenção de violência, risco armado, flagrante, proteção de equipe, acesso seguro ao local e preservação inicial de cena quando houver crime.
@@ -925,6 +943,12 @@ A notificação mínima deverá conter: criança ou identificação disponível,
 O município deverá instituir, no âmbito de seus serviços próprios, contratados, conveniados, subvencionados ou pactuados, uma **Porta 93 de Acolhimento Emergencial sem Guia Prévia**, destinada a impedir que criança ou adolescente retirado de situação de risco permaneça em viatura, delegacia, hospital sem indicação médica, via pública, residência insegura ou local sem responsável apto.
 
 A Porta 93 não cria nova hipótese de acolhimento, não substitui decisão judicial, não substitui o Conselho Tutelar, não dispensa o Ministério Público quando cabível e não institui regime municipal autônomo de medida protetiva. Trata-se de procedimento excepcional de recepção emergencial, utilizado apenas quando houver urgência protetiva, ausência de responsável apto, impossibilidade de permanência segura e falha momentânea do fluxo ordinário.
+
+A Porta 93 poderá operar em dois modos.
+
+**Modo A — Porta 93 Pactuada.** Aplicável quando houver pactuação prévia com Conselho Tutelar, Ministério Público, Judiciário, assistência social, serviços de acolhimento e demais órgãos envolvidos. É o modo preferencial e deve ser buscado pelo município antes do arranque do piloto.
+
+**Modo B — Porta 93 de Última Barreira.** Aplicável excepcionalmente quando, cumulativamente, houver urgência protetiva, criança ou adolescente sem responsável apto, impossibilidade de permanência segura, falha momentânea do fluxo ordinário e inexistência de alternativa familiar ou institucional imediatamente segura. A ausência de pactuação prévia não autoriza deixar criança ou adolescente em viatura, delegacia, via pública, hospital sem indicação clínica ou local inseguro. Nessa hipótese extrema, o recebimento emergencial deverá ser documentado por TEPE, comunicado em até 24 horas às autoridades competentes e submetido a revisão obrigatória.
 
 A Porta 93 somente será usada quando não houver responsável legal seguro, familiar apto ou adulto de referência confiável, e quando a permanência da criança no local, em viatura, delegacia, hospital sem indicação clínica, via pública ou residência insegura representar risco maior. O Município deverá buscar pactuação prévia com Conselho Tutelar, Ministério Público, Judiciário, serviços de acolhimento e, quando cabível, segurança pública, para padronizar o uso do TEPE.
 
@@ -1233,6 +1257,16 @@ Cláusula operacional:
 
 > O regime de adesão voluntária protegida deverá ser acompanhado de estratégia pública de orientação da demanda, de modo que famílias sejam informadas sobre o status operacional conhecido dos prestadores e possam escolher alternativas mais rastreáveis, sem que o município transforme o status de transição em recomendação, ranking ou garantia de segurança integral.
 
+#### 25.7.1. Vantagem operacional clara do prestador aderente
+
+A adesão voluntária protegida deverá gerar vantagem operacional legítima ao prestador que coopera, incluindo prioridade em orientação técnica, capacitação, consulta assistida, reavaliação, acesso a modelos documentais, organização de fluxo e eventual fomento autorizado. A vantagem não constitui anistia, certificação de segurança nem dispensa do núcleo indeclinável.
+
+O prestador que permanecer oculto após campanha pública e for posteriormente identificado com superlotação, fraude, risco crítico, retaliação contra famílias ou descumprimento do núcleo indeclinável poderá perder benefícios de transição e sofrer resposta administrativa agravada.
+
+Cláusula:
+
+> Quem aderiu não pode ser punido economicamente enquanto o clandestino opera livremente. O município garantirá que a adesão produza vantagem real e visível, e que a clandestinidade produza desvantagem progressiva conforme o risco detectado.
+
 
 ### 25.8. Fraude de intermediação e uso político do acesso
 
@@ -1466,6 +1500,16 @@ Cláusula:
 O agente de campo não responderá individualmente por decisão administrativa de não interdição quando tiver preenchido o relatório padronizado de forma completa, indicado limitações técnicas, registrado riscos aparentes, recomendado encaminhamentos necessários e submetido o caso à autoridade competente, salvo dolo, fraude, omissão deliberada de risco crítico ou erro grosseiro.
 
 Essa regra não impede controle externo, responsabilização do Estado ou apuração administrativa. Ela apenas afasta a personalização indevida da decisão quando o servidor cumpriu o procedimento, registrou limites e não extrapolou sua competência.
+
+#### 27.9.1. Porto Seguro Procedimental
+
+O agente público que atuar conforme formulário padronizado, registrar limitações técnicas, indicar dúvidas relevantes, classificar risco com base em critérios objetivos, acionar órgão materialmente competente e submeter a decisão à autoridade competente não responderá pessoalmente pelo resultado do caso, salvo dolo, fraude, omissão deliberada de risco crítico ou erro grosseiro.
+
+A finalidade desta cláusula é evitar interdição defensiva, omissão defensiva, encaminhamento automático indevido ou transferência informal de responsabilidade motivada por medo de responsabilização pessoal. O servidor não deve interditar tudo para se proteger, nem empurrar casos para outro órgão apenas para reduzir seu próprio risco de responsabilização.
+
+Cláusula:
+
+> O cumprimento do procedimento padronizado, o registro fiel de limitações e a submissão à autoridade competente constituem porto seguro procedimental do agente. A proteção não cobre omissão deliberada, fraude ou erro grosseiro; cobre o exercício honesto, documentado e proporcional da função dentro dos limites do protocolo.
 
 ### 27.10. Uso limitado do RTTA perante controle externo e instrumentos de ajuste
 
@@ -1781,6 +1825,16 @@ Cláusula:
 
 > Em municípios de baixa capacidade, a validação assistida presencial ou institucional terá prioridade operacional sobre a validação digital autônoma, sendo vedada a exclusão de famílias por ausência de smartphone, internet, biometria funcional, conta gov.br qualificada ou alfabetização digital suficiente.
 
+#### 37.1.1. Validação mínima por lote no piloto N1
+
+No piloto inaugural, especialmente em municípios N1, a validação assistida de vínculos poderá ocorrer por lote, sem registro nominal ordinário de crianças. Escola, UBS, CRAS, CREAS, Conselho Tutelar ou agente comunitário poderão informar apenas: código ou identificação do prestador, contagem aproximada de crianças vinculadas, fonte institucional e grau de confiança do sinal.
+
+A identificação nominal de criança ou família somente será admitida quando houver risco grave, divergência relevante, necessidade protetiva específica, contestação, auditoria específica ou outra hipótese justificada por finalidade determinada e registrada.
+
+Cláusula:
+
+> A validação por lote impede que escolas, agentes comunitários, UBS e CRAS se convertam em cartórios manuais do piloto. O Estado coleta contagens e sinais; não coleta mapa nominal de rotinas infantis sem necessidade específica.
+
 
 ---
 
@@ -1842,6 +1896,16 @@ A cooperação não autoriza uso de prontuário médico, diagnóstico, renda det
 Cláusula:
 
 > A proteção de dados pessoais não poderá ser invocada como fundamento genérico para recusa de cooperação intersetorial mínima necessária à proteção de criança ou adolescente, desde que o tratamento observe finalidade específica, necessidade, minimização, sigilo, controle de acesso, registro de logs e melhor interesse da criança. A recusa deverá ser motivada e encaminhada à autoridade designada de governança de dados do piloto.
+
+#### 39.4.1. Registro de omissão intersetorial como dado auditável
+
+A recusa, inércia, atraso injustificado ou alegação genérica de incompetência por órgão participante deverá ser registrada no relatório mensal do piloto, com indicação do órgão demandado, natureza da solicitação, prazo esperado, resposta recebida e impacto operacional. Quando a omissão comprometer proteção infantil, o fato será comunicado ao controle interno e à autoridade coordenadora do piloto.
+
+Nenhum órgão poderá recusar atendimento sob fundamento exclusivo de competência de outro sem indicar o órgão que entende competente e, quando houver risco atual à criança, sem acionar simultaneamente a porta materialmente adequada.
+
+Cláusula:
+
+> A omissão burocrática não é invisível. Ela aparece no relatório mensal, é comunicada ao controle interno e pode fundamentar responsabilização administrativa do gestor omisso. O modelo não tolera empurra-empurra silencioso quando há criança em risco.
 
 ---
 
@@ -2212,6 +2276,8 @@ Essa medida é contextual. Não constitui obrigação universal de securitizaç�
 
 ### 51.5. Educação da Criança sob Proteção Substitutiva, Pluralidade Pedagógica e Escuta Protegida Periódica
 
+> **Este módulo não integra o piloto inaugural.** Sua ativação depende de pactuação específica com educação, assistência social, sistema de justiça, serviços de acolhimento e órgãos de controle, bem como de protocolo próprio de escuta protegida, proteção de dados e prevenção de uso ideológico do instrumento. O conteúdo abaixo integra a Biblioteca de Expansão Progressiva e deverá ser ativado em fase posterior, após maturidade operacional do piloto inaugural e pactuação interinstitucional adequada.
+
 Criança ou adolescente afastado temporária ou definitivamente do cuidado parental não pertence ao Estado, à entidade acolhedora, à família acolhedora, ao abrigo, ao gestor local, ao partido político, à organização religiosa, à comunidade ou a qualquer grupo ideológico. Sua educação deve permanecer vinculada ao seu desenvolvimento integral, à continuidade escolar, à base nacional comum, à pluralidade de perspectivas, à atualização curricular e ao melhor interesse da criança ou adolescente.
 
 A retirada da família, o acolhimento institucional, a família acolhedora, a guarda provisória, a tutela, a adoção em formação ou qualquer forma de cuidado substitutivo não autorizam educação paralela, doutrinação partidária, catequese obrigatória, censura pedagógica, formação desatualizada ou moldagem ideológica da criança por preferência do Estado, do governo de turno, da entidade responsável, do cuidador, da escola ou da maioria local.
@@ -2422,6 +2488,8 @@ Medidas universais de identificação de adultos devem ser excepcionais, necess�
 
 O modelo não deve ser implementado nacionalmente em escala plena sem piloto. O primeiro piloto deve testar o núcleo menos intrusivo e mais administrativamente viável: microprestadores infantis, status operacional simples, validação assistida de vínculos e resposta emergencial por protocolo.
 
+**Nome público do piloto.** Para fins de comunicação pública, o piloto inaugural deverá ser apresentado como **"Programa Municipal de Regularização Assistida de Ambientes Infantis"**, reservando o nome técnico completo à arquitetura-mãe. O piloto não fiscaliza residências, não cria cadastro geral de famílias e não regula estilos parentais. Seu objeto é tornar visíveis ambientes infantis informais, reduzir riscos críticos e informar famílias sobre a situação operacional conhecida dos prestadores. O piloto não começa pela casa das famílias; começa pelos ambientes infantis já existentes, hoje invisíveis, onde crianças permanecem por necessidade real das famílias trabalhadoras.
+
 Pilotos devem ter:
 
 - território definido;
@@ -2513,6 +2581,19 @@ O piloto inaugural deverá ser empacotado em três peças, para equilibrar veloc
 **Primeira peça — Decreto Municipal do Piloto.** Institui o piloto por prazo determinado, define território, escopo, órgãos participantes, matriz de maturidade, janela de adesão voluntária protegida, RTTA, status operacional, cadastro reverso analógico-assistido, consulta assistida, Protocolo de Resposta Protetiva Imediata, bypass originário em N1-LRF, bypass por falha de coordenação quando houver plantão formal, regra antiempurra, rebaixamento de falso positivo, linha de base, KPIs, teto administrativo, governança de dados, relatórios mensais e vedação de uso eleitoral.
 
 **Segunda peça — Portaria Intersecretarial.** Traz os anexos operacionais: ficha de adesão, RTTA, ficha de Código Vermelho, cartão de bolso da Chave 1, matriz de risco, termo de ciência do prestador, protocolo de consulta assistida, matriz de dados, relatório mensal, fluxo de validação assistida e formulário de revisão em 24 horas.
+
+A portaria intersecretarial deverá conter, obrigatoriamente, **anexos visuais de uma página**, em linguagem operacional, destinados às portas de entrada do piloto. Os fluxos deverão permitir decisão rápida por escola, UBS, CRAS, CREAS, Conselho Tutelar, agentes comunitários, fiscalização, acolhimento e gestão municipal, sem depender de leitura longa no campo.
+
+Anexos visuais obrigatórios:
+
+- Fluxograma do Código Vermelho — tipos, primeiro acionamento e assunção material;
+- Fluxograma da Porta 93 — Modo A e Modo B, TEPE e comunicação em 24 horas;
+- Fluxograma do RTTA — triagem, classificação de risco, restrições e prazos;
+- Quadro de decisão do Conselho Tutelar — quando acionar, quando rebaixar, quando manter;
+- Validação por lote em município N1 — o que informar, o que não coletar;
+- Painel dos 5 números — preenchimento mensal pelo coordenador do piloto.
+
+A portaria intersecretarial do piloto deverá conter, como **anexos obrigatórios de fricção zero**, três instrumentos imprimíveis: Quadro de Decisão Tutelar e Chave 1, Ficha de Validação Mínima por Lote e Termo de Porto Seguro Procedimental do Agente. Esses instrumentos terão prevalência operacional no treinamento inicial, sem substituir o decreto, o RTTA completo, a matriz de dados ou os protocolos técnicos. O conteúdo completo dos três instrumentos está no Capítulo 67 — Kit de Prateleira N1.
 
 **Terceira peça — Projeto de Lei Municipal Curto.** Autoriza apenas o que exigir base legislativa mais robusta: fomento condicionado, fundo, voucher, entrega de bens físicos, pagamento direto a fornecedor, isenção de taxas, sanções administrativas específicas, deveres obrigatórios para particulares, status operacional compulsório, compartilhamento intersetorial estruturado de dados e mecanismos de controle externo.
 
@@ -2620,6 +2701,22 @@ Cláusula:
 ## 57. Métricas de avaliação
 
 O piloto não será avaliado pelo número de multas, interdições ou cadastros criados. Será avaliado por três resultados: redução verificável da invisibilidade, mitigação rápida de risco grave e execução proporcional sem abuso estatal, clientelismo, vazamento mal gerido, viés injustificado ou custo administrativo excessivo.
+
+### 57.0. Painel Executivo Mínimo do Piloto
+
+Para fins de acompanhamento político-administrativo do piloto, o relatório executivo mensal deverá apresentar cinco indicadores mínimos:
+
+1. número de prestadores identificados na linha de base;
+2. número de prestadores aderidos ao cadastro assistido;
+3. número de riscos críticos neutralizados em até 48 horas;
+4. número de consultas assistidas realizadas por famílias;
+5. número de Códigos Vermelhos com assunção material registrada.
+
+Os demais indicadores permanecerão no relatório técnico, sem sobrecarregar a tomada de decisão executiva. O painel de cinco números é a leitura do prefeito, do secretário e do vereador fiscalizador; os KPIs detalhados são a leitura da equipe técnica e do controle externo.
+
+Cláusula:
+
+> Cinco números que mostram se o piloto funciona. Se os prestadores estão aparecendo, se as famílias conseguem consultar, se os riscos estão sendo neutralizados rapidamente e se as emergências estão tendo resposta real.
 
 ### 57.1. KPI 1 — Conversão segura da informalidade
 
@@ -3807,3 +3904,288 @@ Frase-síntese:
 Frase final da camada de implementação:
 
 > O modelo não depende de Estado perfeito, comunidade virtuosa, vereador honesto, voluntário neutro ou prestador ideal. Ele presume escassez, captura, medo, informalidade e conflito; por isso troca confiança cega por limites, registros, filas auditáveis, revalidação, proteção de dados, neutralização de risco e continuidade infantil.
+
+---
+
+## 67. Kit de Prateleira N1 — Instrumentos Imprimíveis do Dia 1
+
+Este capítulo contém os três instrumentos operacionais de fricção zero do piloto inaugural. São destinados a município N1, com baixa capacidade digital, equipe reduzida e servidor que precisa decidir no campo sem depender de leitura longa, sistema online ou coordenador disponível.
+
+Os três instrumentos são complementares e devem ser distribuídos juntos no treinamento de arranque. Eles não substituem o decreto, o RTTA completo, a matriz de dados, os protocolos técnicos nem a autoridade competente. Eles reduzem medo, dúvida, retrabalho e empurra-empurra no Dia 1.
+
+---
+
+### 67.1. Anexo I — Quadro de Decisão Tutelar e Chave 1
+
+**Código Vermelho Protetivo e Laranja Protetivo Prioritário**
+
+**Finalidade:** orientar escola, UBS, CRAS, CREAS, Conselho Tutelar, agente comunitário, fiscalização, guarda municipal, acolhimento e demais portas públicas sobre quando acionar polícia, saúde, assistência, Conselho Tutelar ou fluxo institucional.
+
+**Regra-mãe:** Código Vermelho não significa automaticamente polícia. A cor indica gravidade. O tipo de risco define o primeiro órgão acionado.
+
+---
+
+#### Pergunta 1 — Há violência, ameaça ou necessidade de contenção?
+
+Marque SIM se houver: agressão atual; ameaça direta; arma; cárcere; abuso em flagrante; agressor presente; tentativa de retirada da criança por pessoa não autorizada; necessidade de acesso seguro; crime em curso; risco físico atual aos profissionais ou à criança.
+
+**Se SIM → Vermelho-Policial.**
+Acionar 190 / segurança pública / guarda municipal quando cabível.
+Registrar: hora, local, risco, quem acionou, quem assumiu.
+
+**Se NÃO → passar para a Pergunta 2.**
+
+---
+
+#### Pergunta 2 — Há necessidade médica ou sofrimento clínico grave?
+
+Marque SIM se houver: ferimento; intoxicação; desidratação provável; inconsciência; crise clínica; surto grave; autolesão iminente; sofrimento psíquico agudo; suspeita de abuso com necessidade de avaliação de saúde; necessidade de transporte sanitário.
+
+**Se SIM → Vermelho-Médico.**
+Acionar 192 / SAMU / UPA / hospital / UBS disponível.
+Acionar Conselho Tutelar ou assistência se houver ausência de responsável apto.
+
+**Se NÃO → passar para a Pergunta 3.**
+
+---
+
+#### Pergunta 3 — A criança está sem adulto apto ou sem local seguro?
+
+Marque SIM se houver: abandono; criança pequena desacompanhada; responsável intoxicado, ausente ou incapaz; impossibilidade de entrega segura; criança retirada de local inseguro; ausência de familiar apto; necessidade de acolhimento emergencial; risco de permanecer em viatura, delegacia, via pública, hospital sem indicação clínica ou residência insegura.
+
+**Se SIM → Vermelho-Tutelar / Social Grave.**
+Acionar Conselho Tutelar, assistência social, serviço de acolhimento ou Porta 93, conforme disponibilidade.
+Se não houver resposta ordinária e a criança estiver sem destino seguro: usar Porta 93 de Última Barreira, com TEPE e comunicação em até 24 horas às autoridades competentes.
+
+**Se NÃO → passar para a Pergunta 4.**
+
+---
+
+#### Pergunta 4 — O risco está em escola, microcreche, transporte, contraturno ou instituição?
+
+Marque SIM se houver: superlotação crítica; transporte inseguro; adulto não identificado responsável por crianças; risco elétrico, estrutural, térmico, químico ou sanitário grave; saída bloqueada; área perigosa acessível; suspeita de abuso, violência ou exploração; operação institucional com risco atual.
+
+**Se SIM → Vermelho-Institucional** (criança exposta a risco crítico).
+Medida imediata: cessar exposição, restringir área, suspender atividade perigosa, acionar fiscalização competente, responsáveis, Conselho Tutelar e órgão materialmente adequado.
+
+**Se NÃO → passar para a Pergunta 5.**
+
+---
+
+#### Pergunta 5 — Há vulnerabilidade grave, mas sem perigo físico atual?
+
+Exemplos: fome recorrente sem abandono atual; moradia precária sem risco imediato de morte ou lesão grave; falta de vaga; cuidador sobrecarregado; conflito familiar sem ameaça; suspeita genérica de negligência; ausência de benefício social; CRAS fechado; Conselho Tutelar sem resposta imediata; pobreza extrema sem agressor, arma, lesão ou abandono atual.
+
+**→ Laranja Protetivo Prioritário.**
+Não acionar 190 apenas por vulnerabilidade social.
+Encaminhar para CRAS, UBS, escola, assistência social, Conselho Tutelar ou serviço competente, com registro mínimo e recibo de encaminhamento.
+
+---
+
+#### Bloqueio expresso de acionamento policial indevido
+
+Não acione 190 apenas porque há: pobreza; falta de vaga; CRAS fechado; Conselho Tutelar indisponível; conflito verbal sem ameaça; denúncia vaga; moradia precária sem risco atual grave; demanda de cesta básica, benefício ou transporte; família desorganizada sem perigo físico atual; baixa escolaridade ou dificuldade de comunicação.
+
+A polícia atua quando sua presença é necessária para contenção, acesso seguro, flagrante, ameaça, violência, arma, crime em curso ou preservação imediata da vida.
+
+---
+
+#### Registro mínimo obrigatório
+
+Preencher sempre:
+
+- data e hora;
+- local;
+- criança identificada ou identificação disponível;
+- tipo de risco;
+- órgão acionado;
+- pessoa que acionou;
+- órgão que assumiu materialmente;
+- providência concreta adotada;
+- se houve rebaixamento para Laranja;
+- se houve encaminhamento assistencial, sanitário, escolar ou tutelar.
+
+Nome do agente: ____________________________
+Órgão: ____________________________________
+Data: ______ / ______ / ____________
+Contato funcional: __________________________
+
+---
+
+### 67.2. Anexo II — Ficha de Validação Mínima por Lote
+
+**Cadastro Reverso Analógico-Assistido — Município N1**
+
+**Finalidade:** confirmar, sem burocracia excessiva e sem coleta nominal ordinária de crianças, a existência provável de vínculos entre famílias da rede pública e prestadores infantis locais.
+
+**Regra-mãe:** no piloto inaugural, a validação por lote não substitui RTTA, não certifica segurança e não identifica nominalmente crianças, salvo risco grave ou necessidade protetiva justificada.
+
+---
+
+#### 1. Identificação da unidade que valida
+
+Unidade informante: ___________________________________
+Tipo de unidade: ( ) Escola ( ) UBS ( ) CRAS ( ) CREAS ( ) Conselho Tutelar ( ) Agente comunitário ( ) Outro: ________________
+Território / bairro: ___________________________________
+Responsável pelo preenchimento: _______________________
+Cargo / função: ______________________________________
+Período de referência: ______ / ______ / ____________ a ______ / ______ / ____________
+
+---
+
+#### 2. Tabela de validação por lote
+
+| Código ou nome do prestador | Endereço ou referência | Tipo de serviço | Nº estimado de crianças | Origem da estimativa | Sinais de alerta? | Grau de confiança | Providência sugerida |
+|---|---|---|---|---|---|---|---|
+| | | ( ) cuidadora ( ) microcreche ( ) contraturno ( ) transporte ( ) outro | | ( ) relato familiar ( ) escola ( ) UBS ( ) agente ( ) outro | ( ) não ( ) sim | ( ) verde ( ) amarelo ( ) vermelho | |
+| | | | | | | | |
+| | | | | | | | |
+
+---
+
+#### 3. Critérios de grau de confiança
+
+**Verde — sinal suficiente para mapeamento inicial.** Usar quando a unidade conhece o prestador, há relatos consistentes de uso por famílias e não há alerta grave conhecido.
+
+**Amarelo — exige checagem leve.** Usar quando houver informação incompleta, divergência de quantidade, dúvida sobre endereço, relato isolado de problema, possível superlotação moderada ou necessidade de atualização.
+
+**Vermelho — exige triagem prioritária.** Usar quando houver denúncia qualificada, suspeita de abuso, violência, exploração, superlotação grave, transporte inseguro, adulto não identificado, risco físico aparente ou notícia de retaliação contra famílias.
+
+---
+
+#### 4. Sinais de alerta
+
+Marcar quando houver:
+
+- ( ) superlotação aparente
+- ( ) transporte inseguro
+- ( ) criança pequena sem supervisão adequada
+- ( ) adulto responsável não identificado
+- ( ) denúncia de violência, abuso ou exploração
+- ( ) risco elétrico, estrutural, químico, térmico ou sanitário
+- ( ) retaliação contra família
+- ( ) exigência de print, mensagem ou prova de contato com o poder público
+- ( ) cobrança, favor político, religioso ou associativo como condição de acesso
+- ( ) outro: ___________________________________________
+
+Descrição breve do alerta, sem nomear criança salvo necessidade protetiva:
+
+___________________________________________________
+
+---
+
+#### 5. Proteção de dados
+
+É vedado registrar nesta ficha, salvo justificativa protetiva específica: nome da criança; CPF; endereço residencial da família; prontuário; renda; diagnóstico; composição familiar detalhada; rotina diária da criança; mensagens privadas; prints de WhatsApp; dados de saúde ou assistência sem necessidade.
+
+Quando houver risco grave ou necessidade de identificação nominal, abrir registro próprio restrito, com acesso por perfil autorizado.
+
+---
+
+#### 6. Encaminhamento
+
+A ficha deverá ser enviada ao Coordenador de Arranque ou órgão gestor do piloto para:
+
+- ( ) manter no mapeamento inicial
+- ( ) convidar prestador à adesão voluntária
+- ( ) priorizar RTTA
+- ( ) realizar checagem leve
+- ( ) acionar Código Vermelho
+- ( ) acionar ICO / alerta de captura
+- ( ) outro: ___________________________________________
+
+Responsável pelo envio: _______________________________
+Data: ______ / ______ / ____________
+Assinatura / identificação funcional: _____________________
+
+---
+
+### 67.3. Anexo III — Termo de Porto Seguro Procedimental do Agente
+
+**Rodapé obrigatório para RTTA, relatório de campo e registro de Código Vermelho**
+
+Este texto deve aparecer no final de todo RTTA, relatório de constatação, ficha de Código Vermelho, relatório de rebaixamento e registro de campo.
+
+---
+
+#### Versão curta — para rodapé de qualquer instrumento
+
+**Porto Seguro Procedimental.** O agente público que preencher este instrumento conforme formulário padronizado, registrar limitações técnicas, indicar dúvidas relevantes, classificar o risco com base nos critérios do protocolo, acionar o órgão materialmente competente e submeter a decisão à autoridade responsável não responderá pessoalmente pelo resultado do caso, salvo dolo, fraude, omissão deliberada de risco crítico ou erro grosseiro. Este registro não constitui licença, alvará, laudo de segurança, certificação, garantia estatal de ausência de risco ou assunção municipal da gestão do serviço.
+
+---
+
+#### Versão ampliada — para RTTA e relatório de campo
+
+Declaro, para fins administrativos, que o presente registro foi elaborado dentro do escopo funcional e técnico disponível no momento da avaliação.
+
+**Natureza da presente atuação:**
+
+- ( ) triagem inicial
+- ( ) constatação visual
+- ( ) registro de campo
+- ( ) reavaliação
+- ( ) Código Vermelho
+- ( ) Laranja Protetivo
+- ( ) RTTA
+- ( ) outro: ______________________
+
+**Limitações observadas:**
+
+- ( ) avaliação visual, sem laudo técnico especializado
+- ( ) ausência de engenharia
+- ( ) ausência de vistoria sanitária completa
+- ( ) ausência de avaliação elétrica especializada
+- ( ) ausência de perícia estrutural
+- ( ) ausência de avaliação pedagógica plena
+- ( ) ausência de equipe ampliada
+- ( ) informação prestada por terceiros
+- ( ) outro: ___________________________________________
+
+**Riscos críticos:**
+
+- ( ) não identificados dentro do escopo da triagem
+- ( ) identificados e neutralizados antes da continuidade
+- ( ) identificados e ainda expostos
+- ( ) dúvida técnica relevante
+- ( ) não aplicável
+
+**Órgãos ou autoridades acionados, quando cabível:**
+
+- ( ) autoridade administrativa competente
+- ( ) Conselho Tutelar
+- ( ) assistência social
+- ( ) saúde / SAMU / UBS / UPA / hospital
+- ( ) segurança pública
+- ( ) fiscalização setorial
+- ( ) defesa civil
+- ( ) Ministério Público
+- ( ) Judiciário
+- ( ) outro: ______________________
+
+---
+
+#### Cláusula de proteção procedimental
+
+O agente público que atua conforme protocolo padronizado, registra os fatos observados, declara as limitações técnicas da avaliação, identifica dúvida relevante, aciona o órgão materialmente competente e submete a decisão à autoridade responsável não assume responsabilidade pessoal pelo resultado futuro do caso, salvo dolo, fraude, omissão deliberada de risco crítico ou erro grosseiro.
+
+A responsabilidade pela decisão administrativa de continuidade, restrição, interdição, reavaliação ou encaminhamento caberá à autoridade competente, com base no conjunto dos registros disponíveis, pareceres técnicos, critérios do protocolo e circunstâncias do caso.
+
+Esta cláusula não afasta: responsabilidade do Estado quando juridicamente configurada; direito da criança, família ou prestador à contestação; controle interno ou externo; apuração de dolo, fraude, erro grosseiro ou omissão deliberada; necessidade de revisão quando surgir nova informação; dever de acionar proteção imediata diante de risco grave.
+
+---
+
+#### Declaração final do agente
+
+Declaro que preenchi o presente instrumento conforme meu conhecimento funcional, os fatos observáveis no momento, as informações disponíveis e os limites técnicos registrados acima.
+
+Nome do agente: _________________________________________
+Cargo / função: __________________________________________
+Órgão: __________________________________________________
+Matrícula, se houver: _____________________________________
+Data: ______ / ______ / ____________
+Assinatura: _____________________________________________
+
+Autoridade que recebeu ou validou o registro: _______________
+Cargo / função: __________________________________________
+Data: ______ / ______ / ____________
+Assinatura: _____________________________________________
