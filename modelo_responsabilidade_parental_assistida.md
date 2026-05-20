@@ -566,7 +566,7 @@ A escala progressiva vale para situações corrigíveis, sem perigo imediato.
 
 Regra de emergência:
 
-> Progressividade é regra para falhas corrigíveis. Proteção imediata é regra diante de perigo grave ou iminente.
+> Progressividade é regra para falhas corrigíveis. Proteção imediata é regra diante de perigo grave, concreto ou iminente.
 
 ---
 
@@ -961,6 +961,8 @@ Cláusula:
 > Se o fechamento for inevitável por risco crítico, a criança não volta para o vazio. O município deve acionar resposta emergencial mínima, proporcional, documentada e temporária.
 
 ### 19.16. Escalonamento por maturidade municipal
+
+Para fins deste protocolo, **URPI — Unidade de Resposta Protetiva Imediata** designa o conjunto de funções, fluxos e capacidades municipais de acionamento emergencial, não necessariamente um órgão físico autônomo. O nível (N1, N2, N3) reflete a capacidade disponível do município.
 
 **URPI-N1 — baixa capacidade.** Opera com cartão de bolso, ficha de uma página, bypass originário, acionamento direto do órgão materialmente competente, registro posterior, consulta presencial, lista mínima de contatos, Porta 93 quando houver acolhimento pactuado e revisão no primeiro ciclo administrativo possível.
 
@@ -1457,7 +1459,7 @@ A decisão de não interdição também perderá efeitos se o prestador violar a
 
 Cláusula:
 
-> A quebra de contenção transforma o risco contido em risco exposto. Nessa hipótese, o status poderá cair imediatamente para Vermelho-contenção ou Vermelho-exposto, com perda dos benefícios da adesão voluntária protegida e reavaliação urgente.
+> A quebra de contenção transforma o risco contido em risco exposto. Nessa hipótese, o status cairá imediatamente para Vermelho-exposto, com perda dos benefícios da adesão voluntária protegida e reavaliação urgente.
 
 ### 27.9. Proteção procedimental do agente público
 
@@ -1659,8 +1661,6 @@ O status amarelo deve indicar limites principais:
 - próxima vistoria;
 - pendência crítica já mitigada;
 - prazo de adequação.
-
----
 
 ### 33.1. Travas de confiabilidade do status operacional
 
@@ -2210,6 +2210,145 @@ Funções:
 
 Essa medida é contextual. Não constitui obrigação universal de securitização escolar. O objetivo é filtrar risco antes que alcance a criança, sem transformar escola em ambiente carcerário.
 
+### 51.5. Educação da Criança sob Proteção Substitutiva, Pluralidade Pedagógica e Escuta Protegida Periódica
+
+Criança ou adolescente afastado temporária ou definitivamente do cuidado parental não pertence ao Estado, à entidade acolhedora, à família acolhedora, ao abrigo, ao gestor local, ao partido político, à organização religiosa, à comunidade ou a qualquer grupo ideológico. Sua educação deve permanecer vinculada ao seu desenvolvimento integral, à continuidade escolar, à base nacional comum, à pluralidade de perspectivas, à atualização curricular e ao melhor interesse da criança ou adolescente.
+
+A retirada da família, o acolhimento institucional, a família acolhedora, a guarda provisória, a tutela, a adoção em formação ou qualquer forma de cuidado substitutivo não autorizam educação paralela, doutrinação partidária, catequese obrigatória, censura pedagógica, formação desatualizada ou moldagem ideológica da criança por preferência do Estado, do governo de turno, da entidade responsável, do cuidador, da escola ou da maioria local.
+
+A educação da criança sob proteção substitutiva deverá observar normas gerais da educação nacional, proposta pedagógica regular, pluralismo de ideias, liberdade de aprender, distinção entre fato e opinião, pensamento crítico, proteção contra instrumentalização ideológica e atualização periódica de conteúdos relevantes para a vida contemporânea.
+
+O objetivo não é criar neutralidade artificial, impedir debates ou censurar temas controversos. O objetivo é evitar educação unilateral, sectária, partidária, anacrônica ou institucionalmente capturada. Temas políticos, econômicos, históricos, culturais, científicos, religiosos, morais, digitais e sociais poderão ser apresentados quando pedagogicamente adequados, mas deverão ser tratados com pluralidade, contextualização, exposição de perspectivas relevantes, indicação de críticas e incentivo à formação autônoma de juízo.
+
+#### 51.5.1. Continuidade escolar ordinária
+
+A criança ou adolescente sob proteção substitutiva terá direito à continuidade escolar ordinária. Sempre que possível, deverá permanecer em escola regular, com preservação de vínculos, histórico escolar, adaptação pedagógica, apoio psicossocial e acompanhamento de frequência e aprendizagem.
+
+A mudança de escola somente deverá ocorrer quando necessária à segurança, proteção contra agressor, logística do acolhimento, saúde, estabilidade emocional, distância, família acolhedora, adoção, determinação judicial ou outra razão justificada. O acolhimento não deverá produzir ruptura educacional automática.
+
+A entidade de acolhimento, família acolhedora, guardião, tutor ou responsável provisório deverá assegurar matrícula, frequência, material escolar, uniforme quando exigido, transporte, alimentação, acesso digital quando necessário e comunicação regular com a escola.
+
+#### 51.5.2. Plano Educacional de Continuidade e Atualização — PECA
+
+Deverá ser elaborado **Plano Educacional de Continuidade e Atualização — PECA** para criança ou adolescente em acolhimento institucional, família acolhedora, guarda provisória prolongada, tutela, adoção em formação ou outra forma de cuidado substitutivo quando houver risco de ruptura escolar, defasagem de aprendizagem, mudança de território, ausência de documentos, trauma, deficiência, neurodivergência, evasão, histórico de violência, baixa alfabetização, institucionalização prolongada ou necessidade de recomposição educacional.
+
+O PECA não substitui currículo escolar, não cria escola paralela, não autoriza doutrinação e não transfere ao abrigo, família acolhedora ou órgão gestor o poder de definir unilateralmente o conteúdo educacional da criança. Trata-se de instrumento de continuidade, recomposição, atualização e proteção contra lacunas de formação.
+
+O PECA deverá conter, no mínimo:
+
+1. escola atual ou escola de referência;
+2. situação de matrícula, frequência e documentação escolar;
+3. histórico de aprendizagem disponível;
+4. defasagens educacionais aparentes;
+5. necessidade de reforço, recomposição, aceleração ou adaptação;
+6. deficiência, neurodivergência, barreiras psicossociais ou necessidades específicas;
+7. preservação de vínculos escolares seguros;
+8. risco de contato com agressor ou ambiente inseguro;
+9. plano de transporte, material, uniforme, alimentação e conectividade;
+10. competências contemporâneas complementares;
+11. responsável institucional pelo acompanhamento;
+12. forma de escuta da criança ou adolescente, conforme idade e maturidade;
+13. periodicidade de revisão.
+
+O PECA deverá ser revisado periodicamente, especialmente após mudança de escola, mudança de acolhimento, adoção em formação, crise emocional, evasão, queda brusca de rendimento, relato de violência, relato de doutrinação unilateral, bullying, discriminação ou ruptura de vínculo escolar relevante.
+
+#### 51.5.3. Atualização educacional contemporânea
+
+A educação complementar da criança sob proteção substitutiva deverá incluir, de forma proporcional à idade e à etapa escolar, competências práticas contemporâneas necessárias à autonomia futura.
+
+Essas competências poderão abranger alfabetização funcional, matemática aplicada, educação financeira atualizada, cidadania constitucional, direitos e deveres, segurança digital, leitura crítica de informação, uso responsável de tecnologia, noções de inteligência artificial quando pertinente, saúde, autocuidado, prevenção de violência, projeto de vida, convivência democrática, mundo do trabalho, empreendedorismo básico, proteção contra golpes e preparação para transição à vida adulta.
+
+Esses conteúdos não substituem a base curricular obrigatória. Funcionam como camada de atualização para evitar que crianças em acolhimento recebam formação defasada, institucionalizada ou desconectada da realidade econômica, tecnológica, social e cultural do tempo presente.
+
+É vedado manter conteúdo complementar preso a padrões obsoletos quando houver mudança relevante em tecnologia, economia, mercado de trabalho, finanças pessoais, cidadania, riscos digitais, saúde pública ou práticas sociais. A atualização deverá usar fontes educacionais reconhecidas, diretrizes oficiais vigentes, evidência técnica e revisão por profissionais competentes.
+
+#### 51.5.4. Regra dos Múltiplos Lados Relevantes
+
+Quando houver tema social, político, econômico, histórico, moral, religioso, científico ou tecnológico com disputa legítima de interpretação, a criança ou adolescente deverá receber explicação adequada à idade sobre as principais posições relevantes, seus fundamentos, críticas, consequências práticas e limites legais.
+
+O educador poderá contextualizar e apresentar análise pedagógica, mas não deverá converter preferência pessoal, partidária, religiosa, moral ou ideológica em verdade institucional obrigatória. A criança deverá poder perguntar, comparar argumentos e discordar sem humilhação, punição, isolamento, perda de benefício, ameaça ou constrangimento.
+
+A apresentação plural não exige equivalência artificial entre fato demonstrado e desinformação. A pluralidade protege debate legítimo; não obriga a escola a tratar fraude, violência, discriminação, abuso ou tese incompatível com direitos fundamentais como alternativa pedagógica equivalente.
+
+#### 51.5.5. Escuta Protegida Periódica e Relatório de Integridade Educacional
+
+A criança ou adolescente sob acolhimento, família acolhedora, guarda provisória, tutela, adoção em formação ou outra forma de cuidado substitutivo deverá ter acesso a **escuta protegida periódica** sobre sua experiência escolar, educacional, emocional e institucional.
+
+Essa escuta não terá natureza de interrogatório, investigação criminal, prova automática contra professor, fiscalização ideológica ampla ou indução de resposta. Sua finalidade será verificar se a criança está preservando vínculos seguros, compreendendo o ambiente educacional, recebendo ensino plural e atualizado, sofrendo pressão indevida, discriminação, bullying, negligência, violência, doutrinação unilateral, censura de perspectivas relevantes ou qualquer forma de captura institucional.
+
+A escuta deverá ser conduzida por profissional habilitado ou capacitado, preferencialmente da psicologia, assistência social, pedagogia, orientação educacional, proteção infantil ou equipe técnica intersetorial, observada idade, maturidade, condição emocional, deficiência, neurodivergência, trauma e contexto da criança.
+
+Periodicidade mínima recomendada:
+
+| Situação | Periodicidade sugerida |
+|---|---|
+| entrada em acolhimento, família acolhedora ou guarda provisória | primeira escuta em até 30 dias |
+| mudança de escola, território ou entidade de acolhimento | escuta em até 30 dias após a mudança |
+| situação estável | escuta trimestral ou semestral, conforme risco |
+| histórico de trauma, violência, evasão, manipulação ou conflito escolar | escuta mensal ou bimestral enquanto persistir o risco |
+| relato de pressão ideológica, abuso, bullying, discriminação ou negligência grave | escuta extraordinária e triagem imediata |
+
+O relatório deverá registrar o relato da criança de forma fiel, neutra e contextualizada, distinguindo claramente: fala direta da criança, interpretação técnica do profissional, fatos observáveis, dúvidas, inconsistências, necessidade de confirmação, providência recomendada e eventual risco imediato.
+
+Quando a criança relatar que professor, cuidador, família acolhedora, entidade, colega, liderança religiosa, agente público ou qualquer adulto apresentou determinado lado político, moral, religioso, econômico, histórico ou social como único legítimo, superior por natureza, obrigatório ou indiscutível, o profissional deverá registrar o relato sem concluir automaticamente pela existência de doutrinação. O caso será triado conforme gravidade, recorrência, contexto, idade da criança, material utilizado, relato de outros alunos, histórico da instituição e possibilidade de mal-entendido.
+
+Se a criança relatar que determinado professor, cuidador ou agente institucional deixou a entender que "o lado B é superior ao lado A", o profissional registrará a fala como percepção ou relato da criança, sem converter automaticamente o professor em infrator. Havendo recorrência, material pedagógico enviesado, constrangimento, humilhação, punição por discordância, supressão de perspectivas relevantes ou pressão para adesão ideológica, o caso será encaminhado para verificação educacional, escuta complementar e eventual correção pedagógica.
+
+A confiança institucional será verificável, não absoluta. Professores, escolas, abrigos, famílias acolhedoras, técnicos, voluntários, entidades e órgãos públicos poderão errar, enviesar, omitir, pressionar ou abusar de sua posição. Por isso, nenhuma autoridade educacional ou protetiva será tratada como infalível, mas nenhuma acusação será convertida em sanção sem verificação proporcional, contraditório quando cabível e análise técnica.
+
+#### 51.5.6. Saídas do relatório de integridade educacional
+
+O relatório de escuta protegida poderá gerar as seguintes saídas:
+
+| Resultado | Consequência |
+|---|---|
+| relato sem risco aparente | registro e acompanhamento ordinário |
+| desconforto leve ou dúvida pedagógica | orientação, diálogo escolar ou nova escuta |
+| indício de viés unilateral recorrente | verificação pedagógica e análise de material |
+| pressão, humilhação, discriminação ou punição por opinião | comunicação à coordenação escolar e ao órgão responsável |
+| abuso, ameaça, violência, exploração ou risco grave | Código Vermelho, Conselho Tutelar, Ministério Público ou autoridade competente |
+
+A escuta não deverá induzir a criança a denunciar, escolher lado político, repetir opinião do entrevistador ou interpretar toda divergência pedagógica como abuso. Perguntas deverão ser abertas, simples e não sugestivas, tais como:
+
+> Como você está se sentindo na escola?
+> Tem algum adulto ou colega que te deixa desconfortável?
+> Quando aparecem assuntos com opiniões diferentes, como eles são ensinados?
+> Você sente que pode perguntar ou discordar sem ser humilhado?
+> Alguém já tentou te obrigar a pensar de um jeito específico?
+> Você acha que alguma coisa importante está sendo escondida ou explicada de um jeito injusto?
+> Tem algo que você queria contar e acha que ninguém ouviria?
+
+É vedado ao profissional sugerir resposta, pressionar a criança a acusar professor, transformar discordância política em prova de abuso, usar a criança como instrumento contra escola, família ou grupo ideológico, registrar opinião técnica como fato, divulgar relato sensível sem necessidade, expor a criança a retaliação ou arquivar relato recorrente sem justificativa.
+
+Quando houver relato sensível, a escola, professor ou instituição poderá ser ouvida de forma proporcional, salvo hipótese de risco grave, violência, ameaça, abuso ou situação em que a oitiva prévia possa gerar retaliação contra a criança. A resposta institucional deverá preservar sigilo, evitar exposição da criança e focar em correção pedagógica, pluralidade, proteção emocional e continuidade escolar.
+
+#### 51.5.7. Vedações específicas
+
+É vedado:
+
+- usar acolhimento ou cuidado substitutivo para doutrinação partidária;
+- impor visão política única de esquerda, direita, centro, governo, oposição ou grupo local;
+- substituir pluralidade pedagógica por propaganda institucional;
+- usar entidade acolhedora, família acolhedora ou abrigo como filtro ideológico;
+- ocultar perspectivas relevantes em temas controversos;
+- punir criança por dúvida, discordância ou pergunta legítima;
+- ensinar conteúdo desatualizado quando houver orientação técnica atual;
+- afastar a criança da escola regular sem justificativa;
+- negar educação financeira, digital, cívica ou prática por preconceito ideológico;
+- transformar educação complementar em punição, catequese obrigatória, treinamento partidário ou controle moral;
+- presumir infalibilidade de professores, cuidadores, técnicos, entidades ou agentes públicos;
+- presumir culpa automática a partir de relato isolado sem verificação proporcional.
+
+#### 51.5.8. Formulação normativa consolidada para a seção 61
+
+> **Educação da criança sob proteção substitutiva.** Criança ou adolescente afastado temporária ou definitivamente do cuidado parental terá direito à continuidade escolar, base nacional comum, pluralidade de perspectivas, atualização curricular e proteção contra captura ideológica, partidária, religiosa, institucional ou comunitária. O acolhimento, a guarda provisória, a família acolhedora, a tutela ou a adoção em formação não autorizam educação paralela, doutrinação, censura pedagógica ou formação desatualizada. Quando houver risco de ruptura, defasagem ou institucionalização educacional, deverá ser elaborado Plano Educacional de Continuidade e Atualização, com preservação de matrícula, recomposição de aprendizagem, apoio psicossocial e competências contemporâneas proporcionais à idade, incluindo educação financeira, cidadania, segurança digital, pensamento crítico e preparação para a vida adulta.
+
+> **Escuta protegida periódica da criança sob proteção substitutiva.** Criança ou adolescente em acolhimento, família acolhedora, guarda provisória, tutela, adoção em formação ou cuidado substitutivo terá direito a escuta protegida periódica sobre sua experiência escolar, emocional e institucional. O relatório deverá registrar relatos sobre pressão ideológica, doutrinação unilateral, discriminação, bullying, negligência, violência, censura de perspectivas relevantes ou formação desatualizada, distinguindo fala da criança, interpretação técnica, fato observável e necessidade de verificação. Professores, escolas, entidades, cuidadores e agentes públicos não serão presumidos infalíveis nem culpados automaticamente. Relatos gerarão acompanhamento, verificação pedagógica, correção, contraditório ou acionamento protetivo conforme gravidade, recorrência e risco.
+
+Fórmula-síntese:
+
+> **A criança retirada da família não pertence ao Estado. Sua educação pertence ao seu desenvolvimento. O sistema garante continuidade, pluralidade, atualização e voz periódica. O professor não é infalível; o relato não é sentença; a proteção registra, verifica, corrige e preserva a criança.**
+
 ---
 
 ## 52. Transporte escolar
@@ -2389,7 +2528,7 @@ O cronograma recomendado é:
 
 **Dia 0 a 15:** publicação do decreto do piloto, portaria intersecretarial, designação formal de responsáveis, nomeação de coordenador central exclusivo da quinzena inicial, treinamento mínimo, distribuição do cartão do Código Vermelho, reunião com Ministério Público, Conselho Tutelar, saúde, educação, assistência, controle interno e órgãos de segurança, quando possível.
 
-**Dia 0 a 15:** construção simultânea da linha de base do Mês 0, mediante operação relâmpago com escolas, UBS, CRAS, CREAS, agentes comunitários, Conselho Tutelar, listas de espera de creche, cadastros locais e denúncias qualificadas.
+**Dia 0 a 15 (simultâneo — eixo de base):** construção da linha de base do Mês 0, mediante operação relâmpago com escolas, UBS, CRAS, CREAS, agentes comunitários, Conselho Tutelar, listas de espera de creche, cadastros locais e denúncias qualificadas.
 
 **Dia 15 a 45:** campanha institucional, abertura da janela de adesão voluntária protegida, consulta assistida, início de pré-cadastros, teste do Protocolo de Resposta Protetiva Imediata, simulação do bypass originário em N1-LRF e, quando houver plantão formal, simulação do bypass por falha de coordenação.
 
@@ -2708,6 +2847,26 @@ A Câmara Plural do piloto e eventual Câmara Local terão natureza consultiva, 
 
 A composição deverá observar pluralidade, rotatividade, declaração de vínculos, ata pública e vedação de maioria absoluta de membros vinculados à mesma entidade, grupo econômico, organização religiosa, partido, associação, rede familiar ou prestador interessado.
 
+### 58.12.1. Matriz de Competência Deliberativa por Matéria
+
+A participação no modelo observará distinção entre escuta aberta, consulta informada, deliberação operacional qualificada, parecer técnico e decisão administrativa motivada.
+
+Cargo, mandato, liderança comunitária, título acadêmico ou posição econômica não produzirão autoridade técnica automática. Quanto maior o impacto da matéria sobre crianças, dados, orçamento, coerção, continuidade de serviço ou direitos fundamentais, maior será a exigência de compreensão demonstrada, experiência relevante, ausência de conflito de interesses, parecer técnico e validação por autoridade competente.
+
+| Tipo de matéria | Nível de participação admitido | Quem decide |
+|---|---|---|
+| prioridades territoriais, calendário, linguagem pública, mutirões | escuta aberta e consulta informada | Câmara Local ou instância participativa, com deliberação consultiva |
+| critérios operacionais, prazos, formulários, formas de apoio | deliberação qualificada com conhecimento demonstrado | órgão gestor, com consulta técnica |
+| RTTA individual, status, restrição, interdição, sanção | parecer técnico e decisão administrativa motivada | autoridade pública competente, vedada votação comunitária |
+| dados sensíveis, casos individuais, filas, medidas protetivas | acesso restrito por perfil e necessidade | autoridade competente, controle externo e log obrigatório |
+| redução do piso mínimo infantil, supressão de direito fundamental | vedado a qualquer instância local | núcleo rígido não votável |
+
+A matriz não reduz o direito de participação de pessoas com baixa escolaridade, analfabetismo, deficiência ou vulnerabilidade social. O poder público deverá oferecer linguagem simples, leitura assistida e meios acessíveis de compreensão para que a participação seja real e não decorativa.
+
+Cláusula:
+
+> Decisão técnica não pode ser dominada por cargo, maioria local ou autoridade formal sem conhecimento da matéria. A legitimidade participativa organiza prioridades; a competência técnica e a autoridade pública decidem casos, dados, coerção e direitos.
+
 ### 58.13. Voluntários e contato domiciliar
 
 Voluntários e parceiros comunitários não realizarão contato ativo domiciliar individualizado com famílias ou responsáveis para tratar de risco, negligência, cuidado parental, denúncia ou confirmação sensível, salvo em mutirão público, atividade coletiva, solicitação expressa da família ou acompanhamento por servidor público competente.
@@ -2953,6 +3112,18 @@ Retaliação inclui expulsão de criança, aumento de preço, negativa de vaga, 
 ### 61.30. Aprovação legislativa e papel parlamentar
 
 > A lei curta autorizará matérias que exigem base legal; decreto e portaria disciplinarão critérios operacionais ajustáveis. Parlamentares poderão apoiar territórios, temas e fiscalização pública, mas não indicar beneficiários, controlar filas, intermediar cadastros, acessar dados infantis ou interferir em RTTAs.
+
+### 61.31. Educação da criança sob proteção substitutiva
+
+> Criança ou adolescente afastado temporária ou definitivamente do cuidado parental terá direito à continuidade escolar, base nacional comum, pluralidade de perspectivas, atualização curricular e proteção contra captura ideológica, partidária, religiosa, institucional ou comunitária. O acolhimento, a guarda provisória, a família acolhedora, a tutela ou a adoção em formação não autorizam educação paralela, doutrinação, censura pedagógica ou formação desatualizada. Quando houver risco de ruptura, defasagem ou institucionalização educacional, deverá ser elaborado Plano Educacional de Continuidade e Atualização, com preservação de matrícula, recomposição de aprendizagem, apoio psicossocial e competências contemporâneas proporcionais à idade, incluindo educação financeira, cidadania, segurança digital, pensamento crítico e preparação para a vida adulta.
+
+### 61.32. Escuta protegida periódica da criança sob proteção substitutiva
+
+> Criança ou adolescente em acolhimento, família acolhedora, guarda provisória, tutela, adoção em formação ou cuidado substitutivo terá direito a escuta protegida periódica sobre sua experiência escolar, emocional e institucional. O relatório deverá registrar relatos sobre pressão ideológica, doutrinação unilateral, discriminação, bullying, negligência, violência, censura de perspectivas relevantes ou formação desatualizada, distinguindo fala da criança, interpretação técnica, fato observável e necessidade de verificação. Professores, escolas, entidades, cuidadores e agentes públicos não serão presumidos infalíveis nem culpados automaticamente. Relatos gerarão acompanhamento, verificação pedagógica, correção, contraditório ou acionamento protetivo conforme gravidade, recorrência e risco.
+
+### 61.33. Matriz de Competência Deliberativa por Matéria
+
+> A participação no modelo observará distinção entre escuta aberta, consulta informada, deliberação operacional qualificada, parecer técnico e decisão administrativa motivada. Cargo, mandato, liderança, título acadêmico ou posição econômica não produzirão autoridade técnica automática. Quanto maior o impacto da matéria sobre crianças, dados, orçamento, coerção, continuidade de serviço ou direitos fundamentais, maior será a exigência de compreensão demonstrada, experiência relevante, ausência de conflito de interesses, parecer técnico e validação por autoridade competente. A matriz não reduz o direito de participação de pessoas com baixa escolaridade, analfabetismo, deficiência ou vulnerabilidade social, devendo o poder público oferecer linguagem simples, leitura assistida e meios acessíveis de compreensão. Casos individuais, filas, dados sensíveis, RTTA individual, sanções, interdições, medidas protetivas e redução do piso mínimo infantil não serão decididos por votação comunitária.
 
 ---
 
@@ -3499,7 +3670,9 @@ O modelo não defende:
 - vereador, líder religioso, associação ou empresa controlando fila;
 - hospital como abrigo social;
 - plantão informal por WhatsApp;
-- cancelamento explosivo de RTTA sem continuidade infantil.
+- cancelamento explosivo de RTTA sem continuidade infantil;
+- doutrinação política, religiosa ou ideológica de criança sob proteção substitutiva;
+- decisão de caso individual por votação comunitária ou Câmara Local.
 
 O modelo defende:
 
@@ -3533,7 +3706,10 @@ O modelo defende:
 - Índice de Captura Operacional;
 - quarentena e revalidação de atos capturados;
 - plano de continuidade infantil real;
-- estratégia legislativa com crédito político legítimo sem intermediação individual.
+- estratégia legislativa com crédito político legítimo sem intermediação individual;
+- educação plural, atualizada e contínua da criança sob proteção substitutiva;
+- escuta protegida periódica da criança em acolhimento ou cuidado substitutivo;
+- Matriz de Competência Deliberativa por Matéria, separando participação comunitária de decisão técnica e individual.
 
 ---
 
@@ -3619,7 +3795,10 @@ Sua fórmula é:
 30. impedir captura comunitária por fila cega, canais diretos e ICO;
 31. colocar atos capturados em quarentena, com revalidação e continuidade infantil;
 32. permitir crédito parlamentar legítimo sem intermediação individual;
-33. expandir apenas após demonstração de efetividade, proporcionalidade e segurança informacional.
+33. expandir apenas após demonstração de efetividade, proporcionalidade e segurança informacional;
+34. garantir educação plural, atualizada e contínua para a criança sob proteção substitutiva, vedando doutrinação, censura pedagógica e formação desatualizada;
+35. assegurar escuta protegida periódica da criança em acolhimento, família acolhedora ou cuidado substitutivo, com relatório neutro e sem presunção automática de culpa;
+36. distinguir participação comunitária de decisão técnica por Matriz de Competência Deliberativa, impedindo que cargo, maioria local ou autoridade informal substituam decisão fundamentada em matérias sensíveis.
 
 Frase-síntese:
 
