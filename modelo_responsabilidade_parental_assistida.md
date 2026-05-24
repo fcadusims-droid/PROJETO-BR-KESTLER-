@@ -15,7 +15,7 @@ O **RTTA — Relatório Técnico de Triagem e Transição Assistida** é o instr
 
 O modelo adota **Degradação Operacional Segura**. Quando o município não possui equipe, dinheiro, plantão, viatura, sistema digital, vaga, abrigo ou Conselho Tutelar responsivo, o fluxo não deve ser abandonado nem simulado. Ele degrada para o mínimo seguro: neutralizar exposição ao risco, registrar a decisão, acionar o órgão materialmente competente, impedir policialização da pobreza, preservar dados, evitar plantão informal e revisar posteriormente conforme a capacidade real.
 
-Na emergência, o **Código Vermelho Protetivo** é classificado por natureza material: policial, médico, tutelar, institucional ou social grave. O objetivo é evitar que toda vulnerabilidade social vire caso de polícia. Quando uma criança retirada de risco não puder permanecer em local seguro e o fluxo ordinário falhar, o modelo prevê a **Porta 93 de Acolhimento Emergencial sem Guia Prévia**, documentada por **TEPE — Termo de Entrega Protetiva Emergencial**, com comunicação posterior obrigatória às autoridades competentes.
+Na emergência, o **Código Vermelho Protetivo** é classificado por natureza material: policial, médico, tutelar, institucional ou social grave. O objetivo é evitar que toda vulnerabilidade social vire caso de polícia. Quando uma criança retirada de risco não puder permanecer em local seguro e o fluxo ordinário falhar, o modelo prevê a **Recepção Protetiva Emergencial Temporária** — procedimento documentado de recepção provisória, com comunicação posterior obrigatória às autoridades competentes. O instrumento técnico interno é denominado Porta 93; o documento de registro é o **TEPE — Termo de Entrega Protetiva Emergencial**.
 
 A participação social é admitida por um **Ecossistema Plural de Cooperação Protetiva**. Voluntários, empresas, universidades, organizações sociais, comunidades e especialistas podem apoiar mutirões, capacitação, logística, consulta assistida, orientação técnica e fomento finalístico. Não podem exercer coerção, fiscalizar famílias de forma autônoma, acessar dados nominais, decidir risco, aplicar sanção, interditar ou substituir autoridade pública.
 
@@ -43,7 +43,7 @@ A implementação inicial deverá começar pela Camada B. A Camada D somente ser
 
 ### 1.2. Núcleo do piloto inaugural
 
-O piloto inaugural não executa todo o modelo. Ele começa por três entregas:
+Antes do ciclo de 180 dias, recomenda-se **janela sentinela de transporte infantil de risco** de 30 a 45 dias, conforme seção 56.1.1. Essa janela testa os instrumentos nucleares sem abrir o balcão de microprestadores. O piloto inaugural de 180 dias começa após essa janela, por três entregas:
 
 1. regularização assistida de microprestadores infantis, com janela de adesão voluntária protegida, RTTA, limites operacionais e plano de adequação;
 2. status operacional simples, consulta assistida e linguagem pública compreensível, sem efeito de selo ou recomendação estatal;
@@ -56,6 +56,22 @@ O Código Vermelho entra como protocolo mínimo de emergência. O risco domésti
 O piloto inaugural não realizará visitas domiciliares universais, não criará cadastro geral de famílias, não fiscalizará estilos parentais, não implantará plataforma digital obrigatória, não exigirá gov.br avançado, não distribuirá bens físicos sem base legal, não abrirá módulo amplo de risco doméstico, não usará voluntários para contato domiciliar sensível e não tratará o status operacional como recomendação pública de prestador.
 
 Também não deverá usar o componente digital como eixo organizador do piloto. A dimensão digital, quando presente na fase inicial, limitar-se-á a orientação, educação digital básica, consulta assistida, comunicação pública e apoio técnico simples.
+
+Ficam expressamente fora do ciclo inaugural de 180 dias:
+
+- ICL estatístico sofisticado;
+- auditoria digital de laudos;
+- análise de metadados de fotos;
+- sorteio ou rodízio formal de pareceristas privados;
+- voucher sem fundo orçamentário aprovado;
+- obrigação de compra de vagas privadas;
+- uso de professor, enfermeiro ou agente comunitário como fiscal técnico com função sancionatória;
+- creche emergencial estatal improvisada sem núcleo mínimo de segurança;
+- cadastro nominal ordinário de crianças;
+- plataforma digital obrigatória;
+- módulo doméstico amplo de fiscalização parental;
+- escuta ideológica ou educacional sensível;
+- autonomia local deliberativa forte com poder de decisão individual.
 
 ### 1.4. Regra de não ativação simultânea
 
@@ -81,6 +97,13 @@ A fórmula pública do modelo é: **regularizar sem destruir, proteger sem invad
 
 ### 1.7. Leitura em 10 minutos: núcleo executável do modelo
 
+---
+
+> **Versão autônoma de apresentação — Piloto de 180 dias**
+> Este bloco pode ser lido, impresso e distribuído separadamente do documento completo. Ele contém tudo que prefeito, secretário, vereador, Conselho Tutelar, imprensa, família e microprestador precisam saber para avaliar e iniciar o piloto inaugural. A arquitetura técnica completa está nos capítulos seguintes.
+
+---
+
 Esta seção resume a versão executável do projeto para prefeito, secretário, vereador, Ministério Público, Conselho Tutelar, imprensa, famílias e microprestadores. Ela não substitui o documento completo; serve como porta de entrada para a implantação inicial.
 
 **Nome público do piloto.** Para fins de comunicação pública do piloto inaugural, recomenda-se utilizar a denominação **"Programa Municipal de Regularização Assistida de Ambientes Infantis"**, reservando o nome completo do modelo à arquitetura técnica. O piloto não fiscaliza residências, não cria cadastro geral de famílias e não regula estilos parentais. Seu objeto inicial é tornar visíveis ambientes infantis informais, reduzir riscos críticos e informar famílias sobre a situação operacional conhecida dos prestadores.
@@ -101,11 +124,30 @@ Esta seção resume a versão executável do projeto para prefeito, secretário,
 
 **Proteção contra captura.** Nenhum vereador, liderança, igreja, associação, empresa, voluntário ou intermediário controla fila, indica beneficiário, acessa dados nominais ou define quem recebe apoio. A participação social escolhe prioridades e ajuda na execução; a decisão sensível permanece pública, motivada e auditável.
 
-**Critério de sucesso.** O piloto deve mostrar que mais prestadores informais ficaram visíveis, que riscos críticos foram neutralizados rapidamente, que as famílias conseguem consultar status, que o custo administrativo é proporcional, que não houve policialização da pobreza, que dados foram protegidos e que a fila não foi capturada por intermediários.
+**Critério de sucesso.** O piloto deve mostrar que mais prestadores informais ficaram visíveis, que riscos críticos foram neutralizados antes da continuidade do atendimento ou tiveram assunção material registrada pelo órgão competente, que as famílias conseguem consultar status, que o custo administrativo é proporcional, que não houve policialização da pobreza, que dados foram protegidos e que a fila não foi capturada por intermediários.
 
 **Critério de parada.** O piloto deve ser corrigido, pausado ou suspenso se produzir abuso estatal, vazamento grave de dados, captura política da fila, uso recorrente da polícia para demandas sociais, acolhimento emergencial prolongado fora do fluxo legal, custo administrativo desproporcional ou fechamento de serviço sem continuidade infantil mínima.
 
 **Kit impresso do Dia 1.** O piloto inaugural deverá ser executável no Dia 1 por meio de kit impresso mínimo: quadro de decisão emergencial, ficha de validação por lote e rodapé de proteção procedimental do agente. A lógica é reduzir medo, dúvida, retrabalho e empurra-empurra antes de ativar sistemas digitais ou módulos complexos. Os três instrumentos estão detalhados no Capítulo 67 — Kit de Prateleira N1.
+
+**Nova arquitetura operacional consolidada.** O modelo funciona assim em cada situação:
+
+- *Quando há pendência técnica simples:* PTS pode comprovar correção específica, reduzir incerteza e evitar retorno fiscal desnecessário.
+- *Quando há risco baixo:* PTS pode gerar efeito interno provisório; a família vê **OPERAÇÃO LIMITADA CONHECIDA — Pendência em verificação**, enquanto não houver confirmação pública da correção.
+- *Quando há risco da Tabela Negra:* PTS não libera automaticamente; antecipa a rechecagem pública e não encerra restrição. Fraude ou divergência grave gera Alerta sob TIDT, recebimento provisório como documento fraco e eventual inclusão na Lista Central após homologação da coordenação.
+- *Quando o imóvel é o risco:* usar ODA, com o prestador cuidando e o município supervisionando perímetro.
+- *Quando o prestador é o risco:* não há ODA; desloca-se a criança, não o serviço.
+- *Quando não há vaga nem dinheiro:* registrar insuficiência, acionar escada de capacidade existente e disparar Alerta de Déficit Crítico com obrigação de propor resposta institucional.
+- *Quando o município precisa saber quantas crianças usam cada prestador:* usar Cadastro Reverso por Lote, sem nomes ordinários.
+- *Quando há divergência:* triagem e fiscalização sentinela, não punição automática.
+- *Quando há dados sensíveis:* minimização radical.
+- *Quando há participação privada ou comunitária:* apoio sim, coerção não.
+
+---
+
+> **Fim da versão autônoma de apresentação.** A arquitetura técnica completa, com doutrina, módulos, salvaguardas, protocolos e anexos, está nos capítulos 2 a 67.
+
+---
 
 ### 1.8. Salvaguardas comuns e linguagem executiva
 
@@ -131,6 +173,10 @@ Nomes auxiliares possíveis:
 - Modelo de Cuidado Infantil com Economicidade Protetiva;
 - Modelo de Regularização Assistida de Ambientes Infantis;
 - Sistema de Fiscalização Sentinela em Ambientes Infantis.
+
+**Nome público recomendado para o piloto inaugural:** Programa Municipal de Regularização Assistida de Ambientes Infantis. Essa denominação substitui o nome técnico completo na comunicação pública, no material de imprensa e nos instrumentos voltados a famílias e microprestadores, evitando que o piloto seja lido como fiscalização parental ou vigilância doméstica.
+
+**Alternativa de nome para capa pública ou apresentação política:** Política Municipal de Ambientes Infantis Seguros e Regularização Assistida. Essa variante enfatiza o resultado ("ambientes seguros") antes do mecanismo ("regularização"), o que pode ser preferível em contextos de apresentação a gestores, câmara municipal ou imprensa. O nome técnico completo do modelo permanece reservado à arquitetura interna.
 
 A expressão **piso mínimo de cuidado** é central porque impede que o modelo seja interpretado como imposição de um padrão ideal de família, escola ou instituição. O Estado não define parentalidade perfeita, escola perfeita ou ambiente infantil ideal. Ele define o limite abaixo do qual há risco materializável, negligência objetiva, privação básica ou exposição previsível a dano.
 
@@ -349,6 +395,20 @@ A autonomia local pode escolher se prefere mutirões, vouchers, fundos privados,
 Formulação:
 
 > O território pode escolher os meios, mas não pode decidir quais crianças terão menos proteção.
+
+### 8.11. Execução plural com subsidiariedade forte
+
+O núcleo indeclinável de proteção infantil é comum e público. Os meios de execução podem variar: público, híbrido, comunitário, cooperativo, filantrópico, privado auxiliar ou contratual. Essa pluralidade de meios não pode atingir decisões de sanção, retirada de criança, interdição, classificação final de risco crítico ou medida protetiva, que permanecem sob autoridade pública competente.
+
+O modelo admite pluralidade na prevenção, apoio, capacitação, laudos auxiliares, seguro, fundos mutualistas, doações, compras coletivas e certificação reputacional complementar. A decisão coercitiva, o status público sensível, a interdição, a resposta a risco grave e a proteção contra abuso permanecem sob autoridade pública competente.
+
+Certificação privada pode existir como reputação complementar. Laudo privado pode instruir o processo administrativo. Seguro e fundo mutualista podem amortizar riscos. Cooperação comunitária pode apoiar capacitação e logística. Mas risco crítico, interdição, status público sensível, retirada de criança, sanção e decisão final continuam públicos.
+
+Fórmulas:
+
+> **Pluralidade na prevenção; unidade no piso. Pluralidade no apoio; decisão pública no risco crítico. Mercado como ferramenta; não como juiz da exposição infantil.**
+
+> **Meios concorrenciais; piso comum. Execução plural; coerção pública residual. Apoio privado; decisão pública no risco grave.**
 
 ---
 
@@ -926,7 +986,7 @@ O cartão deverá conter, no mínimo:
 >
 > **Acione saúde, 192, UPA, hospital ou UBS quando houver:** ferimento, intoxicação, autolesão iminente, surto grave, desidratação, inconsciência, crise clínica, sofrimento psíquico agudo ou necessidade de transporte sanitário.
 >
-> **Acione Conselho Tutelar, assistência social ou Porta 93 quando houver:** abandono, ausência de adulto apto, necessidade de entrega a responsável seguro, acolhimento emergencial ou medida protetiva.
+> **Acione Conselho Tutelar, assistência social ou Recepção Protetiva Emergencial Temporária quando houver:** abandono, ausência de adulto apto, necessidade de entrega a responsável seguro, recepção temporária documentada ou medida protetiva.
 >
 > **Não acione 190 apenas porque:** há pobreza, falta de vaga, CRAS fechado, Conselho Tutelar sem resposta, conflito verbal sem ameaça, suspeita genérica de negligência, demanda de benefício social ou moradia precária sem risco atual de morte ou lesão grave.
 >
@@ -938,11 +998,17 @@ Em modo N1-LRF, a notificação mínima fora do expediente não constitui plant�
 
 A notificação mínima deverá conter: criança ou identificação disponível, local, risco, órgão acionado, horário, quem assumiu, para onde a criança foi, necessidade de saúde, abrigo, família extensa, acompanhamento ou reavaliação.
 
-### 19.12. Porta 93 de Acolhimento Emergencial sem Guia Prévia
+### 19.12. Recepção Protetiva Emergencial Temporária (Porta 93)
 
-O município deverá instituir, no âmbito de seus serviços próprios, contratados, conveniados, subvencionados ou pactuados, uma **Porta 93 de Acolhimento Emergencial sem Guia Prévia**, destinada a impedir que criança ou adolescente retirado de situação de risco permaneça em viatura, delegacia, hospital sem indicação médica, via pública, residência insegura ou local sem responsável apto.
+**Denominação pública:** Recepção Protetiva Emergencial Temporária.
+**Denominação técnica interna:** Procedimento RPE-T/93.
+A expressão "acolhimento emergencial sem guia prévia" permanece apenas no corpo jurídico deste instrumento, não como nome público nem como cabeçalho de comunicação. A denominação técnica interna é utilizada nos protocolos administrativos, na portaria intersecretarial e nos instrumentos internos. Na comunicação pública, nos materiais para famílias e na apresentação política do piloto, deve ser utilizada exclusivamente a denominação pública.
 
-A Porta 93 não cria nova hipótese de acolhimento, não substitui decisão judicial, não substitui o Conselho Tutelar, não dispensa o Ministério Público quando cabível e não institui regime municipal autônomo de medida protetiva. Trata-se de procedimento excepcional de recepção emergencial, utilizado apenas quando houver urgência protetiva, ausência de responsável apto, impossibilidade de permanência segura e falha momentânea do fluxo ordinário.
+**Propósito operacional:** nenhuma criança retirada de situação de risco deve ficar em viatura, delegacia, hospital sem indicação médica, rua ou local inseguro por falha de fluxo. O município organiza um procedimento de recepção temporária, documentado e comunicado às autoridades, até que o órgão competente assuma o caso.
+
+O município deverá instituir, no âmbito de seus serviços próprios, contratados, conveniados, subvencionados ou pactuados, este procedimento, destinado a impedir que criança ou adolescente retirado de situação de risco permaneça em viatura, delegacia, hospital sem indicação médica, via pública, residência insegura ou local sem responsável apto.
+
+**Camada jurídica — limites e não ampliações:** este procedimento não cria nova hipótese de acolhimento, não substitui decisão judicial, não substitui o Conselho Tutelar, não dispensa o Ministério Público quando cabível, não institui regime municipal autônomo de medida protetiva e não altera competências já estabelecidas pelo regime jurídico vigente. Ele não amplia o poder estatal sobre famílias. Sua única função é cobrir o intervalo entre a detecção do risco e a assunção pelo fluxo ordinário competente, operando dentro dos limites do regime jurídico vigente e com comunicação obrigatória às autoridades em até 24 horas para que o sistema legal retome o controle do caso. Trata-se de procedimento excepcional de recepção emergencial, utilizado apenas quando houver urgência protetiva, ausência de responsável apto, impossibilidade de permanência segura e falha momentânea do fluxo ordinário.
 
 A Porta 93 poderá operar em dois modos.
 
@@ -978,7 +1044,7 @@ Havendo dúvida relevante sobre conivência, retorno ao agressor, coação, mani
 
 Se uma instituição, microcreche, transporte ou espaço infantil precisar ser fechado por risco crítico não neutralizável, a resposta não poderá se limitar à inclusão em fila de espera.
 
-Deverá ser acionado o **Envelope 3 — Resposta Emergencial**, conforme disponibilidade e proporcionalidade, podendo envolver vaga temporária em rede privada formal, voucher emergencial, auxílio temporário à família, transporte para outra unidade, apoio do CRAS, família extensa segura, contraturno temporário, parceria emergencial, redução de capacidade com realocação parcial ou uso provisório de espaço público seguro.
+Deverá ser acionado o **Envelope 3 — Resposta Emergencial**, conforme disponibilidade e proporcionalidade, podendo envolver vaga temporária em rede privada formal, auxílio temporário à família, transporte para outra unidade, apoio do CRAS, família extensa segura, contraturno temporário, parceria emergencial, redução de capacidade com realocação parcial ou uso provisório de espaço público seguro. Voucher emergencial somente quando houver base legal e dotação orçamentária; em N1-LRF, essa hipótese não integra a resposta ordinária inicial.
 
 Cláusula:
 
@@ -1055,11 +1121,173 @@ Esse envelope tem prioridade. Universalizar capacidade básica geralmente é mai
 
 Acionado por gatilho objetivo. Financia apoio familiar, visita técnica, alfabetização funcional, correção ambiental simples, configuração de controle parental, acompanhamento escolar, saúde mental e apoio psicossocial.
 
-### 21.3. Envelope 3 — Resposta emergencial
+### 21.3. Envelope 3 — Resposta emergencial e Protocolo de Continuidade por Capacidade Existente
 
 Destinado a risco grave, interrupção de serviço essencial, abuso, abandono, violência, colapso institucional, alimentação, transporte emergencial ou realocação temporária.
 
+Em município N1-LRF, o Envelope 3 não constitui promessa de voucher, vaga, transporte, contratação, plantão, equipe extra, bolsa ou custeio público imediato. Sua função é acionar capacidade existente, organizar alternativas temporárias, documentar insuficiência estrutural e impedir que criança afetada por fechamento de microprestador retorne ao vazio sem destino seguro.
+
+> **Envelope 3 não é dinheiro emergencial. É logística de não abandono.**
+
 Não deve virar custeio permanente.
+
+#### 21.3.1. Operação Deslocada Assistida — ODA
+
+A **Operação Deslocada Assistida — ODA** é instrumento do Envelope 3 aplicável quando o risco está no **imóvel** do microprestador, não na pessoa do prestador.
+
+Exemplos de situações que admitem ODA: fiação exposta, laje instável, botijão ou gás em condição perigosa, cozinha perigosa, escada sem barreira, infiltração elétrica, saída bloqueada, risco físico localizado e corrigível.
+
+A solução é deslocar temporariamente o serviço para espaço público seguro ou comunitário pactuado, com as seguintes regras rígidas:
+
+- o prestador continua fisicamente presente e mantém o cuidado direto das crianças;
+- as famílias assinam termo de ciência sobre o deslocamento temporário;
+- o município fornece ou intermedeia o espaço alternativo;
+- o município controla o perímetro do espaço cedido;
+- o servidor público não vira cuidador;
+- o espaço precisa cumprir o núcleo mínimo de segurança.
+
+> **A ODA muda provisoriamente o endereço do cuidado; não transforma o município em creche emergencial.**
+
+#### 21.3.2. Servidor supervisor de perímetro na ODA
+
+A autorização da ODA em prédio municipal exige designação de servidor público **supervisor do perímetro do imóvel**, responsável por registrar abertura, encerramento diário e controle de acesso externo. O prestador permanece como responsável direto pelo cuidado cotidiano e vigilância interna das crianças.
+
+Essa designação assume o risco estatal real sobre o espaço físico cedido, sem transformar servidor em cuidador.
+
+#### 21.3.3. Compatibilidade mínima do espaço para ODA
+
+A cessão temporária de uso limitar-se-á a espaços que atendam ao núcleo indeclinável de segurança física e sanitária infantil. O **Mapa de Capacidade de Continuidade** (seção 21.3.5) deverá atestar compatibilidade mínima do local antes de qualquer deslocamento operacional. O espaço público não precisa ser ideal, mas não pode ser improviso perigoso.
+
+A verificação de compatibilidade usará **checklist binário** de risco comparado. Cada item é sim ou não; qualquer "não" em item crítico impede a cessão:
+
+- ( ) portas e portões com trinco funcional;
+- ( ) janelas ou aberturas funcionais não bloqueadas;
+- ( ) banheiro utilizável;
+- ( ) água disponível;
+- ( ) piso sem buraco ou desnível perigoso;
+- ( ) rota de saída desobstruída;
+- ( ) ausência de fiação exposta;
+- ( ) ausência de botijão ou chama acessível;
+- ( ) ausência de produto tóxico acessível;
+- ( ) ausência de lixo acumulado;
+- ( ) ausência de mofo visível nas salas de permanência;
+- ( ) ausência de pragas aparentes;
+- ( ) possibilidade de supervisão do perímetro pelo servidor designado.
+
+#### 21.3.4. Vedação da ODA quando o prestador for o risco
+
+A ODA é vedada quando o risco à criança originar-se do prestador ou de sua equipe. Hipóteses de vedação:
+
+- abuso, violência ou exploração pelo prestador ou adulto da equipe;
+- adulto responsável alcoolizado ou incapaz;
+- ausência de adulto confiável identificado;
+- negligência pessoal grave do prestador;
+- cárcere ou ameaça;
+- fraude ou retaliação contra famílias;
+- superlotação causada por falta de pessoal;
+- transporte inseguro por conduta do motorista;
+- qualquer caso em que o próprio prestador ou equipe componha o risco.
+
+Nesses casos, não se desloca o prestador. Desloca-se a criança para responsável seguro, família extensa, prestador formal, rede protetiva ou Recepção Protetiva Emergencial Temporária.
+
+#### 21.3.5. Mapa de Capacidade de Continuidade do Mês 0
+
+O piloto deverá construir, na operação relâmpago do Mês 0, um **Mapa de Capacidade de Continuidade** simples, sem sistema sofisticado, contendo:
+
+- vagas públicas reais disponíveis;
+- espaços públicos compatíveis para ODA;
+- prestadores formais com vaga ociosa conhecida;
+- espaços de espera seguros;
+- contatos de CRAS, CREAS e Conselho Tutelar;
+- serviços de acolhimento pactuados;
+- rotas de transporte já existentes;
+- parceiros voluntários disponíveis;
+- limites de uso de cada espaço ou serviço;
+- indicação de custo ou gratuidade;
+- responsável por cada local ou serviço;
+- **Unidade Pública de Retaguarda de Custódia** previamente identificada.
+
+Esse mapa não cria vaga nem dinheiro. Ele identifica portas possíveis antes da crise, para que a resposta emergencial não dependa de improviso.
+
+#### 21.3.5.1. Unidade Pública de Retaguarda de Custódia
+
+O Mapa de Capacidade deverá identificar previamente ao menos uma **Unidade Pública de Retaguarda de Custódia** — sala, equipamento público, sede da assistência social, espaço do Conselho Tutelar, escola pública ou outro local seguro com chave, responsável identificado, acesso controlado e capacidade mínima de permanência temporária de crianças.
+
+Essa unidade serve para receber crianças evacuadas de ODA suspensa por Código Vermelho, quando não houver zona segura interna disponível. UBS, UPA e hospital continuam sendo destino primário apenas quando houver necessidade clínica; não devem ser usados como solução de custódia social.
+
+A unidade deverá constar no Mapa de Capacidade com: localização, responsável, horário de funcionamento, capacidade máxima, condições mínimas verificadas pelo checklist binário da ODA e contato de acionamento direto.
+
+#### 21.3.6. Ficha de Fechamento com Continuidade Mínima
+
+Toda interdição total de microprestador deverá registrar:
+
+- número de crianças afetadas e faixa etária;
+- responsáveis contatados;
+- destino imediato de cada criança;
+- se houve responsável apto presente;
+- se houve família extensa acionada;
+- se houve ODA aplicada;
+- se havia vaga pública disponível;
+- se havia prestador formal substituto;
+- se houve necessidade de Conselho Tutelar, CRAS, saúde ou Recepção Protetiva Emergencial Temporária;
+- insuficiência estrutural documentada;
+- condição para reabertura parcial;
+- plano de reavaliação e prazo.
+
+> **A interdição não se encerra com o lacre; encerra-se com destino imediato documentado e plano mínimo de continuidade ou insuficiência formalmente registrada.**
+
+#### 21.3.7. Alerta de Déficit Crítico de Continuidade Infantil
+
+Quando houver padrão de insuficiência — repetidas interdições sem alternativa, número relevante de crianças sem reposição, uso recorrente de ODA por falta de rede pública, ausência sistemática de vaga ou fechamentos de microprestadores sem absorção — o piloto deverá acionar o **Alerta de Déficit Crítico de Continuidade Infantil**.
+
+O acionamento do Alerta imporá ao Chefe do Poder Executivo a obrigação de submeter ao Conselho Municipal competente e ao Poder Legislativo, em até 30 dias, relatório técnico de insuficiência estrutural acompanhado de proposta de readequação orçamentária, plano de expansão de rede pública, pactuação regional, chamamento, convênio ou justificativa técnica de impossibilidade imediata.
+
+> **Insuficiência documentada não encerra o dever público; apenas impede promessa fiscal fictícia e torna visível a falha estrutural.**
+
+#### 21.3.8. Prazo da ODA
+
+A ODA terá duração máxima de **15 dias corridos**, prorrogável uma única vez por mais 15 dias mediante decisão motivada da coordenação central. A ODA não é regime de espera de obra, comodato, cessão permanente, subvenção indireta ou vaga pública disfarçada. Encerrado o prazo, o caso migra para RECOT ou Ficha de Fechamento com Continuidade Mínima.
+
+#### 21.3.9. RECOT — Regime Excepcional de Cooperação Operacional Temporária
+
+O **RECOT — Regime Excepcional de Cooperação Operacional Temporária** é o instrumento de última instância quando a ODA vence e não há destino fático suficiente para todas as crianças. É final, improrrogável e não pode ser convertido em segunda ODA.
+
+O RECOT terá **duração máxima de 15 dias corridos, improrrogável**. A redução progressiva deverá produzir encerramento integral do uso do espaço público até o último dia do RECOT.
+
+**Rodízio de Turno Proporcionado — resposta preferencial antes da exclusão definitiva:** antes de remover crianças do atendimento, a coordenação deve avaliar se é possível aplicar rodízio de turno, redução proporcional de jornada, atendimento parcial por faixa horária ou divisão temporária de permanência. Essa avaliação deverá ocorrer antes de qualquer corte de capacidade, salvo risco físico atual que impeça qualquer continuidade no espaço.
+
+Quando o Rodízio de Turno Proporcionado não for suficiente para acomodar todas as crianças com segurança, aplica-se redução progressiva de capacidade por critério cego. O critério P1/P2/P3 ordena **permanência integral, permanência parcial e necessidade de transição assistida**, não exclusão automática:
+
+- P1: permanência integral no espaço ou no turno de maior duração;
+- P2: permanência parcial com rodízio documentado;
+- P3: transição assistida para alternativa identificada no Mapa de Capacidade.
+
+Regra de redução quando o rodízio não resolver: no início do RECOT, a capacidade será reduzida em pelo menos 50% quando houver mais de seis crianças e o rodízio for inviável; abaixo de seis crianças, a coordenação definirá o menor número compatível com transição individual documentada. Novo corte deverá ocorrer até o sétimo dia, de modo que o uso do espaço público seja integralmente encerrado até o décimo quinto dia.
+
+A ordem de prioridade para permanência é:
+
+1. menor faixa etária das crianças atendidas;
+2. famílias classificadas como P1 antes de P2;
+3. famílias classificadas como P2 antes de P3;
+4. empate: sorteio documentado.
+
+**Classificação P1/P2/P3:** produzida no ato de homologação da Operação Assistida inicial do prestador, mediante cruzamento em lote dos responsáveis informados pelo prestador com a base local disponível do CadÚnico ou assistência social. A ficha interna registrará apenas a classe de prioridade, sem renda exata, benefício, composição familiar, diagnóstico ou narrativa social. Ausência de dado local classificará provisoriamente como P3, sem presunção de menor vulnerabilidade. No Dia 31 da ODA, a classificação já existe e o RECOT pode ser aplicado sem microperícia social no balcão.
+
+#### 21.3.10. Saída material obrigatória da ODA e do RECOT
+
+O encerramento de ODA ou RECOT exige Ficha de Fechamento com destino fático imediato para cada criança. O dever público é cumprido mediante oferta documentada razoável: vaga pública existente, prestador formal ocioso, rede familiar indicada, retorno parcial seguro ao prestador original quando o risco original foi sanado, novo endereço de cuidado ou Recepção Protetiva Emergencial Temporária quando cabível.
+
+O encerramento não depende de consenso infinito da família. Recusa expressa e injustificada dos responsáveis deve ser registrada; quando gerar risco à criança, deverá ser encaminhada ao Conselho Tutelar com documentação da oferta realizada.
+
+#### 21.3.11. Suspensão emergencial da ODA
+
+Código Vermelho suspende a ODA de imediato; o TIDT formaliza depois.
+
+O servidor da ponta não enfrenta fisicamente o prestador hostil, não retira adulto hostil e não realiza contenção física. Deve acionar Código Vermelho e preservar crianças e a própria integridade até chegada da autoridade competente.
+
+A retirada protetiva das crianças deverá ocorrer preferencialmente para sala administrativa segura, guarita ou dependência interna do perímetro municipal com trancamento independente, comunicação externa e rota de saída que não dependa da área controlada pelo prestador hostil.
+
+Inexistindo zona segura com rota de fuga, a prioridade será evacuação do perímetro — quando possível sem confronto físico — em direção à unidade pública ativa mais próxima: UBS de plantão, hospital, base da Guarda Municipal, conselho plantonista pactuado ou outro equipamento seguro.
 
 ### 21.4. Envelope 4 — Fiscalização e auditoria
 
@@ -1267,6 +1495,16 @@ Cláusula:
 
 > Quem aderiu não pode ser punido economicamente enquanto o clandestino opera livremente. O município garantirá que a adesão produza vantagem real e visível, e que a clandestinidade produza desvantagem progressiva conforme o risco detectado.
 
+#### 25.7.2. Neutralidade concorrencial perante prestadores formalmente regulares
+
+A regularização assistida não constitui vantagem concorrencial permanente sobre prestadores formalmente regulares que já suportam o custo integral do regime regulatório. Sua função é criar transição proporcional até a equivalência regulatória mínima, não produzir benefício duradouro que inverta a posição do prestador irregular em relação ao prestador que já cumpre as exigências legais.
+
+O prazo de adequação no regime assistido deverá ser o mínimo necessário à correção proporcional, não um período indefinido de operação subsidiada. O prestador assistido que atingir equivalência regulatória mínima encerra automaticamente o período de transição e passa a responder pelo regime ordinário.
+
+Cláusula:
+
+> O regime assistido é rampa de entrada, não piso permanente. Prestadores formalmente regulares não serão prejudicados pela existência do período de transição, pois este tem prazo definido, restrições operacionais, auditoria e encerramento obrigatório por equivalência ou inadimplência.
+
 
 ### 25.8. Fraude de intermediação e uso político do acesso
 
@@ -1411,7 +1649,7 @@ O RTTA deverá conter:
 5. checklist do núcleo indeclinável;
 6. classificação de risco;
 7. restrições operacionais imediatas;
-8. providências em prazo imediato, 48 horas, 7 dias, 30 dias e 60 dias;
+8. providências em prazo imediato, prazo curto (referência: 48 horas em N2/N3 ou compatível com capacidade real em N1-LRF), 7 dias, 30 dias e 60 dias;
 9. pontos que exigem especialista;
 10. ciência e responsabilidade do prestador;
 11. informação pública às famílias;
@@ -1449,7 +1687,7 @@ O prazo de 60 dias não poderá ser usado para qualquer risco. As providências 
 
 **Imediato — antes da continuidade:** neutralização da exposição da criança ao risco, isolamento de área perigosa, retirada de produto químico, bloqueio de escada, fechamento de laje, desligamento de circuito quando necessário, vedação de cômodo, identificação dos adultos, telefone emergencial, lista de crianças e responsáveis.
 
-**48 horas:** reforço de contenção, proteção de tomadas, tranca, barreira física simples, retirada de objetos cortantes, reorganização de fluxo, comunicação às famílias e correção simples de alto impacto.
+**Prazo curto — referência 48 horas em N2/N3; compatível com capacidade real em N1-LRF:** reforço de contenção, proteção de tomadas, tranca, barreira física simples, retirada de objetos cortantes, reorganização de fluxo, comunicação às famílias e correção simples de alto impacto.
 
 **7 dias:** curso emergencial, lista padronizada, autorização de retirada, kit mínimo quando juridicamente disponível, comunicação às famílias e organização básica de rotina.
 
@@ -1497,9 +1735,9 @@ Cláusula:
 
 ### 27.9. Proteção procedimental do agente público
 
-O agente de campo não responderá individualmente por decisão administrativa de não interdição quando tiver preenchido o relatório padronizado de forma completa, indicado limitações técnicas, registrado riscos aparentes, recomendado encaminhamentos necessários e submetido o caso à autoridade competente, salvo dolo, fraude, omissão deliberada de risco crítico ou erro grosseiro.
+O agente de campo é responsável por constatar, classificar e recomendar dentro do escopo do protocolo. A decisão administrativa de transição cabe à autoridade competente. Essa separação entre quem observa e quem decide é estrutural: impede que o servidor de campo seja o fiador integral da operação e reduz o incentivo à interdição defensiva ou ao empurra-empurra por medo de responsabilização.
 
-Essa regra não impede controle externo, responsabilização do Estado ou apuração administrativa. Ela apenas afasta a personalização indevida da decisão quando o servidor cumpriu o procedimento, registrou limites e não extrapolou sua competência.
+Essa regra não impede controle externo, responsabilização do Estado ou apuração administrativa. Ela afasta a personalização indevida da decisão quando o servidor cumpriu o procedimento, registrou limites e não extrapolou sua competência.
 
 #### 27.9.1. Porto Seguro Procedimental
 
@@ -1520,6 +1758,116 @@ Formulação de blindagem:
 > O RTTA documenta o risco conhecido para permitir mitigação proporcional e transição assistida. Ele não zera o risco residual, não transforma precariedade temporária em conformidade definitiva, não substitui laudo técnico próprio, não afasta fiscalização setorial competente e não converte o agente de campo em garantidor universal da operação.
 
 Instrumentos como TAC, recomendação, plano de ação, termo de cooperação ou decisão administrativa deverão respeitar essa natureza. Quando o Ministério Público, controle interno, Tribunal de Contas ou órgão setorial exigir adequações, o RTTA servirá como base de priorização, nunca como certificação de segurança integral.
+
+---
+
+### 27.11. Parecer Técnico Subsidiário — PTS
+
+O **Parecer Técnico Subsidiário — PTS** é instrumento auxiliar ao RTTA, não seu substituto. Pode ser apresentado pelo prestador para instruir o processo administrativo, comprovar correção de pendência específica e reduzir prioridade de retorno na fiscalização sentinela.
+
+O PTS é **prova administrativa imperfeita**: serve para instruir o RTTA, comprovar correção específica, reduzir incerteza e ordenar prioridade de fiscalização sentinela. Não é licença, alvará, selo, certificação pública, autorização de funcionamento, substituto do RTTA ou garantia de ausência de risco.
+
+O PTS pode ser apresentado quando houver correção elétrica, sanitária, estrutural simples, barreira física, contenção de área, extintor, rota de saída, proteção de tomada, isolamento de risco ou outra pendência técnica delimitada.
+
+O PTS **não pode**:
+
+- alterar status público sozinho;
+- ampliar capacidade operacional;
+- liberar área vedada;
+- encerrar restrição crítica;
+- substituir rechecagem pública em risco grave;
+- reclassificar item da Tabela Negra como transicionável;
+- autorizar transporte, pernoite, cozinha ou reabertura integral quando houver risco crítico.
+
+### 27.11.1. Incentivo econômico sem privatização da decisão
+
+Para pendências formais e risco baixo, o PTS aceito poderá produzir **efeito provisório interno**: registrar cumprimento informado, **reduzir prioridade de retorno** e manter os limites anteriores até atualização administrativa. O caso não vai para o topo do funil; ele desce na fila de retorno ordinário.
+
+Para item da Tabela Negra com neutralização objetiva demonstrada, o PTS não libera automaticamente, mas **desloca o caso para o topo do funil de rechecagem** compatível com a capacidade real do município — porque ali há risco crítico e interesse público em verificação prioritária.
+
+Internamente pode constar: *Correção técnica informada — PTS aceito.*
+
+Publicamente deve aparecer apenas: **OPERAÇÃO LIMITADA CONHECIDA — Pendência em verificação.**
+
+Não usar "correção informada" na comunicação com famílias, porque isso induziria leitura de que o problema já foi resolvido.
+
+Em N1-LRF, nenhuma dessas prioridades constitui SLA, plantão, sobreaviso, promessa de visita em prazo fixo ou dever de deslocamento imediato de servidor sem escala formal.
+
+### 27.11.2. TIDT — Termo de Infração e Divergência Técnica
+
+O **TIDT — Termo de Infração e Divergência Técnica** é o instrumento único que formaliza tanto infrações do prestador quanto divergências do emissor de PTS. Ele substitui definitivamente qualquer referência a TDM e unifica o registro em um formulário com duas colunas distintas.
+
+**Coluna A — efeitos sobre o prestador:** quebra de ODA, infração ao núcleo indeclinável, acionamento de Código Vermelho, restrição, caducidade do RTTA, suspensão operacional.
+
+**Coluna B — efeitos sobre o emissor do PTS:** divergência de PTS, Alerta Interno de Balcão, PTS inoperante para fast-track, notificação para contraditório sumário e eventual inclusão na Lista Central após homologação.
+
+O TIDT separa rigorosamente três níveis de efeito:
+
+**Nível 1 — efeito imediato no processo específico do prestador:** o TIDT de campo registra a infração ou divergência e produz efeito imediato sobre o caso concreto do prestador (restrição, caducidade, suspensão parcial), independentemente de qualquer homologação.
+
+**Nível 2 — Alerta Interno de Balcão:** quando o TIDT registrar divergência grave de PTS envolvendo Tabela Negra, risco crítico ou omissão material, o registro profissional do emissor é marcado como "Em Revisão de Balcão". Novos PTS desse registro ficam inoperantes para fins de prioridade automática, fast-track e reclassificação, até manifestação do emissor ou despacho da coordenação. O PTS pode ser recebido materialmente, mas não gera efeito de fila ou prioridade.
+
+**Nível 3 — inclusão consolidada na Lista Central:** ocorre apenas após contraditório sumário e despacho da Coordenação do Núcleo Central. O fiscal de campo não tem poder de incluir profissional na Lista Central de forma unilateral.
+
+O TIDT deverá ser assinado por dois servidores públicos ou pela fiscalização competente. O fiscal de campo preenche e aciona o Alerta Interno; a Coordenação do Núcleo Central homologa, revisa ou cancela. Expressões como "dolo indiciário" são vedadas na fase de Alerta Interno; o coordenador de balcão não diagnostica dolo.
+
+### 27.11.3. Alerta Interno de Balcão
+
+O preenchimento do TIDT com marcação de "Divergência de PTS" produzirá efeito operacional imediato de **Alerta Interno de Balcão**. Novos PTS do mesmo número de registro profissional ficam **inoperantes para fins de prioridade automática** — não geram fast-track, não antecipam rechecagem, não reclassificam status e não melhoram posição reputacional — até manifestação do emissor ou despacho da coordenação.
+
+O Alerta Interno de Balcão **não** constitui sanção profissional, descredenciamento, declaração de fraude ou inclusão definitiva na Lista Central.
+
+Comunicação interna: "Registro profissional em revisão de balcão."
+Comunicação pública: o prestador mantém "OPERAÇÃO LIMITADA CONHECIDA — Pendência em verificação" ou status equivalente. Não aparece publicamente qualquer referência ao PTS, ao emissor, ao alerta ou ao processo interno.
+
+### 27.11.4. Contraditório Sumário do Emissor de PTS
+
+Após o TIDT gerar Alerta Interno de Balcão, o emissor do PTS será notificado com prazo de **48 horas úteis** para justificar a divergência técnica.
+
+O prazo começa no momento em que houver rastro de entrega da notificação, digital ou física. Não depende de assinatura presencial nem de confirmação subjetiva de leitura. A notificação deverá ocorrer por e-mail funcional, WhatsApp profissional, canal cadastrado no piloto ou outro meio com registro de envio e entrega.
+
+Após o prazo, a coordenação central emitirá despacho de homologação, revisão ou cancelamento do Alerta Interno.
+
+### 27.11.5. Governança do TIDT e papel da Corregedoria
+
+A **Coordenação do Núcleo Central** executa o fluxo de TIDT, Alerta Interno, notificação, contraditório e homologação.
+
+A **Corregedoria e o Controle Interno** não são executores do bloqueio. Atuam como **auditoria ex post**, analisando mensalmente: padrões de TIDT por fiscal, volume por fiscal, reincidência de divergência por profissional, possíveis perseguições, taxa de homologação versus cancelamento e consistência entre Alertas Internos e resultados de verificação.
+
+### 27.11.6. Comunicação ao Conselho Regional de Classe
+
+CREA, CAU ou outro conselho profissional somente será comunicado por ofício técnico quando houver ao menos um dos seguintes elementos:
+
+1. homologação após contraditório sumário;
+2. reincidência material documentada;
+3. falsidade documental comprovada;
+4. certidão ou prova pré-constituída de ART/RRT clonada;
+5. registro profissional cancelado ou inexistente;
+6. indício documental robusto após defesa.
+
+Comunicação externa não sai por impulso de fiscal de campo. Toda comunicação a conselho de classe passa pela Coordenação do Núcleo Central e pelo Controle Interno.
+
+### 27.11.7. Lista Central de Recebibilidade de PTS
+
+A **Lista Central de Recebibilidade de PTS** é instrumento administrativo interno, não público, que registra emissores cujos PTS devem ser recebidos como inoperantes para prioridade automática após homologação.
+
+A lista usa exclusivamente o **número de registro profissional completo**, sem nome, CPF, foto, narrativa ou motivo detalhado. Cada registro contém: número de registro profissional; efeito (inoperante para fast-track e prioridade); data de início; data de revisão; referência interna ao TIDT.
+
+Não contém: nome, CPF, foto, criança afetada, prestador afetado, relato, acusação ou motivo detalhado.
+
+A publicidade nominal só ocorre após confirmação qualificada, contraditório quando cabível, reincidência, falsidade documental ou comunicação formal a conselho profissional. Vazamento indevido da lista vira incidente de segurança e infração funcional apurável.
+
+### 27.11.8. Blindagem das portas de entrada contra coação
+
+A atuação das portas de entrada limita-se ao recebimento material do PTS, conferência de preenchimento dos campos obrigatórios e emissão de recibo de entrega, sendo vedada qualquer análise de mérito, avaliação de imagem ou classificação de saída pelo servidor da ponta. A classificação do PTS compete à coordenação central do piloto.
+
+Escola, UBS, CRAS, CREAS e agentes comunitários não avaliam foto, não classificam PTS e não emitem saída A/B/C/D.
+
+### 27.11.9. Fotografia contextual do PTS
+
+Quando o PTS incluir registro fotográfico de correção técnica, a imagem deverá conter marcador analógico ligado ao protocolo — por exemplo: *RTTA 014/2026 — 23/05/2026 — Pendência: tomada protegida.*
+
+A foto não pode conter criança, rosto, documento pessoal, cômodo íntimo, prontuário, dados familiares ou qualquer dado sensível. O objetivo é vincular a imagem ao processo específico, impedindo reaproveitamento genérico ou adulteração.
 
 ---
 
@@ -1632,6 +1980,8 @@ Cláusula:
 
 ## 32. Avaliação técnica, credenciamento e responsabilidade profissional
 
+> **Nota de fase:** no piloto inaugural N1, esta seção não cria sistema de credenciamento obrigatório de pareceristas. Laudos e pareceres privados serão recebidos apenas como PTS, nos termos da seção 27.11 e do Anexo IV — Ficha Analógica de Triagem do PTS, sem rodízio formal, sorteio ou auditoria digital sofisticada. Os requisitos abaixo aplicam-se a fases posteriores ou a municípios N2/N3 com capacidade técnica e administrativa para sustentar sistema de credenciamento.
+
 Quando a regularização exigir avaliação técnica, o Estado poderá usar profissionais ou entidades credenciadas. A decisão administrativa não deve depender apenas de impressão subjetiva de fiscal local.
 
 O credenciamento deve observar:
@@ -1681,8 +2031,8 @@ Status:
 
 | Status | Cor | Forma | Frase |
 |---|---|---|---|
-| Regular pleno | verde | círculo | FUNCIONA REGULARMENTE |
-| Operação limitada | amarelo | triângulo | FUNCIONA COM LIMITES |
+| Regular pleno | verde | círculo | SITUAÇÃO REGULAR CONHECIDA |
+| Operação limitada | amarelo | triângulo | OPERAÇÃO LIMITADA CONHECIDA |
 | Em triagem | cinza | quadrado | AINDA NÃO VERIFICADO |
 | Suspenso/interditado | vermelho | octógono | NÃO PODE RECEBER CRIANÇAS |
 
@@ -1705,6 +2055,22 @@ O status amarelo deve indicar limites principais:
 - próxima vistoria;
 - pendência crítica já mitigada;
 - prazo de adequação.
+
+#### 33.0.1. Termos reservados ao processo interno
+
+Os seguintes termos técnicos deverão permanecer no processo interno e jamais aparecer nas placas, páginas públicas, comunicados a famílias ou material de imprensa:
+
+- PTS aceito;
+- correção técnica informada;
+- neutralização alegada;
+- RTTA deferido;
+- laudo subsidiário;
+- operação assistida documentada;
+- Procedimento RPE-T/93;
+- ODA ativada;
+- strike de PTS.
+
+A família vê apenas os quatro rótulos públicos da tabela de status e a mensagem padronizada de que o status não é garantia de ausência de risco.
 
 ### 33.1. Travas de confiabilidade do status operacional
 
@@ -1734,26 +2100,47 @@ Cláusula:
 
 ---
 
-## 35. Correção informada e lag digital
+## 35. Pendência em verificação e lag administrativo
 
-Quando o prestador corrigir uma pendência, o sistema poderá indicar:
+Quando o prestador informar correção de pendência — por comunicação direta, PTS ou outro meio — o processo interno poderá registrar *correção técnica informada* ou *PTS aceito*, conforme o caso. Esses termos são exclusivamente internos.
 
-**Correção informada — aguardando verificação.**
+Na comunicação pública, permanece o status cautelar: **OPERAÇÃO LIMITADA CONHECIDA — Pendência em verificação.**
 
-Isso evita dano reputacional injusto por atraso de TI, sem transformar autocorreção em regularidade automática.
+A informação pública deverá esclarecer apenas: "O prestador informou correção, mas a verificação pública ainda está pendente. Até confirmação, permanecem os limites anteriores."
 
-Mensagem pública:
+Risco crítico não admite melhora reputacional por autocorreção, PTS ou fotografia sem contenção documentada e rechecagem pública conforme capacidade real do município.
 
-> O prestador informou correção em data determinada. A verificação pública está pendente. Até confirmação, permanecem os limites anteriores.
+O órgão público deverá reavaliar dentro do prazo compatível com a capacidade municipal e a gravidade do risco. Atraso estatal injustificado deve ser registrado e auditado. O lag administrativo não prejudica o prestador quanto ao status interno, mas não autoriza melhora do rótulo público sem verificação efetiva.
 
-O órgão público terá prazo para reavaliar. Atraso estatal injustificado deve ser registrado e auditado.
+### 35.1. Validade da indicação de pendência em verificação
 
+A indicação de pendência em verificação não poderá permanecer indefinidamente. O protocolo local deverá definir validade compatível com a gravidade: prazo reduzido para risco relevante, prazo intermediário para risco moderado e prazo maior apenas para pendência formal.
 
-### 35.1. Validade curta da correção informada
+Expirado o prazo sem verificação, o sistema deverá indicar **Dados desatualizados — limites anteriores permanecem**. Risco crítico não admite autocorreção reputacional sem contenção documentada ou avaliação competente.
 
-A mensagem **Correção informada — aguardando verificação** não poderá permanecer indefinidamente. O protocolo local deverá definir validade curta conforme a gravidade: prazo reduzido para risco relevante, prazo intermediário para risco moderado e prazo maior apenas para pendência formal.
+### 35.2. OPERAÇÃO LIMITADA — Correção Declarada
 
-Expirado o prazo sem verificação, o sistema deverá indicar **Dados vencidos — limites anteriores permanecem**. Risco crítico não admite autocorreção reputacional sem contenção documentada ou avaliação competente.
+Persistindo sobrestamento de risco material médio por mais de dois ciclos mensais por inércia exclusiva do Estado, o status público poderá evoluir para **OPERAÇÃO LIMITADA — Correção Declarada**, desde que cumpridos cumulativamente três requisitos:
+
+1. PTS minimamente idôneo e delimitado, aceito como indício parcial ou suficiente de correção específica pela coordenação central;
+2. assinatura de **Termo de Responsabilidade Civil, Administrativa e Penal Agravada** pelo prestador, declarando ciência de que a mudança de rótulo não reduz sua responsabilidade e que qualquer descumprimento das condições impostas implicará resposta agravada;
+3. quando cabível, assinatura ou reafirmação técnica do emissor do PTS, confirmando que o documento não foi emitido em divergência conhecida com a realidade fática.
+
+Essa classificação não autoriza ampliação de capacidade, liberação de área vedada, encerramento de restrição crítica, transporte, pernoite, cozinha ou conversão em regularidade plena. Apenas informa que houve declaração técnica de correção ainda não verificada pelo poder público, reduzindo o dano reputacional do prestador cooperante sem fingir que o problema está resolvido.
+
+Itens da Tabela Negra continuam excluídos desta regra. Risco crítico não avança para "Correção Declarada" sem rechecagem efetiva e neutralização objetiva. A inércia estatal não premia o prestador nem libera restrição; ela apenas muda o rótulo público enquanto os limites operacionais permanecem integrais.
+
+### 35.3. Subnotificação e Análise Sobreestada
+
+Se um território ficar subnotificado por mais de 30 dias sem sinal institucional mínimo, não haverá presunção favorável por ausência de sinal. A coordenação deverá deliberar sobre destravamento.
+
+Quando não houver dado mínimo disponível, o caso será classificado como **Análise Sobreestada por Ausência de Sinais**, sinalizando que o município não tem informação suficiente para presumir regularidade.
+
+Após dois ciclos em Análise Sobreestada:
+
+- risco baixo ou pendência formal: pode haver liberação condicionada. Comunicação interna: ausência de sinal institucional suficiente. Comunicação pública: operação limitada ou pendência em verificação, conforme o caso, sem expor a expressão "ausência de sinal" às famílias para não gerar confusão sobre a base da decisão;
+- médio risco com PTS aceito: pode evoluir para **OPERAÇÃO LIMITADA — Correção Declarada**, conforme seção 35.2;
+- item da Tabela Negra: não há liberação sem rechecagem efetiva ou neutralização objetiva documentada.
 
 ---
 
@@ -1827,14 +2214,44 @@ Cláusula:
 
 #### 37.1.1. Validação mínima por lote no piloto N1
 
-No piloto inaugural, especialmente em municípios N1, a validação assistida de vínculos poderá ocorrer por lote, sem registro nominal ordinário de crianças. Escola, UBS, CRAS, CREAS, Conselho Tutelar ou agente comunitário poderão informar apenas: código ou identificação do prestador, contagem aproximada de crianças vinculadas, fonte institucional e grau de confiança do sinal.
+No piloto inaugural, especialmente em municípios N1, a validação assistida de vínculos poderá ocorrer por lote, sem registro nominal ordinário de crianças.
+
+> **Cadastro Reverso por Lote não é cadastro de crianças. É contagem protegida de vínculos.**
+
+**Fluxo básico:**
+
+1. prestador declara capacidade, turnos e número aproximado de crianças;
+2. escola, UBS, CRAS, CREAS, agente comunitário ou Conselho Tutelar informa contagem aproximada por lote;
+3. município compara capacidade declarada, crianças declaradas e sinais agregados;
+4. divergência gera triagem, não punição automática.
+
+**Ficha de lote mínima:**
+
+- código ou nome do prestador;
+- fonte institucional;
+- território;
+- contagem aproximada: 0–5 / 6–10 / 11–15 / 16–20 / acima de 20;
+- grau de confiança: baixo / médio / alto;
+- sinal de risco atual: sim / não;
+- sinal de medo ou retaliação: sim / não;
+- observação curta sem nomes;
+- assinatura do ponto institucional.
 
 A identificação nominal de criança ou família somente será admitida quando houver risco grave, divergência relevante, necessidade protetiva específica, contestação, auditoria específica ou outra hipótese justificada por finalidade determinada e registrada.
 
-Cláusula:
+#### 37.1.2. Cláusula de não cartorialização da rede
 
-> A validação por lote impede que escolas, agentes comunitários, UBS e CRAS se convertam em cartórios manuais do piloto. O Estado coleta contagens e sinais; não coleta mapa nominal de rotinas infantis sem necessidade específica.
+A validação por lote não transforma escola, UBS, CRAS, CREAS, Conselho Tutelar ou agentes comunitários em cartórios manuais do piloto. A função da rede é fornecer sinais agregados e alertas materiais, não produzir cadastro nominal de rotinas infantis.
 
+> O Estado coleta contagens e sinais; não coleta mapa nominal de rotinas infantis sem necessidade específica.
+
+#### 37.1.3. Regra antifalso negativo no Cadastro Reverso
+
+A ausência de sinal institucional não será interpretada como prova de inexistência de vínculo, especialmente em território com baixa cobertura de escola, UBS, CRAS, agente comunitário ou serviços públicos. Lote insuficiente indicará necessidade de consulta assistida, busca territorial leve ou nova amostragem, não regularidade automática.
+
+#### 37.1.4. Regra de divergência não sancionatória
+
+Divergência entre capacidade declarada, vínculos informados pelo prestador e sinais agregados da rede não produzirá sanção, interdição, alteração pública de status ou presunção de fraude por si só. A divergência servirá para triagem, consulta assistida, reamostragem ou fiscalização sentinela, salvo risco grave atual.
 
 ---
 
@@ -2012,7 +2429,11 @@ Para o prestador, toda diligência é apresentada como:
 
 A origem específica da seleção não é revelada.
 
-### 43.1. Auditoria antiviés da fiscalização sentinela
+### 43.1. Mistura de fontes para proteção da origem
+
+Salvo risco grave atual, fiscalizações originadas de lote divergente deverão ser misturadas com sorteio, ciclo ordinário ou revisão territorial, para evitar exposição da fonte, perseguição seletiva e concentração indevida sobre famílias pobres, territórios periféricos ou prestadores comunitários.
+
+O objetivo é que o prestador não consiga identificar qual família, instituição ou sinal gerou a seleção específica.
 
 A fiscalização sentinela deverá ser auditada para verificar se a seleção de casos concentra indevidamente ações em famílias pobres, territórios periféricos, grupos raciais, comunidades religiosas, famílias monoparentais, pessoas com deficiência, neurodivergentes, migrantes, prestadores comunitários ou grupos politicamente vulneráveis.
 
@@ -2029,8 +2450,17 @@ A auditoria deverá comparar, no mínimo:
 
 Se o sistema produzir concentração injustificada de ônus fiscalizatório em grupos vulneráveis, a matriz de risco deverá ser recalibrada. Risco social não pode ser confundido automaticamente com culpa individual.
 
+### 43.2. Cota Sentinela
 
-### 43.2. Alerta de Captura Territorial e Índice de Captura Operacional
+O fast-track de PTS crítico — deslocamento de caso ao topo do funil de rechecagem — não poderá suspender a **cota sentinela ordinária** por mais de dois ciclos mensais consecutivos. A cota sentinela garante que sorteio, ciclo periódico e risco ponderado continuem operando mesmo quando há pressão de rechecagens prioritárias.
+
+A exceção não se aplica ao Código Vermelho: Código Vermelho opera fora da agenda fiscal e não compete com a cota sentinela. A limitação de dois ciclos aplica-se apenas à rechecagem técnica de interdição ativa com possibilidade concreta de retorno limitado, ODA ou interdição parcial.
+
+Cláusula:
+
+> A prioridade de PTS crítico não pode esvaziar a fiscalização aleatória. A cota sentinela é o que garante que o sistema não seja capturado pelos casos que chegam ao balcão.
+
+### 43.3. Alerta de Captura Territorial e Índice de Captura Operacional
 
 Municípios de baixa capacidade administrativa não serão obrigados a realizar auditorias sociológicas complexas para detectar captura comunitária, religiosa, política, econômica ou associativa. O piloto deverá adotar métrica simples de alerta, baseada em concentração operacional, reclamações, janelas temporais de entrada e amostragem direta.
 
@@ -2274,6 +2704,16 @@ Funções:
 
 Essa medida é contextual. Não constitui obrigação universal de securitização escolar. O objetivo é filtrar risco antes que alcance a criança, sem transformar escola em ambiente carcerário.
 
+---
+
+> ⚠️ **BIBLIOTECA DE EXPANSÃO FUTURA — NÃO INTEGRA O PILOTO INAUGURAL**
+>
+> O módulo abaixo (seções 51.5 a 51.5.8) trata de educação da criança sob proteção substitutiva, pluralidade pedagógica e escuta protegida periódica. Ele **não deve ser apresentado publicamente como parte do piloto de 180 dias**. Sua ativação requer pactuação específica com educação, assistência social, sistema de justiça, serviços de acolhimento e órgãos de controle, além de protocolo próprio de escuta protegida, proteção de dados e prevenção de uso ideológico do instrumento.
+>
+> **Risco de contaminação:** este módulo abre frente de debate sobre doutrinação, pluralidade pedagógica e escuta de crianças. Mesmo com salvaguardas robustas, sua apresentação simultânea ao piloto de microprestadores pode desviar atenção pública para disputa ideológica e prejudicar a recepção do núcleo operacional. Ler, revisar e ativar apenas em fase posterior, após maturidade do piloto inaugural e pactuação interinstitucional adequada.
+
+---
+
 ### 51.5. Educação da Criança sob Proteção Substitutiva, Pluralidade Pedagógica e Escuta Protegida Periódica
 
 > **Este módulo não integra o piloto inaugural.** Sua ativação depende de pactuação específica com educação, assistência social, sistema de justiça, serviços de acolhimento e órgãos de controle, bem como de protocolo próprio de escuta protegida, proteção de dados e prevenção de uso ideológico do instrumento. O conteúdo abaixo integra a Biblioteca de Expansão Progressiva e deverá ser ativado em fase posterior, após maturidade operacional do piloto inaugural e pactuação interinstitucional adequada.
@@ -2417,6 +2857,10 @@ Fórmula-síntese:
 
 ---
 
+> **FIM DO MÓDULO DE EXPANSÃO FUTURA — retomada do documento principal.**
+
+---
+
 ## 52. Transporte escolar
 
 O transporte escolar envolve risco físico elevado. O núcleo legal e técnico de segurança não deve ser flexibilizado.
@@ -2521,18 +2965,84 @@ Escopos possíveis:
 
 A ordem mais segura de implementação é começar por módulos institucionais e territoriais, e não por fiscalização doméstica.
 
-Sequência recomendada:
+#### 56.1.1. Pré-piloto de transporte infantil de risco — 30 dias corridos
+
+O arranque mais seguro do modelo não é a abertura universal do balcão de microcreches. É uma **janela sentinela de transporte escolar e infantil de risco**, com duração máxima de **30 dias corridos, improrrogáveis**, iniciando 5 dias úteis antes do retorno oficial das aulas.
+
+**Período pré-letivo (5 dias úteis antes do início):** dedicado exclusivamente a treinamento interno, carga de rotas históricas, simulação de TIDT, teste de formulários e organização do Núcleo Central. Não haverá exigência de comparecimento prévio de motoristas informais.
+
+**Dias 1 a 30:** janela sentinela de transporte infantil de risco.
+
+**Dia 31:** abertura compulsória do balcão de adesão voluntária protegida para microcreches e microprestadores do microterritório piloto.
+
+Justificativa técnica: o transporte tem risco material mais objetivo, menor dependência de espaço físico alternativo, menor disputa sobre estilo parental, menos necessidade imediata de ODA e RECOT, e melhor capacidade de teste isolado dos instrumentos nucleares.
+
+O pré-piloto de transporte deve testar: identificação de risco material, status público simples, PTS, TIDT, Lista Central, Fiscalização Sentinela, Código Vermelho e comunicação pública cautelar.
+
+O pré-piloto de transporte **não deve testar ainda:** ODA, RECOT, Cadastro Reverso amplo, reordenamento de microcreches e continuidade infantil em massa.
+
+**Tabela Negra em transporte:** item da Tabela Negra identificado em transporte — superlotação grave, criança sem cinto, veículo inseguro, motorista alcoolizado, porta travada, ausência de condutor habilitado, criança em compartimento inadequado — gera TIDT, bloqueio cautelar, Código Vermelho ou resposta material imediata conforme o caso. Orientação como regra ampla só vale para pendências formais ou transicionáveis.
+
+#### 56.1.1.1. Seleção de rotas — Urnas Físicas Analógicas (modo N1)
+
+Em municípios N1, a seleção de rotas para fiscalização sentinela usará **Urnas Físicas Analógicas**. Planilha ponderada digital fica reservada para N2/N3.
+
+**Urna A — Cega:** 1 envelope por rota conhecida, sem peso adicional. Envelopes externamente idênticos, lisos, sem marcação. A identificação da rota fica apenas dentro do envelope, fechado.
+
+**Urna B — Ponderada:** envelopes multiplicados conforme sinais administrativos:
+- 1 envelope: rota sem anomalia conhecida;
+- 2 envelopes: rota com sinal de atenção;
+- 3 envelopes: rota com sinal forte ou reincidência técnica.
+
+**Coreografia de saque — sequência fixa:** primeiro saque da Urna A; dois saques seguintes da Urna B; repetir a sequência até atingir a capacidade fiscalizatória do ciclo. A sequência fixa evita cálculo de arredondamento em municípios com capacidade mínima. Não usar frações percentuais.
+
+**Duplicidade:** envelope repetido no mesmo ciclo é aberto, duplicidade registrada em ata, papel inutilizado, novo saque da mesma urna. Não se retira envelope de dentro da urna por identificação externa.
+
+**Sinal de Ficha de Lote:** sinal de Tabela Negra em Ficha de Lote ordinária gera **Triagem Prioritária** na primeira janela sentinela disponível, preferencialmente em até 48 horas operacionais quando houver capacidade. Código Vermelho imediato só por comunicação urgente em tempo real, flagrante atual, criança efetivamente exposta, perigo iminente ou constatação direta por agente público.
+
+#### 56.1.1.2. Ata do Sorteio Sentinela
+
+A ata deverá ser assinada pelo Coordenador Central e por 1 servidor efetivo preferencialmente da Administração, Finanças, Controle Interno ou área administrativa não envolvida na elaboração das Fichas de Lote do ciclo.
+
+Diretores escolares não assinam. Conselho Tutelar não assina como rotina. CMDCA ou CME podem acompanhar como observadores sem acesso a dados protegidos e sem poder deliberativo.
+
+**Vedação de conflito de interesse:** servidor de escola que alimentou Ficha de Lote no ciclo não pode participar, presenciar ou coassinar o sorteio daquele ciclo.
+
+#### 56.1.1.3. Proteção de fonte no transporte
+
+Toda diligência será apresentada como **revisão ordinária de status operacional**. São vedadas a revelação de peso, origem do sinal, escola informante, família, professor ou motivo específico da seleção. A proteção da fonte se apoia na aplicação de checklist uniforme, que impede inferência sobre a origem da seleção.
+
+#### 56.1.1.4. Checklist Universal de Transporte
+
+O checklist de transporte é universal e opera em dois modos.
+
+**Modo de Abordagem Rápida — primeiros 60 segundos:** superlotação aparente, presença de cinto, porta e tranca funcionais, estado aparente do condutor, posição das crianças. Item de Tabela Negra visível aciona resposta imediata antes de completar o checklist.
+
+**Modo de Verificação Completa N1:**
+- identificação visível do veículo e do condutor;
+- número de crianças vs. capacidade declarada;
+- cinto disponível por assento;
+- portas e travas funcionais;
+- saída de emergência desobstruída;
+- ausência de criança em compartimento inadequado;
+- lista de embarque e desembarque disponível;
+- comunicação emergencial funcionando;
+- ausência de motorista com sinal visível de intoxicação;
+- documentação básica do veículo disponível para consulta.
+
+O checklist não exige avaliação técnica de motor, freio, suspensão ou estrutura automotiva por fiscal sem competência.
+
+#### 56.1.2. Sequência após o pré-piloto
+
+Após a janela sentinela de transporte:
 
 1. regularização assistida de microprestadores infantis;
 2. status operacional e consulta assistida;
 3. cadastro reverso de vínculo por validação assistida;
 4. Protocolo de Resposta Protetiva Imediata em Código Vermelho;
-5. transporte escolar de risco;
-6. evasão escolar com busca ativa e teste pobreza-negligência;
-7. supervisão digital assistida;
-8. risco doméstico material grave.
-
-Essa ordem reduz resistência pública, testa governança de dados em ambiente menos intrusivo, produz benefício visível para famílias, protege crianças já atendidas por serviços informais e evita que o modelo seja percebido como fiscalização inicial da intimidade doméstica.
+5. evasão escolar com busca ativa e teste pobreza-negligência;
+6. supervisão digital assistida;
+7. risco doméstico material grave.
 
 ### 56.2. Tríade mínima do piloto inaugural
 
@@ -2567,7 +3077,7 @@ O modo de baixa capacidade opera com:
 - escola, UBS, CRAS, Conselho Tutelar e agentes comunitários;
 - lista de acionamento protetivo;
 - ficha de Código Vermelho;
-- revisão em 24 horas;
+- revisão em 24 horas quando houver plantão ou equipe disponível; em N1-LRF, revisão no primeiro ciclo administrativo possível;
 - relatório mensal simplificado.
 
 A regra é:
@@ -2580,7 +3090,7 @@ O piloto inaugural deverá ser empacotado em três peças, para equilibrar veloc
 
 **Primeira peça — Decreto Municipal do Piloto.** Institui o piloto por prazo determinado, define território, escopo, órgãos participantes, matriz de maturidade, janela de adesão voluntária protegida, RTTA, status operacional, cadastro reverso analógico-assistido, consulta assistida, Protocolo de Resposta Protetiva Imediata, bypass originário em N1-LRF, bypass por falha de coordenação quando houver plantão formal, regra antiempurra, rebaixamento de falso positivo, linha de base, KPIs, teto administrativo, governança de dados, relatórios mensais e vedação de uso eleitoral.
 
-**Segunda peça — Portaria Intersecretarial.** Traz os anexos operacionais: ficha de adesão, RTTA, ficha de Código Vermelho, cartão de bolso da Chave 1, matriz de risco, termo de ciência do prestador, protocolo de consulta assistida, matriz de dados, relatório mensal, fluxo de validação assistida e formulário de revisão em 24 horas.
+**Segunda peça — Portaria Intersecretarial.** Traz os anexos operacionais: ficha de adesão, RTTA, ficha de Código Vermelho, cartão de bolso da Chave 1, matriz de risco, termo de ciência do prestador, protocolo de consulta assistida, matriz de dados, relatório mensal, fluxo de validação assistida e formulário de revisão (em 24 horas quando houver disponibilidade; em N1-LRF, no primeiro ciclo administrativo possível).
 
 A portaria intersecretarial deverá conter, obrigatoriamente, **anexos visuais de uma página**, em linguagem operacional, destinados às portas de entrada do piloto. Os fluxos deverão permitir decisão rápida por escola, UBS, CRAS, CREAS, Conselho Tutelar, agentes comunitários, fiscalização, acolhimento e gestão municipal, sem depender de leitura longa no campo.
 
@@ -2593,7 +3103,11 @@ Anexos visuais obrigatórios:
 - Validação por lote em município N1 — o que informar, o que não coletar;
 - Painel dos 5 números — preenchimento mensal pelo coordenador do piloto.
 
-A portaria intersecretarial do piloto deverá conter, como **anexos obrigatórios de fricção zero**, três instrumentos imprimíveis: Quadro de Decisão Tutelar e Chave 1, Ficha de Validação Mínima por Lote e Termo de Porto Seguro Procedimental do Agente. Esses instrumentos terão prevalência operacional no treinamento inicial, sem substituir o decreto, o RTTA completo, a matriz de dados ou os protocolos técnicos. O conteúdo completo dos três instrumentos está no Capítulo 67 — Kit de Prateleira N1.
+A portaria intersecretarial do piloto deverá conter, como **anexos obrigatórios de fricção zero**, os instrumentos imprimíveis do Kit de Prateleira N1 (Capítulo 67). Esses instrumentos terão prevalência operacional no treinamento inicial, sem substituir o decreto, o RTTA completo, a matriz de dados ou os protocolos técnicos.
+
+**Decreto do piloto** deverá conter expressamente: calendário da janela sentinela de transporte; regras de Urna Física Analógica para sorteio; modelo de Ata do Sorteio Sentinela; tratamento do TIDT com três níveis de efeito; contraditório sumário do emissor de PTS em 48 horas úteis; Lista Central de Recebibilidade de PTS; Unidade Pública de Retaguarda de Custódia; RECOT com Rodízio de Turno Proporcionado; vedação de flexibilização da Tabela Negra; e critérios de comunicação ao conselho de classe apenas após filtro qualificado.
+
+**Portaria intersecretarial** deverá conter como anexos visuais de uma página, em linguagem operacional: fluxo TIDT/PTS com três níveis; fluxo Alerta Interno de Balcão; fluxo Urnas Sentinela com Coreografia de Saque; modelo de Ata do Sorteio; Checklist Universal de Transporte em dois modos; fluxo de Unidade Pública de Retaguarda de Custódia; RECOT com Rodízio de Turno Proporcionado; e os instrumentos do Kit de Prateleira N1.
 
 **Terceira peça — Projeto de Lei Municipal Curto.** Autoriza apenas o que exigir base legislativa mais robusta: fomento condicionado, fundo, voucher, entrega de bens físicos, pagamento direto a fornecedor, isenção de taxas, sanções administrativas específicas, deveres obrigatórios para particulares, status operacional compulsório, compartilhamento intersetorial estruturado de dados e mecanismos de controle externo.
 
@@ -2708,7 +3222,7 @@ Para fins de acompanhamento político-administrativo do piloto, o relatório exe
 
 1. número de prestadores identificados na linha de base;
 2. número de prestadores aderidos ao cadastro assistido;
-3. número de riscos críticos neutralizados em até 48 horas;
+3. número de riscos críticos neutralizados antes da continuidade do atendimento;
 4. número de consultas assistidas realizadas por famílias;
 5. número de Códigos Vermelhos com assunção material registrada.
 
@@ -2716,7 +3230,7 @@ Os demais indicadores permanecerão no relatório técnico, sem sobrecarregar a 
 
 Cláusula:
 
-> Cinco números que mostram se o piloto funciona. Se os prestadores estão aparecendo, se as famílias conseguem consultar, se os riscos estão sendo neutralizados rapidamente e se as emergências estão tendo resposta real.
+> Cinco números que mostram se o piloto funciona. Se os prestadores estão aparecendo, se as famílias conseguem consultar, se os riscos críticos estão sendo neutralizados antes da continuidade do atendimento e se as emergências estão tendo assunção material registrada.
 
 ### 57.1. KPI 1 — Conversão segura da informalidade
 
@@ -2732,7 +3246,7 @@ Cláusula:
 - percentual triado por RTTA;
 - percentual com status público válido;
 - percentual com plano de adequação ativo;
-- percentual de riscos críticos aparentes mitigados, isolados ou interditados em até 48 horas;
+- percentual de riscos críticos aparentes mitigados, isolados, interditados ou encaminhados antes da continuidade do atendimento (N1-LRF) ou dentro do prazo territorial aplicável (N2/N3);
 - percentual que cumpriu ao menos uma etapa do plano em até 30 dias;
 - taxa de retorno à clandestinidade;
 - número de novos prestadores descobertos após a linha de base.
@@ -2747,16 +3261,18 @@ A métrica não usará estimativa abstrata do universo invisível como denominad
 
 Medida concreta de proteção inclui retirada de exposição atual, contenção de agressor, chegada ou assunção formal de polícia, SAMU ou saúde, comunicação efetiva ao Conselho Tutelar, encaminhamento à saúde, entrega a responsável seguro, acolhimento emergencial, cessação imediata de operação perigosa ou outra medida equivalente.
 
-**SLA territorializado:** o decreto ou ato do piloto deverá fixar metas distintas para perímetro urbano denso, perímetro urbano expandido, zona rural e área de difícil acesso. A meta não deve exigir tempo urbano de resposta para território rural ou isolado. O relatório deverá comparar cada caso com a meta territorial aplicável.
+**SLA territorializado (N2/N3 apenas):** onde houver plantão formal, escala ou capacidade administrativa, o decreto ou ato do piloto poderá fixar metas distintas para perímetro urbano denso, perímetro urbano expandido, zona rural e área de difícil acesso. A meta não deve exigir tempo urbano de resposta para território rural ou isolado. O relatório deverá comparar cada caso com a meta territorial aplicável.
+
+**Em N1-LRF não haverá SLA interno municipal.** O indicador medirá tempo real observado, assunção material, uso de bypass originário, órgão acionado e justificativa de capacidade. Metas temporais só se aplicam onde houver plantão, escala ou capacidade formal demonstrada. Ausência de SLA não significa ausência de métrica: o registro da assunção material e do tempo observado continua obrigatório para subsidiar ajuste do protocolo.
 
 **Indicadores auxiliares:**
 
 - percentual de códigos vermelhos com acionamento simultâneo registrado;
 - percentual de casos em que houve bypass originário em N1-LRF ou bypass por falha de coordenação formal em N2/N3;
-- percentual com primeiro órgão em cena ou assunção formal dentro do SLA territorial;
+- percentual com primeiro órgão em cena ou assunção formal dentro do SLA territorial, quando aplicável (N2/N3); em N1-LRF, percentual com assunção material registrada;
 - percentual com desmobilização ou rebaixamento formal no marco de reavaliação operacional quando configurado falso positivo ou risco inferior;
 - percentual de casos rebaixados que permaneceram referenciados na assistência social, saúde, escola, Conselho Tutelar ou serviço competente quando havia vulnerabilidade residual, crise neurodivergente, dúvida razoável ou risco social;
-- percentual com revisão obrigatória em até 24 horas;
+- percentual com revisão em até 24 horas quando houver plantão ou equipe disponível; em N1-LRF, revisão no primeiro ciclo administrativo possível;
 - número de casos sem assunção formal por nenhum órgão;
 - número de recusas, atrasos injustificados ou falhas de despacho comunicados à autoridade competente ou ao Ministério Público.
 
@@ -2800,7 +3316,7 @@ A avaliação do piloto deverá produzir decisão administrativa expressa, e nã
 | uso recorrente do 190 para vulnerabilidade social sem perigo físico atual | recalibrar Código Vermelho | refazer treinamento, cartão operacional e destinos materiais de acionamento |
 | alertas ICO laranja ou vermelho recorrentes | pausar governança local afetada | reforçar canal direto, fila cega, sorteio, rodízio e controle externo |
 | vazamento grave, acesso indevido ou tratamento de dados sem base suficiente | pausar módulo de dados | suspender integração, reduzir coleta e refazer matriz de dados |
-| Porta 93 usada como acolhimento prolongado ou sem comunicação tempestiva | suspender uso ordinário da Porta 93 até pactuação | corrigir protocolo, pactuar fluxo e reforçar comunicação às autoridades |
+| Porta 93 Modo B usada de forma recorrente ou sem comunicação tempestiva às autoridades | reforçar pactuação e rever protocolo | buscar Modo A pactuado, corrigir fluxo, reforçar TEPE e comunicação em 24 horas |
 | fechamento de microprestador sem continuidade infantil mínima | suspender expansão | revisar Envelope 3, plano de continuidade e critérios de interdição |
 | abuso estatal, punição da pobreza ou visita domiciliar indevida | suspender módulo sensível | apurar responsabilidade, retreinar equipes e reforçar controle externo |
 | risco crítico não neutralizado ou acidente grave ligado a falha do fluxo | suspender e redesenhar | bloquear expansão, revalidar RTTAs e revisar matriz de risco |
@@ -2830,11 +3346,42 @@ O piloto deverá monitorar, conforme capacidade local:
 - reclamações de intermediação política, religiosa, econômica ou associativa;
 - concentração de benefícios ou cadastros por intermediário não público.
 
+**Campos adicionais do relatório mensal para auditar as novas engrenagens:**
+
+- número de TIDTs emitidos (Coluna A e Coluna B);
+- número de Alertas Internos de Balcão abertos;
+- número de PTS recebidos como inoperantes para fast-track;
+- número de profissionais notificados para contraditório sumário;
+- número de defesas recebidas em 48 horas úteis;
+- número de homologações e arquivamentos de Alerta Interno;
+- número de comunicações externas ao CREA/CAU ou conselho competente;
+- número de sorteios realizados por Urna A e Urna B;
+- número de duplicidades de rota descartadas em sorteio;
+- número de rotas fiscalizadas no ciclo;
+- número de Triagens Prioritárias por Ficha de Lote;
+- número de Códigos Vermelhos reais por flagrante vs. por Triagem Prioritária;
+- número de usos da Unidade Pública de Retaguarda de Custódia;
+- número de RECOTs com Rodízio de Turno Proporcionado aplicados.
+
+**Linguagem de treinamento para agentes de campo:**
+
+Para reduzir medo, dúvida e improviso, o treinamento de arranque deverá incluir as seguintes frases operacionais em linguagem simples:
+
+- *"Não escolha de cabeça: sorteie na urna."*
+- *"Ficha da escola não manda fiscalizar; só aumenta a chance de sair na urna."*
+- *"Tabela Negra em ficha semanal não é Código Vermelho automático — é Triagem Prioritária."*
+- *"Perigo acontecendo agora é Código Vermelho."*
+- *"PTS de profissional em revisão de balcão não fura fila."*
+- *"Não mande caso ao CREA/CAU antes do filtro da coordenação."*
+- *"Hospital não é abrigo; é destino clínico."*
+- *"RECOT começa com rodízio, não com despejo."*
+- *"Você não precisa resolver tudo: registre, encaminhe e documente."*
+
 ---
 
 ## 58. Desenho institucional recomendado
 
-O modelo não cria uma nova polícia familiar, nem exige novos órgãos físicos como condição de implementação. Ela recomenda organização funcional com separação entre apoio, proteção, dados, regularização, resposta emergencial e controle externo. Núcleos e unidades devem ser entendidos, prioritariamente, como funções, protocolos, fluxos de trabalho e responsabilidades atribuíveis a órgãos já existentes.
+O modelo não cria uma nova polícia familiar, nem exige novos órgãos físicos como condição de implementação. Ele recomenda organização funcional com separação entre apoio, proteção, dados, regularização, resposta emergencial e controle externo. Núcleos e unidades devem ser entendidos, prioritariamente, como funções, protocolos, fluxos de trabalho e responsabilidades atribuíveis a órgãos já existentes.
 
 ### 58.1. Entrada universal não estigmatizante
 
@@ -2893,7 +3440,7 @@ Funções:
 - encaminhar casos rebaixados com seguimento assistencial à saúde, assistência, escola, Conselho Tutelar ou serviço competente;
 - reduzir tempo de resposta;
 - preservar evidências sem revitimização;
-- documentar e submeter a atuação a revisão posterior em até 24 horas.
+- documentar e submeter a atuação a revisão posterior em até 24 horas quando houver plantão formal ou equipe disponível; em N1-LRF, no primeiro ciclo administrativo possível.
 
 ### 58.7. Auditoria, ouvidoria e controle independente
 
@@ -3163,7 +3710,7 @@ Retaliação inclui expulsão de criança, aumento de preço, negativa de vaga, 
 
 ### 61.19. Rebaixamento com continuidade assistencial
 
-> O rebaixamento ou desmobilização do Código Vermelho libera órgãos emergenciais desnecessários, mas não arquiva automaticamente a ocorrência. Havendo vulnerabilidade residual, crise neurodivergente, sofrimento psíquico, conflito doméstico, suspeita ambígua, risco social ou possibilidade de manipulação da cena por agressor, o caso permanecerá referenciado na assistência social, saúde, escola, Conselho Tutelar ou serviço competente, com revisão em até 24 horas e acompanhamento proporcional.
+> O rebaixamento ou desmobilização do Código Vermelho libera órgãos emergenciais desnecessários, mas não arquiva automaticamente a ocorrência. Havendo vulnerabilidade residual, crise neurodivergente, sofrimento psíquico, conflito doméstico, suspeita ambígua, risco social ou possibilidade de manipulação da cena por agressor, o caso permanecerá referenciado na assistência social, saúde, escola, Conselho Tutelar ou serviço competente, com revisão em até 24 horas quando houver plantão formal ou equipe disponível, ou no primeiro ciclo administrativo possível em N1-LRF, e acompanhamento proporcional.
 
 
 ### 61.20. Degradação operacional segura
@@ -3182,9 +3729,9 @@ Retaliação inclui expulsão de criança, aumento de preço, negativa de vaga, 
 
 > Em município de baixa capacidade sob restrição fiscal, o Código Vermelho operará por bypass originário: qualquer agente capacitado acionará diretamente o órgão materialmente competente, sem plantão municipal fictício, sobreaviso informal ou SLA incompatível com a capacidade real.
 
-### 61.24. Porta 93 e TEPE
+### 61.24. Recepção Protetiva Emergencial Temporária e TEPE
 
-> Criança ou adolescente retirado de situação de risco e sem responsável apto não poderá permanecer em viatura, hospital sem indicação médica, via pública, delegacia ou local inseguro por ausência de guia. O acolhimento emergencial poderá ocorrer por Porta 93, mediante TEPE e comunicação posterior em até 24 horas às autoridades competentes.
+> Criança ou adolescente retirado de situação de risco e sem responsável apto não poderá permanecer em viatura, hospital sem indicação médica, via pública, delegacia ou local inseguro por ausência de guia ou falha de fluxo. O município organizará recepção temporária documentada — denominada internamente Porta 93 —, mediante TEPE e comunicação obrigatória em até 24 horas às autoridades competentes. O procedimento não cria nova hipótese de acolhimento, não substitui o Conselho Tutelar, o Ministério Público ou o Judiciário, não altera competências estabelecidas pelo regime jurídico vigente e encerra-se com a assunção pelo fluxo ordinário competente.
 
 ### 61.25. Ecossistema plural sem privatização da coerção
 
@@ -3370,7 +3917,7 @@ Resposta:
 1. isolamento imediato da escada antes da continuidade;
 2. RTTA com risco Amarelo-contido;
 3. limitação de áreas e número de crianças;
-4. providência em 48 horas para barreira física;
+4. providência em prazo curto para barreira física (referência: 48 horas em N2/N3; compatível com capacidade real em N1-LRF);
 5. comunicação simples às famílias;
 6. decisão motivada de não interdição imediata;
 7. reavaliação no prazo definido.
@@ -3386,7 +3933,7 @@ Resposta:
 3. comunicação posterior ao órgão gestor, à coordenação formal quando existente e ao Conselho Tutelar;
 4. assunção formal pelo primeiro órgão materialmente competente;
 5. medida protetiva imediata conforme risco;
-6. revisão obrigatória em até 24 horas;
+6. revisão em até 24 horas quando houver plantão formal ou equipe disponível; em N1-LRF, consolidação no primeiro ciclo administrativo possível;
 7. apuração administrativa da falha de coordenação quando houver plantão formal; em N1-LRF, registro da ocorrência para consolidação no primeiro ciclo administrativo possível.
 
 ### 62.13. Falso positivo ou rebaixamento em Código Vermelho
@@ -3399,7 +3946,7 @@ Resposta:
 2. desmobilização dos órgãos emergenciais não necessários no marco de reavaliação operacional;
 3. classificação como **Código Vermelho Rebaixado com Seguimento Assistencial**, quando houver crise neurodivergente, sofrimento psíquico, vulnerabilidade ou dúvida razoável;
 4. encaminhamento à saúde, assistência social, escola, Conselho Tutelar ou serviço competente, conforme a necessidade;
-5. revisão em 24 horas;
+5. revisão em até 24 horas quando houver plantão formal ou equipe disponível; em N1-LRF, no primeiro ciclo administrativo possível;
 6. preservação do registro para calibragem do protocolo, sem punição automática da família;
 7. vedação de arquivamento social automático quando a normalidade aparente puder decorrer de medo, coerção, manipulação da cena ou desconhecimento técnico da primeira equipe.
 
@@ -3462,7 +4009,7 @@ Resposta:
 2. a desmobilização de polícia ou SAMU não encerra o caso;
 3. o registro deve indicar se houve silêncio atípico, medo, inconsistência, relato de terceiros, histórico de violência ou outro sinal residual;
 4. o caso permanece referenciado na assistência social, escola, saúde ou Conselho Tutelar para contato posterior proporcional;
-5. a revisão em 24 horas verifica se a normalidade aparente era suficiente para encerrar ou se exige acompanhamento.
+5. a revisão em até 24 horas, quando houver disponibilidade, verifica se a normalidade aparente era suficiente para encerrar ou se exige acompanhamento; em N1-LRF, revisão no primeiro ciclo administrativo possível.
 
 
 ### 62.19. Microcreche com escada isolada
@@ -3617,7 +4164,7 @@ Resposta:
 
 1. acionar Envelope 3;
 2. mapear crianças e faixas etárias;
-3. buscar vaga privada formal temporária, voucher emergencial, transporte, CRAS, família extensa segura ou contraturno provisório;
+3. buscar vaga privada formal temporária, voucher emergencial quando houver base legal e dotação, transporte, CRAS, família extensa segura ou contraturno provisório;
 4. documentar insuficiência estrutural;
 5. não limitar o plano a “inserção em fila de espera”.
 
@@ -3905,6 +4452,10 @@ Frase final da camada de implementação:
 
 > O modelo não depende de Estado perfeito, comunidade virtuosa, vereador honesto, voluntário neutro ou prestador ideal. Ele presume escassez, captura, medo, informalidade e conflito; por isso troca confiança cega por limites, registros, filas auditáveis, revalidação, proteção de dados, neutralização de risco e continuidade infantil.
 
+Frase de fechamento do decreto:
+
+> O piloto não promete capacidade inexistente, não transfere coerção a particulares e não transforma vulnerabilidade em infração. Seu objetivo é tornar visível o risco infantil material, neutralizá-lo com o meio menos invasivo disponível e documentar, sem ficção fiscal, onde o município já consegue agir e onde precisa estruturalmente responder.
+
 ---
 
 ## 67. Kit de Prateleira N1 — Instrumentos Imprimíveis do Dia 1
@@ -4125,7 +4676,7 @@ Declaro, para fins administrativos, que o presente registro foi elaborado dentro
 - ( ) registro de campo
 - ( ) reavaliação
 - ( ) Código Vermelho
-- ( ) Laranja Protetivo
+- ( ) Laranja Protetivo Prioritário
 - ( ) RTTA
 - ( ) outro: ______________________
 
@@ -4187,5 +4738,76 @@ Assinatura: _____________________________________________
 
 Autoridade que recebeu ou validou o registro: _______________
 Cargo / função: __________________________________________
+Data: ______ / ______ / ____________
+Assinatura: _____________________________________________
+
+---
+
+### 67.4. Anexo IV — Ficha Analógica de Triagem do PTS
+
+**Parecer Técnico Subsidiário — Recebimento e Encaminhamento**
+
+**Finalidade:** receber o PTS apresentado pelo prestador, conferir campos obrigatórios, emitir recibo de entrega e encaminhar à coordenação central do piloto para classificação. A porta de entrada **não classifica mérito, não avalia imagem e não emite saída A/B/C/D**.
+
+**Regra-mãe:** quem classifica o PTS é a coordenação central do piloto, não o servidor da ponta.
+
+---
+
+#### 1. Identificação
+
+Unidade receptora: ___________________________________
+Tipo: ( ) Escola ( ) UBS ( ) CRAS ( ) CREAS ( ) Conselho Tutelar ( ) Agente comunitário ( ) Outro: ______
+Responsável pelo recebimento: _________________________
+Cargo / função: ______________________________________
+Data e hora do recebimento: ______ / ______ / ____________ — ______h______
+
+---
+
+#### 2. Identificação do prestador e do RTTA de referência
+
+Nome ou código do prestador: __________________________
+Endereço ou referência territorial: ______________________
+Número do RTTA de referência, se houver: _______________
+Pendência declarada pelo prestador: _____________________
+
+---
+
+#### 3. Conferência de campos obrigatórios
+
+Marcar o que está presente no PTS entregue:
+
+- ( ) identificação do emissor (nome, registro profissional ou institucional)
+- ( ) data de emissão
+- ( ) identificação do objeto corrigido (item, área, equipamento)
+- ( ) descrição da correção realizada
+- ( ) evidência mínima (foto, laudo, nota fiscal, declaração)
+- ( ) vinculação ao RTTA ou pendência específica
+
+Se algum campo obrigatório estiver ausente: devolver ao prestador com orientação de complementação. Não encaminhar PTS incompleto como válido.
+
+---
+
+#### 4. Recibo de entrega
+
+Declaro que recebi o documento apresentado pelo prestador acima identificado, conferindo apenas a presença dos campos obrigatórios listados. Este recibo não implica análise de mérito, classificação de saída, aceitação do PTS nem alteração de status.
+
+Assinatura do recebedor: _______________________________
+Data: ______ / ______ / ____________
+
+---
+
+#### 5. Encaminhamento à coordenação central
+
+Encaminhar este formulário e cópia do PTS à coordenação central do piloto para classificação A/B/C/D, conforme protocolo.
+
+**Classificação pela coordenação central:**
+
+- ( ) **A — Indício suficiente de correção específica.** Serve para pendência formal ou baixo risco. Pode gerar melhora interna e reduzir prioridade de retorno.
+- ( ) **B — Indício parcial.** Mantém restrição, mas permite complementação por foto contextual, novo documento ou rechecagem.
+- ( ) **C — Insuficiente.** Documento genérico, sem responsável, sem objeto, sem evidência mínima ou desconectado do RTTA. Não altera nada.
+- ( ) **D — Alerta crítico.** O próprio PTS revela risco crítico, contradição grave, mascaramento ou item da Tabela Negra. Aciona reavaliação urgente, Vermelho-exposto ou resposta protetiva.
+
+Classificado por: _____________________________________
+Cargo / função: ______________________________________
 Data: ______ / ______ / ____________
 Assinatura: _____________________________________________
