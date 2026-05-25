@@ -68,6 +68,20 @@
 
 ---
 
+## Itens transversais incorporados ao piloto
+
+Além dos capítulos numerados, esta versão passa a incorporar os seguintes dispositivos transversais: Linha de Corte Operacional, Financeira e Probatória; Janela 1 e Janela 2 da Transição Comercial; Conta F — Ponte de Transição Comercial; Regra de Eficiência Social Consolidada; ITA — Ingestão Tardia por Falha Técnica; AMR — Aborto de Missão por Risco; Seleção, Treinamento e Conduta de Monitores de Campo; Carimbo Local Canônico em Coleta Offline; Módulo Estruturado de Saída para Veredito C; Régua de Veredito do Dia 270; proibição de WhatsApp pessoal e proibição de exclusão manual de mídias locais pelo monitor; escala em funil do piloto; regra de orçamento variável do funil; distinção entre comunicação comercial da UPA e coleta probatória da Rede; lista tríplice pré-aprovada para parecerista de contingência; protocolo de compressão e saturação offline do DIC; e regra de custo de implantação por célula territorial.
+
+## Cláusula transversal — Linha de Corte Operacional, Financeira e Probatória
+
+No piloto, a Rede adotará rigor escalonado, critérios binários e financiamento segregado por finalidade. O campo operará com coleta mínima, checklist visual, DIC simplificado e Protocolo de Rascunho Blindado sempre que houver dado identificável, documento fiscal, assinatura, imagem de participante, evidência de entrega ou informação sensível. Celular pessoal, WhatsApp pessoal, galeria comum e backup automático são vedados para coleta sensível.
+
+A origem da evidência deverá ser registrada no momento da ingestão por formulário, PUC-S, ODK/Kobo ou ferramenta equivalente, com identificador único, data/hora local, usuário responsável, dispositivo institucional, modalidade, código da missão e registro técnico mínimo de captura ou envio. A Secretaria Técnica poderá consolidar, revisar, hashear, assinar e arquivar o pacote final, mas não poderá suprir retroativamente metadados de origem não coletados.
+
+Hashes finais, metadados canônicos, manifestos externos e fechamento documental reforçado serão concentrados na Secretaria Técnica e aplicados exclusivamente aos atos críticos taxados pelo CGI-P: liberação de pagamentos, assinaturas de contratos, encerramento de ETRLs, abertura ou baixa de CNPJ, formalização de denúncias, registros fiscais de campo, TIF, ITA, AMR, incidentes de custódia, decisões em zona de risco e dossiês usados para prestação de contas institucional.
+
+A simplificação operacional não autoriza improviso. O monitor coleta pouco, coleta certo e não usa canal pessoal. A governança decide por impedimento real. O Fundo mostra o custo total. A rota empreendedora só continua se não destruir a pessoa nem mascarar demanda artificial.
+
 # 1. Resumo executivo
 
 A Rede de Ascensão Local é uma infraestrutura comunitária de ascensão produtiva. Ela identifica necessidades reais do território, forma participantes vulneráveis, registra competências, usa extensão acadêmica para diagnóstico e método, formaliza unidades produtivas apenas quando houver viabilidade mínima e cria rotas controladas entre formação, demonstração, primeiras receitas, mercado e contratos formais.
@@ -104,6 +118,12 @@ A fórmula operacional é:
 
 ---
 
+## 1.1 Honestidade econômica e rota não empreendedora
+
+A Rede não presume que a rota empreendedora será sempre adequada. Quando o custo de proteger a formalização produtiva superar a renda viável da UPA, a rota correta será contrato estruturado, emprego assistido, aprendizagem, nova trilha, baixa preventiva ou proteção social.
+
+Nenhum CNPJ deve ser aberto se não houver financiamento mínimo para Secretaria Técnica, suporte fiscal, coleta segura, contingência documental e eventual ponte comercial por 6 a 9 meses. Sem esse lastro, formalizar participante vulnerável não é ascensão; é transferência de risco para a base.
+
 # 2. Pitch de uma página
 
 ## O problema
@@ -137,6 +157,12 @@ A Rede de Ascensão Local cria uma esteira controlada. Primeiro acolhe, document
 A Rede não tenta resolver pobreza com caridade solta, curso isolado, missão informal, voucher sem lastro, CNPJ precoce ou arquivo de planilha editável. Ela constrói uma sequência juridicamente protegida entre vulnerabilidade, competência, evidência, primeira receita e rota realista de saída.
 
 ---
+
+## O que o piloto realmente testa
+
+O piloto não testa apenas geração imediata de renda. Ele testa se a Rede consegue formalizar sem fabricar dívida, vender sem criar subsídio permanente, provar entrega sem planilha frágil, operar campo sem WhatsApp pessoal, redirecionar sem abandono e reconhecer quando a rota empreendedora não serve para determinada pessoa, trilha ou território.
+
+O piloto também testa a relação entre custo de proteção e renda real. Se proteger a rota empreendedora custa mais do que a renda que ela consegue gerar, a saída correta não é insistir no MEI; é migrar para contrato estruturado, emprego assistido, aprendizagem, nova trilha, proteção social ou baixa preventiva.
 
 # 3. Definição do modelo
 
@@ -223,6 +249,36 @@ Rotas legítimas:
 - baixa preventiva de CNPJ sem mercado.
 
 ---
+
+## 4.4 Janela 1 — Prova Operacional
+
+A Janela 1 tem duração de até 90 dias nas camadas remuneradas iniciais. Sua função é testar entrega, nota fiscal ou contingência fiscal, pagamento, RVO, voucher, aceitação inicial, segurança de campo, capacidade de registro, comunicação com comprador e ausência de subordinação.
+
+A Janela 1 não prova, sozinha, mercado sustentável. Ela prova apenas que a UPA consegue operar um ciclo controlado sem informalidade, sem dano fiscal imediato e sem violação probatória.
+
+## 4.5 Janela 2 — Prova Comercial Assistida
+
+A Janela 2 tem duração de 180 a 270 dias. Sua função é testar comprador externo, cliente âncora, receita fora da Rede, contrato estruturado, emprego assistido, aprendizagem, nova trilha ou baixa preventiva.
+
+A baixa preventiva não será automática pelo simples fim da Janela 1. Ela dependerá de risco fiscal, ausência de receita, ausência de reserva, inexistência de comprador plausível e decisão registrada do CGI-P.
+
+## 4.6 Módulo Estruturado de Saída
+
+Quando a rota UPA/MEI se mostrar inadequada, o encerramento do CNPJ ou a pausa operacional não poderá ser ato isolado. Deverá acionar Módulo Estruturado de Saída, com devolutiva individual, encaminhamento prioritário para emprego assistido, aprendizagem, contrato estruturado, nova trilha, proteção social ou baixa preventiva sem linguagem de fracasso pessoal.
+
+## 4.7 Escala em funil do piloto
+
+O piloto poderá envolver até 30 participantes nas camadas N0, N1 e N1.5, desde que a exposição à rota econômica formalizada permaneça limitada. A ampliação do topo do funil não autoriza abertura proporcional de CNPJs, multiplicação de vouchers, aumento de ETRLs ou criação artificial de compras comerciais.
+
+A escala econômica do primeiro ciclo permanece restrita: até 12 a 16 participantes elegíveis para conversão, até 4 a 6 candidatos à formalização assistida e até 2 a 3 UPAs formalizadas. A finalidade do funil ampliado é diluir custo formativo, melhorar triagem, produzir diagnóstico e reduzir erro de formalização, não fabricar escala empreendedora prematura.
+
+A entrada no funil deve ser comunicada como trilha de diagnóstico, formação e orientação de rota, não como promessa de CNPJ, renda, contratação ou empreendedorismo. A Rede não rejeita 27 pessoas; ela identifica, com segurança, quais rotas não devem passar pela UPA/MEI.
+
+## 4.8 Saídas obrigatórias para quem não segue para UPA
+
+Quando o funil formar 30 pessoas e apenas 2 ou 3 UPAs avançarem, a Rede deverá possuir rotas de saída previamente pactuadas. Antes de iniciar turma ampliada, o CGI-P deve registrar capacidade mínima de encaminhamento para emprego assistido, aprendizagem, contrato estruturado, nova trilha, proteção social, documentação ou retorno formativo.
+
+O funil ampliado será inválido se produzir frustração sem encaminhamento. A taxa de não conversão para UPA não é problema quando houver saída digna; torna-se falha operacional quando a Rede apenas comunica que a pessoa não serve para empreender e encerra o vínculo.
 
 # 5. Diagnóstico do problema
 
@@ -320,6 +376,12 @@ A UPA pode aprender a conferir aspectos visuais e mecânicos de documentos. Ela 
 Mensagens, formulários, fotos e planilhas são insumos. A prova final nasce no fechamento probatório: documento consolidado, metadados, assinatura, hash, cadeia de custódia e guarda adequada.
 
 ---
+
+## 6.13 Condutas importam mais que palavras
+
+A Rede não se protege apenas por vocabulário contratual. Protege-se por condutas verificáveis: não controlar jornada, não impor cliente, não punir recusa comercial, não exigir pessoalidade contínua, não dirigir método diário, não usar voucher como salário, não transformar repetição em serviço informal e não usar a Central como patrão oculto.
+
+Listas de palavras a evitar continuam úteis como higiene documental e alerta de risco, mas não substituem o teste de realidade. Se houver subordinação, habitualidade, pessoalidade, onerosidade e comando produtivo, a atividade deve migrar para contrato estruturado, independentemente do nome usado no documento.
 
 # 7. Atores e papéis
 
@@ -447,7 +509,7 @@ Ator de proteção, autorização, fiscalização e contratação formal quando 
 
 ## 8.1 Finalidade
 
-O Modo Piloto Enxuto evita que um piloto de 10 a 16 participantes crie uma estrutura administrativa incompatível com seu tamanho. Para essa escala, Núcleo Local, Conselho Local, Central de Garantia, Comitê do Dia 75 e Câmara de Verificação podem ser unificados em uma única instância temporária: o **Comitê de Governança Integrada do Piloto — CGI-P**.
+O Modo Piloto Enxuto evita que um piloto em funil — com até 30 participantes nas camadas N0/N1/N1.5 e apenas 12 a 16 elegíveis à decisão de conversão — crie uma estrutura administrativa incompatível com seu tamanho. Para essa escala, Núcleo Local, Conselho Local, Central de Garantia, Comitê do Dia 75 e Câmara de Verificação podem ser unificados em uma única instância temporária: o **Comitê de Governança Integrada do Piloto — CGI-P**.
 
 A unificação não elimina critérios públicos, atas decisórias, impedimento por conflito de interesse, proteção de dados, controle financeiro, separação mínima de funções e vedação de comando de trabalho.
 
@@ -455,14 +517,16 @@ A unificação não elimina critérios públicos, atas decisórias, impedimento 
 
 O CGI-P é permitido apenas em piloto de escala reduzida:
 
-- até 16 participantes;
-- até 3 UPAs;
+- até 30 participantes nas camadas N0/N1/N1.5;
+- até 12 a 16 participantes elegíveis para decisão de conversão;
+- até 4 a 6 candidatos à formalização assistida;
+- até 3 UPAs formalizadas;
 - até 1 território;
 - até 2 oficinas demonstrativas no primeiro ciclo;
 - até 2 compras comerciais reais no primeiro ciclo;
 - até 1 ETRL, se indispensável e segura.
 
-Ao escalar, as funções devem ser separadas progressivamente.
+A ampliação para 30 pessoas não altera a escala econômica protegida. Ao escalar para mais territórios, mais UPAs ou maior volume de contratos, as funções devem ser separadas progressivamente.
 
 ## 8.3 Composição
 
@@ -521,6 +585,30 @@ O piloto opera com seis documentos-base:
 6. Registro Financeiro Simplificado.
 
 ---
+
+## 8.8 Impedimento real sem criação de departamentos paralelos
+
+No Modo Piloto Enxuto, a Rede não criará departamentos paralelos de Mercado e Conformidade. A separação de funções ocorrerá por impedimento real registrado em ata.
+
+Apoio técnico neutro não gera impedimento automático. São exemplos: explicar modelo, entregar checklist, ensinar uso do formulário, orientar regra geral, apresentar texto-padrão ou explicar como emitir NFS-e.
+
+Intervenção substantiva impede voto no ato correspondente. São exemplos: ajustar proposta, revisar preço, organizar dossiê competitivo, negociar com comprador, montar justificativa, adaptar escopo para caber na chamada ou defender a UPA perante o CGI-P.
+
+Conflito material impede voto. São exemplos: parentesco relevante, vínculo financeiro, relação com comprador, relação com UPA, benefício direto ou indireto, vínculo político local relevante ou interesse econômico no resultado.
+
+Regra sintética:
+
+> Quem ajudou a construir a proposta não vota na aprovação daquela proposta.
+
+Quando impedimentos reduzirem quórum em ato sensível, o CGI-P poderá acionar parecerista de contingência ad hoc, sem criar nova instância permanente. O parecerista não substitui a decisão territorial; apenas aponta risco técnico, fiscal, jurídico, trabalhista, documental ou de segurança.
+
+O parecerista de contingência deverá ser extraído de lista tríplice pré-aprovada na fase de preparação do piloto, por consenso entre universidade parceira e Conselho Local ou CGI-P. É vedada a escolha unilateral pela coordenação da OSC durante crise de quórum. A lista deverá registrar especialidade, ausência de conflito material, forma de acionamento e limite do parecer.
+
+## 8.9 Microatos operacionais
+
+Microatos operacionais não dependem de deliberação plenária do CGI-P. Seguem checklist pré-aprovado e revisão posterior da Secretaria Técnica quando necessário.
+
+Atos sensíveis continuam exigindo registro decisório: abertura ou baixa de CNPJ, uso da Conta F, ETRL, contrato estruturado, decisão em zona de risco, pagamento com ressalva, ITA repetida, AMR, denúncia, conflito de interesse e classificação do Dia 270.
 
 # 9. Núcleo Local, Conselho Local e governança comunitária escalável
 
@@ -921,6 +1009,14 @@ Antes de qualquer missão remunerada, a UPA deve estar preparada para emitir not
 
 ---
 
+## 15.7 Teste fiscal prévio obrigatório
+
+Nenhum CNPJ será aberto sem teste prévio de emissão fiscal ou simulação validada no sistema aplicável. O teste deve verificar atividade permitida, código de serviço, CNAE/ocupação, exigência de inscrição municipal, alvará quando aplicável, possibilidade de emissão de NFS-e, texto-padrão e tomador correto.
+
+Se o município, o Emissor Nacional, a inscrição municipal, o alvará, o CNAE, a ocupação, o código de serviço ou a regra local de ISS inviabilizarem a emissão regular de NFS-e, a formalização será bloqueada ou redirecionada para outra forma jurídica.
+
+CNPJ não será aberto se não houver financiamento mínimo para suporte fiscal, baixa preventiva e transição comercial por 6 a 9 meses. Abrir CNPJ sem essa retaguarda transfere risco para participante vulnerável.
+
 # 16. Unidades Produtivas de Ascensão — UPAs
 
 ## 16.1 Definição
@@ -1019,6 +1115,14 @@ Pode limitar novas oportunidades apenas por irregularidade objetiva: CNPJ inapto
 A Central pode apoiar alertas, guias, comprovantes e organização documental. O mandato não autoriza comando de trabalho.
 
 ---
+
+## 17.5 Prevenção contra gatekeeper econômico
+
+A Central não pode ser canal único obrigatório de cliente, reputação, pagamento e continuidade econômica da UPA. A UPA deve poder vender fora da Rede, manter clientes próprios, emitir nota por conta própria, recusar oportunidade e buscar contratos externos sem autorização comercial da Central.
+
+O Status de Regularidade mede conformidade objetiva, não produtividade, disponibilidade, obediência comercial ou preferência da Central. Bloqueio documental deve ter motivo objetivo, prazo de correção e possibilidade de revisão pela Secretaria Técnica ou CGI-P.
+
+A Central pode orientar, registrar e proteger. Não pode transformar controle documental em dependência econômica estrutural.
 
 # 18. N1.75 — Camadas de Transição Produtiva
 
@@ -1276,6 +1380,14 @@ A Rede pode fornecer:
 
 A Rede não deve garantir cliente, escala ou renda contínua.
 
+## 22.4.1 Comunicação comercial da UPA e coleta probatória da Rede
+
+A UPA pode negociar comercialmente por seus próprios canais, inclusive WhatsApp próprio, telefone, visita, catálogo, mensagem direta ou proposta simples, desde que não envolva coleta probatória da Rede, documento sensível, recibo fiscal, assinatura, evidência de entrega, dossiê ou dado pessoal destinado à Secretaria Técnica.
+
+Comunicação comercial da UPA não se confunde com coleta probatória da Rede. Orçamento, conversa inicial, agendamento e negociação podem ocorrer em canal comercial da UPA. Aceite formal, comprovante, documento fiscal, evidência de entrega, assinatura, RVO, TIF, ITA, AMR e dossiê devem entrar pelo DIC, PUC-S, ODK/Kobo ou fluxo aprovado.
+
+O monitor não deve receber comprovantes, recibos, fotos, documentos ou evidências em WhatsApp pessoal. Se receber espontaneamente, não deve encaminhar, salvar em pasta, reenviar à Secretaria ou transformar em prova. Deve orientar o reenvio pelo fluxo correto, registrar incidente mínimo quando houver dado sensível e eliminar o conteúdo do aparelho pessoal conforme orientação da Secretaria Técnica e política de proteção de dados. Para a Secretaria Técnica, dado recebido fora do fluxo aprovado não existe como prova limpa; no máximo, será insumo contingencial rebaixado e sujeito a RVO reforçada.
+
 ## 22.5 Diagnóstico de falha comercial
 
 A falta de contratação não significa automaticamente fracasso da UPA. Deve-se distinguir:
@@ -1294,6 +1406,18 @@ A falta de contratação não significa automaticamente fracasso da UPA. Deve-se
 Se a nota fiscal for exigível e o sistema estiver indisponível, aplica-se o PCFC. O TIF não substitui a NFS-e definitiva, mas pode preservar o fluxo operacional e permitir adiantamento condicionado quando previsto.
 
 ---
+
+## 22.7 Voucher não prova mercado sozinho
+
+O voucher não prova mercado sozinho. Ele apenas testa aceitação, entrega, confiança, preço nominal, capacidade fiscal e experiência de compra.
+
+O subsídio nunca altera o preço nominal do serviço. Ele apenas reduz temporariamente o desembolso do comprador. A NFS-e, o contrato e o dossiê devem preservar o valor real do serviço e a participação de terceiro pagador quando houver.
+
+A Compra-Ponte será considerada artificial se o comprador só existir por causa do Fundo, se não houver coparticipação real, se não houver avaliação do tomador, se a UPA não conseguir qualquer rota externa após a Janela 2 ou se o Fundo se tornar comprador substantivo permanente.
+
+## 22.8 Matriz de Liquidez Territorial
+
+Antes de abrir CNPJ ou ampliar voucher, a Rede deve aplicar matriz de liquidez por trilha, contendo no mínimo: ticket médio, frequência provável, comprador real, margem líquida, concorrência informal, necessidade de ferramenta, risco técnico, dependência de voucher, potencial de cliente externo e potencial de contrato estruturado.
 
 # 23. Carteira Territorial de Voucher
 
@@ -1318,6 +1442,14 @@ A Rede não mapeia parentesco, coabitação ou grupo familiar para controle de v
 Sorteio só deve ser usado como última opção anticaptura. Sempre que possível, priorizar critérios objetivos de necessidade, segurança, finalidade comunitária e viabilidade.
 
 ---
+
+## 23.6 Matriz de substituição de receita
+
+A redução do voucher local só ocorrerá com matriz de substituição de receita: comprador externo, cliente âncora, contrato estruturado, emprego assistido, aprendizagem, nova trilha ou baixa preventiva.
+
+O voucher local não desaparece porque o território pobre ganhou liquidez. Ele desaparece quando outra fonte de receita ou saída formal assume a função de transição.
+
+É vedado aplicar fade-out automático sem substituição real de receita. Se a UPA depende integralmente do voucher ao final da Janela 2, a rota empreendedora deve ser revista, pausada ou encerrada com Módulo Estruturado de Saída.
 
 # 24. N1.75-C — Empreitada Territorial de Resultado Limitado — ETRL
 
@@ -1530,6 +1662,44 @@ Quando houver falha fiscal externa comprovada, o Fundo pode prever adiantamento 
 
 ---
 
+## 28.7 Conta F — Ponte de Transição Comercial
+
+Além das contas internas já previstas, o Fundo poderá criar a Conta F — Ponte de Transição Comercial.
+
+Finalidades permitidas:
+
+- reduzir risco para comprador real;
+- custear regularidade, cadastro e documentação;
+- apoiar prospecção comercial;
+- complementar voucher transicional com terceiro pagador real;
+- viabilizar cliente âncora;
+- financiar transição para contrato estruturado, emprego, aprendizagem ou baixa preventiva;
+- apoiar seguro, ferramenta mínima ou habilitação exigida por comprador externo, quando houver funil documentado.
+
+Uso proibido:
+
+> A Conta F não poderá financiar entregas cujo único comprador substantivo seja a própria Rede ou o próprio Fundo.
+
+A Conta F não é bolsa, salário, frente de trabalho ou compra artificial de portfólio. É conta de redução de risco para comprador real e de travessia controlada entre Janela 1 e Janela 2.
+
+## 28.8 Regra de Eficiência Social Consolidada
+
+A separação contábil entre Secretaria Técnica, Fundo de Compra-Ponte, Conta F e pagamentos às UPAs não autoriza excluir o custo institucional da avaliação econômica do piloto.
+
+No Dia 270, a Rede deverá apresentar balanço consolidado contendo: custo total da Secretaria Técnica, custo de conformidade, custo tecnológico, custo de contabilidade, valor líquido recebido pelas UPAs, receita externa, valor subsidiado por voucher, contratos estruturados gerados, empregos ou aprendizagens encaminhados, baixas preventivas realizadas e custo de suporte por real líquido gerado.
+
+Se o custo de controle institucional superar 50% dos recursos totais do ciclo, a expansão da rota empreendedora ficará suspensa até simplificação do modelo ou comprovação de receita externa relevante. Se superar 70%, a rota UPA/MEI será presumida economicamente inadequada para aquele território ou trilha, salvo demonstração expressa de contrato externo, cliente âncora ou redução estrutural de custo no ciclo seguinte.
+
+No piloto controlado, custos de implantação como compra e configuração de DICs, montagem inicial de formulários, simulações de monitores e treinamento inaugural podem ser destacados como P&D para leitura metodológica, mas não podem desaparecer do balanço consolidado. O relatório deverá apresentar dois índices: custo total consolidado por real líquido gerado e custo operacional recorrente projetado por real líquido gerado.
+
+A classificação como P&D não significa custo não recorrente universal. DICs, treinamento inicial, configuração de formulários e adaptação de checklists são custos recorrentes de expansão territorial sempre que uma nova célula territorial for aberta. A Rede deverá apresentar também o custo de implantação por célula territorial replicada.
+
+## 28.9 Orçamento variável do funil ampliado
+
+A ampliação do topo do funil para até 30 participantes só poderá ocorrer se houver orçamento variável aprovado para formação, insumos, EPIs de treino, lanches, transporte, bolsas-formação quando cabíveis, tempo de monitoria, rubricas, devolutivas e Módulo Estruturado de Saída.
+
+É vedado ampliar a turma formativa para diluir custo fixo sem lastro financeiro para o custo variável. Antes da abertura do ciclo, o CGI-P deverá aprovar orçamento por participante N0/N1/N1.5 e declarar a capacidade de atendimento sem redução de segurança, sem improvisação documental e sem aumento indevido de carga dos monitores.
+
 # 29. Empresas, comércio local e compradores de impacto
 
 ## 29.1 Papéis permitidos
@@ -1564,6 +1734,18 @@ Empresas e doadores não podem:
 A empresa deve financiar carteira ou modalidade, não pessoa escolhida nominalmente.
 
 ---
+
+## 29.4 Compradores âncora e tempo de mercado
+
+Empresas e compradores de impacto não devem ser tratados apenas como doadores. Podem atuar como clientes âncora, compradores de lotes reais, financiadores de redução de risco, contratantes formais, absorvedores de egressos em CLT/aprendizagem ou compradores de impacto com compliance simplificado.
+
+A prospecção de comprador externo deve começar antes do fim da Janela 1. A Janela 2 não pode começar do zero comercial; deve partir de uma carteira mínima de contatos, intenções, cadastros, compradores potenciais ou hipóteses de contrato estruturado.
+
+## 29.5 Bloco 4 de absorção para não convertidos
+
+Se o piloto operar com funil ampliado de até 30 participantes, a Rede deverá pactuar previamente um Bloco 4 de absorção para pessoas não convertidas em UPA. Esse Bloco 4 poderá incluir empresas parceiras, aprendizagem, emprego assistido, estágio social protegido, cursos técnicos, contrato estruturado, encaminhamento de documentação, proteção social e novas trilhas.
+
+Sem Bloco 4 minimamente viável, o funil ampliado não deve ser aberto. A Rede não pode gerar 90% de não conversão empreendedora sem rota de dignidade, devolutiva e continuidade.
 
 # 30. Papel subsidiário do Estado
 
@@ -1706,6 +1888,20 @@ A segurança física da equipe prevalece sobre a perfeição probatória. Havend
 
 ---
 
+## 33.5 Classificação operacional de zonas
+
+A Rede usará três classificações operacionais:
+
+| Classificação | Condição | Procedimento |
+|---|---|---|
+| Zona Verde/Amarela | risco baixo ou moderado controlável | piloto territorial possível, com DIC, checklist e coleta proporcional |
+| Zona Vermelha Protegida | risco alto, mas com pacto institucional de proteção | piloto parcial, coleta mínima, DIC obrigatório, sem visibilidade indevida e sem pagamento em espécie |
+| Zona Vermelha Inviável | coerção, extorsão, revista, ameaça, controle econômico armado ou risco sem proteção | sem execução econômica territorial no ciclo |
+
+Quando a zona for classificada como inviável, a Rede deve declarar que o território é elegível para apoio a pessoas, mas inelegível para execução econômica territorial no ciclo.
+
+A Rede não deve fingir piloto territorial onde só é possível atendimento deslocado. Formação fora do território, mentoria discreta, documentação, proteção social e contratação fora da zona podem continuar, mas não substituem a declaração de inviabilidade territorial.
+
 # 34. Fechamento probatório dos registros do piloto
 
 ## 34.1 Regra geral
@@ -1752,6 +1948,16 @@ Usar:
 Atas, contratos, dossiês e registros financeiros devem ser assinados eletronicamente por responsáveis definidos, preferencialmente com assinatura avançada ou qualificada conforme o risco do ato. O documento assinado deve ser arquivado em pasta de acesso restrito e somente leitura, acompanhado de relatório de assinatura, hash e protocolo.
 
 ---
+
+## 34.5 Origem da evidência e canais informais
+
+A Secretaria Técnica fecha a prova. O sistema de coleta registra a origem.
+
+Coleta bruta só será aceita como insumo limpo se tiver origem registrada por formulário, PUC-S, ODK/Kobo ou ferramenta equivalente, ou se estiver enquadrada em ITA ou AMR.
+
+WhatsApp pessoal, foto solta, galeria comum, envio informal e mídia sem carimbo de origem não constituem prova limpa. Podem ser preservados como insumo contingencial, mas exigem RVO reforçada e decisão da Secretaria Técnica.
+
+O uso de WhatsApp pessoal para dado sensível é incidente de coleta, não falha menor.
 
 # 35. Validação presencial, cadeia de custódia física e arquivo de originais
 
@@ -1840,6 +2046,16 @@ A digitalização não autoriza, por si só, o descarte do original físico. O o
 
 ---
 
+## 36.6 Metadados de origem e carimbo offline
+
+Metadados de origem não podem ser fabricados retroativamente pela Secretaria Técnica.
+
+A ingestão deve registrar, sempre que possível: identificador do formulário, data/hora local, usuário ou monitor autenticado, ID lógico do DIC, versão do formulário, modalidade, código da missão, status de finalização e status de sincronização.
+
+Em coleta offline, o carimbo local íntegro do DIC será a fonte canônica de origem temporal. O log do servidor indicará apenas a data de sincronização. A divergência entre captura local e sincronização posterior não caracteriza ITA se o pacote local estiver íntegro.
+
+Mídia enviada tardiamente com carimbo local íntegro e pacote de coleta finalizado não será tratada como contingência analógica. Será tratada como sincronização tardia normal.
+
 # 37. Página Única de Coleta Segura — PUC-S
 
 ## 37.1 Definição
@@ -1871,6 +2087,12 @@ Não usar como padrão em:
 - ato em que a queda de conexão possa expor o monitor.
 
 ---
+
+## 37.5 Campo simples, mas não desarmado
+
+A PUC-S pode simplificar a coleta, mas não autoriza uso de celular pessoal, WhatsApp pessoal, galeria comum ou backup automático para dado sensível.
+
+Quando houver dado identificável, documento fiscal, assinatura, imagem de participante, evidência de entrega ou informação sensível, o campo deve operar com DIC simplificado ou ferramenta institucional equivalente.
 
 # 38. Dispositivo Institucional Criptografado, ODK/Kobo e coleta offline segura
 
@@ -1932,6 +2154,26 @@ A exclusão após envio reduz a retenção local, mas não é apagamento forense
 
 ---
 
+## 38.7 Proibição de exclusão manual de mídias
+
+O descarte residual de mídias locais será automatizado e restrito ao fluxo de sincronização criptografada validada, sendo vedada a exclusão manual ou a manipulação direta de diretórios de dados pelo monitor de campo.
+
+Se houver falha de sincronização, o arquivo permanece bloqueado e criptografado no DIC até que a Secretaria Técnica realize extração física, reenvio seguro ou homologue a contingência.
+
+O monitor nunca apaga manualmente fotos, recibos, documentos ou anexos. O monitor coleta, finaliza, sincroniza quando possível e registra incidente quando necessário.
+
+## 38.8 Check-in e check-out do DIC
+
+Antes do campo, o monitor deve confirmar: aparelho institucional, bateria, formulário correto, armazenamento disponível, usuário autenticado, modo offline testado, missão identificada, classificação de risco e contato de retaguarda.
+
+Após o campo, deve confirmar: formulários finalizados, sincronização realizada ou pendente, incidentes ITA/AMR, ausência de mídia solta em galeria comum, bloqueio do aparelho e entrega do relatório mínimo à Secretaria Técnica.
+
+## 38.9 Compressão, teto de mídia e saturação offline
+
+O DIC deverá ser configurado para reduzir risco de saturação em zonas offline. Fotos de checklist, documentos e antes/depois devem ser comprimidas automaticamente na ingestão pelo aplicativo, com resolução suficiente para leitura e auditoria, mas sem alta resolução desnecessária. Vídeos serão vedados, salvo autorização expressa do CGI-P para ato sensível e com justificativa de proporcionalidade.
+
+O formulário deverá impor limites de tamanho por anexo, alerta de armazenamento, bloqueio preventivo de novas coletas quando o espaço livre atingir patamar crítico e fila de sincronização visível ao monitor. O monitor não resolve saturação apagando arquivos. Em caso de armazenamento crítico sem rede, a missão deve ser pausada e o DIC encaminhado à Secretaria Técnica para extração física assistida via cabo, reenvio seguro ou homologação de contingência.
+
 # 39. Revisão Visual Obrigatória — RVO e régua documental
 
 ## 39.1 Definição
@@ -1987,6 +2229,12 @@ Não se refaz assinatura física por pequeno defeito de imagem se autoria, assin
 
 ---
 
+## 39.7 RVO reforçada
+
+A RVO reforçada será obrigatória para ITA, AMR, evidência recebida fora do fluxo aprovado, WhatsApp recebido indevidamente, documento sem metadado de origem, TIF, incidente de custódia, zona de risco, pagamento com ressalva e dossiê usado para prestação de contas institucional.
+
+Evidência recebida fora do fluxo aprovado não será automaticamente descartada, mas será rebaixada para insumo contingencial até decisão da Secretaria Técnica.
+
 # 40. Protocolo de Contingência Fiscal de Campo — PCFC
 
 ## 40.1 Definição
@@ -2034,6 +2282,24 @@ Quando o serviço foi entregue e a falha fiscal foi externa, o CGI-P pode autori
 Sem regularização fiscal, nova contratação da UPA fica suspensa até emissão da nota ou solução contábil formal.
 
 ---
+
+## 40.7 Separação entre contingência fiscal, ITA e AMR
+
+PCFC e TIF tratam falha fiscal externa. ITA trata falha técnica de coleta. AMR trata risco físico.
+
+Esses protocolos não se substituem. Pane técnica não autoriza ignorar segurança. Risco físico não exige coleta de assinatura. Falha fiscal não valida envio informal de evidência por canal pessoal.
+
+## 40.8 ITA — Ingestão Tardia por Falha Técnica
+
+A ITA será usada apenas para pane de aplicativo, pane do DIC, queda de sinal, indisponibilidade de sistema, erro de formulário ou impossibilidade técnica sem risco físico. Exige registro físico ou termo próprio, assinatura do monitor, testemunha ou anuente apenas se seguro, motivo da falha, hora aproximada, código da missão, guarda provisória, digitalização posterior e RVO reforçada.
+
+Três ITAs no mesmo ciclo, sem justificativa robusta, suspendem novas coletas analógicas até revisão do procedimento. A ITA não será usada para contornar DIC, WhatsApp pessoal, rascunho blindado ou coleta offline regular.
+
+## 40.9 AMR — Aborto de Missão por Risco
+
+O AMR será usado em ameaça física, coerção, revista iminente, presença armada, intimidação, extorsão, conflito local ou risco territorial. Em AMR, não se coleta assinatura, não se pede testemunha, não se tenta salvar prova e não se confronta ninguém. A missão é abortada.
+
+O relatório AMR será minimalista e codificado: código do território, data/hora aproximada, incidente de segurança de nível crítico e decisão de cancelamento, suspensão ou reavaliação. É proibido registrar nomes de grupos, nomes de lideranças, descrição de armas, dinâmica criminal, rotas de circulação ou informação de inteligência policial. A Rede não produz inteligência policial.
 
 # 41. Textos-padrão de NFS-e e bloqueio de emissão errada
 
@@ -2228,18 +2494,76 @@ Só entra no Passaporte o que tiver relação com prática real, evidência mín
 
 ---
 
+## 43.11 Indicadores financeiros consolidados
+
+- custo total da Secretaria Técnica;
+- custo de conformidade;
+- custo tecnológico;
+- custo contábil;
+- valor líquido recebido pelas UPAs;
+- receita externa;
+- valor subsidiado por voucher;
+- valor usado pela Conta F;
+- custo de suporte por R$ 1 de renda líquida;
+- custo de suporte por saída positiva verificável.
+
+## 43.12 Indicadores de integridade de campo
+
+- uso indevido de WhatsApp pessoal;
+- ITA por ciclo;
+- AMR por ciclo;
+- formulários offline sincronizados;
+- divergência captura/sincronização;
+- mídias sem origem;
+- incidentes de DIC;
+- reciclagens de monitor;
+- exclusão manual indevida de mídia;
+- evidência rebaixada para insumo contingencial.
+
+## 43.13 Indicadores de saída
+
+- emprego assistido;
+- aprendizagem;
+- contrato estruturado;
+- baixa preventiva sem dívida;
+- nova trilha;
+- UPA com receita externa;
+- UPA com cliente âncora;
+- UPA pausada sem inadimplência.
+
+## 43.14 Indicadores do funil ampliado
+
+Quando houver até 30 participantes no topo do funil, medir também: custo variável por participante N0/N1/N1.5, taxa de presença formativa, taxa de conclusão, número de pessoas redirecionadas com rota concreta, número de pessoas sem encaminhamento, tempo médio de atendimento por monitor, custo de insumo formativo por pessoa e capacidade real do Bloco 4.
+
+A taxa de não conversão para UPA deve ser interpretada junto com saídas positivas. Alta não conversão com emprego, aprendizagem, nova trilha ou proteção social pode ser sucesso diagnóstico. Alta não conversão sem saída é falha social.
+
+## 43.15 Régua de Veredito do Dia 270
+
+A avaliação do Dia 270 deverá classificar o ciclo em uma das seguintes classes:
+
+| Classe | Veredito | Critério operacional | Efeito |
+|---|---|---|---|
+| A | Sucesso replicável | Bloco 1 abaixo de 35%, receita externa ou contratos, voucher decrescente e ausência de passivo crítico | escalar com cautela |
+| B | Sucesso protegido, mas caro | Bloco 1 entre 35% e 50%, proteção funcionou e há algumas saídas reais | simplificar antes de escalar |
+| C | Sucesso diagnóstico, fracasso econômico da rota empreendedora | Bloco 1 entre 50% e 70%, baixa receita externa ou dependência persistente, mas sem dano fiscal/trabalhista e com redirecionamento limpo | suspender expansão da rota UPA/MEI e acionar Módulo Estruturado de Saída |
+| D | Fracasso de eficiência social | Bloco 1 acima de 70%, sem mercado externo, sem contrato estruturado, sem emprego/aprendizagem e voucher sustentando artificialmente a operação | encerrar ou pivotar a rota empreendedora |
+
+Classe C exige Módulo Estruturado de Saída obrigatório. Classe D impede nova abertura de CNPJ na mesma trilha ou território até redesenho econômico, redução estrutural do custo de controle ou existência de comprador âncora comprovado.
+
 # 44. Projeto-piloto recomendado
 
 ## 44.1 Escala
 
 - 1 território;
-- 10 a 16 participantes;
+- até 30 participantes em N0/N1/N1.5;
+- 12 a 16 participantes elegíveis para decisão de conversão;
+- 4 a 6 candidatos à formalização assistida;
 - 1 universidade parceira;
 - 1 OSC/Rede;
 - 1 CGI-P;
 - 1 trilha principal e 1 trilha secundária;
 - 1 Turma-Âncora N1;
-- 2 a 3 UPAs no máximo;
+- 2 a 3 UPAs formalizadas no máximo;
 - 2 oficinas demonstrativas;
 - 2 compras comerciais reais;
 - 1 ETRL no máximo, apenas se houver área comum segura e autorizada;
@@ -2247,7 +2571,9 @@ Só entra no Passaporte o que tiver relação com prática real, evidência mín
 - 0 rede de MEIs coordenada;
 - 0 atividade de alto risco.
 
-A escala do piloto tem finalidade jurídico-operacional e probatória. Ela valida governança, documentação, segurança, NFS-e, RVO, DIC, PCFC e transição entre modalidades. Não deve ser tratada como validação estatística definitiva da sustentabilidade econômica da Rede.
+A escala do piloto opera em funil. O topo formativo pode ser maior para melhorar diagnóstico e diluir custo fixo, mas a camada econômica formalizada permanece pequena para não fabricar CNPJs, vouchers, ETRLs ou frentes de trabalho artificiais.
+
+A escala do piloto tem finalidade jurídico-operacional, probatória, pedagógica e diagnóstica. Ela valida governança, documentação, segurança, NFS-e, RVO, DIC, PCFC, funil de saída e transição entre modalidades. Não deve ser tratada como validação estatística definitiva da sustentabilidade econômica da Rede.
 
 ## 44.2 Trilhas recomendadas
 
@@ -2289,6 +2615,71 @@ Piloto pequeno não significa piloto informal. Antes de iniciar, validar ISS, NF
 
 ---
 
+## 44.6 Equipe mínima de campo
+
+O piloto deverá operar com:
+
+- 2 monitores titulares ativos;
+- 1 monitor reserva treinado;
+- 1 Secretaria Técnica fora do campo.
+
+O reserva não é simbólico. Participa de reciclagem, simulação e check-in semanal, para poder assumir sem curva de aprendizagem.
+
+O piloto não inicia campo se não houver DIC funcional, formulário testado, modo offline testado, Secretaria Técnica ativa, plano de substituição de monitor e fluxo de ITA/AMR conhecido.
+
+## 44.7 Seleção e treinamento de monitores
+
+Monitores serão selecionados por disciplina operacional, alfabetização digital, discrição, capacidade de seguir checklist, ausência de conflito material e aptidão para encerrar missão sob risco.
+
+Perfis preferenciais: técnicos em qualidade, logística, administração, contabilidade operacional, segurança do trabalho, ex-recenseadores, cadastradores, agentes de pesquisa, operadores de inventário e assistentes de controle documental.
+
+Perfis aceitáveis com filtro: segurança privada, prevenção de perdas, fiscal de loja, porteiro experiente ou supervisor de campo, desde que passem por teste de não escalada, linguagem comunitária e obediência ao DIC.
+
+Evitar: perfil policialesco, improvisador, salvador social, vendedor agressivo, liderança local conflitada, pessoa com parentesco com UPA/comprador, técnico sem tato social ou operador que rejeite checklist.
+
+## 44.8 Simulações eliminatórias
+
+A seleção de monitores deve conter quatro estações:
+
+1. coleta normal;
+2. coleta offline;
+3. falha técnica com ITA;
+4. risco físico com AMR.
+
+A Estação 3 deve ter fator de estresse ou distração. O avaliador pode simular comprador irritado, UPA pressionando, coordenação pedindo pressa ou ator sugerindo WhatsApp pessoal. Quem aceita WhatsApp pessoal como atalho é eliminado da função de campo.
+
+A Estação 4 é eliminatória. Quem insiste em coletar sob risco físico não vai a campo.
+
+## 44.9 Comunicação sob pressão
+
+O monitor deve usar scripts que terceirizam a rigidez para o sistema, sem soar como fiscal, policial ou auditor territorial.
+
+Exemplos:
+
+- “O aplicativo da Rede só aceita foto tirada por dentro dele.”
+- “Se eu fizer fora, o sistema trava o andamento.”
+- “Meu WhatsApp pessoal não libera documento.”
+- “Se eu tirar pela galeria, a Secretaria devolve e a UPA perde tempo.”
+- “O aparelho é travado; eu não consigo subir depois.”
+
+O monitor não deve confrontar, acusar ou explicar o protocolo em jargão institucional quando isso aumentar risco.
+
+## 44.10 Regra de ouro do monitor
+
+> O monitor não é herói, despachante, policial, vendedor, chefe da UPA, auditor jurídico ou solucionador informal. O monitor é operador de fronteira: coleta pouco, coleta certo, protege pessoas, não improvisa canal, não comanda trabalho e interrompe a missão quando a segurança ou a integridade documental deixam de existir.
+
+## 44.11 Capacidade dos monitores no funil ampliado
+
+Dois monitores titulares e um reserva só são compatíveis com até 30 participantes se a agenda for organizada por turmas, dias de coleta, oficinas e devolutivas escalonadas. A ampliação do topo do funil não autoriza atendimento individual intensivo simultâneo de 30 pessoas pelos mesmos monitores.
+
+Antes do ciclo, a Secretaria Técnica deve estimar horas de campo, horas de revisão, número de coletas, número de devolutivas e tempo de resposta por participante. Se a carga exceder a capacidade dos monitores, o CGI-P deverá reduzir turma, alongar cronograma ou contratar apoio temporário formativo que não execute coleta sensível.
+
+## 44.12 Orçamento variável obrigatório do funil
+
+O funil ampliado só poderá ser aberto com orçamento variável aprovado para insumos de treino, EPIs formativos, lanches, transporte, material pedagógico, bolsas-formação quando cabíveis, devolutivas, certificação, atendimento social e Módulo Estruturado de Saída.
+
+A Rede não deve ampliar participantes apenas para melhorar indicador percentual de custo fixo. Se o Fundo não cobrir o custo variável absoluto do topo do funil, a turma deve permanecer em 10 a 16 participantes.
+
 # 45. Matriz de riscos
 
 | Risco | Probabilidade | Impacto | Resposta |
@@ -2327,6 +2718,31 @@ Piloto pequeno não significa piloto informal. Antes de iniciar, validar ISS, NF
 | Plataforma low-code com transferência internacional excessiva | média | alto | preferência por instância controlada ou auto-hospedada |
 
 ---
+
+## 45.1 Riscos adicionados após teste de estresse
+
+| Risco | Probabilidade | Impacto | Resposta |
+|---|---:|---:|---|
+| Vale da Morte financeiro entre Dia 91 e Dia 270 | alta | alto | Conta F, funil auditado e voucher transicional com terceiro real |
+| Bloco 1 acima de 70% dos recursos | média | alto | presumir inadequação da rota UPA/MEI e acionar Veredito C/D |
+| Conta F virando frente de trabalho | média | alto | proibir compra cujo comprador substantivo seja a Rede/Fundo |
+| Voucher sem terceiro pagador real | média | alto | exigir coparticipação, aceite e avaliação do tomador |
+| Compra artificial de portfólio | média | alto | permitir apenas redução de risco para comprador real |
+| WhatsApp pessoal para dado sensível | média | alto | incidente de coleta, RVO reforçada e suspensão se grave |
+| Exclusão manual de mídia pelo monitor | média | alto | vedar exclusão manual; auto-delete apenas após sincronização validada |
+| Carimbo local offline ignorado | média | médio | reconhecer carimbo íntegro do DIC como fonte temporal canônica |
+| Sincronização offline confundida com ITA | média | médio | separar captura local de log de servidor |
+| ITA virando rotina | média | alto | três ITAs injustificadas suspendem coleta analógica |
+| AMR detalhado demais | média | muito alto | relatório minimalista e codificado; Rede não produz inteligência policial |
+| Parecerista remoto substituindo governança local | baixa | alto | parecerista só aponta risco; não decide mérito territorial |
+| Monitor titular sem redundância | média | alto | 2 titulares ativos + 1 reserva treinado |
+| Script burocrático escalando conflito | média | alto | scripts de terceirização da culpa operacional |
+| Funil ampliado sem orçamento variável | média | alto | aprovar custo por participante antes de abrir turma de 30 |
+| Funil virando fábrica de rejeição | média | alto | Bloco 4 de absorção e Módulo Estruturado de Saída obrigatório |
+| P&D mascarando custo de expansão territorial | média | alto | medir custo de implantação por célula territorial replicada |
+| Saturação offline do DIC | média | alto | compressão automática, limite por anexo, alerta de armazenamento e extração assistida |
+| Parecerista de bolso | baixa | alto | lista tríplice pré-aprovada por universidade e Conselho Local/CGI-P |
+| Confusão entre WhatsApp comercial da UPA e prova da Rede | alta | alto | separar negociação comercial de coleta probatória; monitor não recebe evidência pessoal |
 
 # 46. Instrumentos operacionais mínimos
 
@@ -2417,6 +2833,30 @@ Piloto pequeno não significa piloto informal. Antes de iniciar, validar ISS, NF
 5. Plano de escala.
 
 ---
+
+## 46.9 Instrumentos adicionados após teste de estresse
+
+1. Linha de Corte Operacional, Financeira e Probatória.
+2. Matriz de Impedimento Real.
+3. Mapa Fiscal Municipal por Trilha.
+4. Teste de Emissão NFS-e.
+5. Matriz de Liquidez Territorial.
+6. Matriz de Substituição de Receita.
+7. Conta F — Ponte de Transição Comercial.
+8. ITA — Ingestão Tardia por Falha Técnica.
+9. AMR — Aborto de Missão por Risco.
+10. Check-in e check-out do DIC.
+11. Ficha de Treinamento de Monitor.
+12. Prova Simulada de Monitor.
+13. Relatório de Veredito Dia 270.
+14. Módulo Estruturado de Saída.
+15. Régua de Eficiência Social Consolidada.
+16. Relatório minimalista de AMR.
+17. Orçamento variável do funil ampliado.
+18. Lista tríplice de pareceristas de contingência.
+19. Protocolo de compressão e saturação offline do DIC.
+20. Plano de Bloco 4 de absorção para não convertidos.
+21. Relatório de custo de implantação por célula territorial.
 
 # 47. Anexos-modelo
 
@@ -2849,6 +3289,15 @@ dic:
   delete_after_send: true
   formulario_criptografado: true
   edicao_pos_finalizacao_restrita: true
+  compressao_automatica_imagem: true
+  resolucao_maxima_checklist: "suficiente_para_leitura_sem_alta_resolucao_desnecessaria"
+  limite_kb_por_imagem: "definir_por_teste_local"
+  video_por_padrao: false
+  alerta_armazenamento_critico: true
+  bloqueio_nova_coleta_em_memoria_critica: true
+  fila_sincronizacao_visivel: true
+  limpeza_assistida_via_cabo_pela_secretaria: true
+  exclusao_manual_monitor: false
 ```
 
 ## Anexo V — Protocolo do Rascunho Blindado
@@ -2954,6 +3403,319 @@ Decisões possíveis:
 
 ---
 
+
+## Anexo AB — Linha de Corte Operacional, Financeira e Probatória
+
+```markdown
+# Linha de Corte Operacional, Financeira e Probatória do Piloto
+
+No piloto, a Rede adotará rigor escalonado, critérios binários e financiamento segregado por finalidade.
+
+O campo operará com coleta mínima, checklist visual, DIC simplificado e Protocolo de Rascunho Blindado sempre que houver dado identificável, documento fiscal, assinatura, imagem de participante, evidência de entrega ou informação sensível. O uso de celular pessoal, WhatsApp pessoal, galeria comum e backup automático para coleta sensível é vedado.
+
+A origem da evidência deverá ser registrada no momento da ingestão, por formulário, PUC-S, ODK/Kobo ou ferramenta equivalente, com identificador único, data/hora local, usuário responsável, dispositivo institucional, modalidade, código da missão e registro técnico mínimo de captura ou envio.
+
+A Secretaria Técnica poderá consolidar, revisar, hashear, assinar e arquivar o pacote final, mas não poderá suprir retroativamente metadados de origem não coletados.
+
+Hashes finais, metadados canônicos, manifestos externos e fechamento documental reforçado serão concentrados na Secretaria Técnica e aplicados exclusivamente aos atos críticos taxados pelo CGI-P: liberação de pagamentos, assinaturas de contratos, encerramento de ETRLs, abertura ou baixa de CNPJ, formalização de denúncias, registros fiscais de campo, TIF, ITA, AMR, incidentes de custódia, decisões em zona de risco e dossiês usados para prestação de contas institucional.
+```
+
+## Anexo AC — Matriz de Impedimento Real do CGI-P
+
+```yaml
+matriz_impedimento_real:
+  apoio_tecnico_neutro:
+    impede_voto: false
+    exemplos:
+      - explicar modelo
+      - entregar checklist
+      - ensinar uso do formulario
+      - orientar regra geral
+      - apresentar texto-padrao
+  intervencao_substantiva:
+    impede_voto: true
+    exemplos:
+      - ajustar proposta
+      - revisar preco
+      - organizar dossie competitivo
+      - negociar com comprador
+      - montar justificativa
+      - adaptar escopo
+  conflito_material:
+    impede_voto: true
+    exemplos:
+      - parentesco relevante
+      - vinculo financeiro
+      - relacao com comprador
+      - relacao com UPA
+      - beneficio direto ou indireto
+  regra_sintese: "Quem ajudou a construir a proposta nao vota na aprovacao daquela proposta."
+  parecerista_contingencia:
+    lista_triplice_pre_aprovada: true
+    aprovacao_previa:
+      - universidade_parceira
+      - conselho_local_ou_CGI_P
+    escolha_unilateral_OSC_em_crise: proibida
+    papel: "apontar risco tecnico, fiscal, juridico, trabalhista, documental ou de seguranca; nao votar merito territorial"
+    requisitos:
+      - especialidade_registrada
+      - ausencia_conflito_material
+      - termo_de_confidencialidade
+      - limite_de_parecer
+```
+
+## Anexo AD — Conta F — Ponte de Transição Comercial
+
+```yaml
+conta_f_ponte_transicao_comercial:
+  finalidade: "reduzir risco de comprador real e evitar Vale da Morte financeiro"
+  usos_permitidos:
+    - regularidade fiscal e documental
+    - cadastro de fornecedor
+    - prospeccao comercial
+    - complemento transicional com terceiro pagador real
+    - seguro ou ferramenta minima exigida por comprador
+    - apoio a contrato estruturado
+    - emprego ou aprendizagem
+    - baixa preventiva
+  usos_proibidos:
+    - pagar entrega cujo comprador substantivo seja a propria Rede
+    - pagar entrega cujo comprador substantivo seja o proprio Fundo
+    - comprar portfolio artificial
+    - substituir mercado por renda permanente
+  condicoes_de_liberacao:
+    - funil comercial documentado
+    - regularidade fiscal
+    - ausencia de subordinacao
+    - decisao registrada do CGI-P
+```
+
+## Anexo AE — Matriz de Eficiência Social Consolidada
+
+```yaml
+matriz_eficiencia_social:
+  ciclo: ""
+  recursos_totais_aportados: 0
+  custo_secretaria_tecnica: 0
+  custo_conformidade: 0
+  custo_tecnologico: 0
+  custo_contabil: 0
+  valor_liquido_upas: 0
+  receita_externa_upas: 0
+  valor_voucher: 0
+  valor_conta_f: 0
+  contratos_estruturados: 0
+  empregos_assistidos: 0
+  aprendizagens: 0
+  baixas_preventivas_sem_divida: 0
+  custo_suporte_por_real_liquido: 0
+  custo_suporte_por_saida_positiva: 0
+  custo_variavel_funil_por_participante: 0
+  custo_implantacao_por_celula_territorial: 0
+  custo_operacional_recorrente_projetado: 0
+  custo_total_consolidado_por_real_liquido: 0
+  custo_recorrente_projetado_por_real_liquido: 0
+  custos_PD_destacados_sem_exclusao_do_balanco:
+    - compra_configuracao_DICs
+    - montagem_formularios
+    - treinamento_inicial_monitores
+    - simulacoes
+    - compressao_e_seguranca_dados
+    - monitor_reserva_em_capacitacao
+  regra_PD: "Custos de implantacao podem ser destacados para leitura metodologica, mas continuam no balanco consolidado e devem ser projetados por nova celula territorial replicada."
+  classe_dia_270: "A | B | C | D"
+```
+
+## Anexo AF — ITA — Ingestão Tardia por Falha Técnica
+
+```markdown
+# ITA — Ingestão Tardia por Falha Técnica
+
+Usar apenas para pane de aplicativo, pane do DIC, queda de sinal, indisponibilidade de sistema, erro de formulário ou impossibilidade técnica sem risco físico.
+
+Exige:
+
+1. registro físico ou termo próprio;
+2. assinatura do monitor;
+3. testemunha ou anuente apenas se seguro;
+4. motivo da falha;
+5. hora aproximada;
+6. código da missão;
+7. guarda provisória;
+8. digitalização posterior;
+9. RVO reforçada.
+
+Três ITAs no mesmo ciclo, sem justificativa robusta, suspendem novas coletas analógicas até revisão do procedimento.
+```
+
+## Anexo AG — AMR — Aborto de Missão por Risco
+
+```markdown
+# AMR — Aborto de Missão por Risco
+
+Usar para ameaça física, coerção, revista iminente, presença armada, intimidação, extorsão, conflito local ou risco territorial.
+
+Em AMR, não se coleta assinatura, não se pede testemunha, não se salva prova e não se confronta ninguém. A missão é abortada.
+
+Relatório AMR deve ser minimalista:
+
+- código do território;
+- data/hora aproximada;
+- incidente de segurança de nível crítico;
+- decisão de cancelamento, suspensão ou reavaliação.
+
+É proibido registrar nomes de grupos, nomes de lideranças, descrição de armas, dinâmica criminal, rotas de circulação ou informações de inteligência policial.
+
+A Rede não produz inteligência policial.
+```
+
+## Anexo AH — Check-in e Check-out do DIC
+
+```yaml
+checkin_dic:
+  aparelho_institucional: false
+  bateria_suficiente: false
+  formulario_correto: false
+  armazenamento_disponivel: false
+  usuario_autenticado: false
+  modo_offline_testado: false
+  missao_identificada: false
+  classificacao_risco: "verde | amarelo | vermelho_protegida | vermelho_inviavel"
+  contato_retaguarda: ""
+
+checkout_dic:
+  formularios_finalizados: false
+  sincronizacao_realizada: false
+  sincronizacao_pendente: false
+  ita_registrada: false
+  amr_registrado: false
+  midia_solta_galeria: false
+  aparelho_bloqueado: false
+  entregue_secretaria: false
+```
+
+## Anexo AI — Seleção e Prova Prática de Monitores
+
+```yaml
+selecao_monitor:
+  candidato: ""
+  perfil_preferencial: "qualidade | logistica | administracao | contabilidade_operacional | seguranca_trabalho | recenseador | cadastrador | agente_pesquisa | inventario | controle_documental | outro"
+  conflito_material: false
+  estacao_1_coleta_normal: "aprovado | reprovado"
+  estacao_2_coleta_offline: "aprovado | reprovado"
+  estacao_3_ita_com_estresse: "aprovado | reprovado"
+  estacao_4_amr: "aprovado | reprovado"
+  aceitou_whatsapp_pessoal: false
+  insistiu_coleta_sob_risco: false
+  resultado: "apto | inapto | reciclagem"
+```
+
+## Anexo AJ — Checklist Iconográfico da UPA e do Monitor
+
+```yaml
+checklist_iconografico:
+  documento_inteiro_aparece: false
+  assinatura_aparece: false
+  valor_aparece: false
+  data_aparece: false
+  nome_das_partes_aparece: false
+  nota_ou_tif_existe: false
+  foto_esta_legivel: false
+  nao_ha_midia_fora_do_app: false
+  chamar_monitor_ou_secretaria: false
+```
+
+## Anexo AK — Módulo Estruturado de Saída
+
+```yaml
+modulo_estruturado_saida:
+  participante_ou_upa: ""
+  motivo_acionamento:
+    - rota_empreendedora_inviavel
+    - cnpj_sem_receita
+    - dependencia_exclusiva_da_rede
+    - bloco_1_acima_de_50_porcento
+    - veredito_c
+    - risco_divida_fiscal
+    - ausencia_comprador_externo
+    - territorio_sem_liquidez
+  acoes_obrigatorias:
+    - devolutiva_individual
+    - baixa_preventiva_ou_pausa_operacional
+    - encaminhamento_emprego_assistido
+    - encaminhamento_aprendizagem
+    - nova_trilha_formativa
+    - contrato_estruturado_quando_cabivel
+    - protecao_social
+    - registro_no_passaporte_sem_linguagem_de_fracasso
+```
+
+## Anexo AL — Relatório do Dia 270
+
+```yaml
+relatorio_dia_270:
+  ciclo: ""
+  territorio: ""
+  trilha: ""
+  participantes_iniciais: 0
+  upas_formalizadas: 0
+  receita_liquida_upas: 0
+  receita_externa: 0
+  valor_voucher: 0
+  valor_conta_f: 0
+  custo_bloco_1: 0
+  percentual_bloco_1: 0
+  contratos_estruturados: 0
+  empregos_assistidos: 0
+  aprendizagens: 0
+  baixas_preventivas_sem_divida: 0
+  incidentes_trabalhistas: 0
+  incidentes_fiscais: 0
+  incidentes_campo: 0
+  classe: "A | B | C | D"
+  decisao: "escalar | corrigir | redirecionar | encerrar | pivotar_para_contrato_estruturado"
+```
+
+## Anexo AM — Orçamento variável do funil ampliado
+
+```yaml
+orcamento_variavel_funil:
+  participantes_N0_N1_N15: 0
+  custo_insumos_treino: 0
+  custo_EPIs_formativos: 0
+  custo_lanches: 0
+  custo_transporte: 0
+  custo_bolsas_formacao_quando_cabiveis: 0
+  custo_material_pedagogico: 0
+  custo_devolutivas: 0
+  custo_certificacao: 0
+  custo_atendimento_social: 0
+  custo_modulo_estruturado_saida: 0
+  horas_monitoria_previstas: 0
+  capacidade_monitores_validada: false
+  bloco_4_absorcao_validado: false
+  decisao_CGI_P: "abrir_funil_30 | reduzir_turma | alongar_cronograma | nao_abrir"
+```
+
+## Anexo AN — Custo de implantação por célula territorial
+
+```yaml
+custo_implantacao_celula_territorial:
+  territorio: ""
+  DICs: 0
+  configuracao_formularios: 0
+  treinamento_monitores: 0
+  simulacoes: 0
+  adaptacao_checklists: 0
+  configuracao_repositorio: 0
+  pareceres_locais: 0
+  custo_total_implantacao: 0
+  custo_operacional_recorrente_mensal: 0
+  observacao: "Este custo deve ser projetado a cada novo territorio replicado, mesmo quando classificado como P&D no piloto original."
+```
+
+---
+
 # 48. Referências normativas e conceituais
 
 Esta versão é conceitual e operacional. Não substitui parecer jurídico, contábil, trabalhista, tributário, previdenciário, administrativo, securitário, arquivístico, tecnológico ou de proteção de dados.
@@ -3014,3 +3776,15 @@ A fórmula final é:
 A última regra é simples:
 
 > A base não vira auditora. A UPA confere o visível. O monitor coleta com segurança. O DIC protege o campo. A Secretaria revisa o essencial. A OSC assina o fechado. A nota fiscal regulariza o financeiro. A falha externa vira contingência, não culpa. Quem não encontra mercado é protegido, redirecionado ou retirado da rota empreendedora antes que a formalização vire dívida.
+
+## 49.1 Formulação revisada após teste de estresse
+
+A Rede não existe para provar que todos podem empreender. Existe para descobrir, com proteção jurídica, prova operacional e honestidade econômica, qual rota não destrói a pessoa: UPA, mercado, contrato estruturado, emprego, aprendizagem, nova trilha, proteção social ou baixa preventiva.
+
+Quando proteger a rota empreendedora custa mais do que a renda que ela consegue gerar, a rota empreendedora não é ascensão; é ficção administrativa.
+
+A Rede só deve abrir CNPJ quando puder sustentar a travessia mínima: Secretaria Técnica, suporte fiscal, coleta segura, baixa preventiva e ponte comercial por 6 a 9 meses. Sem isso, a forma jurídica vira risco transferido à base.
+
+A prova não nasce no WhatsApp. A segurança não nasce no improviso. O mercado não nasce do voucher. A governança local não nasce do parecer remoto. A ascensão não nasce do CNPJ. A Rede só cumpre sua finalidade quando consegue proteger a pessoa antes, durante e depois da hipótese empreendedora.
+
+O funil ampliado não existe para excluir a maioria. Existe para impedir que a maioria seja empurrada para a forma jurídica errada. Se 30 entram e apenas 3 UPAs avançam, o indicador decisivo não é a taxa bruta de conversão empreendedora; é a existência de saída digna, documentada e financiada para os 27 que não devem carregar um CNPJ inviável.
