@@ -1,124 +1,106 @@
----
-title: "Rede de Ascensão Local"
-subtitle: "Modelo híbrido de ascensão comunitária, ponte acadêmica, UPAs formalizadas e compra-ponte privada"
-version: "4.8.1"
-date: "2026-05-25"
-status: "Modelo jurídico-operacional revisado para piloto híbrido controlado"
-author: "Proposta conceitual desenvolvida por KESTLER"
-language: "pt-BR"
----
-
 # Rede de Ascensão Local
 
-## Modelo híbrido de ascensão comunitária, ponte acadêmica, UPAs formalizadas e compra-ponte privada
+## Modelo de piloto controlado para ascensão comunitária, formação territorial, oficinas demonstrativas, UPAs formalizadas, compra-ponte comercial, empreitada territorial limitada, contrato estruturado e governança probatória enxuta
 
-> **A comunidade identifica necessidades e talentos; a extensão acadêmica transforma problemas em diagnóstico, protótipo e evidência; a Central prepara a formalização; UPAs formalizadas executam serviços reais; fundos privados compram impacto local; o Estado protege, regula e complementa apenas quando indispensável.**
+**Status:** modelo jurídico-operacional limpo para piloto controlado  
+**Data:** 2026-05-25  
+**Autoria conceitual:** KESTLER
 
-> **A Rede não é frente de trabalho, curso isolado, fábrica de MEIs ou dependência acadêmica. É uma esteira de ascensão territorial com trilhos jurídicos.**
+> A comunidade identifica necessidades e talentos. A extensão acadêmica transforma problemas em diagnóstico, método e evidência. A governança integrada protege o piloto sem criar uma mini-prefeitura institucional. A Central sustenta conformidade sem comandar trabalho. A UPA formalizada executa apenas quando houver forma jurídica adequada. O Fundo Privado financia transições produtivas por modalidades separadas. O Estado protege, autoriza, fiscaliza e contrata formalmente quando indispensável.
 
-> **Quem pode contribui. Quem precisa entra. Quem aprende prova. Quem está pronto formaliza. Quem executa emite nota. Quem compra impacto paga preço cheio com voucher transparente. Quem abusa responde.**
+> A Rede não é frente de trabalho, curso isolado, fábrica de MEIs, cooperativa de fachada, marketplace subordinante, programa de vouchers sem controle, zeladoria pública disfarçada ou arquivo informal de planilhas editáveis. É uma esteira de ascensão territorial com trilhos jurídicos, fiscais, pedagógicos, probatórios e operacionais.
 
----
-
-## Nota de versão
-
-A versão 4.8.1 consolida a evolução do modelo comunitário original para uma arquitetura híbrida, juridicamente mais segura e operacionalmente mais realista. Esta revisão técnica preserva a espinha dorsal da v4.8, mas corrige pontos finos de linguagem, governança financeira, rotas não empreendedoras, status de regularidade fiscal e advertências jurídicas para o piloto.
-
-Microcronologia da evolução:
-
-- **v4.0:** comunidade como motor de reciprocidade produtiva, com Fundo Comunitário, Missões de Ascensão e Estado subsidiário.
-- **v4.1:** correção trabalhista inicial, separando comunidade, estrutura formal e Estado protetivo.
-- **v4.2:** barreira sanitária entre formação e prestação de serviço econômico a terceiros.
-- **v4.3:** criação das UPAs como unidades produtivas autônomas, em vez de bolsistas executando missões remuneradas.
-- **v4.4:** criação da Central de Garantia e Serviços Compartilhados, com mandato fiscal limitado e prevenção contra fábrica de MEIs.
-- **v4.5:** introdução da Ponte Acadêmica de Extensão Territorial para diagnóstico, protótipo e subsistência transitória.
-- **v4.6:** criação do desinvestimento acadêmico automático, com Contrato de Saída, Dia 75 e Termo de Encerramento Extensionista.
-- **v4.7:** criação da Contratação-Ponte para evitar o abismo do Dia 91.
-- **v4.8:** correção tributária da Contratação-Ponte, proibindo grupos pré-formais, RPA e pagamento a CPF.
-- **v4.8.1:** revisão de blindagem operacional: Compra-Ponte apenas com CNPJ regular, Fundo Privado com governança explícita, status de regularidade sem linguagem disciplinar e rotas não empreendedoras mais claras.
-
-A versão 4.0 deslocava o centro da Rede para a comunidade organizada, com reciprocidade produtiva, Fundo Comunitário, Missões de Ascensão e Estado subsidiário. Esse eixo preservava a alma do projeto, mas deixava riscos relevantes de informalidade trabalhista, insuficiência financeira, captura local e sobrecarga operacional.
-
-A versão 4.8.1 preserva a comunidade como fonte de legitimidade, diagnóstico e prioridade territorial, mas substitui a ideia de missão remunerada informal por uma esteira segura:
-
-1. **N0 — Chão Social:** acolhimento, documentação, barreiras sociais e triagem.
-2. **N1 — Laboratório Formativo:** formação técnica, segurança, simulação e portfólio.
-3. **N1.5 — Ponte Acadêmica de Extensão Territorial:** pesquisa aplicada, diagnóstico, prototipagem e evidência.
-4. **N1.6 — Formalização Assistida:** abertura seletiva de CNPJ apenas quando houver demanda provável, reserva fiscal e suporte.
-5. **N1.75 — Compra-Ponte Privada:** primeiros contratos com UPAs já formalizadas, pagos a preço cheio com voucher privado.
-6. **N2 — Mercado Assistido:** clientes reais, receita própria e redução de dependência da Rede.
-7. **N3 — Escala Contratual:** contratos maiores, cooperativa madura, empresa, CLT, aprendizagem ou módulo contratual v3.1.
-
-A regra estrutural da versão 4.8.1 é:
-
-> **A Rede deixa de remunerar diretamente pessoas vulneráveis por missões comunitárias e passa a construir uma sequência segura: formar → prototipar → formalizar → comprar impacto com voucher privado → vender no mercado → escalar por contrato formal.**
+> Quem precisa entra. Quem aprende prova. Quem demonstra registra. Quem está pronto formaliza. Quem vende emite nota. Quem escala contrata direito. Quem não encontra mercado é redirecionado antes que a formalização vire dívida.
 
 ---
 
-## Sumário
+# Sumário
 
-1. [Resumo executivo](#1-resumo-executivo)
-2. [Pitch de uma página](#2-pitch-de-uma-página)
-3. [Definição do modelo](#3-definição-do-modelo)
-4. [Arquitetura por níveis de maturidade](#4-arquitetura-por-níveis-de-maturidade)
-5. [Diagnóstico do problema](#5-diagnóstico-do-problema)
-6. [Princípios estruturais](#6-princípios-estruturais)
-7. [Atores e papéis](#7-atores-e-papéis)
-8. [Núcleo Local, Conselho Local e governança comunitária](#8-núcleo-local-conselho-local-e-governança-comunitária)
-9. [Banco de Necessidades e Banco de Talentos](#9-banco-de-necessidades-e-banco-de-talentos)
-10. [Regimes de participação e fronteiras jurídicas](#10-regimes-de-participação-e-fronteiras-jurídicas)
-11. [Missões por categoria](#11-missões-por-categoria)
-12. [Ponte Acadêmica de Extensão Territorial — N1.5](#12-ponte-acadêmica-de-extensão-territorial--n15)
-13. [Contrato de Saída Acadêmica, Dia 75 e Encerramento Extensionista](#13-contrato-de-saída-acadêmica-dia-75-e-encerramento-extensionista)
-14. [Formalização Assistida — N1.6](#14-formalização-assistida--n16)
-15. [Unidades Produtivas de Ascensão — UPAs](#15-unidades-produtivas-de-ascensão--upas)
-16. [Central de Garantia e Serviços Compartilhados](#16-central-de-garantia-e-serviços-compartilhados)
-17. [Compra-Ponte Privada de Impacto Local — N1.75](#17-compra-ponte-privada-de-impacto-local--n175)
-18. [Fundo Privado de Compra-Ponte e vouchers territoriais](#18-fundo-privado-de-compra-ponte-e-vouchers-territoriais)
-19. [Financiamento e separação de contas](#19-financiamento-e-separação-de-contas)
-20. [Empresas, comércio local e compradores de impacto](#20-empresas-comércio-local-e-compradores-de-impacto)
-21. [Papel subsidiário do Estado](#21-papel-subsidiário-do-estado)
-22. [Universidades e proteção contra colonização acadêmica](#22-universidades-e-proteção-contra-colonização-acadêmica)
-23. [Proteção contra abuso, exploração e captura](#23-proteção-contra-abuso-exploração-e-captura)
-24. [Regras para zonas vermelhas](#24-regras-para-zonas-vermelhas)
-25. [Passaporte de Ascensão](#25-passaporte-de-ascensão)
-26. [Roda de Retorno dos Egressos](#26-roda-de-retorno-dos-egressos)
-27. [Indicadores de avaliação](#27-indicadores-de-avaliação)
-28. [Projeto-piloto recomendado](#28-projeto-piloto-recomendado)
-29. [Matriz de riscos](#29-matriz-de-riscos)
-30. [Instrumentos operacionais mínimos por fase](#30-instrumentos-operacionais-mínimos-por-fase)
-31. [Linguagem política e ética institucional](#31-linguagem-política-e-ética-institucional)
-32. [Comparação com modelos existentes](#32-comparação-com-modelos-existentes)
-33. [Anexos-modelo](#33-anexos-modelo)
-34. [Referências normativas e conceituais](#34-referências-normativas-e-conceituais)
-35. [Formulação final](#35-formulação-final)
-36. [Encerramento](#36-encerramento)
+1. Resumo executivo  
+2. Pitch de uma página  
+3. Definição do modelo  
+4. Arquitetura por níveis de maturidade  
+5. Diagnóstico do problema  
+6. Princípios estruturais  
+7. Atores e papéis  
+8. Modo Piloto Enxuto e Comitê de Governança Integrada do Piloto  
+9. Núcleo Local, Conselho Local e governança comunitária escalável  
+10. Banco de Necessidades e Banco de Talentos  
+11. Regimes de participação e fronteiras jurídicas  
+12. Missões por categoria  
+13. Ponte Acadêmica de Extensão Territorial — N1.5  
+14. Contrato de Saída Acadêmica, Dia 75 e Encerramento Extensionista  
+15. Formalização Assistida — N1.6  
+16. Unidades Produtivas de Ascensão — UPAs  
+17. Central de Garantia e Serviços Compartilhados  
+18. N1.75 — Camadas de Transição Produtiva  
+19. N1.75-A — Oficina Prática Demonstrativa Territorial  
+20. Roteiro Pedagógico Modular Estrito — RPME  
+21. Laboratório de Ofertabilidade e Pré-RVO da UPA  
+22. N1.75-B — Compra-Ponte Comercial com Cliente Real  
+23. Carteira Territorial de Voucher  
+24. N1.75-C — Empreitada Territorial de Resultado Limitado — ETRL  
+25. Chamada Técnica por Checklist Visual  
+26. Voluntariado, coprodução e não mistura operacional  
+27. N1.75-D — Contrato Estruturado  
+28. Fundo Privado, financiamento e separação de contas  
+29. Empresas, comércio local e compradores de impacto  
+30. Papel subsidiário do Estado  
+31. Universidades e proteção contra colonização acadêmica  
+32. Proteção contra abuso, exploração e captura  
+33. Regras para zonas vermelhas  
+34. Fechamento probatório dos registros do piloto  
+35. Validação presencial, cadeia de custódia física e arquivo de originais  
+36. Digitalização controlada com metadados canônicos  
+37. Página Única de Coleta Segura — PUC-S  
+38. Dispositivo Institucional Criptografado, ODK/Kobo e coleta offline segura  
+39. Revisão Visual Obrigatória — RVO e régua documental  
+40. Protocolo de Contingência Fiscal de Campo — PCFC  
+41. Textos-padrão de NFS-e e bloqueio de emissão errada  
+42. Passaporte de Ascensão  
+43. Indicadores de avaliação  
+44. Projeto-piloto recomendado  
+45. Matriz de riscos  
+46. Instrumentos operacionais mínimos  
+47. Anexos-modelo  
+48. Referências normativas e conceituais  
+49. Formulação final
 
 ---
 
 # 1. Resumo executivo
 
-A **Rede de Ascensão Local** é uma infraestrutura comunitária de ascensão produtiva. Ela identifica necessidades reais do território, forma participantes vulneráveis, registra competências, usa extensão acadêmica para diagnóstico e prototipagem, incuba unidades produtivas formalizadas e cria uma carteira privada de compra de impacto local para gerar primeiras receitas sem informalidade trabalhista, fiscal ou previdenciária.
+A Rede de Ascensão Local é uma infraestrutura comunitária de ascensão produtiva. Ela identifica necessidades reais do território, forma participantes vulneráveis, registra competências, usa extensão acadêmica para diagnóstico e método, formaliza unidades produtivas apenas quando houver viabilidade mínima e cria rotas controladas entre formação, demonstração, primeiras receitas, mercado e contratos formais.
 
-A Rede parte de uma constatação simples: muitas pessoas pobres não carecem apenas de renda. Carecem de rota, rede, reputação, evidência, primeira oportunidade segura, proteção contra abuso e ponte real para o mercado ou para contratos formais. Ao mesmo tempo, muitos territórios acumulam problemas de baixa e média complexidade: praças degradadas, espaços comunitários desorganizados, famílias sem pequenos reparos, comerciantes sem prestadores confiáveis, jovens sem experiência, idosos isolados e talentos invisíveis.
+A Rede parte de uma constatação simples: pobreza não é apenas ausência de renda. É ausência de rota entre capacidade e oportunidade. Pessoas pobres podem possuir habilidade prática, força de trabalho, inteligência concreta e disposição, mas não possuir documentação, reputação, primeira chance, portfólio, rede de confiança, proteção jurídica ou capacidade de negociar com clientes reais.
 
-O modelo conecta esses dois lados, mas sem transformar vulnerabilidade em mão de obra informal. A versão 4.8.1 substitui missões remuneradas por uma sequência com fronteiras jurídicas rígidas:
+Ao mesmo tempo, territórios vulneráveis acumulam problemas de baixa e média complexidade: espaços comunitários degradados, documentação dispersa, descarte irregular, pequenos reparos, falta de prestadores confiáveis, jovens sem experiência, idosos sem apoio simples, comerciantes sem serviços acessíveis e talentos invisíveis.
 
-- formação não gera serviço econômico para terceiros;
-- extensão acadêmica diagnostica, prototipa e produz conhecimento aplicado;
-- serviço real remunerado só ocorre com CNPJ, contrato, nota fiscal e forma jurídica adequada;
-- a Compra-Ponte usa capital privado flexível, não verba pública carimbada;
-- vouchers preservam o preço cheio do serviço desde o primeiro contrato;
-- a Central administra conformidade, mas não comanda trabalho;
-- a UPA administra sua execução e sua relação com clientes.
+A Rede conecta esses dois lados sem transformar vulnerabilidade em mão de obra informal. Para isso, separa as fases da transição produtiva:
 
-A comunidade continua sendo o eixo de legitimidade e prioridade. Ela identifica problemas, protege participantes, valida necessidades, acompanha reputação e impede captura. Mas ela não é tratada como empregadora informal, financiadora exclusiva ou gestora de risco fiscal.
+- formação não é prestação de serviço;
+- oficina demonstrativa não é zeladoria disfarçada;
+- compra comercial exige cliente real, preço, contrato e documento fiscal adequado;
+- empreitada territorial só ocorre por escopo fechado, limitado, autorizado e não recorrente;
+- escala, jornada, equipe e subordinação exigem contrato estruturado;
+- MEI não é solução automática;
+- não empreender não é fracassar;
+- registro de campo não é prova final enquanto não for fechado, assinado, hasheado e arquivado.
 
-O Estado entra como retaguarda: proteção jurídica, fiscalização de abuso, autorização de espaço público, assistência social, segurança em territórios de risco, contratos formais quando cabíveis e complementação institucional. O Estado não deve financiar, de forma flexível e pouco controlada, a Compra-Ponte comercial; essa função cabe a capital privado, empresas, fundações, doadores e fundos patrimoniais.
+O nível crítico da Rede é o N1.75, dividido em quatro camadas:
 
-A fórmula central da v4.8.1 é:
+| Subnível | Nome | Finalidade | Documento principal | Risco central |
+|---|---|---|---|---|
+| N1.75-A | Oficina Prática Demonstrativa Territorial | evidência, portfólio e prática pedagógica | NFS-e de oficina/instrução/facilitação compatível | simulação de oficina e docência-MEI habitual |
+| N1.75-B | Compra-Ponte Comercial com Cliente Real | testar preço, negociação e demanda pagável | contrato comprador-UPA, nota fiscal adequada e voucher limitado | artificialidade de demanda, inadimplência e erro fiscal |
+| N1.75-C | Empreitada Territorial de Resultado Limitado | atender demanda coletiva delimitada | contrato de empreitada e NFS-e contra OSC/Fundo | terceirização ilícita, responsabilidade civil e recorrência |
+| N1.75-D | Contrato Estruturado | absorver escala, equipe, rotina ou subordinação | CLT, aprendizagem, empresa, cooperativa autêntica ou módulo formal | custo maior, mas segurança jurídica superior |
 
-> **Comunidade como legitimadora. Universidade como ponte curta. Central como conformidade. UPA como executora formal. Fundo privado como rampa comercial. Estado como proteção. Mercado e contratos formais como escala.**
+A Rede não promete que todos virarão empreendedores. Ela testa rotas. Quem tem maturidade comercial pode avançar para Compra-Ponte Comercial e mercado. Quem demonstra competência, mas ainda não vende, pode passar por oficina demonstrativa limitada. Quem atua em demanda coletiva pode participar de empreitada territorial, desde que a forma jurídica seja adequada. Quem precisa de jornada, rotina, supervisão ou equipe deve migrar para contrato estruturado. Quem não tem estabilidade mínima volta para proteção social, nova formação, emprego assistido ou aprendizagem.
+
+A fórmula operacional é:
+
+> formar → demonstrar → formalizar seletivamente → testar compra comercial → empreitar apenas quando coletivo, limitado e autorizado → estruturar contrato quando houver escala → encerrar ou redirecionar quando não houver mercado.
 
 ---
 
@@ -126,111 +108,119 @@ A fórmula central da v4.8.1 é:
 
 ## O problema
 
-Pessoas vulneráveis frequentemente possuem disposição e capacidades práticas, mas não conseguem provar competência nem acessar uma primeira oportunidade segura. Cursos isolados não bastam. Bolsas sem saída criam dependência. Trabalho informal cria passivo. MEI aberto cedo demais cria dívida fiscal. Contratos públicos são lentos. O mercado local nem sempre consegue absorver imediatamente novos prestadores.
+Cursos isolados não bastam. Bolsa sem saída cria dependência. Trabalho informal cria passivo. MEI aberto cedo demais gera dívida fiscal. Compra pública é lenta. O mercado local, especialmente em periferias, nem sempre possui liquidez para absorver novos prestadores. Muitos projetos sociais erram ao tentar transformar vulnerabilidade em empreendedorismo imediato.
 
 ## A solução
 
-A Rede de Ascensão Local organiza uma esteira de ascensão por fases. Primeiro estabiliza e forma. Depois usa universidades para transformar problemas territoriais em diagnóstico, protótipo e evidência. Em seguida, formaliza apenas grupos com demanda provável. Por fim, financia os primeiros contratos com vouchers privados, pagos a preço cheio para UPAs formalizadas.
-
-## O diferencial
-
-A Rede não tenta resolver pobreza com caridade solta, curso isolado, missão informal ou empreendedorismo forçado. Ela constrói uma ponte controlada entre vulnerabilidade e renda formalizada.
+A Rede de Ascensão Local cria uma esteira controlada. Primeiro acolhe, documenta e forma. Depois usa a universidade para transformar necessidades territoriais em diagnóstico, método e evidência. Em seguida formaliza seletivamente, apenas quando houver demanda plausível e forma jurídica adequada. Por fim, usa quatro camadas de transição produtiva para testar e proteger a passagem para renda formalizada.
 
 ## Como funciona
 
 1. O território registra necessidades no Banco de Necessidades.
 2. Pessoas entram pelo Banco de Talentos.
 3. Participantes passam por Chão Social e Laboratório Formativo.
-4. Uma universidade parceira realiza extensão territorial aplicada.
-5. No Dia 75, um Comitê de Conversão decide as rotas.
-6. Quem está pronto entra na Formalização Assistida.
-7. Só UPAs com CNPJ regular entram na Compra-Ponte.
-8. O Fundo Privado de Compra-Ponte concede vouchers ao comprador.
-9. A UPA recebe preço cheio, emite nota e constrói portfólio.
-10. A UPA migra para clientes reais, contratos formais, cooperativa, empresa ou módulo v3.1.
+4. A universidade organiza diagnóstico, protótipos, rubricas e roteiros pedagógicos.
+5. O Comitê de Governança Integrada do Piloto decide rotas de conversão.
+6. A Formalização Assistida abre CNPJ apenas quando houver viabilidade mínima.
+7. A Oficina Demonstrativa gera portfólio e evidência, sem simular serviço.
+8. A Compra-Ponte Comercial testa cliente real, preço cheio e voucher limitado.
+9. A Empreitada Territorial Limitada atende demandas coletivas sem ticket individual.
+10. A escala migra para contrato estruturado, emprego, aprendizagem, empresa ou cooperativa autêntica.
+11. Os registros de campo são fechados por protocolo probatório, com cadeia de custódia, metadados, hash e assinatura adequada.
 
 ## Regra central
 
-> **Nenhum serviço real remunerado será executado por pessoa física informal, grupo pré-formal ou bolsista. Serviço real exige CNPJ, contrato, nota fiscal e forma jurídica adequada.**
+> Nenhum serviço real remunerado será executado por pessoa física informal, grupo pré-formal, voluntário misturado com equipe paga, bolsista ou MEI usado como equipe coletiva disfarçada. Serviço real exige forma jurídica, contrato, nota fiscal e regime adequado.
+
+## Diferencial
+
+A Rede não tenta resolver pobreza com caridade solta, curso isolado, missão informal, voucher sem lastro, CNPJ precoce ou arquivo de planilha editável. Ela constrói uma sequência juridicamente protegida entre vulnerabilidade, competência, evidência, primeira receita e rota realista de saída.
 
 ---
 
 # 3. Definição do modelo
 
-A **Rede de Ascensão Local** é uma tecnologia social de ascensão comunitária com trilhos jurídicos, destinada a converter necessidades reais do território em formação, evidência, reputação, formalização seletiva e primeiras receitas formais.
+A Rede de Ascensão Local é uma tecnologia social de ascensão comunitária com trilhos jurídicos. Seu objetivo é converter necessidades reais do território em formação, evidência, reputação, formalização seletiva, primeiras receitas seguras, mercado assistido ou contrato formal.
 
 Definição técnica:
 
-> **A Rede de Ascensão Local é uma infraestrutura comunitária de ascensão produtiva que identifica necessidades reais do território, forma participantes vulneráveis, registra competências, usa extensão acadêmica para diagnóstico e prototipagem, incuba unidades produtivas formalizadas e cria uma carteira privada de compra de impacto local para gerar primeiras receitas sem informalidade trabalhista, fiscal ou previdenciária.**
+> A Rede de Ascensão Local é uma infraestrutura comunitária de ascensão produtiva que identifica necessidades territoriais, forma participantes vulneráveis, registra competências, usa extensão acadêmica para diagnóstico e desenho metodológico, incuba unidades produtivas formalizadas e testa rotas de renda por oficinas demonstrativas, compra comercial assistida, empreitadas territoriais limitadas e contratos estruturados, sem informalidade trabalhista, fiscal, previdenciária ou probatória.
 
-A Rede tem sete produtos principais:
+A Rede entrega oito produtos:
 
-1. **Produto humano:** participantes vulneráveis ganham estabilização, formação, evidência, reputação e rota.
-2. **Produto comunitário:** necessidades reais viram diagnósticos, protótipos, vouchers e contratos formais.
-3. **Produto reputacional:** o Passaporte de Ascensão torna competências visíveis e verificáveis.
-4. **Produto jurídico:** trabalho real remunerado só ocorre por regime adequado.
-5. **Produto econômico:** UPAs formalizadas recebem primeiras receitas sem depender de informalidade.
-6. **Produto institucional:** comunidade, universidade, Central, empresas e Estado atuam com fronteiras claras.
-7. **Produto moral:** quem sobe é convidado a retornar, sem dívida obrigatória nem coerção.
+1. **Produto humano:** estabilização, formação, evidência, reputação e rota.
+2. **Produto comunitário:** necessidades reais transformadas em diagnósticos, oficinas, contratos ou encaminhamentos.
+3. **Produto reputacional:** Passaporte de Ascensão com evidências verificáveis.
+4. **Produto jurídico:** separação entre formação, demonstração, compra comercial, empreitada e contrato estruturado.
+5. **Produto econômico:** primeiras receitas formais sem criar dependência artificial permanente.
+6. **Produto institucional:** comunidade, universidade, Central, empresas, Estado e UPAs com fronteiras claras.
+7. **Produto probatório:** registros fechados por cadeia de custódia, metadados, assinatura, hash e arquivo físico quando aplicável.
+8. **Produto ético:** ascensão sem exploração, sem dívida fiscal fabricada e sem coerção.
 
 A Rede não é:
 
 - frente de trabalho;
 - curso profissionalizante isolado;
-- caridade desorganizada;
 - fábrica de MEIs;
 - cooperativa de fachada;
-- plataforma de subordinação;
+- plataforma subordinante;
 - terceirização informal de serviço público;
-- projeto acadêmico extrativo;
-- política eleitoral.
+- mutirão pago disfarçado;
+- voucher sem controle fiscal;
+- escola simulada;
+- programa eleitoral;
+- empresa de zeladoria disfarçada de OSC;
+- cartório improvisado sem cadeia de custódia;
+- repositório de provas em planilhas editáveis.
 
 ---
 
 # 4. Arquitetura por níveis de maturidade
 
-| Nível | Nome | Função | Pode gerar serviço real remunerado? | Regime principal |
+| Nível | Nome | Função | Pode gerar receita direta? | Regime principal |
 |---|---|---|---:|---|
 | N0 | Chão Social | acolhimento, documentação, barreiras sociais, triagem | não | proteção social e orientação |
-| N1 | Laboratório Formativo | formação técnica, segurança, simulação e portfólio | não | bolsa-formação ou participação formativa |
-| N1.5 | Ponte Acadêmica | extensão/pesquisa aplicada, diagnóstico e protótipo | apenas intervenção demonstrativa não substitutiva | projeto acadêmico |
-| N1.6 | Formalização Assistida | abertura seletiva de CNPJ, conta, nota, reserva fiscal | não | preparação jurídica-contábil |
-| N1.75 | Compra-Ponte Privada | primeiros contratos com UPAs já formalizadas | sim | CNPJ, contrato, nota fiscal e voucher privado |
-| N2 | Mercado Assistido | clientes reais e receita própria | sim | MEI, microempresa, cooperativa, contrato formal |
-| N3 | Escala Contratual | contratos maiores e recorrentes | sim | empresa, cooperativa madura, CLT, aprendizagem ou v3.1 |
+| N1 | Laboratório Formativo | formação técnica, segurança, simulação, ofertabilidade, portfólio e pré-RVO | não | formação, bolsa-formação ou participação formativa |
+| N1.5 | Ponte Acadêmica | diagnóstico, protótipo, método, rubrica e evidência | apenas demonstrativo não substitutivo | extensão/pesquisa aplicada |
+| N1.6 | Formalização Assistida | abertura seletiva de CNPJ, conta, nota e reserva fiscal | não | preparação jurídico-contábil |
+| N1.75-A | Oficina Demonstrativa | oficina prática com turma real e portfólio | sim, se houver NFS-e compatível | serviço formativo/demonstrativo |
+| N1.75-B | Compra-Ponte Comercial | cliente real, preço cheio e voucher limitado | sim | contrato comprador-UPA e nota adequada |
+| N1.75-C | ETRL | entrega coletiva limitada em microterritório | sim | empreitada por resultado com NFS-e contra OSC/Fundo |
+| N1.75-D | Contrato Estruturado | escala, equipe, rotina ou subordinação | sim | CLT, aprendizagem, empresa, cooperativa autêntica ou módulo formal |
+| N2 | Mercado Assistido | clientes externos, receita própria e redução de dependência | sim | MEI, ME, cooperativa, empresa, contrato formal |
+| N3 | Escala Contratual | contratos maiores, recorrentes ou institucionais | sim | empresa, cooperativa madura, CLT, aprendizagem ou contrato público/privado formal |
 
 ## 4.1 Regra de passagem
 
-Nenhum participante avança automaticamente. Cada passagem exige evidência mínima:
+Nenhuma passagem é automática. Cada nível exige evidência mínima:
 
-- de N0 para N1: documentação e estabilidade mínima para formação;
-- de N1 para N1.5: aderência ao projeto acadêmico e interesse territorial;
-- de N1.5 para N1.6: prontidão técnica e demanda plausível;
-- de N1.6 para N1.75: CNPJ regular, nota fiscal, conta própria e reserva fiscal;
-- de N1.75 para N2: cliente real, avaliação positiva e capacidade de reduzir voucher;
-- de N2 para N3: recorrência, escala e regime jurídico adequado.
+- de N0 para N1: documentação mínima, estabilidade e aptidão formativa;
+- de N1 para N1.5: aderência ao projeto acadêmico e segurança;
+- de N1.5 para N1.6: demanda plausível, competência e forma jurídica possível;
+- de N1.6 para N1.75-A: compatibilidade com oficina, turma real e emissão fiscal adequada;
+- de N1.6 para N1.75-B: cliente potencial, proposta, preço, nota e capacidade comercial mínima;
+- de N1.6 para N1.75-C: forma jurídica adequada, autorização territorial ou pública quando cabível, seguro/EPI quando exigível e escopo coletivo limitado;
+- de N1.75 para N2: cliente real, avaliação positiva, redução de dependência e capacidade fiscal;
+- de N2 para N3: recorrência, escala e regime jurídico compatível.
 
 ## 4.2 Regra contra queda abrupta
 
-O Dia 91 não deve ser uma queda. Deve ser uma rampa. Quem termina o ciclo acadêmico sem mercado imediato pode seguir para formalização assistida, compra-ponte, emprego assistido, aprendizagem, nova trilha ou proteção social, conforme evidência.
+O final de um ciclo não pode gerar abandono. Quem não converter para mercado deve ser redirecionado: nova trilha, emprego assistido, aprendizagem, contrato formal, proteção social ou baixa preventiva do CNPJ.
 
 ## 4.3 Rotas não empreendedoras
 
-A Rede não deve pressupor que todo participante precisa virar MEI, UPA ou empreendedor. A ascensão pode ocorrer por múltiplas rotas legítimas.
+Não empreender não é fracassar. Fracasso é empurrar alguém para CNPJ, dívida, informalidade ou contrato inviável para preservar a narrativa do projeto.
 
-Rotas não empreendedoras aceitáveis:
+Rotas legítimas:
 
-- **emprego formal assistido:** encaminhamento para empresa, comércio, organização ou contrato estruturado;
-- **aprendizagem profissional:** quando houver idade, perfil e entidade formadora adequada;
-- **curso técnico externo:** quando a pessoa precisa de formação mais longa antes de produzir;
-- **contrato formal via módulo v3.1:** quando há posto, jornada, supervisão e contrato contínuo;
-- **proteção social:** quando a pessoa ainda não tem estabilidade mínima para uma trilha produtiva;
-- **nova trilha formativa:** quando a habilidade testada não encontra demanda real;
-- **retorno temporário ao Chão Social:** quando a vulnerabilidade é predominante e a pressão produtiva aumentaria o risco.
-
-Regra:
-
-> **Não empreender não é fracassar. Fracasso é empurrar alguém para CNPJ, dívida ou contrato inviável apenas para preservar a narrativa da Rede.**
+- emprego formal assistido;
+- aprendizagem profissional;
+- curso técnico externo;
+- contrato formal via módulo estruturado;
+- proteção social;
+- nova trilha formativa;
+- retorno temporário ao Chão Social;
+- baixa preventiva de CNPJ sem mercado.
 
 ---
 
@@ -238,72 +228,96 @@ Regra:
 
 ## 5.1 Pobreza como isolamento de rota
 
-A pobreza não é apenas ausência de renda. É ausência de rota entre capacidade e oportunidade. A pessoa pode ter força, habilidade e inteligência prática, mas não ter rede, reputação, primeira chance, portfólio, documentação ou proteção contra abuso.
+Pessoas vulneráveis frequentemente não carecem apenas de renda. Carecem de documento, rede, reputação, evidência, primeira oportunidade, proteção contra abuso, capacidade de precificação e rota de saída.
 
-A Rede reconstrói a sequência mínima da ascensão:
+A Rede organiza a sequência mínima da ascensão:
 
 1. estabilizar;
-2. preparar;
+2. formar;
 3. praticar em ambiente seguro;
 4. produzir evidência;
-5. formalizar quando houver demanda;
-6. executar serviço real com contrato;
-7. gerar receita;
+5. formalizar apenas quando houver demanda;
+6. demonstrar competência;
+7. testar venda real;
 8. reduzir dependência;
-9. escalar ou migrar para emprego digno;
-10. retornar como egresso apoiador.
+9. escalar por contrato adequado;
+10. retornar como egresso apoiador quando possível.
 
-## 5.2 O erro da comunidade como caixa principal
+## 5.2 O erro da bolsa produtiva
 
-Comunidades vulneráveis não devem financiar sozinhas sua própria ascensão. O Fundo Comunitário é sinal de pertencimento e legitimidade, mas não deve ser tratado como fonte principal de custeio em territórios de alta vulnerabilidade.
+Bolsa não compra trabalho. Se uma atividade produz benefício econômico direto, repetido ou substitutivo para terceiro, não é formação. Deve migrar para contrato, CNPJ, CLT, aprendizagem, cooperativa real ou outro regime adequado.
 
-## 5.3 O erro da bolsa produtiva
+## 5.3 O erro do MEI precoce
 
-Bolsa não deve comprar trabalho. Se uma atividade produz benefício econômico direto para terceiro, ela não é formação. Deve migrar para contrato, CNPJ, CLT, aprendizagem, cooperativa real ou módulo v3.1.
+Abrir CNPJ antes de existir demanda, reserva fiscal, capacidade de nota e plano de saída gera dívida, inadimplência e dano social. CNPJ não é prêmio; é ferramenta operacional.
 
-## 5.4 O erro do MEI precoce
+## 5.4 O erro da compra-piloto única
 
-Abrir CNPJ cedo demais pode gerar dívida, obrigações acessórias, inadimplência e dano civil ao participante. A formalização só deve ocorrer quando houver demanda provável, capacidade mínima e suporte.
+Uma única modalidade de compra não resolve todos os casos. O território precisa de camadas distintas: oficina demonstrativa, compra comercial, empreitada territorial e contrato estruturado.
 
 ## 5.5 O erro da dependência acadêmica
 
-Universidade pode ser ponte, não motor permanente. Extensão serve para diagnosticar, prototipar, formar, produzir evidência e orientar conversão. Quando a atividade vira repetição operacional, deve sair da academia.
+A universidade é ponte, não motor permanente. Ela deve ajudar a diagnosticar, desenhar método, prototipar e criar evidência. Quando a atividade vira operação repetida, sai da academia.
 
-## 5.6 O erro da compra pública flexível
+## 5.6 O erro da Central como mercado
 
-Recursos públicos carimbados não devem financiar rampa comercial dinâmica. Dinheiro público pode financiar formação, diagnóstico, proteção e assistência técnica. Compra-Ponte flexível deve ser financiada por capital privado.
+Se a Central distribui cliente, ranqueia, escolhe quem trabalha, define preço ou controla fluxo de demanda, cria risco de subordinação estrutural. A Central deve certificar, registrar, orientar e proteger, não comandar mercado.
+
+## 5.7 O erro do documento perfeito demais para operar
+
+Um piloto pequeno não comporta governança de grande política pública. A proteção jurídica deve vir de critérios, atas, impedimentos, cadeia de custódia, metadados, assinaturas e limites de modalidade, não da multiplicação de órgãos e documentos.
 
 ---
 
 # 6. Princípios estruturais
 
-## 6.1 Reciprocidade produtiva com trilhos jurídicos
+## 6.1 Reciprocidade com trilhos jurídicos
 
-A Rede mantém a reciprocidade produtiva, mas rejeita informalidade. A comunidade ajuda a identificar, legitimar e orientar a demanda; a execução remunerada ocorre por unidade formal.
+A comunidade identifica necessidades e protege legitimidade. A execução remunerada ocorre apenas por forma jurídica adequada.
 
 ## 6.2 Formação não é prestação de serviço
 
-Formação pode ter presença, disciplina, orientação técnica e segurança. Isso é direção pedagógica. Não pode haver subordinação produtiva, jornada operacional ou entrega econômica para terceiro.
+Formação pode ter presença, segurança, disciplina pedagógica e avaliação. Não pode gerar entrega econômica substitutiva para terceiro.
 
-## 6.3 Serviço real exige forma jurídica
+## 6.3 Oficina não é serviço disfarçado
 
-Nenhum serviço real remunerado será executado por bolsista, grupo informal ou CPF sem regime adequado. A N1.75 só contrata CNPJ regular.
+Oficina demonstrativa exige turma real, roteiro, prática dos alunos, rubrica, evidência e limite de materialidade. Sem público formativo, não há oficina.
 
-## 6.4 CNPJ não é prêmio
+## 6.4 Compra comercial testa mercado
 
-CNPJ é instrumento operacional. Só deve ser aberto quando houver demanda provável, reserva fiscal, capacidade mínima e plano de baixa.
+Compra-Ponte Comercial só existe quando há cliente real, preço cheio, proposta, aceite, nota fiscal e coparticipação ou pagamento validado.
 
-## 6.5 A Central não é patrão
+## 6.5 Empreitada territorial não é zeladoria
 
-A Central administra conformidade, contratos, regularidade, reservas e suporte. Ela não controla jornada, escala, produtividade, tarefas individuais ou método diário de execução.
+ETRL é pontual, limitada, mensurável, autorizada e não recorrente. Se virar manutenção contínua, sai da camada de transição e migra para contrato estruturado.
 
-## 6.6 Universidade não é dona da Rede
+## 6.6 MEI não é equipe
 
-A universidade preserva autonomia didático-científica. A comunidade preserva soberania territorial, consentimento, prioridades sociais, proteção de dados e direito de devolutiva.
+MEI individual não pode ser usado para executar contrato coletivo coordenado pela Central. Se houver equipe, coordenação, escala ou contrato em bloco, usar microempresa, cooperativa autêntica, CLT ou contrato estruturado.
 
-## 6.7 Voucher preserva preço real
+## 6.7 Voluntário não se mistura com UPA paga
 
-A Compra-Ponte não reduz o preço nominal do serviço. Ela reduz temporariamente o desembolso do comprador por voucher. A UPA recebe preço cheio.
+Moradores podem participar do diagnóstico, autorização, devolutiva e cuidado posterior. Não devem executar, no mesmo tempo e escopo físico, tarefas atribuídas à UPA remunerada.
+
+## 6.8 Voucher não exige vigilância familiar
+
+A Rede deve evitar mapeamento de parentesco, grupos familiares e relações privadas. O controle antifraude deve priorizar carteiras, tetos, evidências e dados mínimos.
+
+## 6.9 A Central certifica, não comanda
+
+A Central administra conformidade e evidência. Ela não escolhe cliente, não define jornada, não distribui tarefas, não impõe preço e não pune recusa comercial.
+
+## 6.10 Quando houver subordinação, formalizar direito
+
+Jornada, posto fixo, escala, pessoalidade, ordens e rotina exigem regime adequado. A Rede não deve usar engenharia contratual para esconder emprego.
+
+## 6.11 A base não vira auditora
+
+A UPA pode aprender a conferir aspectos visuais e mecânicos de documentos. Ela não valida legalidade do escopo, risco trabalhista, enquadramento tributário, interpretação contratual ou conformidade arquivística.
+
+## 6.12 Prova final não nasce em planilha
+
+Mensagens, formulários, fotos e planilhas são insumos. A prova final nasce no fechamento probatório: documento consolidado, metadados, assinatura, hash, cadeia de custódia e guarda adequada.
 
 ---
 
@@ -317,39 +331,41 @@ Responsabilidades:
 
 - participar das etapas formativas;
 - respeitar regras de segurança;
-- registrar sua trajetória;
+- registrar evidências autorizadas;
 - comunicar abuso ou risco;
-- autorizar ou negar compartilhamento externo do Passaporte;
-- aderir à formalização apenas quando compreender obrigações mínimas.
+- aderir à formalização apenas quando compreender obrigações;
+- aceitar redirecionamento quando a rota empreendedora não for adequada.
 
 ## 7.2 Núcleo Local de Ascensão
 
-Célula territorial da Rede.
+Célula territorial da Rede em fase escalada. No piloto enxuto, suas funções podem ser exercidas pelo CGI-P.
 
 Funções:
 
 - mapear necessidades;
-- mobilizar confiança local;
+- mobilizar confiança;
 - operar Banco de Necessidades e Banco de Talentos;
 - proteger participantes;
 - validar prioridades comunitárias;
 - acionar retaguardas externas;
 - acompanhar devolutivas.
 
-O Núcleo não pode comandar trabalho remunerado.
+O Núcleo não comanda trabalho remunerado.
 
 ## 7.3 Conselho Local de Ascensão
 
-Instância plural de legitimidade territorial.
+Instância plural de legitimidade territorial em fase escalada. No piloto enxuto, suas funções podem ser exercidas pelo CGI-P.
 
 Funções:
 
-- validar prioridades comunitárias;
+- validar prioridades;
 - proteger contra captura;
-- acompanhar prestação de contas comunitária;
-- participar do Comitê do Dia 75;
-- validar uso de vouchers territoriais;
-- proteger dados e dignidade dos participantes.
+- acompanhar prestação de contas agregada;
+- participar do Comitê de Conversão;
+- validar critérios de carteiras e lotes;
+- proteger dados e dignidade.
+
+O Conselho não escolhe trabalhadores nem distribui contratos por preferência pessoal.
 
 ## 7.4 Universidade parceira
 
@@ -357,120 +373,230 @@ Atua no N1.5.
 
 Funções:
 
-- formular projeto de extensão ou pesquisa aplicada;
-- supervisionar metodologia;
-- formar estudantes e agentes territoriais;
-- produzir diagnóstico e protótipo;
-- emitir Termo de Encerramento Extensionista;
-- preservar ética e devolutiva.
+- formular diagnóstico;
+- desenhar RPME;
+- criar rubricas;
+- definir limites de materialidade pedagógica;
+- orientar segurança e evidência;
+- auditar amostras;
+- produzir devolutiva.
 
-Não deve ser financiadora estrutural nem gestora da Rede.
+A universidade não fiscaliza rotina nem aprova pagamento de serviço.
 
 ## 7.5 Central de Garantia e Serviços Compartilhados
 
-Infraestrutura técnica da Rede.
+Infraestrutura técnica da Rede. No piloto enxuto, opera como função técnica da governança integrada.
 
-Funções:
+Funções permitidas:
 
-- apoiar formalização;
-- verificar CNPJ, nota e conta;
-- organizar contratos-modelo;
-- administrar conformidade;
-- apoiar reserva fiscal;
-- manter catálogo de UPAs;
-- registrar indicadores;
-- orientar baixa preventiva.
+- apoio fiscal e contábil;
+- modelos de contrato;
+- checklists visuais;
+- orientação de NFS-e;
+- validação documental;
+- registro de evidências;
+- controle de limites por modalidade;
+- orientação de baixa preventiva;
+- catálogo informativo de UPAs.
 
-Não pode dirigir o trabalho.
+Funções proibidas:
+
+- escolher quem trabalha;
+- controlar jornada;
+- comandar método diário;
+- distribuir tarefas;
+- impor cliente;
+- impor preço;
+- escrever proposta competitiva da UPA que ela mesma julgará;
+- usar status documental para punir recusa comercial;
+- operar como patrão oculto.
 
 ## 7.6 UPA — Unidade Produtiva de Ascensão
 
-Unidade econômica formalizada que executa serviços reais.
+Unidade formalizada apta a vender, demonstrar ou executar entregas compatíveis com sua forma jurídica.
 
 Pode ser:
 
 - MEI individual;
-- rede de MEIs com contratos individualizados;
 - microempresa;
 - SLU/LTDA simples;
 - cooperativa de trabalho autêntica;
-- empresa contratada no módulo v3.1.
+- empresa contratada;
+- módulo estruturado com trabalhadores formais.
 
-## 7.7 Empresa ou fundação financiadora
+## 7.7 Fundo Privado/OSC gestora
 
-Pode financiar Fundo Privado de Compra-Ponte, vouchers, ferramentas, formação, Central ou contratos de impacto.
+Financia transições produtivas e pode contratar serviços dentro de modalidades específicas.
 
-Não pode escolher beneficiários individuais, impor exclusividade, usar UPA como mão de obra barata ou capturar governança.
+Papéis possíveis:
+
+- financiar oficinas demonstrativas;
+- financiar vouchers comerciais;
+- contratar ETRL;
+- apoiar seguro, EPI e ferramentas;
+- financiar contrato estruturado ou cliente âncora;
+- apoiar baixa preventiva e transição para emprego.
 
 ## 7.8 Estado
 
-Ator de proteção, autorização, fiscalização e contratação formal quando cabível. Não deve operar caixa flexível de Compra-Ponte sem desenho jurídico específico.
+Ator de proteção, autorização, fiscalização e contratação formal quando cabível. Não deve usar a Rede para substituir contratação pública regular, zeladoria ou emprego.
 
 ---
 
-# 8. Núcleo Local, Conselho Local e governança comunitária
+# 8. Modo Piloto Enxuto e Comitê de Governança Integrada do Piloto
 
-## 8.1 Função territorial
+## 8.1 Finalidade
 
-A Rede só faz sentido se nasce de necessidades reais do território. O Núcleo Local deve escutar moradores, mapear problemas e registrar demandas sem transformar a comunidade em objeto passivo.
+O Modo Piloto Enxuto evita que um piloto de 10 a 16 participantes crie uma estrutura administrativa incompatível com seu tamanho. Para essa escala, Núcleo Local, Conselho Local, Central de Garantia, Comitê do Dia 75 e Câmara de Verificação podem ser unificados em uma única instância temporária: o **Comitê de Governança Integrada do Piloto — CGI-P**.
 
-## 8.2 Limites
+A unificação não elimina critérios públicos, atas decisórias, impedimento por conflito de interesse, proteção de dados, controle financeiro, separação mínima de funções e vedação de comando de trabalho.
 
-O Núcleo Local não deve:
+## 8.2 Validade
 
-- pagar pessoas por serviço;
+O CGI-P é permitido apenas em piloto de escala reduzida:
+
+- até 16 participantes;
+- até 3 UPAs;
+- até 1 território;
+- até 2 oficinas demonstrativas no primeiro ciclo;
+- até 2 compras comerciais reais no primeiro ciclo;
+- até 1 ETRL, se indispensável e segura.
+
+Ao escalar, as funções devem ser separadas progressivamente.
+
+## 8.3 Composição
+
+Composição mínima:
+
+1. coordenação da OSC/Rede;
+2. representante territorial ou comunitário;
+3. representante acadêmico ou pedagógico;
+4. responsável de conformidade ou parecerista técnico;
+5. representante dos participantes, egresso ou observador da base.
+
+O Fundo Privado pode participar como observador financeiro, sem voto em seleção de participante, UPA, beneficiário, microterritório ou contratação.
+
+## 8.4 Papel da conformidade
+
+A conformidade emite parecer técnico. Não possui veto absoluto geral.
+
+Pareceres possíveis:
+
+- apto;
+- apto com ressalva;
+- inapto;
+- exige parecer externo.
+
+Se o parecer for “inapto”, o CGI-P só poderá prosseguir por decisão justificada, com assinatura de responsabilidade da coordenação da OSC e registro do risco assumido.
+
+## 8.5 Decisões ordinárias e sensíveis
+
+Decisões ordinárias podem ser aprovadas por maioria simples, desde que haja no mínimo três membros presentes, registro dos votos e registro de impedimentos.
+
+Decisões sensíveis exigem quórum qualificado ou parecer específico:
+
+- abertura de CNPJ;
+- baixa preventiva;
+- aprovação de ETRL;
+- contratação repetida da mesma UPA;
+- atuação em zona de risco;
+- contrato estruturado;
+- uso de recurso do Fundo;
+- autorização de pagamento com ressalva relevante;
+- classificação Vermelho-C por contingência fiscal.
+
+## 8.6 Regra de impedimento
+
+Quem propõe não aprova sozinho. Quem executa não audita sozinho. Quem financia não escolhe sozinho. Quem é beneficiado não vota no próprio caso. Conflito de interesse deve ser registrado em ata.
+
+## 8.7 Documentos-mãe do piloto
+
+O piloto opera com seis documentos-base:
+
+1. Ata Decisória do CGI-P.
+2. Ficha Integrada Participante/UPA.
+3. Checklist de Modalidade.
+4. Dossiê de Evidência.
+5. Contrato ou Termo curto por modalidade.
+6. Registro Financeiro Simplificado.
+
+---
+
+# 9. Núcleo Local, Conselho Local e governança comunitária escalável
+
+## 9.1 Função territorial
+
+A Rede nasce de necessidades reais. O Núcleo Local escuta moradores, identifica problemas e registra demandas sem transformar a comunidade em plateia passiva.
+
+## 9.2 Limites
+
+O Núcleo, o Conselho ou o CGI-P não podem:
+
+- pagar pessoas informalmente;
 - distribuir trabalho;
-- controlar jornada;
-- escolher escala de execução;
-- guardar dinheiro vivo em zonas vulneráveis;
-- operar como empregador informal.
+- controlar escala;
+- escolher UPA por favoritismo;
+- guardar dinheiro vivo;
+- operar fundo local sem governança;
+- expor lista de beneficiários em zona de risco;
+- pressionar voluntários ou participantes.
 
-## 8.3 Decisões registradas
+## 9.3 Decisões registradas
 
 Devem ser registradas:
 
-- seleção de participantes;
+- critérios de seleção;
 - priorização de necessidades;
-- abertura de ciclo acadêmico;
-- entrada em formalização;
-- habilitação de UPA;
-- distribuição de vouchers;
-- conflitos de interesse;
-- denúncias;
-- encaminhamentos ao Estado.
+- abertura de ciclo;
+- decisão de conversão;
+- modalidade de N1.75 escolhida;
+- formalização ou não formalização;
+- conflito de interesse;
+- denúncia;
+- migração para contrato estruturado;
+- baixa preventiva.
 
-## 8.4 Comunidade e universidade
+## 9.4 Comunidade e universidade
 
-A comunidade não veta método científico. A universidade não usa a comunidade como campo extrativo.
-
-Regra:
-
-> **A universidade define método acadêmico; a comunidade define legitimidade territorial, consentimento, prioridade social e direito de devolutiva.**
+A universidade define método acadêmico. A comunidade define legitimidade territorial, consentimento, prioridades sociais e direito de devolutiva. Nenhuma das duas comanda trabalho remunerado informal.
 
 ---
 
-# 9. Banco de Necessidades e Banco de Talentos
+# 10. Banco de Necessidades e Banco de Talentos
 
-## 9.1 Banco de Necessidades
+## 10.1 Banco de Necessidades
 
 Registra problemas e oportunidades do território.
 
 Campos mínimos:
 
 - descrição;
-- local;
-- solicitante;
+- local ou microterritório;
+- solicitante ou fonte;
 - categoria;
 - urgência;
 - risco técnico;
 - exige autorização pública;
 - potencial formativo;
-- potencial acadêmico;
-- potencial de virar UPA;
-- potencial de Compra-Ponte;
+- potencial de oficina demonstrativa;
+- potencial de compra comercial;
+- potencial de ETRL;
+- potencial de contrato estruturado;
+- risco de captura;
 - status.
 
-## 9.2 Banco de Talentos
+Classificação obrigatória:
+
+| Tipo de demanda | Regime provável |
+|---|---|
+| formativa | N1/N1.5 |
+| demonstrativa | N1.75-A |
+| comercial individual | N1.75-B |
+| territorial coletiva | N1.75-C |
+| recorrente ou escalável | N1.75-D/N3 |
+| alto risco ou inviável | não executar no piloto |
+
+## 10.2 Banco de Talentos
 
 Registra pessoas, habilidades, barreiras e trajetória.
 
@@ -483,42 +609,36 @@ Campos mínimos:
 - experiências anteriores;
 - barreiras sociais;
 - disponibilidade;
-- necessidade de renda imediata;
 - prontidão formativa;
-- prontidão para extensão;
 - prontidão para formalização;
+- compatibilidade com oficina;
+- capacidade de emitir NFS-e;
+- CNAE/ocupação;
+- risco de MEI inadequado;
+- plano de baixa preventiva;
 - Passaporte;
 - encaminhamentos.
 
-## 9.3 Pareamento
+## 10.3 Pareamento
 
-O pareamento deve considerar:
-
-- segurança;
-- interesse;
-- capacidade mínima;
-- risco de exposição;
-- utilidade territorial;
-- potencial de aprendizagem;
-- potencial de formalização;
-- existência de demanda real.
+O pareamento deve considerar segurança, interesse, competência, risco, utilidade territorial, potencial de aprendizagem, potencial comercial e forma jurídica adequada.
 
 ---
 
-# 10. Regimes de participação e fronteiras jurídicas
+# 11. Regimes de participação e fronteiras jurídicas
 
-Esta seção não substitui parecer jurídico, trabalhista, contábil ou administrativo. Ela define fronteiras operacionais de segurança.
+Esta seção não substitui parecer jurídico, trabalhista, tributário, contábil, previdenciário ou administrativo local.
 
-## 10.1 Formação sem produção econômica
+## 11.1 Formação sem produção econômica
 
-Inclui oficinas, simulações, laboratório, portfólio, treinamento de segurança e preparação.
+Inclui oficinas, simulações, treinamento, portfólio e laboratório.
 
 Pode ter:
 
 - presença;
 - disciplina pedagógica;
 - orientação técnica;
-- avaliação de aprendizagem;
+- avaliação;
 - bolsa-formação, quando houver fonte adequada.
 
 Não pode ter:
@@ -526,561 +646,930 @@ Não pode ter:
 - entrega econômica a terceiro;
 - substituição de trabalhador;
 - produção vendável;
-- prestação a empresa, comércio, prefeitura, igreja ou associação;
+- prestação a empresa, prefeitura, associação ou morador;
 - meta operacional de serviço.
 
-## 10.2 Direção pedagógica vs. subordinação produtiva
+## 11.2 Direção pedagógica vs. subordinação produtiva
 
-**Direção pedagógica** é permitida: instrutor orienta, corrige, exige segurança, registra presença e avalia aprendizagem.
+Direção pedagógica orienta aprendizagem. Subordinação produtiva dirige trabalho. Quando houver jornada, ordem operacional, meta, cliente, entrega e benefício econômico de terceiro, a atividade deve migrar para regime adequado.
 
-**Subordinação produtiva** bloqueia bolsa e exige formalização: ordens operacionais, jornada produtiva, meta, punição, cliente, entrega real e benefício econômico de terceiro.
+## 11.3 Extensão acadêmica
 
-## 10.3 Extensão acadêmica
+Inclui diagnóstico, pesquisa aplicada, protótipo, educação pública e evidência. Não pode virar zeladoria, manutenção recorrente ou serviço gratuito a terceiros.
 
-Inclui diagnóstico, pesquisa aplicada, prototipagem, educação pública, intervenção demonstrativa e produção de conhecimento.
+## 11.4 Voluntariado real
 
-Não pode virar zeladoria, manutenção recorrente ou prestação de serviço público/privado.
+Somente com adesão livre, termo próprio, ausência de salário, possibilidade de desistência e não substituição de trabalhador regular.
 
-## 10.4 Voluntariado real
+## 11.5 Serviço real remunerado
 
-Somente quando houver:
+Somente com CNPJ regular, contrato, nota fiscal, conta própria, atividade compatível, reserva tributária e ausência de subordinação pessoal pela Rede.
 
-- adesão livre;
-- ausência de salário;
-- termo de voluntariado;
-- possibilidade de desistência;
-- ressarcimento apenas de despesas comprovadas quando cabível;
-- não substituição de trabalhador regular.
+## 11.6 Oficina demonstrativa não substitutiva
 
-## 10.5 Serviço real remunerado
+Oficina demonstrativa exige turma real, roteiro pedagógico, prática dos alunos, evidência e limite material. Não pode substituir manutenção, obra, limpeza, jardinagem ou serviço ordinário de terceiro.
 
-Somente com:
+## 11.7 Empreitada territorial limitada
 
-- CNPJ regular;
-- contrato;
-- nota fiscal;
-- conta própria;
-- atividade compatível;
-- reserva tributária;
-- ausência de subordinação pessoal pela Rede.
+ETRL é contrato por resultado, pontual, delimitado e não recorrente. Não pode virar manutenção contínua, escala permanente, equipe informal ou contratação repetida dos mesmos CNPJs como motor da OSC.
 
-## 10.6 Trabalho subordinado
+## 11.8 Trabalho subordinado
 
-Quando houver jornada, comando, habitualidade, pessoalidade, subordinação e remuneração, deve haver regime adequado: CLT, aprendizagem, empresa contratada, cooperativa autêntica quando cabível ou módulo v3.1.
+Quando houver jornada, comando, habitualidade, pessoalidade, subordinação e remuneração, deve haver CLT, aprendizagem, empresa contratada, cooperativa autêntica quando cabível ou outro módulo formal.
 
-## 10.7 Proibição de RPA na Compra-Ponte
+## 11.9 Proibição de RPA e grupo pré-formal
 
-A camada N1.75 não paga CPF por serviço produtivo. Não há grupo pré-formal, recibo simples, RPA coletivo ou repasse por liderança.
+A Rede não paga CPF por serviço produtivo real na camada de transição. Não há RPA coletivo, recibo simples, grupo pré-formal vendendo serviço ou repasse por liderança.
+
+## 11.10 Proibição de mistura operacional de voluntários e UPA paga
+
+Voluntários não podem executar a mesma tarefa física atribuída à UPA remunerada no mesmo escopo e tempo. A participação comunitária deve ocorrer em diagnóstico, autorização, devolutiva, preservação ou mutirão separado com termo próprio.
 
 ---
 
-# 11. Missões por categoria
+# 12. Missões por categoria
 
-## 11.1 Missões Formativas
+## 12.1 Missões Formativas
 
 Objetivo: aprendizagem, simulação, segurança e portfólio.
 
 Exemplos:
 
-- pintura em painéis de treino;
-- canteiro-escola;
-- simulação de atendimento;
 - orçamento fictício;
-- fotografia de portfólio;
-- oficina de ferramentas.
+- treino em painel;
+- simulação de atendimento;
+- canteiro-escola sem entrega a terceiro;
+- oficina de ferramentas;
+- prática de checklist de segurança;
+- prática de pré-RVO visual.
 
-## 11.2 Missões Acadêmicas
+## 12.2 Missões Acadêmicas
 
-Objetivo: diagnóstico, pesquisa aplicada, protótipo e extensão territorial.
+Objetivo: diagnóstico, pesquisa aplicada, protótipo e método.
 
 Exemplos:
 
-- mapa de praça degradada;
-- levantamento de acessibilidade;
+- mapa de necessidades;
 - diagnóstico de descarte irregular;
-- horta-piloto;
-- mural educativo autorizado;
-- oficina de cidadania digital;
-- relatório de conversão econômica.
+- levantamento de acessibilidade;
+- protótipo demonstrativo limitado;
+- relatório de conversão econômica;
+- desenho de RPME.
 
-## 11.3 Missões de Compra-Ponte
+## 12.3 Missões Demonstrativas
 
-Objetivo: primeiras receitas formais de UPAs já formalizadas.
+Objetivo: oficina prática real, com turma N1, roteiro, prática individual e portfólio.
 
 Exemplos:
 
-- jardinagem leve com contrato e nota;
-- pintura simples autorizada;
-- digitalização comunitária;
-- organização de espaço comunitário;
-- pequenos reparos não estruturais.
+- oficina de jardinagem leve em canteiro demonstrativo;
+- oficina de pintura simples em painel ou trecho limitado;
+- oficina de digitalização comunitária;
+- oficina de organização de espaço com limite pedagógico.
 
-Financiamento: Fundo Privado de Compra-Ponte, com voucher de comprador.
+## 12.4 Missões Comerciais Assistidas
 
-## 11.4 Missões Contratuais
+Objetivo: teste de cliente real, proposta, preço cheio e voucher limitado.
 
-Objetivo: execução recorrente ou de escala.
+Exemplos:
+
+- pequeno serviço contratado por morador ou comércio;
+- orçamento real com coparticipação;
+- compra com teto subvencionável;
+- emissão fiscal adequada.
+
+## 12.5 Empreitadas Territoriais Limitadas
+
+Objetivo: entrega coletiva delimitada em área comum, com contrato, NFS-e contra OSC/Fundo e resultado verificável.
+
+Exemplos:
+
+- organização de área comum;
+- jardinagem leve em espaço coletivo;
+- pintura simples autorizada de trecho comunitário;
+- intervenção pontual em ponto de descarte, sem manutenção recorrente.
+
+## 12.6 Missões Estruturadas
+
+Objetivo: execução de escala, recorrência, equipe ou contrato maior.
 
 Regime:
 
-- contrato empresarial;
-- cooperativa madura;
-- microempresa;
+- empresa;
+- cooperativa autêntica;
 - CLT;
 - aprendizagem;
-- módulo v3.1.
+- contrato público/privado formal;
+- módulo estruturado.
 
-## 11.5 Missões Voluntárias
+## 12.7 Missões Voluntárias
 
-Pontuais, não remuneradas, com termo e sem substituição de trabalho regular.
+Pontuais, não remuneradas, com termo próprio e sem mistura operacional com UPA paga.
 
 ---
 
-# 12. Ponte Acadêmica de Extensão Territorial — N1.5
+# 13. Ponte Acadêmica de Extensão Territorial — N1.5
 
-A Ponte Acadêmica de Extensão Territorial é uma camada temporária de pesquisa aplicada, extensão, diagnóstico, prototipagem e formação territorial.
+A Ponte Acadêmica é uma camada temporária de pesquisa aplicada, diagnóstico, prototipagem, metodologia e evidência.
 
-## 12.1 Finalidade
+## 13.1 Finalidade
 
 - transformar problemas do território em perguntas aplicadas;
 - produzir diagnóstico;
-- testar protótipos leves;
-- formar participantes;
-- criar evidência para o Passaporte;
-- decidir se há rota para UPA, emprego, contrato formal ou encerramento.
+- testar protótipos limitados;
+- criar matriz de competências;
+- desenhar RPME;
+- definir rubricas;
+- orientar segurança;
+- gerar evidência para o Passaporte;
+- decidir rotas de saída.
 
-## 12.2 Produtos obrigatórios
+## 13.2 Produtos obrigatórios
 
 1. Diagnóstico territorial.
-2. Protótipo demonstrativo.
-3. Relatório de conversão econômica.
-4. Passaporte individual atualizado.
+2. Protótipo demonstrativo limitado.
+3. Relatório de conversão produtiva.
+4. Matriz de competências.
+5. RPME por trilha.
+6. Rubrica de avaliação.
+7. Limites de materialidade.
+8. Passaporte atualizado.
 
-## 12.3 Limites
+## 13.3 Limites
 
-A extensão não pode:
+A universidade não pode:
 
 - pagar serviço disfarçado;
 - assumir manutenção recorrente;
 - substituir zeladoria pública;
-- prestar serviço gratuito para empresa;
-- manter bolsista indefinidamente;
-- usar vulnerabilidade como objeto extrativo.
+- usar bolsista como trabalhador produtivo;
+- manter extensão operacional eterna;
+- aprovar pagamento de serviço cotidiano;
+- transformar vulnerabilidade em objeto extrativo.
 
-## 12.4 Duração
+## 13.4 Duração
 
-- ciclo padrão: 90 dias;
-- ciclo ampliado: 120 dias;
-- teto absoluto: 180 dias por participante na mesma trilha.
-
-## 12.5 Bolsas e auxílios
-
-Bolsas e auxílios dependem do edital, instrumento jurídico e política da instituição. A Rede não deve presumir que todo participante comunitário pode receber bolsa universitária. Quando houver auxílio a agente territorial, ele deve estar vinculado a plano de trabalho, supervisão e produto acadêmico-comunitário.
+Ciclo padrão: 90 dias.  
+Ciclo ampliado: 120 dias.  
+Teto absoluto: 180 dias por participante na mesma trilha, salvo justificativa técnica e parecer institucional.
 
 ---
 
-# 13. Contrato de Saída Acadêmica, Dia 75 e Encerramento Extensionista
+# 14. Contrato de Saída Acadêmica, Dia 75 e Encerramento Extensionista
 
-## 13.1 Contrato de Saída Acadêmica
+## 14.1 Contrato de Saída Acadêmica
 
-Todo ciclo N1.5 deve nascer com um Contrato de Saída Acadêmica contendo:
+Todo ciclo N1.5 deve nascer com contrato de saída contendo:
 
 - duração;
 - produtos esperados;
 - limites da intervenção;
 - gatilhos de encerramento;
-- critérios de conversão para UPA;
+- critérios de conversão;
 - rotas alternativas;
 - vedação de extensão indefinida;
 - regra contra substituição de serviço público ou privado.
 
-## 13.2 Comitê do Dia 75
+## 14.2 Conversão do Dia 75
 
-No Dia 75 de um ciclo padrão de 90 dias, ocorre o Comitê de Conversão.
+No Dia 75 de um ciclo padrão de 90 dias, ocorre decisão de conversão pelo CGI-P ou por instância equivalente.
 
-Composição recomendada:
+Decisões possíveis:
 
-- universidade;
-- Rede/OSC;
-- Conselho Local;
-- Central de Garantia;
-- representante de participantes ou egressos;
-- técnico externo quando necessário.
-
-Rotas possíveis:
-
-- Formalização Assistida;
-- Compra-Ponte;
+- N1.75-A — Oficina Demonstrativa;
+- N1.75-B — Compra-Ponte Comercial;
+- N1.75-C — ETRL;
+- N1.75-D — Contrato Estruturado;
 - emprego assistido;
 - aprendizagem;
-- contrato formal/v3.1;
 - nova trilha;
 - proteção social;
+- baixa preventiva;
 - encerramento da linha.
 
-## 13.3 Termo de Encerramento Extensionista
+## 14.3 Termo de Encerramento Extensionista
 
 Ao final do ciclo, a universidade emite termo declarando:
 
 - objetivo inicial;
 - atividades realizadas;
 - produtos acadêmicos;
-- produtos comunitários;
 - competências registradas;
-- atividades que não podem continuar como extensão;
+- limites de continuidade;
 - recomendação de saída;
-- riscos jurídicos de continuidade informal.
+- riscos de continuidade informal.
 
-## 13.4 Gatilho de repetição
+## 14.4 Gatilho de repetição
 
-> **O que se repete vira serviço. O que vira serviço sai da extensão.**
+> O que se repete vira serviço. O que vira serviço sai da extensão. O que exige escala entra em contrato formal.
 
 ---
 
-# 14. Formalização Assistida — N1.6
+# 15. Formalização Assistida — N1.6
 
-A Formalização Assistida prepara a unidade econômica antes de qualquer venda real.
+A Formalização Assistida prepara a unidade econômica antes de qualquer venda real, oficina remunerada, compra comercial ou empreitada.
 
-## 14.1 Funções
+## 15.1 Funções
 
 - verificar demanda provável;
 - escolher forma jurídica;
-- abrir CNPJ apenas quando cabível;
-- verificar CNAE ou ocupação compatível;
+- evitar MEI precoce;
+- verificar CNAE/ocupação;
 - abrir conta;
-- preparar nota fiscal;
+- preparar NFS-e;
 - criar reserva tributária;
 - ensinar obrigações;
-- definir plano de baixa preventiva.
+- definir plano de baixa preventiva;
+- avaliar seguro/EPI quando exigível.
 
-## 14.2 Proibição de fábrica de MEIs
+## 15.2 Proibição de fábrica de MEIs
 
-> **A Rede não abre MEI em massa. O CNPJ só é criado quando houver demanda real, capacidade mínima de gestão, reserva para tributos e plano de baixa.**
+A Rede não abre MEI em massa. CNPJ só é criado quando houver demanda real, capacidade mínima, reserva fiscal, forma jurídica compatível e plano de baixa.
 
-## 14.3 Critérios para abrir CNPJ
+## 15.3 Não abrir MEI apenas para oficina
+
+Oficina demonstrativa pode ser porta de evidência, mas não justifica abrir CNPJ sem plano comercial ou rota posterior. Se a receita prevista vier apenas da OSC, deve haver parecer contábil e plano de transição.
+
+## 15.4 Critérios para abrir CNPJ
 
 | Critério | Exigência |
 |---|---|
-| Demanda provável | cliente potencial, voucher previsto ou carta de intenção |
-| Reserva fiscal | valor mínimo para obrigações iniciais |
-| Capacidade mínima | compreensão básica de nota, preço e obrigação |
+| Demanda provável | cliente, carteira, oficina compatível ou lote possível |
 | Atividade compatível | CNAE/ocupação aderente |
-| Conta | conta própria, de MEI ou PJ |
-| Suporte | mandato fiscal limitado com a Central |
-| Plano de baixa | regra de encerramento se não houver receita |
+| Nota fiscal | capacidade de emissão |
+| Reserva fiscal | valor mínimo para obrigações |
+| Conta | conta própria ou PJ |
+| Forma jurídica | adequada ao escopo |
+| Suporte | mandato fiscal limitado |
+| Baixa preventiva | regra de encerramento se não houver receita |
 
-## 14.4 Protocolo de baixa preventiva
+## 15.5 Protocolo de baixa preventiva
 
-CNPJ sem receita, sem reserva e sem perspectiva de contrato deve ser baixado ou suspenso conforme orientação técnica. Formalização inútil é risco social.
+CNPJ sem receita, sem reserva, sem perspectiva e com risco de inadimplência deve ser baixado, suspenso ou redirecionado conforme orientação técnica.
+
+## 15.6 Preparação obrigatória para NFS-e
+
+Antes de qualquer missão remunerada, a UPA deve estar preparada para emitir nota:
+
+- cadastro no sistema municipal ou nacional testado;
+- login validado;
+- atividade compatível;
+- texto-padrão de descrição fiscal aprovado;
+- serviço favorito ou equivalente cadastrado, quando possível;
+- simulação de emissão realizada, quando cabível;
+- plano de contingência fiscal conhecido.
 
 ---
 
-# 15. Unidades Produtivas de Ascensão — UPAs
+# 16. Unidades Produtivas de Ascensão — UPAs
 
-## 15.1 Definição
+## 16.1 Definição
 
-UPA é unidade econômica formalizada, composta por participantes egressos da formação e da extensão, apta a vender serviços reais com contrato, nota fiscal, conta própria e autonomia operacional.
+UPA é unidade econômica formalizada, composta por participante ou grupo egresso, apta a demonstrar, vender ou executar serviços reais com contrato, nota fiscal, conta própria e autonomia operacional.
 
-## 15.2 Formas possíveis
+## 16.2 Formas possíveis
 
 ### MEI individual
 
-Adequado para serviço individual simples.
-
-### Rede de MEIs
-
-Adequada quando o serviço é divisível em subescopos. Cada MEI emite sua própria nota e recebe por sua própria entrega. Não existe MEI coletivo.
+Adequado para serviço individual simples, oficina pontual compatível ou microescopo unipessoal.
 
 ### Microempresa, SLU ou LTDA simples
 
-Adequada quando há coordenação empresarial, equipe, contratos em bloco e possibilidade de contratação formal futura.
+Adequada para contrato em bloco, coordenação de equipe, ETRL, escala moderada e responsabilidade empresarial.
 
 ### Cooperativa de trabalho autêntica
 
-Adequada apenas quando houver escala, pelo menos 7 sócios, autogestão real, assembleia, pluralidade de clientes e ausência de patrão oculto.
+Adequada apenas quando houver autogestão real, pluralidade de clientes, assembleia, ausência de patrão oculto e atendimento à legislação própria.
 
-### Módulo v3.1
+### Contrato estruturado
 
-Adequado quando houver jornada, subordinação, posto fixo, contrato contínuo e necessidade de formalização trabalhista por empresa executora.
+Adequado quando houver jornada, subordinação, posto fixo, contrato contínuo, equipe dirigida ou manutenção recorrente.
 
-## 15.3 Habilitação da UPA
+## 16.3 Rede de MEIs
 
-A UPA só entra na Compra-Ponte se tiver:
+Rede de MEIs só é admissível quando cada MEI tem subescopo independente, preço próprio, nota própria, autonomia e ausência de coordenação central. Não existe MEI coletivo.
+
+Se houver contrato único, equipe integrada, divisão interna de tarefas, comando operacional ou entrega coletiva recorrente, a forma correta é microempresa, cooperativa autêntica, CLT ou contrato estruturado.
+
+## 16.4 Habilitação da UPA
+
+A UPA só entra em qualquer camada remunerada se tiver:
 
 - CNPJ ativo e regular;
 - atividade compatível;
 - capacidade de emitir nota;
 - conta própria;
-- contrato-modelo;
-- representante formal;
+- representante definido;
 - reserva tributária;
 - protocolo de segurança;
-- preço cheio definido;
+- preço ou proposta definida;
 - ausência de pendência crítica;
-- aceite das regras anticaptura.
+- aceite das regras anticaptura;
+- forma jurídica compatível com o escopo.
+
+## 16.5 Responsabilidade documental limitada da UPA
+
+A UPA deve conferir aspectos visuais e mecânicos de seus documentos antes de entregá-los. Essa conferência não substitui a conformidade jurídica, fiscal, trabalhista ou arquivística da Rede.
 
 ---
 
-# 16. Central de Garantia e Serviços Compartilhados
+# 17. Central de Garantia e Serviços Compartilhados
 
-A Central é infraestrutura técnica da Rede. Ela administra conformidade, não trabalho.
+A Central é infraestrutura técnica de conformidade. Ela não é patrão, marketplace controlador, agência de emprego informal ou gestora de fila de trabalho.
 
-## 16.1 Funções permitidas
+## 17.1 Funções permitidas
 
 - apoio fiscal;
 - apoio contábil;
 - modelos de contrato;
+- checklist visual;
+- textos-padrão de NFS-e;
 - orientação de nota fiscal;
 - registro de regularidade;
-- reserva tributária;
 - suporte administrativo;
-- proteção jurídica;
-- catálogo de UPAs;
-- indicadores;
-- orientação de baixa preventiva.
+- catálogo informativo;
+- registro de evidências;
+- controle de limites por modalidade;
+- orientação de baixa preventiva;
+- encaminhamento a parecer jurídico.
 
-## 16.2 Funções proibidas
+## 17.2 Funções proibidas
 
 - controlar jornada;
 - escolher quem trabalha;
 - dar ordens operacionais;
 - impor cliente;
-- impor preço final;
+- impor preço;
 - distribuir tarefas;
 - punir produtividade;
 - exigir exclusividade;
 - operar como patrão oculto;
-- concentrar pagamento de cliente para redistribuir informalmente.
+- escrever proposta competitiva da UPA;
+- julgar proposta que ela própria preparou;
+- concentrar pagamento para redistribuir informalmente.
 
-## 16.3 Mandato fiscal limitado
+## 17.3 Status de Regularidade da UPA
 
-A Central pode atuar por mandato fiscal limitado para gerar alertas, orientar pagamentos, arquivar comprovantes e organizar declarações. O mandato não autoriza comando de trabalho.
+O status mede conformidade fiscal, documental, contratual e de segurança. Não mede produtividade. Não pode punir recusa de cliente, ritmo de trabalho, preferência comercial ou ausência de disponibilidade.
 
-## 16.4 Status de Regularidade da UPA como conformidade, não punição laboral
+Pode limitar novas oportunidades apenas por irregularidade objetiva: CNPJ inapto, nota indisponível sem contingência, pendência fiscal crítica, ausência de reserva, risco técnico, seguro exigível ausente, contrato vencido ou descumprimento documental essencial.
 
-A Central pode classificar a regularidade fiscal, documental e contratual da UPA para acesso ao catálogo. Essa classificação deve ser chamada de **Status de Regularidade da UPA**, não de punição, bloqueio disciplinar ou avaliação de produtividade.
+## 17.4 Mandato fiscal limitado
 
-O status pode limitar novos encaminhamentos apenas quando houver irregularidade objetiva da unidade econômica: CNPJ inapto, nota indisponível, pendência fiscal crítica, ausência de reserva tributária, contrato vencido, risco técnico ou descumprimento documental. Ele não pode ser usado para controlar jornada, impor ritmo de trabalho, punir recusa de cliente, exigir exclusividade ou pressionar produtividade.
-
----
-
-# 17. Compra-Ponte Privada de Impacto Local — N1.75
-
-## 17.1 Definição
-
-A Compra-Ponte Privada é a compra temporária de serviços comunitários feita exclusivamente de UPAs formalizadas, financiada por capital privado flexível, com preço cheio, voucher de impacto, prazo limitado, contrato, nota fiscal e avaliação.
-
-## 17.2 Regras absolutas
-
-- não paga CPF;
-- não usa RPA;
-- não contrata grupo informal;
-- não admite UPA pré-formal;
-- não usa recibo simples;
-- não distribui dinheiro por liderança;
-- não usa verba pública carimbada para rampa comercial flexível;
-- não substitui contrato público recorrente;
-- não cria cliente único permanente.
-
-## 17.3 Características
-
-- escopo fechado;
-- preço cheio;
-- voucher privado ao comprador;
-- contrato com CNPJ;
-- nota fiscal;
-- prazo;
-- aceite;
-- avaliação;
-- limite de ciclos;
-- meta de saída.
-
-## 17.4 Teto
-
-Recomendação:
-
-- máximo de 3 contratos-piloto por UPA no mesmo eixo;
-- máximo de 180 dias;
-- redução progressiva do voucher;
-- exigência de prospecção de clientes externos.
+A Central pode apoiar alertas, guias, comprovantes e organização documental. O mandato não autoriza comando de trabalho.
 
 ---
 
-# 18. Fundo Privado de Compra-Ponte e vouchers territoriais
+# 18. N1.75 — Camadas de Transição Produtiva
 
-## 18.1 Definição
+O N1.75 não é uma única solução. É um conjunto de quatro camadas que protegem a passagem entre formação, formalização e renda real.
 
-O Fundo Privado de Compra-Ponte financia vouchers de impacto para compradores contratarem UPAs formalizadas a preço cheio.
+| Camada | Quando usar | Quando não usar |
+|---|---|---|
+| N1.75-A Oficina Demonstrativa | quando há turma real e objetivo pedagógico | quando o objetivo principal é entregar serviço físico |
+| N1.75-B Compra Comercial | quando há cliente real e demanda individual | quando não há pagador ou nota fiscal clara |
+| N1.75-C ETRL | quando há demanda coletiva delimitada | quando vira manutenção recorrente ou equipe subordinada |
+| N1.75-D Contrato Estruturado | quando há rotina, escala ou equipe | quando a demanda é pontual e simples |
 
-## 18.2 Fontes permitidas
+## 18.1 Regra de escolha
 
-- empresas;
-- fundações;
-- institutos;
-- doadores civis;
-- fundos patrimoniais privados;
-- campanhas específicas;
-- compras antecipadas de impacto;
-- clube de compradores locais;
-- vouchers territoriais.
+A modalidade é escolhida pelo CGI-P ou por instância técnica equivalente, com base em:
 
-## 18.3 Governança mínima do fundo
+- natureza da demanda;
+- risco técnico;
+- forma jurídica da UPA;
+- existência de cliente real;
+- capacidade de nota;
+- risco de subordinação;
+- risco fiscal;
+- escala;
+- recorrência;
+- segurança.
 
-O Fundo Privado de Compra-Ponte deve operar com governança própria e conta segregada. Ele não deve ser tratado como caixa livre da OSC, da Central, do Conselho Local ou do financiador.
+## 18.2 Regra de descaracterização
 
-Regras mínimas:
+Qualquer camada deve ser migrada quando a realidade mudar.
 
-- conta bancária separada;
-- regulamento público;
-- critérios objetivos de elegibilidade de vouchers;
-- registro de cada voucher emitido, usado e cancelado;
-- prestação de contas por carteira de impacto;
-- declaração de conflito de interesse;
-- vedação de reembolso ao doador por resultado político, comercial ou religioso;
-- vedação de escolha nominal de beneficiários pelo financiador;
-- auditoria simples, interna ou externa, conforme escala;
-- relatório agregado sem exposição humilhante de participantes.
+- Oficina sem turma vira serviço disfarçado.
+- Compra sem cliente real vira subsídio artificial.
+- ETRL repetida vira terceirização ou manutenção.
+- MEI com equipe vira fraude potencial.
+- Voluntário misturado com UPA paga vira passivo trabalhista e civil.
 
-A governança do fundo deve proteger três coisas: flexibilidade operacional, rastreabilidade financeira e independência da comunidade contra captura por doadores.
+---
 
-## 18.4 Fontes não recomendadas para esta camada
+# 19. N1.75-A — Oficina Prática Demonstrativa Territorial
 
-- MROSC;
-- edital público carimbado;
-- verba universitária;
-- emenda parlamentar com plano rígido;
-- recurso público de formação.
+## 19.1 Definição
 
-Regra:
+Oficina Prática Demonstrativa Territorial é atividade pontual, remunerada por NFS-e compatível, ministrada por UPA ou instrutor formalizado perante Turma-Âncora N1, com roteiro pedagógico, prática dos alunos, evidência e limite de materialidade física.
 
-> **Dinheiro público financia formação e infraestrutura social. Dinheiro privado financia compra-piloto flexível.**
+## 19.2 Requisitos obrigatórios
 
-## 18.5 Voucher de comprador
+- Turma-Âncora N1 ativa;
+- quórum mínimo definido;
+- RPME aprovado;
+- roteiro de aula de página única;
+- prática individual mínima dos alunos;
+- rubrica de avaliação;
+- Dossiê Pedagógico;
+- NFS-e compatível ou PCFC ativo em caso de contingência fiscal externa;
+- CNAE/ocupação aderente;
+- limite de materialidade;
+- ausência de entrega patrimonial principal.
 
-O subsídio não reduz o preço nominal do serviço. Ele reduz o desembolso do comprador.
+## 19.3 Turma-Âncora
+
+A oficina só ocorre se houver turma real. A turma é formada previamente no N0/N1, com ficha, termo de formação, consentimento de dados, plano pedagógico e presença mínima.
+
+Sem turma, não há oficina. Com plateia passiva, não há oficina. Com melhoria física como objeto principal, não há oficina.
+
+## 19.4 Limite de materialidade
+
+A oficina ensina competência. Não entrega patrimônio completo.
+
+Permitido:
+
+- canteiro demonstrativo;
+- painel de treino;
+- trecho pequeno delimitado;
+- organização parcial com objetivo pedagógico;
+- digitalização de amostra com roteiro.
+
+Proibido:
+
+- reformar prédio inteiro;
+- recuperar praça inteira em módulos sucessivos;
+- substituir manutenção de associação, comércio, escola ou prefeitura;
+- executar serviço após dispersão da turma;
+- ampliar escopo a pedido do espaço hospedeiro.
+
+## 19.5 Teto de oficinas por UPA
+
+Cada UPA só pode realizar número limitado de oficinas por ciclo. Repetição frequente do mesmo instrutor exige reavaliação jurídica e migração para contrato formal de docência, compra comercial, ETRL ou outra rota.
+
+## 19.6 Dossiê Pedagógico
+
+Deve conter:
+
+- check-in dos participantes;
+- roteiro executado;
+- fotos ou evidência equivalente;
+- prática individual mínima;
+- rubrica;
+- avaliação simples;
+- declaração do monitor;
+- NFS-e ou TIF quando houver contingência fiscal externa;
+- RVO.
+
+---
+
+# 20. Roteiro Pedagógico Modular Estrito — RPME
+
+## 20.1 Definição
+
+RPME é o currículo modular fechado que permite alternância de instrutores sem destruir a continuidade pedagógica. O método fica fixo; o instrutor é episódico.
+
+## 20.2 Componentes
+
+1. Matriz de competências.
+2. Caderno de módulos canônicos.
+3. Roteiro de aula de página única.
+4. Rubrica de avaliação 0–4.
+5. Limites de materialidade.
+6. Evidência obrigatória.
+7. Critério de segurança.
+8. Critério de descaracterização.
+9. Pré-RVO visual, quando houver documento de campo.
+
+## 20.3 Rubrica 0–4
+
+| Nível | Descrição |
+|---|---|
+| 0 | não executou |
+| 1 | observou |
+| 2 | executou com ajuda |
+| 3 | executou com segurança |
+| 4 | executou e explicou para outro |
+
+## 20.4 Contratação por módulo autônomo
+
+O instrutor formalizado é contratado por módulo específico, entrega pedagógica determinada e nota fiscal correspondente. Não há grade fixa individual, exclusividade, pessoalidade obrigatória, jornada continuada ou integração permanente à equipe da OSC.
+
+## 20.5 Continuidade por currículo
+
+A turma progride pelo roteiro modular e pelo Passaporte, não pela permanência do mesmo instrutor.
+
+---
+
+# 21. Laboratório de Ofertabilidade e Pré-RVO da UPA
+
+## 21.1 Finalidade
+
+O Laboratório de Ofertabilidade prepara a UPA para propor, precificar, negociar, emitir documentos corretos e evitar retrabalho. Ele não transforma a UPA em auditora jurídica.
+
+A Pré-RVO da UPA é uma conferência visual e mecânica de documentos antes da entrega ao monitor. A responsabilidade jurídica final permanece com a Secretaria Técnica, a conformidade e o CGI-P.
+
+## 21.2 Módulo “Documento que paga”
+
+O módulo ensina que documento defeituoso pode atrasar pagamento, bloquear voucher, inviabilizar nota ou gerar retrabalho.
+
+Competências:
+
+- conferir se há assinatura;
+- conferir se todas as páginas aparecem;
+- verificar se a foto está legível;
+- conferir se nome, data e valor estão visíveis;
+- conferir se a nota foi emitida ou se há TIF;
+- identificar se o documento está cortado;
+- chamar o monitor quando algo sair do modelo-padrão.
+
+A UPA não deve validar:
+
+- legalidade do escopo;
+- risco trabalhista;
+- enquadramento tributário;
+- interpretação contratual;
+- conformidade arquivística;
+- autorização pública;
+- adequação final da NFS-e.
+
+## 21.3 Método “encontre os 7 erros”
+
+A formação deve usar exemplos simulados:
+
+- contrato sem assinatura;
+- página faltando;
+- foto tremida;
+- nota com valor diferente;
+- documento cortado;
+- assinatura no lugar errado;
+- NFS-e com descrição livre não padronizada;
+- termo fora do modelo-padrão.
+
+O objetivo é percepção visual rápida, não raciocínio jurídico.
+
+## 21.4 Checklist de bolso da UPA
+
+1. O documento tem código?
+2. Tem data?
+3. Tem nome correto das partes?
+4. Tem valor correto visível?
+5. Todas as páginas estão presentes?
+6. Assinaram no lugar certo?
+7. A foto mostra a página inteira?
+8. A NFS-e foi emitida ou há TIF?
+9. O documento está no modelo-padrão?
+10. Apareceu texto estranho ou fora do modelo? Chamar o monitor.
+
+## 21.5 Sem edição livre de texto fiscal
+
+A UPA não deve escrever livremente a descrição da NFS-e em missões da Rede. Deve usar texto-padrão por modalidade, validado previamente.
+
+## 21.6 Índice de rejeição documental
+
+Cada UPA pode acompanhar:
+
+- documentos entregues;
+- aprovados de primeira;
+- aprovados com ressalva;
+- rejeitados;
+- Vermelho-C por contingência fiscal;
+- motivo da rejeição;
+- tempo de correção.
+
+Reincidência gera reforço formativo, não punição automática.
+
+---
+
+# 22. N1.75-B — Compra-Ponte Comercial com Cliente Real
+
+## 22.1 Definição
+
+Compra-Ponte Comercial é a contratação de UPA formalizada por cliente real, com preço cheio, proposta, contrato, nota fiscal adequada e, quando houver, voucher limitado e transparente.
+
+## 22.2 Princípios
+
+- o cliente é real;
+- a UPA define preço;
+- o Fundo limita apenas o subsídio;
+- a nota fiscal deve refletir o tomador correto;
+- a Central não escolhe UPA;
+- a recusa comercial não é punição;
+- a dependência de voucher deve cair.
+
+## 22.3 Teto subvencionável
+
+O voucher não cobre qualquer preço. O Fundo define teto subvencionável por categoria, escopo, território e orçamento disponível. A UPA pode cobrar acima; o cliente paga a diferença.
+
+## 22.4 Exposição comercial assistida
+
+A Rede pode fornecer:
+
+- modelo de proposta;
+- calculadora de preço;
+- roteiro de abordagem;
+- simulação de negociação;
+- checklist de nota;
+- modelo de contrato simples;
+- orientação de reserva fiscal.
+
+A Rede não deve garantir cliente, escala ou renda contínua.
+
+## 22.5 Diagnóstico de falha comercial
+
+A falta de contratação não significa automaticamente fracasso da UPA. Deve-se distinguir:
+
+- preço incompatível;
+- baixa liquidez territorial;
+- falta de confiança;
+- baixa qualidade técnica;
+- sazonalidade;
+- risco local;
+- ausência real de demanda;
+- erro de trilha.
+
+## 22.6 Contingência de NFS-e
+
+Se a nota fiscal for exigível e o sistema estiver indisponível, aplica-se o PCFC. O TIF não substitui a NFS-e definitiva, mas pode preservar o fluxo operacional e permitir adiantamento condicionado quando previsto.
+
+---
+
+# 23. Carteira Territorial de Voucher
+
+## 23.1 Definição
+
+Carteira Territorial de Voucher é orçamento agregado por microterritório, categoria e ciclo, usado para reduzir vigilância individual e controlar o subsídio de forma agregada.
+
+## 23.2 Uso adequado
+
+Deve ser usada quando a identificação individual do comprador geraria excesso de dados ou fraude por rotação de CPF.
+
+## 23.3 Limites
+
+Não deve gerar corrida por desconto, loteria social ou disputa de fronteira. A carteira territorial é instrumento auxiliar, não solução universal.
+
+## 23.4 Minimização de dados
+
+A Rede não mapeia parentesco, coabitação ou grupo familiar para controle de voucher. Coleta apenas dados necessários para contrato, nota, consentimento, segurança e prestação de contas.
+
+## 23.5 Rodadas
+
+Sorteio só deve ser usado como última opção anticaptura. Sempre que possível, priorizar critérios objetivos de necessidade, segurança, finalidade comunitária e viabilidade.
+
+---
+
+# 24. N1.75-C — Empreitada Territorial de Resultado Limitado — ETRL
+
+## 24.1 Definição
+
+ETRL é contratação privada, pontual e não recorrente de UPA formalizada para entrega territorial de escopo fechado, mensurável e limitado, em microterritório previamente diagnosticado.
+
+A OSC/Fundo figura como tomador fiscal. A UPA emite NFS-e contra a OSC/Fundo. Moradores atuam como anuentes territoriais ou participantes de devolutiva, sem poder diretivo e sem mistura operacional com a UPA paga.
+
+## 24.2 Quando usar
+
+- área comum;
+- espaço coletivo;
+- demanda territorial sem cliente individual claro;
+- externalidade comunitária;
+- impossibilidade de ticket individual;
+- escopo pontual e limitado;
+- risco técnico baixo;
+- autorização territorial ou pública clara.
+
+## 24.3 Quando não usar
+
+- manutenção recorrente;
+- serviço público permanente;
+- equipe subordinada;
+- obra estrutural;
+- elétrica, gás, altura ou risco alto;
+- repetição com a mesma UPA;
+- contrato que exige escala;
+- território sob coerção sem pacto de proteção.
+
+## 24.4 Forma jurídica
+
+MEI individual só para microempreitada unipessoal, simples e pontual. Para contrato em bloco, equipe ou coordenação, usar microempresa, SLU, LTDA, cooperativa autêntica ou contrato estruturado.
+
+## 24.5 Objeto fiscal
+
+A NFS-e deve descrever serviço real, não impacto abstrato. O impacto é finalidade e métrica, não substituto do serviço tributável.
 
 Exemplo:
 
-| Item | Valor |
-|---|---:|
-| Preço real do serviço | R$ 1.000 |
-| Voucher territorial | R$ 800 |
-| Comprador paga | R$ 200 |
-| UPA recebe | R$ 1.000 |
+> Serviço de jardinagem leve e organização de área comum no microterritório MT-03, conforme Ordem de Serviço ETRL-03/2026.
 
-## 18.6 Antianchoring de preço
+## 24.6 Quarentena da ETRL
 
-> **O serviço sempre deve ser apresentado pelo preço cheio. O voucher é temporário, transparente e separado do valor real.**
+ETRL deve ser excepcional. A repetição do mesmo tipo de intervenção, no mesmo território ou com a mesma UPA, exige reavaliação e possível migração para N1.75-D.
+
+## 24.7 Responsabilidade civil
+
+A OSC/Fundo deve assumir que há risco de tomador. Deve exigir, conforme atividade:
+
+- EPI;
+- protocolo de segurança;
+- seguro quando viável;
+- exclusão de atividade de risco;
+- termo de responsabilidade da UPA;
+- autorização de uso do local;
+- reserva de contingência.
+
+## 24.8 Área pública
+
+ETRL em área pública exige autorização municipal, termo de cooperação, permissão de uso ou instrumento equivalente antes da execução. Documento probatório perfeito não legaliza intervenção pública irregular.
+
+## 24.9 Contingência fiscal
+
+Falha de emissão de NFS-e por indisponibilidade comprovada do sistema fiscal aplica PCFC e TIF. Sem regularização fiscal posterior, nova ETRL fica suspensa.
 
 ---
 
-# 19. Financiamento e separação de contas
+# 25. Chamada Técnica por Checklist Visual
 
-## 19.1 Arquitetura financeira
+## 25.1 Definição
 
-### Conta 1 — Formação e Proteção
+A chamada técnica da ETRL deve ser simples, visual e objetiva. Não deve exigir redação metodológica acadêmica.
 
-Pode receber recursos para:
+## 25.2 Campos mínimos
 
-- capacitação;
-- extensão;
-- assistência técnica;
-- proteção social;
+- código do lote;
+- croqui simples;
+- fotos do local;
+- escopo fechado;
+- passos da entrega;
+- ferramentas;
+- EPIs;
+- risco técnico;
+- equipe necessária;
+- tempo estimado;
+- exclusões;
+- evidências finais;
+- responsável formal;
+- declaração de capacidade.
+
+## 25.3 Papel da Central
+
+A Central fornece o modelo e verifica completude. Não escreve o plano pela UPA. Não julga proposta que ela própria preparou.
+
+## 25.4 Preço
+
+Para evitar leilão reverso, a chamada pode usar preço fixo, faixa ou teto. A seleção deve considerar capacidade, segurança, regularidade, evidência e adequação técnica, não apenas menor preço.
+
+---
+
+# 26. Voluntariado, coprodução e não mistura operacional
+
+## 26.1 Regra geral
+
+Moradores podem participar da Rede como sujeitos comunitários, não como mão de obra gratuita acoplada à UPA paga.
+
+## 26.2 Permitido
+
 - diagnóstico;
-- passaporte;
-- governança;
-- indicadores.
+- autorização de acesso;
+- escuta comunitária;
+- cuidado posterior;
+- devolutiva;
+- mutirão independente;
+- preservação do espaço;
+- participação em oficina como aluno.
 
-Fontes possíveis: universidade, MROSC, doações, fundações, Estado subsidiário.
+## 26.3 Proibido
 
-### Conta 2 — Fundo Privado de Compra-Ponte
+- morador capinar junto com UPA paga;
+- morador pintar junto com UPA paga;
+- morador carregar material sob orientação da UPA;
+- morador executar parte da ETRL para ajudar a terminar;
+- voluntário sem termo em atividade de risco;
+- mistura de equipe remunerada e voluntária no mesmo escopo físico.
 
-Usada exclusivamente para:
+## 26.4 Mutirão separado
 
-- vouchers territoriais;
-- compra-piloto;
-- primeiros contratos com UPAs formalizadas.
+Quando houver voluntariado real, deve ocorrer em momento, escopo e termo próprios, sem substituição de trabalhador regular e sem integração operacional com a entrega paga.
 
-Fontes: capital privado flexível.
+---
 
-### Conta 3 — Central Administrativa
+# 27. N1.75-D — Contrato Estruturado
 
-Usada para:
+## 27.1 Definição
 
-- jurídico;
-- contabilidade;
-- equipe técnica;
-- sistemas simples;
-- auditoria;
-- suporte.
+Contrato Estruturado é a rota obrigatória quando a atividade exige escala, equipe, jornada, rotina, posto fixo, supervisão, manutenção recorrente ou risco técnico relevante.
 
-## 19.2 Proibição de mistura
+## 27.2 Regimes possíveis
+
+- CLT;
+- aprendizagem;
+- contrato empresarial;
+- cooperativa autêntica;
+- empresa executora;
+- contrato público regular;
+- módulo formal específico.
+
+## 27.3 Gatilhos automáticos
+
+Migrar para N1.75-D quando houver:
+
+- repetição semanal ou mensal;
+- mesma UPA contratada de forma recorrente;
+- necessidade de equipe;
+- escala;
+- posto fixo;
+- subordinação;
+- manutenção continuada;
+- serviço público ordinário;
+- risco técnico superior ao piloto.
+
+---
+
+# 28. Fundo Privado, financiamento e separação de contas
+
+## 28.1 Arquitetura financeira
+
+O Fundo Privado deve operar com conta segregada, regulamento público, critérios objetivos, registro de uso, controle de conflito de interesse e prestação de contas agregada.
+
+## 28.2 Contas internas
+
+| Conta | Finalidade |
+|---|---|
+| A | formação e oficinas demonstrativas |
+| B | voucher comercial e Compra-Ponte B |
+| C | ETRL |
+| D | contrato estruturado e escala |
+| E | seguros, EPI e contingência |
+
+## 28.3 Documentação por modalidade
+
+| Modalidade | Documento fiscal/financeiro |
+|---|---|
+| Oficina | NFS-e de oficina/instrução/facilitação compatível ou TIF temporário |
+| Compra Comercial | nota fiscal conforme tomador real e desenho validado |
+| ETRL | NFS-e contra OSC/Fundo ou TIF temporário |
+| Contrato Estruturado | contrato formal, folha, nota empresarial ou instrumento adequado |
+
+## 28.4 Proibição de mistura
 
 É proibido misturar:
 
-- recurso público de formação com voucher comercial;
+- recurso de formação com compra operacional;
 - dinheiro de cliente com caixa da Rede;
 - dinheiro de UPA com dinheiro da Central;
-- verba acadêmica com compra-piloto de serviço;
-- emenda carimbada com subsídio dinâmico a comprador privado.
+- verba acadêmica com serviço real;
+- voucher comercial com ETRL;
+- voluntariado com execução paga.
 
-## 19.3 Pirâmide de financiamento
+## 28.5 Reserva de contingência
 
-1. Base comunitária: legitimidade e contrapartida simbólica.
-2. Fomento acadêmico: diagnóstico e protótipo.
-3. Capital privado flexível: vouchers e compra-piloto.
-4. Clientes reais: mercado assistido.
-5. Contratos formais: escala.
-6. Estado subsidiário: proteção, autorização, assistência e contratos estruturados.
+ETRL e atividades de campo exigem reserva de contingência proporcional ao risco, além de EPI, seguro quando viável e exclusão de atividades incompatíveis com o piloto.
+
+## 28.6 Pagamento condicionado
+
+Quando houver falha fiscal externa comprovada, o Fundo pode prever adiantamento contratual condicionado, sem quitação final, com prazo curto para emissão da NFS-e ou documento fiscal de contingência permitido pela legislação local.
 
 ---
 
-# 20. Empresas, comércio local e compradores de impacto
+# 29. Empresas, comércio local e compradores de impacto
 
-## 20.1 Papéis permitidos
+## 29.1 Papéis permitidos
 
 Empresas e comércios podem:
 
-- financiar carteira de impacto;
-- comprar vouchers territoriais;
+- financiar turmas;
+- financiar oficinas;
+- financiar ferramentas;
+- financiar carteiras comerciais;
+- financiar ETRL;
+- apoiar seguro e EPI;
+- contratar UPAs formalizadas;
+- contratar egressos formalmente;
 - ser cliente âncora;
-- apoiar a Central;
-- comprar serviços de UPAs;
-- contratar formalmente egressos;
-- doar ferramentas ou materiais;
-- apoiar formação técnica.
+- apoiar contrato estruturado.
 
-## 20.2 Proibições
+## 29.2 Proibições
 
 Empresas e doadores não podem:
 
 - escolher beneficiários individuais;
 - exigir exclusividade;
-- controlar Conselho Local;
+- controlar Conselho Local ou CGI-P;
 - usar UPA como mão de obra barata;
-- impor marketing abusivo;
-- capturar o Fundo Privado;
+- impor marketing humilhante;
+- capturar Fundo;
 - condicionar apoio a voto, religião, apoio político ou silêncio.
 
-## 20.3 Carteira de impacto
+## 29.3 Carteira, não pessoa
 
-A empresa deve financiar carteiras, não pessoas.
-
-Exemplo correto:
-
-> “Financiar 20 vouchers territoriais para serviços de jardinagem e pequenos reparos por UPAs formalizadas, selecionadas por critérios públicos.”
-
-Exemplo proibido:
-
-> “Financiar 10 jovens indicados pela empresa ou por liderança local.”
+A empresa deve financiar carteira ou modalidade, não pessoa escolhida nominalmente.
 
 ---
 
-# 21. Papel subsidiário do Estado
+# 30. Papel subsidiário do Estado
 
-O Estado entra para proteger, autorizar, fiscalizar, reconhecer e contratar formalmente quando cabível. Ele não deve operar como caixa flexível da Compra-Ponte.
+O Estado entra para proteger, autorizar, fiscalizar, reconhecer e contratar formalmente quando cabível.
 
-## 21.1 Funções legítimas
+## 30.1 Funções legítimas
 
 - proteção jurídica;
 - fiscalização de abuso;
@@ -1089,74 +1578,81 @@ O Estado entra para proteger, autorizar, fiscalizar, reconhecer e contratar form
 - segurança em zonas de risco;
 - reconhecimento institucional;
 - contratos formais;
-- MROSC para formação, diagnóstico e assistência técnica;
 - encaminhamento a políticas públicas.
 
-## 21.2 O que o Estado não deve fazer
+## 30.2 O que o Estado não deve fazer
 
 - escolher participantes por indicação política;
-- financiar voucher comercial flexível com recurso carimbado sem desenho jurídico robusto;
-- usar a Rede como palanque;
-- capturar o Conselho Local;
-- substituir contrato formal por extensão, bolsa ou missão comunitária.
+- usar ETRL para substituir zeladoria pública;
+- transformar extensão em serviço público;
+- capturar Conselho Local ou CGI-P;
+- substituir contrato formal por bolsa, oficina ou missão comunitária.
 
-## 21.3 Contratos públicos
+## 30.3 Contratos públicos
 
-Quando houver serviço recorrente ou de escala, deve-se usar regime adequado: licitação, parceria formal, contrato com empresa, cooperativa autêntica, CLT, aprendizagem ou módulo v3.1.
-
----
-
-# 22. Universidades e proteção contra colonização acadêmica
-
-## 22.1 Papel da universidade
-
-A universidade atua como ponte curta de extensão e pesquisa aplicada. Ela não é financiadora estrutural, empregadora dos participantes ou gestora da Rede.
-
-## 22.2 Autonomia acadêmica e soberania territorial
-
-A universidade preserva autonomia didático-científica. A comunidade preserva soberania territorial, consentimento, prioridades sociais, proteção de dados e devolutiva.
-
-## 22.3 Proteção contra pesquisa extrativa
-
-Todo projeto acadêmico deve garantir:
-
-- devolutiva pública;
-- versão simples do relatório;
-- consentimento para uso de imagem e dados;
-- proteção de vulnerabilidades;
-- participação comunitária na definição do problema;
-- reconhecimento dos colaboradores quando cabível;
-- proibição de exposição humilhante.
-
-## 22.4 Proibição de extensão operacional eterna
-
-Extensão não pode substituir zeladoria, manutenção, cuidado recorrente, reparo regular ou prestação de serviço.
+Quando houver serviço recorrente ou de escala, usar licitação, parceria formal, contrato com empresa, cooperativa autêntica, CLT, aprendizagem ou módulo estruturado.
 
 ---
 
-# 23. Proteção contra abuso, exploração e captura
+# 31. Universidades e proteção contra colonização acadêmica
 
-## 23.1 Abusos possíveis
+## 31.1 Papel da universidade
 
-- trabalho sem pagamento prometido;
+A universidade atua como ponte curta, desenhista metodológica e auditora amostral.
+
+## 31.2 Produtos metodológicos
+
+- matriz de competências;
+- RPME;
+- rubricas;
+- limites de materialidade;
+- checklists;
+- orientação de segurança;
+- devolutiva comunitária;
+- relatório de conversão.
+
+## 31.3 Limites
+
+A universidade não deve:
+
+- comandar trabalho;
+- fiscalizar rotina operacional;
+- aprovar pagamento cotidiano;
+- substituir supervisão empresarial;
+- virar gestora da Rede;
+- usar comunidade como campo extrativo.
+
+## 31.4 Devolutiva
+
+Todo projeto acadêmico deve garantir versão simples do relatório, proteção de dados, consentimento, reconhecimento adequado e proibição de exposição humilhante.
+
+---
+
+# 32. Proteção contra abuso, exploração e captura
+
+## 32.1 Abusos possíveis
+
+- trabalho sem pagamento;
 - bolsa usada como salário;
+- oficina simulada;
+- MEI aberto sem suporte;
+- docência-MEI habitual;
+- ETRL virando zeladoria;
+- voluntário usado como mão de obra gratuita;
 - RPA disfarçado;
-- abertura de MEI sem suporte;
-- cobrança de taxa para participar;
-- assédio moral ou sexual;
-- exigência de voto;
-- exigência religiosa;
-- retenção de documentos;
-- exposição humilhante;
+- assédio;
+- exigência política ou religiosa;
 - captura por empresa;
-- captura por político;
-- captura por facção ou milícia.
+- captura por liderança;
+- captura por facção ou milícia;
+- retenção de documentos;
+- exposição humilhante.
 
-## 23.2 Canal de denúncia
+## 32.2 Canal de denúncia
 
-A Rede deve manter canal simples e protegido, preferencialmente com retaguarda externa em territórios de risco.
+A Rede deve manter canal simples, protegido e com retaguarda externa quando houver risco territorial.
 
-## 23.3 Resposta
+## 32.3 Resposta
 
 1. Receber denúncia.
 2. Proteger denunciante.
@@ -1167,17 +1663,17 @@ A Rede deve manter canal simples e protegido, preferencialmente com retaguarda e
 7. Corrigir falha.
 8. Acompanhar reincidência.
 
-## 23.4 Regra ética
+## 32.4 Regra ética
 
-> **Nenhuma ajuda, bolsa, voucher, contrato ou oportunidade autoriza abuso, coerção ou perda de direitos.**
+Nenhuma ajuda, oficina, contrato, voucher, empreitada ou oportunidade autoriza abuso, coerção, perda de direitos ou exposição da vulnerabilidade como propaganda.
 
 ---
 
-# 24. Regras para zonas vermelhas
+# 33. Regras para zonas vermelhas
 
 Em territórios com coerção armada, milícia, facção, extorsão ou clientelismo violento, a Rede deve operar com máxima cautela.
 
-## 24.1 Permitido com cautela
+## 33.1 Permitido com cautela
 
 - formação fora do território;
 - diagnóstico discreto;
@@ -1187,42 +1683,432 @@ Em territórios com coerção armada, milícia, facção, extorsão ou clienteli
 - apoio jurídico;
 - articulação com Defensoria, Ministério Público, assistência e segurança.
 
-## 24.2 Proibido ou altamente restrito
+## 33.2 Proibido ou altamente restrito
 
-- fundo local com dinheiro visível;
-- mutirão público chamativo;
-- lista pública de participantes;
+- ETRL pública visível sem pacto de proteção;
+- lista pública de UPAs;
+- mutirão misto;
 - pagamento em espécie;
-- missão visível sem proteção;
+- divulgação de quem recebeu contrato;
 - intervenção em espaço controlado por grupo coercitivo;
-- divulgação de quem recebeu voucher ou renda.
+- carteira territorial aberta sem governança robusta;
+- coleta digital sensível em celular pessoal;
+- circulação com imagens sensíveis no aparelho;
+- envelope chamativo com identificação institucional sensível.
 
-## 24.3 Regra operacional
+## 33.3 Regra operacional
 
-> **Em zona vermelha, a Rede não executa missão pública visível sem pacto institucional de proteção.**
+Em zona vermelha, a Rede não executa missão pública visível sem pacto institucional de proteção.
+
+## 33.4 Coleta de dados em zona de risco
+
+A segurança física da equipe prevalece sobre a perfeição probatória. Havendo risco de revista, interceptação ou coerção, a Rede deve reduzir a coleta, deslocá-la para local seguro ou não executá-la.
 
 ---
 
-# 25. Passaporte de Ascensão
+# 34. Fechamento probatório dos registros do piloto
 
-O Passaporte registra a trajetória do participante e da UPA, mas não deve funcionar como controle de jornada ou prova de subordinação.
+## 34.1 Regra geral
 
-## 25.1 Dados registráveis
+Ferramentas de coleta simples, como formulários, mensagens, planilhas e pastas digitais, têm função preparatória. A validade documental do piloto depende da consolidação dos registros em documento fechado, com identificação da modalidade, decisão autorizadora, evidências, documentos fiscais, responsáveis, metadados, hash, assinatura eletrônica adequada e arquivamento.
+
+## 34.2 Hierarquia probatória
+
+| Camada | Função |
+|---|---|
+| coleta bruta | WhatsApp, Forms, ODK, Kobo, fotos, listas e planilhas |
+| consolidação | PDF com capa, anexos, metadados e dossiê |
+| fechamento | assinatura, hash, protocolo, guarda física/digital |
+
+## 34.3 Proibições de linguagem
+
+Evitar nos dossiês:
+
+- ponto;
+- escala;
+- chefe;
+- plantão;
+- funcionário;
+- supervisor como comando de jornada;
+- advertência;
+- produtividade por hora;
+- falta como punição trabalhista.
+
+Usar:
+
+- oficina;
+- módulo;
+- contrato;
+- entrega;
+- evidência;
+- UPA;
+- prestador;
+- dossiê;
+- nota fiscal;
+- termo de ciência.
+
+## 34.4 Assinatura e imutabilidade
+
+Atas, contratos, dossiês e registros financeiros devem ser assinados eletronicamente por responsáveis definidos, preferencialmente com assinatura avançada ou qualificada conforme o risco do ato. O documento assinado deve ser arquivado em pasta de acesso restrito e somente leitura, acompanhado de relatório de assinatura, hash e protocolo.
+
+---
+
+# 35. Validação presencial, cadeia de custódia física e arquivo de originais
+
+## 35.1 Validação Presencial com Duplo Fator Técnico — VP-DFT
+
+Quando participantes, compradores, anuentes territoriais ou UPAs não possuírem acesso funcional a assinatura eletrônica avançada ou qualificada, a Rede pode usar validação presencial em papel, com leitura assistida, assinatura manuscrita, testemunhas quando cabível, conferência mínima de identidade, digitalização integral, termo de conferência presencial, assinatura digital da OSC ou responsável autorizado, hash de integridade e arquivamento físico e digital.
+
+O monitor não possui fé pública. Ele realiza atestação privada qualificada do ato presencial.
+
+## 35.2 Leitura assistida
+
+O monitor não declara que a pessoa compreendeu perfeitamente o documento. Registra apenas que:
+
+> o conteúdo foi lido ou explicado em linguagem simples, houve oportunidade de pergunta, e a pessoa declarou concordância antes de assinar.
+
+## 35.3 Testemunhas por risco
+
+| Ato | Testemunhas |
+|---|---|
+| lista de presença de oficina | não precisa |
+| dossiê pedagógico comum | não precisa; monitor assina |
+| compra comercial simples de baixo valor | 1 testemunha ou monitor, se necessário |
+| contrato comercial de maior valor | 2 testemunhas recomendadas |
+| ETRL | 2 testemunhas ou anuência institucional |
+| assinatura a rogo ou baixa alfabetização funcional | 2 testemunhas obrigatórias |
+| abertura/baixa de CNPJ | seguir contador, gov.br, cartório ou regra aplicável |
+
+## 35.4 Registro audiovisual proporcional
+
+Áudio ou vídeo curto pode ser coletado em atos sensíveis, situações de baixa alfabetização funcional ou assinatura a rogo, com consentimento específico, finalidade probatória e acesso restrito. O registro audiovisual não é exigido para todos os microatos e não pode ser usado para exposição pública, marketing ou controle de jornada.
+
+## 35.5 Cadeia de Custódia Física — PCCF
+
+Documentos físicos assinados no território são acervo sensível do piloto. Após a assinatura, devem ser numerados, rubricados quando cabível, lacrados em envelope identificado de forma discreta, registrados em protocolo de custódia e transferidos à guarda central da OSC ou instituição parceira em até 24 horas, ou no mesmo dia em áreas de risco quando isso não expuser a equipe.
+
+É vedada a guarda permanente de originais em residência particular, espaço comunitário sem controle de acesso, comércio local, liderança territorial ou local sujeito a coerção.
+
+## 35.6 Zona de risco
+
+Em zona de coerção, o transporte deve ser discreto. O procedimento não deve usar embalagens, marcas, etiquetas ou sinais que indiquem lista de nomes, pagamento, denúncia ou controle territorial. Se o transporte do físico aumentar risco, a coleta deve ser deslocada para local seguro ou cancelada.
+
+## 35.7 Incidente de custódia
+
+Perda, dano, violação de lacre ou acesso indevido geram Incidente de Custódia, com registro, apuração e decisão do CGI-P sobre validade e medidas corretivas.
+
+---
+
+# 36. Digitalização controlada com metadados canônicos
+
+## 36.1 Regra geral
+
+Documento digitalizado sem metadados, hash, assinatura e protocolo é apenas cópia frágil. A digitalização do piloto deve preservar identidade, integridade, rastreabilidade, confidencialidade quando aplicável e vínculo com o original físico.
+
+## 36.2 Três camadas de metadados
+
+1. Capa legível no próprio PDF.
+2. Metadados técnicos embutidos quando possível.
+3. Manifesto externo estruturado, referenciado pelo hash.
+
+## 36.3 Campos mínimos
+
+- identificador do documento;
+- título;
+- tipo documental;
+- assunto;
+- autor ou emissor;
+- responsável pela digitalização;
+- data e hora da digitalização;
+- local da digitalização;
+- quantidade de páginas;
+- hash SHA-256;
+- localização do original físico;
+- nível de sigilo;
+- modalidade;
+- versão.
+
+## 36.4 Automação central
+
+A Secretaria Técnica não deve depender de scripts locais operados por equipe de campo. A automação deve estar pré-configurada em servidor, ferramenta de formulário, ODK/Kobo, n8n auto-hospedado, sistema da universidade ou fluxo equivalente.
+
+O operador de campo apenas coleta dados. A automação central gera capa, manifesto, hash, pacote final e registro.
+
+## 36.5 Preservação do original
+
+A digitalização não autoriza, por si só, o descarte do original físico. O original deve ser preservado pelo prazo definido na tabela interna de guarda ou pelo prazo prescricional aplicável, salvo decisão formal baseada em conformidade técnica, jurídica e arquivística.
+
+---
+
+# 37. Página Única de Coleta Segura — PUC-S
+
+## 37.1 Definição
+
+A PUC-S é uma página ou formulário seguro acessado por navegador para coleta estruturada de documentos, imagens e evidências de campo em locais de baixo risco e conectividade estável.
+
+## 37.2 Uso adequado
+
+Pode ser usada quando houver:
+
+- conexão estável;
+- baixo risco físico;
+- dado não altamente sensível;
+- coleta simples;
+- possibilidade de transmissão direta ao repositório controlado.
+
+## 37.3 Limite técnico
+
+Quando o servidor gera PDF, metadados e manifesto, a coleta não é criptografia de ponta a ponta plena contra o próprio servidor. É coleta segura com processamento controlado.
+
+## 37.4 Quando não usar
+
+Não usar como padrão em:
+
+- zona vermelha;
+- beco ou viela sem sinal;
+- situação de risco de revista;
+- coleta de documentos sensíveis;
+- ato em que a queda de conexão possa expor o monitor.
+
+---
+
+# 38. Dispositivo Institucional Criptografado, ODK/Kobo e coleta offline segura
+
+## 38.1 Dispositivo Institucional Criptografado — DIC
+
+A coleta digital sensível deve ocorrer preferencialmente em dispositivo institucional dedicado, não em celular pessoal.
+
+Configuração mínima:
+
+- criptografia do aparelho ativa;
+- senha alfanumérica forte, preferencialmente com no mínimo 8 caracteres;
+- bloqueio automático curto;
+- sem contas pessoais;
+- sem WhatsApp pessoal;
+- sem backup automático de galeria;
+- sem aplicativo comum de scanner;
+- sem aplicativos sociais;
+- uso restrito ao ODK/Kobo ou ferramenta aprovada;
+- apagamento remoto quando disponível;
+- controle de acesso às configurações.
+
+## 38.2 Defesa principal
+
+Em área sem sinal, apagamento remoto não é defesa principal. A defesa principal é:
+
+- criptografia local;
+- senha forte;
+- minimização de coleta;
+- finalização rápida do formulário;
+- não portar dado sensível desnecessário;
+- não coletar em zona vermelha quando isso aumentar risco.
+
+## 38.3 ODK/Kobo offline
+
+Em locais com conectividade instável, o CGI-P pode usar ODK Collect, KoboCollect ou ferramenta equivalente em modo offline, com:
+
+- autoenvio habilitado;
+- criptografia de formulário quando aplicável;
+- exclusão automática após envio confirmado;
+- restrição de edição após finalização;
+- controle de acesso às configurações;
+- ausência de geolocalização precisa em zona de risco.
+
+## 38.4 Protocolo do Rascunho Blindado
+
+Fotos sensíveis, documentos assinados e mídias críticas devem ser as últimas ações do formulário. O monitor deve capturar, anexar e finalizar imediatamente, reduzindo a janela em que a mídia permanece em rascunho aberto.
+
+## 38.5 Limite do auto-delete
+
+A exclusão após envio reduz a retenção local, mas não é apagamento forense absoluto. Metadados residuais podem permanecer no aparelho. Em área de coerção, a regra principal é reduzir a coleta ou deslocá-la para local seguro.
+
+## 38.6 Modos de zona de risco
+
+| Modo | Condição | Procedimento |
+|---|---|---|
+| Verde | local seguro e sinal aceitável | coleta normal no DIC |
+| Amarelo | risco moderado | coleta mínima, finalização rápida e envio ao sair da área |
+| Vermelho | risco de revista, interceptação ou coerção | sem coleta digital sensível no local |
+
+---
+
+# 39. Revisão Visual Obrigatória — RVO e régua documental
+
+## 39.1 Definição
+
+RVO é a revisão humana mínima realizada pela Secretaria Técnica antes da assinatura institucional de um PDF gerado automaticamente ou de um dossiê consolidado.
+
+A automação organiza. A Secretaria valida. A assinatura institucional fecha.
+
+## 39.2 Itens da RVO
+
+- documento legível;
+- páginas completas;
+- assinaturas visíveis;
+- código do documento visível;
+- valor coerente;
+- modalidade correta;
+- nota fiscal ou TIF;
+- mídia anexa abre corretamente;
+- ausência de dado sensível desnecessário;
+- ausência de termos proibidos listados nos modelos da Rede;
+- metadados mínimos presentes.
+
+## 39.3 Régua documental
+
+| Categoria | Situação | Efeito |
+|---|---|---|
+| Verde | documento completo, legível e fiscalmente adequado | segue para fechamento |
+| Amarelo | defeito técnico sanável sem afetar autoria, objeto, valor, assinatura, nota ou legibilidade essencial | aprovação condicional com correção em até 72 horas ou antes da próxima contratação |
+| Vermelho | erro essencial causado pela parte ou pela coleta | bloqueio até correção |
+| Vermelho-C | contingência fiscal externa por falha de sistema de NFS-e | TIF, prazo de emissão e eventual adiantamento condicionado |
+
+## 39.4 Amarelo não vira padrão
+
+Aprovação condicional preserva liquidez, mas gera obrigação de correção. Reincidência em defeitos amarelos exige reforço formativo e pode suspender nova contratação até ajuste.
+
+## 39.5 Vermelho insanável em campo
+
+Retorno ao campo ou correção imediata é obrigatório quando houver:
+
+- ausência de assinatura;
+- página essencial ausente;
+- valor divergente;
+- parte errada;
+- nota inexistente sem contingência;
+- objeto incompatível;
+- atividade não autorizada;
+- indício de fraude;
+- documento ilegível.
+
+## 39.6 Não retornar ao campo por defeito sanável
+
+Não se refaz assinatura física por pequeno defeito de imagem se autoria, assinatura, valor, objeto e documento fiscal estiverem legíveis. Corrige-se por complemento documental.
+
+---
+
+# 40. Protocolo de Contingência Fiscal de Campo — PCFC
+
+## 40.1 Definição
+
+O PCFC trata falhas externas de emissão de NFS-e, especialmente indisponibilidade do sistema municipal ou nacional, queda de conexão, instabilidade comprovada ou impossibilidade momentânea de acesso sem culpa da UPA.
+
+## 40.2 Vermelho-C
+
+A falha de emissão de NFS-e por indisponibilidade comprovada do sistema fiscal é classificada como Vermelho-C. Não é falha documental imputável à UPA.
+
+## 40.3 Termo de Indisponibilidade Fiscal — TIF
+
+O TIF deve registrar:
+
+- UPA;
+- CNPJ;
+- modalidade;
+- serviço;
+- valor;
+- tomador;
+- sistema fiscal utilizado;
+- data e hora da tentativa;
+- evidência do erro;
+- responsável pelo registro;
+- prazo de regularização.
+
+## 40.4 Efeito do TIF
+
+O TIF não substitui NFS-e definitiva. Ele justifica atraso documental, permite registro de contingência e pode permitir adiantamento contratual condicionado quando previsto e validado pela contabilidade.
+
+## 40.5 RPS e contingência municipal
+
+RPS ou documento fiscal de contingência só pode ser usado onde a legislação municipal permitir expressamente. Sem essa permissão, o TIF não substitui documento fiscal.
+
+## 40.6 Pagamento condicionado
+
+Quando o serviço foi entregue e a falha fiscal foi externa, o CGI-P pode autorizar:
+
+- reserva de pagamento;
+- adiantamento contratual condicionado;
+- liberação parcial;
+- prazo de 24 a 72 horas úteis após restabelecimento do sistema;
+- saldo apenas após NFS-e.
+
+Sem regularização fiscal, nova contratação da UPA fica suspensa até emissão da nota ou solução contábil formal.
+
+---
+
+# 41. Textos-padrão de NFS-e e bloqueio de emissão errada
+
+## 41.1 Regra geral
+
+A UPA não deve redigir livremente a descrição da NFS-e em missões da Rede. Deve usar textos-padrão aprovados por modalidade e ajustados ao município.
+
+## 41.2 Textos-base
+
+Os textos-base devem ser ajustados ao código de serviço, à regra de ISS e ao sistema de NFS-e do município antes do uso, com validação contábil ou fiscal quando necessário.
+
+### Oficina Demonstrativa
+
+> Serviço de oficina prática demonstrativa em [trilha], com finalidade pedagógica, prática assistida e registro de evidências, no âmbito da Rede de Ascensão Local.
+
+### Compra-Ponte Comercial
+
+> Serviço de [descrição objetiva do serviço] prestado ao tomador [nome/CPF/CNPJ], conforme proposta comercial e contrato de escopo fechado.
+
+### ETRL
+
+> Serviço de [descrição objetiva] em área comum ou microterritório [identificação], conforme Ordem de Serviço ETRL-[código], com escopo fechado e resultado limitado.
+
+### Contrato Estruturado
+
+> Descrição conforme contrato formal, regime empresarial, CLT, cooperativa autêntica, aprendizagem ou instrumento aplicável.
+
+## 41.3 Palavras proibidas na NFS-e da camada N1.75
+
+Evitar descrições como:
+
+- diária;
+- plantão;
+- escala;
+- funcionário;
+- mão de obra;
+- ajudante fixo;
+- serviço sob supervisão diária;
+- jornada;
+- posto de trabalho;
+- equipe disponibilizada.
+
+## 41.4 Bloqueio preventivo
+
+Antes do campo, a UPA deve ter:
+
+- texto-padrão salvo;
+- tomador validado quando aplicável;
+- valor previsto;
+- sistema testado;
+- PCFC conhecido.
+
+---
+
+# 42. Passaporte de Ascensão
+
+O Passaporte registra trajetória, competência e evidência. Não é controle de jornada, ranking disciplinar ou prova de subordinação.
+
+## 42.1 Dados registráveis
 
 - formações concluídas;
-- competências simuladas;
-- participação em extensão;
-- produtos acadêmicos;
-- protótipos;
-- prontidão para formalização;
-- CNPJ ou UPA vinculada, quando autorizado;
-- contratos executados;
-- avaliações de clientes;
-- receita por faixa, se autorizado;
-- transição para mercado ou emprego;
-- retorno como egresso.
+- módulos RPME;
+- rubricas;
+- oficinas ministradas ou frequentadas;
+- pré-RVO concluída;
+- portfólios;
+- propostas comerciais;
+- contratos N1.75-B;
+- ETRL executada;
+- avaliações;
+- transição para N2/N3;
+- baixa preventiva;
+- emprego, aprendizagem ou contrato formal.
 
-## 25.2 Dados protegidos
+## 42.2 Dados protegidos
 
 - saúde;
 - endereço sensível;
@@ -1231,307 +2117,315 @@ O Passaporte registra a trajetória do participante e da UPA, mas não deve func
 - preferência política;
 - denúncias;
 - dados de crianças;
-- avaliação humilhante;
-- conflitos familiares.
+- avaliações humilhantes;
+- vínculos familiares desnecessários.
 
-## 25.3 Regra de validade
+## 42.3 Regra de validade
 
-> **Só entra no Passaporte o que tiver relação com prática real, evidência mínima, consentimento e finalidade de ascensão.**
-
----
-
-# 26. Roda de Retorno dos Egressos
-
-A Roda de Retorno é cultura de continuidade, não fonte financeira obrigatória.
-
-## 26.1 Formas de retorno
-
-- mentoria;
-- indicação de vaga;
-- contratação de UPA;
-- doação pequena;
-- aula curta;
-- revisão de currículo;
-- conexão com empregador;
-- apoio ao Fundo Privado;
-- participação no Conselho.
-
-## 26.2 Regra ética
-
-> **Quem saiu da vulnerabilidade deve primeiro estabilizar a própria família. Depois, se puder, retorna.**
+Só entra no Passaporte o que tiver relação com prática real, evidência mínima, consentimento e finalidade de ascensão.
 
 ---
 
-# 27. Indicadores de avaliação
+# 43. Indicadores de avaliação
 
-## 27.1 N0 — Chão Social
+## 43.1 N0 — Chão Social
 
 - participantes triados;
 - documentos regularizados;
 - barreiras removidas;
 - encaminhamentos sociais.
 
-## 27.2 N1 — Laboratório Formativo
+## 43.2 N1 — Laboratório Formativo
 
 - presença formativa;
 - competências simuladas;
 - portfólios criados;
-- segurança aprendida.
+- segurança aprendida;
+- pré-RVO concluída;
+- taxa de acerto em documentos simulados.
 
-## 27.3 N1.5 — Ponte Acadêmica
+## 43.3 N1.5 — Ponte Acadêmica
 
 - diagnósticos entregues;
-- protótipos realizados;
-- relatórios de conversão;
-- participantes aptos;
+- RPMEs produzidos;
+- rubricas criadas;
+- protótipos limitados;
 - devolutivas comunitárias.
 
-## 27.4 N1.6 — Formalização Assistida
+## 43.4 N1.6 — Formalização Assistida
 
 - CNPJs abertos;
 - CNPJs evitados por inviabilidade;
-- reservas fiscais criadas;
+- reservas fiscais;
+- notas habilitadas;
+- textos-padrão de NFS-e configurados;
 - baixas preventivas;
 - UPAs habilitadas.
 
-## 27.5 N1.75 — Compra-Ponte
+## 43.5 N1.75-A — Oficina Demonstrativa
 
-- vouchers usados;
-- UPAs contratadas;
-- contratos concluídos;
+- oficinas realizadas;
+- quórum;
+- alunos praticantes;
+- módulos concluídos;
+- portfólios;
+- descaracterizações evitadas.
+
+## 43.6 N1.75-B — Compra Comercial
+
+- propostas reais;
+- clientes reais;
+- conversão;
+- coparticipação;
 - preço cheio preservado;
-- avaliação de clientes;
-- redução progressiva de voucher.
+- negativas documentadas;
+- voucher reduzido.
 
-## 27.6 N2 — Mercado Assistido
+## 43.7 N1.75-C — ETRL
 
-- clientes externos;
-- receita fora da Rede;
-- recorrência;
-- inadimplência fiscal;
-- diversificação de clientes;
-- dependência da Rede.
+- empreitadas executadas;
+- forma jurídica usada;
+- incidentes;
+- custo de EPI/seguro;
+- recorrência evitada;
+- migração para D quando necessário.
 
-## 27.7 N3 — Escala Contratual
+## 43.8 Prova e documentação
+
+- dossiês aprovados de primeira;
+- dossiês amarelos;
+- dossiês vermelhos;
+- TIFs abertos;
+- TIFs regularizados no prazo;
+- incidentes de custódia;
+- tempo médio de fechamento probatório;
+- tempo médio de pagamento.
+
+## 43.9 N1.75-D/N3 — Contrato Estruturado
 
 - contratos formais;
 - empregos;
 - aprendizagem;
 - cooperativas maduras;
-- empresas criadas;
-- módulo v3.1 ativado.
+- empresas estruturadas;
+- contratos públicos ou privados seguros.
+
+## 43.10 Indicadores negativos
+
+- CNPJ sem receita;
+- DAS-MEI inadimplente;
+- UPA dependente da OSC;
+- oficina sem turma;
+- ETRL repetida;
+- voluntário misturado com UPA paga;
+- central direcionando proposta;
+- atividade de risco indevida;
+- rota empreendedora inviável insistida;
+- pagamento definitivo sem documento fiscal final;
+- documento assinado sem RVO;
+- coleta sensível em celular pessoal;
+- formulário sensível deixado em rascunho aberto.
 
 ---
 
-# 28. Projeto-piloto recomendado
+# 44. Projeto-piloto recomendado
 
-## 28.1 Escala
+## 44.1 Escala
 
 - 1 território;
-- 12 a 20 participantes;
+- 10 a 16 participantes;
 - 1 universidade parceira;
 - 1 OSC/Rede;
-- 1 Central leve;
-- 1 Fundo Privado de Compra-Ponte;
-- 2 trilhas técnicas no máximo;
-- 1 ciclo acadêmico de 90 dias;
-- 2 a 4 UPAs formalizadas no máximo;
-- 5 a 10 vouchers de compra-piloto;
-- nenhum grupo pré-formal vendendo serviço.
+- 1 CGI-P;
+- 1 trilha principal e 1 trilha secundária;
+- 1 Turma-Âncora N1;
+- 2 a 3 UPAs no máximo;
+- 2 oficinas demonstrativas;
+- 2 compras comerciais reais;
+- 1 ETRL no máximo, apenas se houver área comum segura e autorizada;
+- 0 mutirões mistos;
+- 0 rede de MEIs coordenada;
+- 0 atividade de alto risco.
 
-## 28.2 Trilhas recomendadas
+A escala do piloto tem finalidade jurídico-operacional e probatória. Ela valida governança, documentação, segurança, NFS-e, RVO, DIC, PCFC e transição entre modalidades. Não deve ser tratada como validação estatística definitiva da sustentabilidade econômica da Rede.
 
-- jardinagem leve e cuidado territorial não técnico;
-- pintura simples e acabamento básico;
-- digitalização comunitária e currículos;
-- pequenos reparos não estruturais;
-- organização de espaços comunitários.
+## 44.2 Trilhas recomendadas
 
-## 28.3 Evitar no piloto
+- digitalização comunitária e currículo;
+- organização de espaços;
+- jardinagem leve sem equipamento perigoso;
+- pintura simples em painel ou trecho autorizado;
+- pequenos reparos não estruturais, apenas se houver segurança técnica.
+
+## 44.3 Evitar no piloto
 
 - elétrica;
 - gás;
 - altura;
 - obra estrutural;
-- cuidado médico;
+- poda pesada;
 - transporte remunerado;
+- cuidado médico;
 - segurança;
 - atividades com criança sem protocolo;
-- qualquer serviço recorrente de zeladoria pública.
+- zeladoria pública recorrente;
+- qualquer execução em zona vermelha sem proteção institucional.
 
-## 28.4 Cronograma
+## 44.4 Cronograma
 
 | Fase | Duração | Entregas |
 |---|---:|---|
-| Preparação | 30 dias | território, OSC, universidade, Central e regras |
-| N0/N1 | 30 dias | triagem, documentação, formação básica |
-| N1.5 | 90 dias | diagnóstico, protótipo, relatório, Passaporte |
-| Dia 75 | 1 semana | Comitê de Conversão |
-| N1.6 | 30 dias | formalização seletiva |
-| N1.75 | 90 a 180 dias | vouchers e compra-piloto |
-| Avaliação | mês 6 a 9 | decisão de escala, pivô ou encerramento |
+| Preparação | 30 dias | território, OSC, universidade, CGI-P, regras, DIC e proteção |
+| N0/N1 | 30 dias | triagem, documentação, formação básica, pré-RVO e Turma-Âncora |
+| N1.5 | 90 dias | diagnóstico, RPME, protótipo, relatório e Passaporte |
+| Dia 75 | 1 semana | Conversão pelo CGI-P |
+| N1.6 | 30 dias | formalização seletiva, NFS-e pré-configurada ou rota alternativa |
+| N1.75-A/B/C | 90 dias | oficinas, compras reais e, se cabível, ETRL única |
+| Avaliação | mês 6 a 9 | escalar, corrigir, redirecionar ou encerrar |
 
-## 28.5 Advertência jurídica, contábil e administrativa do piloto
+## 44.5 Advertência do piloto
 
-Antes de iniciar o piloto, a Rede deve obter validação jurídica, contábil e administrativa local. O modelo envolve temas sensíveis e variáveis por município, universidade, fonte de recurso e tipo de serviço: ISS, NFS-e, MEI, Simples Nacional, MROSC, LGPD, extensão universitária, fundações de apoio, cooperativas, contratação pública, segurança do trabalho e uso de espaço público.
-
-O piloto não deve começar se houver dúvida não resolvida sobre:
-
-- forma de pagamento e emissão fiscal das UPAs;
-- possibilidade de uso do espaço público;
-- fonte de recurso de cada camada;
-- segregação das três contas;
-- responsabilidade por seguro, EPI e segurança;
-- tratamento de dados pessoais;
-- vínculo com universidade e limites da extensão;
-- vedação de pagamento a CPF por serviço real na N1.75.
-
-Regra:
-
-> **Piloto pequeno não significa piloto informal. O tamanho reduzido diminui a escala do risco, mas não elimina obrigação jurídica, fiscal, trabalhista ou administrativa.**
+Piloto pequeno não significa piloto informal. Antes de iniciar, validar ISS, NFS-e, MEI, Simples Nacional, LGPD, seguro, EPI, uso de espaço público, limites da extensão, voluntariado, contratos, responsabilidade civil, forma jurídica das UPAs, fechamento probatório, DIC e contingência fiscal.
 
 ---
 
-# 29. Matriz de riscos
+# 45. Matriz de riscos
 
 | Risco | Probabilidade | Impacto | Resposta |
 |---|---:|---:|---|
-| Trabalho informal exploratório | Média | Alto | serviço real só com CNPJ, contrato e nota |
-| Bolsa usada como salário | Média | Alto | bolsa apenas formativa/acadêmica |
-| Extensão virando zeladoria | Média | Alto | Contrato de Saída e Termo de Encerramento |
-| Bolsista extensionista crônico | Média | Médio | teto de 90-180 dias |
-| Colonização acadêmica | Média | Alto | devolutiva, consentimento e soberania territorial |
-| Atraso de repasse acadêmico | Alta | Médio | não iniciar ciclo sem recurso assegurado |
-| Abertura prematura de CNPJ | Média | Alto | N1.6 e critérios de demanda |
-| DAS-MEI inadimplente | Média | Alto | reserva fiscal e baixa preventiva |
-| RPA disfarçado | Média | Alto | proibição de pagamento a CPF na N1.75 |
-| Voucher virando preço artificial | Média | Médio | preço cheio sempre declarado |
-| Empresa capturando fundo | Média | Alto | financiar carteira, não pessoa |
-| Subordinação pela Central | Média | Alto | Central sem comando operacional |
-| UPA dependente de cliente único | Média | Alto | diversificação e limite de contratos-piloto |
-| Captura política | Média | Alto | critérios públicos, sorteio/rodízio entre elegíveis |
-| Zona vermelha | Média | Muito alto | operação discreta e pacto de proteção |
-| Confusão entre contas | Média | Alto | três contas separadas e prestação independente |
+| Trabalho informal exploratório | média | alto | serviço real só com forma jurídica |
+| Bolsa usada como salário | média | alto | bolsa apenas formativa/acadêmica |
+| Oficina simulada | média | alto | Turma-Âncora, RPME, rubrica e limite material |
+| Docência-MEI habitual | média | alto | teto de oficinas e migração formal |
+| ETRL virando zeladoria | média | alto | quarentena e migração para contrato estruturado |
+| Terceirização ilícita | média | alto | escopo pontual, não recorrente e forma jurídica adequada |
+| Voluntariado radioativo | média | alto | proibição de mistura operacional |
+| Acidente de campo | média | alto | EPI, seguro, exclusão de risco e contingência |
+| Seguro inacessível | alta | médio | reduzir escopo, evitar risco e usar contrato estruturado |
+| CNAE incompatível | média | alto | checagem prévia antes da NFS-e |
+| NFS-e com objeto errado | média | alto | texto-padrão validado |
+| NFS-e indisponível | média | médio | PCFC e TIF |
+| Pagamento sem documento fiscal final | média | alto | adiantamento condicionado e regularização obrigatória |
+| Central direcionando proposta | média | alto | checklist visual e separação de funções |
+| Pool pequeno de UPAs | alta | médio | limitar escopo, não criar recorrência artificial |
+| Dependência econômica da OSC | média | alto | teto por modalidade e saída para mercado/contrato |
+| CNPJ sem receita | média | alto | baixa preventiva |
+| Captura territorial | média | alto | critérios públicos, proteção e retaguarda externa |
+| Zona vermelha | média | muito alto | não executar sem pacto de proteção |
+| LGPD e exposição | média | alto | minimização e controle de acesso |
+| Confusão de contas | média | alto | separação por modalidade |
+| Planilha como prova final | média | alto | fechamento probatório em PDF assinado |
+| Documento físico extraviado | média | alto | PCCF e incidente de custódia |
+| Digitalização sem metadados | média | alto | metadados canônicos e manifesto |
+| Coleta em celular pessoal | média | alto | DIC obrigatório para dado sensível |
+| Rascunho aberto no ODK/Kobo | média | alto | protocolo do rascunho blindado |
+| PIN fraco | média | alto | senha forte e bloqueio curto |
+| MDM sem sinal | média | médio | não depender de apagamento remoto |
+| RVO subjetiva | média | médio | régua verde/amarelo/vermelho/vermelho-C |
+| Pré-RVO excessiva | média | médio | limitar a aspectos visuais e mecânicos |
+| Erro amarelo virando padrão | média | médio | correção em até 72h e reforço formativo |
+| Plataforma low-code com transferência internacional excessiva | média | alto | preferência por instância controlada ou auto-hospedada |
 
 ---
 
-# 30. Instrumentos operacionais mínimos por fase
+# 46. Instrumentos operacionais mínimos
 
-## 30.1 N0/N1
+## 46.1 N0/N1
 
 1. Ficha de participante.
 2. Termo de formação.
 3. Plano pedagógico.
 4. Política de proteção de dados.
-5. Protocolo de segurança básica.
+5. Protocolo de segurança.
+6. Termo de Turma-Âncora.
+7. Checklist de Pré-RVO.
 
-## 30.2 N1.5
+## 46.2 N1.5
 
 1. Termo de parceria acadêmica.
 2. Contrato de Saída Acadêmica.
 3. Plano de extensão.
-4. Termo de consentimento e devolutiva.
-5. Termo de Encerramento Extensionista.
+4. Matriz de competências.
+5. RPME.
+6. Rubrica.
+7. Termo de Encerramento Extensionista.
 
-## 30.3 N1.6
+## 46.3 N1.6
 
-1. Checklist de abertura de CNPJ.
-2. Termo de mandato fiscal limitado.
-3. Plano de reserva tributária.
-4. Protocolo de baixa preventiva.
-5. Checklist de habilitação da UPA.
+1. Checklist de CNPJ.
+2. Parecer de forma jurídica.
+3. Checklist de CNAE/ocupação.
+4. Termo de mandato fiscal limitado.
+5. Plano de reserva tributária.
+6. Protocolo de baixa preventiva.
+7. Checklist de habilitação da UPA.
+8. Textos-padrão de NFS-e.
+9. Protocolo de Contingência Fiscal de Campo.
 
-## 30.4 N1.75
+## 46.4 N1.75-A
 
-1. Regulamento do Fundo Privado de Compra-Ponte.
-2. Modelo de voucher territorial.
-3. Contrato de compra-piloto.
-4. Checklist de aceite do serviço.
-5. Política anticaptura para empresas e doadores.
+1. Contrato de Oficina Demonstrativa.
+2. Roteiro de aula de página única.
+3. Dossiê Pedagógico.
+4. Rubrica de prática.
+5. Modelo de NFS-e.
+6. Limite de materialidade.
+7. RVO.
+8. TIF, se houver contingência.
 
-## 30.5 N2/N3
+## 46.5 N1.75-B
 
-1. Catálogo de UPAs.
-2. Avaliação de cliente.
-3. Relatório de mercado.
-4. Modelo de contrato formal.
-5. Modelo de acionamento do módulo v3.1.
+1. Contrato de Compra-Ponte Comercial.
+2. Regulamento de voucher comercial.
+3. Calculadora de preço não vinculante.
+4. Modelo de proposta.
+5. Checklist de aceite.
+6. Política antifraude.
+7. Dossiê Comercial.
+8. RVO.
 
----
+## 46.6 N1.75-C
 
-# 31. Linguagem política e ética institucional
+1. Contrato de ETRL.
+2. Checklist Visual de Execução Territorial.
+3. Termo de Anuência Territorial.
+4. Protocolo de Seguro/EPI.
+5. Termo de Não Mistura de Voluntariado.
+6. Dossiê Objetivo de Entrega Territorial.
+7. RVO.
+8. TIF, se houver contingência.
 
-## 31.1 Termos recomendados
+## 46.7 Prova, custódia e dados
 
-- ascensão com trilhos jurídicos;
-- ponte acadêmica temporária;
-- UPA formalizada;
-- compra privada de impacto;
-- voucher territorial;
-- preço cheio com subsídio transparente;
-- Central de conformidade, não patrão oculto;
-- comunidade como legitimadora e orientadora da demanda;
-- formalização seletiva;
-- mercado assistido.
+1. Ata Decisória CGI-P.
+2. Protocolo de Fechamento Probatório.
+3. VP-DFT.
+4. PCCF.
+5. Digitalização com metadados canônicos.
+6. Livro de Protocolo Digital.
+7. Incidente de Custódia.
+8. Configuração DIC.
+9. Protocolo do Rascunho Blindado.
+10. Régua Verde/Amarelo/Vermelho/Vermelho-C.
 
-## 31.2 Termos a evitar
+## 46.8 N1.75-D/N3
 
-- autossustentável desde o início;
-- missão remunerada;
-- pré-formal;
-- microserviço comunitário como base;
-- trabalho comunitário pago por bolsa;
-- povo financia o povo como base econômica principal;
-- universidade blinda trabalhista;
-- empresa parceira ajuda com vaga informal;
-- MEI coletivo.
-
-## 31.3 Frase ética
-
-> **A Rede deve gerar pertencimento, não dependência; reputação, não exploração; formalização, não dívida; mercado, não abandono.**
-
----
-
-# 32. Comparação com modelos existentes
-
-## 32.1 Assistência estatal tradicional
-
-A assistência protege contra vulnerabilidade extrema. A Rede não substitui essa função; cria trilha de ascensão quando houver prontidão.
-
-## 32.2 Curso profissionalizante
-
-Curso ensina. A Rede ensina, prototipa, registra, formaliza, compra impacto e força saída para mercado ou contrato formal.
-
-## 32.3 Mutirão comunitário
-
-Mutirão resolve algo pontual. A Rede pode usar voluntariado real, mas não remunera mutirão informal.
-
-## 32.4 Cooperativa
-
-Cooperativa pode ser rota de escala, mas não é primeiro degrau automático.
-
-## 32.5 Plataforma de serviços
-
-A Rede não deve virar plataforma subordinante. Ela regula acesso ao ambiente de confiança, mas não dirige trabalho.
-
-## 32.6 Contrato público com cláusula social
-
-É o módulo v3.1: útil para escala, formalização e contratos contínuos.
-
-## 32.7 ESG empresarial
-
-Pode financiar Compra-Ponte e vouchers, mas não deve escolher pessoas nem capturar governança.
+1. Modelo de contrato formal.
+2. Modelo de acionamento do módulo estruturado.
+3. Checklist de CLT/aprendizagem/cooperativa.
+4. Relatório de mercado.
+5. Plano de escala.
 
 ---
 
-# 33. Anexos-modelo
+# 47. Anexos-modelo
 
 ## Anexo A — Carta de Princípios do Núcleo Local de Ascensão
 
 ```markdown
 # Carta de Princípios — Núcleo Local de Ascensão
 
-O Núcleo Local de Ascensão existe para identificar necessidades reais do território, proteger participantes e organizar a passagem segura entre formação, extensão, formalização e renda digna.
+O Núcleo Local de Ascensão existe para identificar necessidades reais do território, proteger participantes e organizar a passagem segura entre formação, evidência, formalização seletiva, primeiras receitas e contratos dignos.
 
 Princípios:
 
@@ -1540,22 +2434,44 @@ Princípios:
 3. Nenhum serviço real remunerado será feito sem forma jurídica adequada.
 4. Bolsa-formação não compra serviço.
 5. Extensão acadêmica é ponte, não dependência permanente.
-6. CNPJ só será aberto quando houver demanda real e suporte.
-7. Compra-Ponte só contrata UPA formalizada.
-8. Voucher não reduz o preço real do serviço.
-9. Empresas e doadores financiam carteiras, não pessoas escolhidas.
-10. A Rede pertence ao território, não a político, empresa, universidade, igreja, facção ou liderança individual.
+6. Oficina demonstrativa exige turma real e roteiro pedagógico.
+7. CNPJ só será aberto quando houver demanda e suporte.
+8. Compra comercial exige cliente real e nota adequada.
+9. Empreitada territorial é limitada, pontual e não recorrente.
+10. Voluntário não executa tarefa da UPA paga.
+11. Empresas e doadores financiam carteiras, não pessoas escolhidas.
+12. A Rede pertence ao território, não a político, empresa, universidade, igreja, facção ou liderança individual.
 ```
 
-## Anexo B — Plano de Missão por Categoria
+## Anexo B — Ata Decisória do CGI-P
+
+```yaml
+ata_decisoria_cgip:
+  codigo: ""
+  data: ""
+  presentes: []
+  impedidos: []
+  modalidade: "N1.75-A | N1.75-B | N1.75-C | N1.75-D | outro"
+  decisao: "aprovado | aprovado_com_ressalva | negado | redirecionado"
+  criterios_utilizados: []
+  riscos_identificados: []
+  parecer_conformidade: "apto | apto_com_ressalva | inapto | exige_parecer_externo"
+  votos: []
+  condicoes: []
+  documentos_analisados: []
+  prazo: ""
+  hash_dossie: ""
+```
+
+## Anexo C — Plano de Missão por Categoria
 
 ```yaml
 plano_de_missao:
   nome: ""
   territorio: ""
-  categoria: "formativa | academica | compra_ponte | contratual | voluntaria"
+  categoria: "formativa | academica | demonstrativa | comercial | etrl | estruturada | voluntaria"
+  nivel: "N0 | N1 | N1.5 | N1.6 | N1.75-A | N1.75-B | N1.75-C | N1.75-D | N2 | N3"
   necessidade_atendida: ""
-  nivel: "N0 | N1 | N1.5 | N1.6 | N1.75 | N2 | N3"
   responsavel: ""
   participantes: []
   upa_formalizada: false
@@ -1568,7 +2484,7 @@ plano_de_missao:
   criterio_de_encerramento: ""
 ```
 
-## Anexo C — Contrato de Saída Acadêmica
+## Anexo D — Contrato de Saída Acadêmica
 
 ```markdown
 # Contrato de Saída Acadêmica
@@ -1581,9 +2497,11 @@ Período:
 
 ## Produtos obrigatórios
 1. Diagnóstico territorial.
-2. Protótipo demonstrativo.
-3. Relatório de conversão econômica.
-4. Passaporte atualizado.
+2. Protótipo demonstrativo limitado.
+3. Relatório de conversão produtiva.
+4. Matriz de competências.
+5. RPME.
+6. Passaporte atualizado.
 
 ## Gatilhos de encerramento
 - conclusão dos produtos;
@@ -1593,16 +2511,18 @@ Período:
 - atingimento do teto temporal.
 
 ## Rotas de saída
-- Formalização Assistida;
-- Compra-Ponte;
+- Oficina Demonstrativa;
+- Compra-Ponte Comercial;
+- ETRL;
+- Contrato Estruturado;
 - emprego/aprendizagem;
-- contrato formal/v3.1;
 - nova trilha;
-- assistência;
+- proteção social;
+- baixa preventiva;
 - encerramento.
 ```
 
-## Anexo D — Termo de Encerramento Extensionista
+## Anexo E — Termo de Encerramento Extensionista
 
 ```markdown
 # Termo de Encerramento Extensionista
@@ -1631,72 +2551,146 @@ Território:
 -
 ```
 
-## Anexo E — Checklist de Habilitação de UPA
+## Anexo F — Checklist de Habilitação de UPA
 
 ```yaml
 habilitacao_upa:
   nome_upa: ""
-  forma_juridica: "MEI | rede_MEIs | microempresa | cooperativa | outro"
+  forma_juridica: "MEI | ME | SLU | LTDA | cooperativa | empresa | outro"
   cnpj_ativo: false
   atividade_compativel: false
   nota_fiscal_disponivel: false
+  texto_padrao_nfs_e_configurado: false
   conta_propria: false
   reserva_tributaria: false
   contrato_modelo: false
   representante_definido: false
-  protocolo_segurança: false
-  preco_cheio_definido: false
+  protocolo_seguranca: false
+  preco_ou_proposta_definido: false
+  seguro_exigivel: false
+  epi_exigivel: false
   pendencia_critica: false
-  apta_compra_ponte: false
+  apta_n175a: false
+  apta_n175b: false
+  apta_n175c: false
+  apta_n175d: false
 ```
 
-## Anexo F — Regulamento do Fundo Privado de Compra-Ponte
-
-```markdown
-# Regulamento do Fundo Privado de Compra-Ponte
-
-Finalidade: financiar vouchers territoriais para compra de serviços de UPAs formalizadas.
-
-Regras:
-1. O fundo não paga pessoa física por serviço.
-2. O fundo não contrata grupo informal.
-3. O fundo não mistura recurso público carimbado.
-4. O fundo financia comprador, não reduz preço da UPA.
-5. Toda UPA deve emitir nota fiscal.
-6. Empresas financiam carteiras, não pessoas individuais.
-7. Prestação de contas será feita por carteira de impacto.
-8. O fundo deve ter conta segregada da OSC, da Central e das UPAs.
-9. O doador não pode escolher beneficiário nominal, trabalhador específico ou liderança local favorecida.
-10. Conflitos de interesse devem ser declarados antes da emissão do voucher.
-11. O relatório de impacto deve ser agregado e não pode expor vulnerabilidade individual como peça de marketing.
-12. O fundo não pode reembolsar, premiar ou favorecer doador por apoio político, religioso ou comercial.
-```
-
-## Anexo G — Modelo de Voucher Territorial
+## Anexo G — RPME
 
 ```yaml
-voucher_territorial:
-  voucher_id: ""
-  comprador_beneficiado: ""
-  territorio: ""
-  servico: ""
-  preco_cheio: 0
-  valor_voucher: 0
-  valor_pago_comprador: 0
-  upa_contratada: ""
-  cnpj_upa: ""
-  nota_fiscal: ""
-  data_validade: ""
-  criterio_de_uso: ""
+rpme:
+  trilha: ""
+  competencia_geral: ""
+  modulos:
+    - codigo: ""
+      nome: ""
+      duracao: ""
+      competencia_alvo: ""
+      pre_requisito: ""
+      demonstracao: ""
+      pratica_dos_alunos: ""
+      limite_materialidade: ""
+      evidencia_obrigatoria: []
+      risco_seguranca: "baixo | medio | alto"
+      criterio_descaracterizacao: ""
 ```
 
-## Anexo H — Contrato de Compra-Ponte
+## Anexo H — Roteiro de Aula de Página Única
 
 ```markdown
-# Contrato de Compra-Ponte
+# Roteiro de Oficina Demonstrativa
+
+Código do módulo:
+Trilha:
+Duração:
+Instrutor/UPA:
+Turma-Âncora:
+
+## Objetivo
+
+## Competência-alvo
+
+## Materiais e EPIs
+
+## Risco de segurança
+
+## Demonstração inicial
+
+## Prática obrigatória dos alunos
+
+## Evidências
+
+## Rubrica
+
+## Limite de materialidade
+
+## Critério de encerramento
+```
+
+## Anexo I — Rubrica de Competência
+
+```yaml
+rubrica:
+  participante: ""
+  modulo: ""
+  competencia: ""
+  nivel:
+    0: "nao executou"
+    1: "observou"
+    2: "executou com ajuda"
+    3: "executou com seguranca"
+    4: "executou e explicou para outro"
+  evidencia: ""
+  avaliador: ""
+```
+
+## Anexo J — Dossiê Pedagógico
+
+```yaml
+dossie_pedagogico:
+  oficina_id: ""
+  modulo: ""
+  turma: ""
+  data: ""
+  instrutor_upa: ""
+  participantes_presentes: []
+  pratica_individual_registrada: true
+  fotos: []
+  rubricas: []
+  nfs_e: ""
+  tif: ""
+  rvo: "verde | amarelo | vermelho | vermelho-c"
+  observacoes_seguranca: ""
+  declaracao_monitor: ""
+```
+
+## Anexo K — Contrato de Oficina Demonstrativa
+
+```markdown
+# Contrato de Oficina Prática Demonstrativa
 
 Contratante:
-UPA contratada:
+UPA/Instrutor:
+CNPJ:
+Módulo:
+Turma:
+Data:
+Valor:
+NFS-e obrigatória ou TIF em contingência:
+
+O objeto deste contrato é a realização de oficina prática demonstrativa, com finalidade pedagógica e registro de evidências. A eventual melhoria física produzida será acessória, limitada e incidental ao processo formativo.
+
+A contratante não controla jornada, escala, método diário, exclusividade ou produtividade individual. A oficina será executada conforme RPME aprovado.
+```
+
+## Anexo L — Contrato de Compra-Ponte Comercial
+
+```markdown
+# Contrato de Compra-Ponte Comercial
+
+Contratante:
+UPA:
 CNPJ:
 Serviço:
 Preço cheio:
@@ -1704,116 +2698,319 @@ Voucher aplicado:
 Valor pago pelo comprador:
 Prazo:
 Critério de aceite:
-Nota fiscal obrigatória:
+Nota fiscal ou TIF:
 
-A contratante compra resultado por escopo fechado. A Rede, a Central ou o financiador não dirigem jornada, escala, pessoalidade ou método diário de execução.
+A contratação ocorre entre comprador e UPA. A Rede pode apoiar conformidade e voucher, mas não dirige jornada, escala, pessoalidade ou método de execução.
 ```
 
-## Anexo I — Mandato Fiscal Limitado
+## Anexo M — Checklist Visual de ETRL
+
+```yaml
+checklist_etrl:
+  lote_id: ""
+  microterritorio: ""
+  fotos_iniciais: []
+  croqui: ""
+  escopo_fechado: ""
+  passos_execucao: []
+  ferramentas: []
+  epis: []
+  risco_tecnico: "baixo | medio | alto"
+  equipe_necessaria: ""
+  tempo_estimado: ""
+  exclusoes: []
+  evidencias_finais: []
+  responsavel_formal_upa: ""
+  declaracao_capacidade: true
+```
+
+## Anexo N — Contrato de ETRL
 
 ```markdown
-# Mandato Fiscal Limitado
+# Contrato de Empreitada Territorial de Resultado Limitado
 
-O titular autoriza a Central a apoiar rotinas fiscais e administrativas específicas, incluindo alertas, guias, comprovantes e organização documental.
+Contratante:
+UPA contratada:
+CNPJ:
+Microterritório:
+Escopo fechado:
+Valor:
+Prazo:
+Nota fiscal ou TIF:
+Critério de entrega:
+Autorização territorial/pública:
 
-Este mandato não autoriza a Central a comandar trabalho, escolher clientes, definir jornada, distribuir tarefas, impor preço final ou controlar produtividade.
+A ETRL é contratação privada, pontual e não recorrente de resultado territorial limitado. Moradores e Conselho Local atuam como anuentes ou instâncias de devolutiva, sem poder diretivo sobre jornada, método, equipe, preço ou escala da UPA.
+
+É proibida a mistura de voluntários comunitários com a execução física remunerada pela UPA no mesmo escopo.
 ```
 
-## Anexo J — Protocolo de Baixa Preventiva de MEI
+## Anexo O — Termo de Anuência Territorial
+
+```markdown
+# Termo de Anuência Territorial
+
+Microterritório:
+Atividade:
+Data:
+Anuente territorial:
+
+O anuente declara ciência da intervenção delimitada, autoriza o acesso quando aplicável e reconhece que não possui poder de comando sobre a UPA, não podendo exigir serviços extras, alterar escopo, controlar jornada, escolher trabalhadores ou reter pagamento.
+```
+
+## Anexo P — Política de Não Mistura de Voluntariado
+
+```markdown
+# Política de Não Mistura de Voluntariado e Execução Remunerada
+
+1. Voluntários não executarão tarefas atribuídas à UPA remunerada.
+2. Mutirões voluntários devem possuir escopo, data e termo próprios.
+3. A participação comunitária pode ocorrer em diagnóstico, autorização, devolutiva e preservação.
+4. É vedado misturar mão de obra paga e voluntária no mesmo escopo físico.
+5. Acidentes, coerção ou substituição de trabalhador regular devem ser comunicados imediatamente.
+```
+
+## Anexo Q — Checklist de Pré-RVO da UPA
+
+```yaml
+pre_rvo_upa:
+  codigo_documento: ""
+  data_visivel: false
+  nomes_visiveis: false
+  valor_visivel: false
+  paginas_completas: false
+  assinatura_visivel: false
+  foto_pagina_inteira: false
+  nfs_e_ou_tif_presente: false
+  documento_no_modelo_padrao: false
+  texto_fora_do_modelo: false
+  chamar_monitor: false
+```
+
+## Anexo R — Régua Documental Semafórica
+
+```yaml
+regua_documental:
+  verde: "aprovado para fechamento"
+  amarelo: "aprovacao condicional com correcao em ate 72 horas"
+  vermelho: "bloqueio ate correcao"
+  vermelho_c: "contingencia fiscal externa com TIF e prazo de regularizacao"
+```
+
+## Anexo S — Termo de Indisponibilidade Fiscal
+
+```yaml
+termo_indisponibilidade_fiscal:
+  codigo: ""
+  data: ""
+  hora: ""
+  upa: ""
+  cnpj: ""
+  modalidade: "N1.75-A | N1.75-B | N1.75-C"
+  servico: ""
+  valor: ""
+  tomador: ""
+  sistema_fiscal: "municipal | nacional | outro"
+  evidencia_erro: "print | foto | protocolo | relato tecnico"
+  responsavel_registro: ""
+  prazo_regularizacao: ""
+  adiantamento_condicionado: false
+```
+
+## Anexo T — Protocolo de Contingência Fiscal de Campo
+
+```markdown
+# Protocolo de Contingência Fiscal de Campo
+
+1. Tentar emissão da NFS-e no sistema aplicável.
+2. Registrar evidência da falha externa.
+3. Abrir TIF.
+4. Verificar se há RPS ou contingência fiscal permitida pelo município.
+5. Registrar prazo de regularização.
+6. Autorizar, se previsto, adiantamento condicionado.
+7. Liberar saldo apenas após documento fiscal final.
+8. Suspender nova contratação se a UPA não regularizar no prazo.
+```
+
+## Anexo U — Configuração do DIC
+
+```yaml
+dic:
+  aparelho_institucional: true
+  criptografia_ativa: true
+  senha_forte: true
+  bloqueio_automatico_segundos: 60
+  sem_contas_pessoais: true
+  sem_whatsapp_pessoal: true
+  sem_backup_galeria: true
+  sem_apps_sociais: true
+  odk_kobo_instalado: true
+  autoenvio_habilitado: true
+  delete_after_send: true
+  formulario_criptografado: true
+  edicao_pos_finalizacao_restrita: true
+```
+
+## Anexo V — Protocolo do Rascunho Blindado
+
+```markdown
+# Protocolo do Rascunho Blindado
+
+1. Preencher campos não sensíveis primeiro.
+2. Conferir dados antes de fotografar documentos.
+3. Fotografar documentos assinados apenas no final.
+4. Anexar foto ou mídia sensível.
+5. Finalizar imediatamente o formulário.
+6. Enviar assim que houver conexão segura.
+7. Não deixar formulário sensível aberto em rascunho.
+8. Em zona vermelha, não coletar digitalmente se houver risco de revista.
+```
+
+## Anexo W — Revisão Visual Obrigatória
+
+```yaml
+rvo:
+  codigo_documento: ""
+  legivel: false
+  paginas_completas: false
+  assinaturas_visiveis: false
+  valor_coerente: false
+  modalidade_correta: false
+  nfs_e_ou_tif_presente: false
+  linguagem_subordinante: false
+  dado_excessivo: false
+  classificacao: "verde | amarelo | vermelho | vermelho-c"
+  ressalva: ""
+  prazo_correcao: ""
+```
+
+## Anexo X — Textos-Padrão de NFS-e
+
+```yaml
+textos_padrao_nfs_e:
+  oficina: "Serviço de oficina prática demonstrativa em [trilha], com finalidade pedagógica, prática assistida e registro de evidências, no âmbito da Rede de Ascensão Local."
+  compra_comercial: "Serviço de [descrição objetiva] prestado ao tomador [nome/CPF/CNPJ], conforme proposta comercial e contrato de escopo fechado."
+  etrl: "Serviço de [descrição objetiva] em área comum ou microterritório [identificação], conforme Ordem de Serviço ETRL-[código], com escopo fechado e resultado limitado."
+  contrato_estruturado: "Descrição conforme contrato formal, regime empresarial, CLT, cooperativa autêntica, aprendizagem ou instrumento aplicável."
+```
+
+## Anexo Y — Livro de Protocolo Digital
+
+```yaml
+livro_protocolo_digital:
+  codigo: ""
+  tipo_documental: ""
+  modalidade: ""
+  data_ato: ""
+  data_digitalizacao: ""
+  responsavel: ""
+  hash_bruto: ""
+  hash_metadados: ""
+  hash_assinado: ""
+  pasta_fisica: ""
+  pasta_digital: ""
+  status: "aberto | assinado | corrigido | incidente"
+  observacao: ""
+```
+
+## Anexo Z — Incidente de Custódia
+
+```yaml
+incidente_custodia:
+  codigo_documento: ""
+  data: ""
+  tipo: "perda | dano | violacao_lacre | acesso_indevido | outro"
+  ultimo_responsavel: ""
+  ultimo_local_conhecido: ""
+  copia_digital_existente: false
+  hash_existente: ""
+  risco_juridico: "baixo | medio | alto"
+  medidas_corretivas: []
+  decisao_cgip: ""
+```
+
+## Anexo AA — Protocolo de Baixa Preventiva
 
 ```markdown
 # Protocolo de Baixa Preventiva
 
 Acionar revisão quando houver:
+
 - 60 a 90 dias sem receita;
 - ausência de reserva para DAS;
 - falta de demanda futura;
 - dificuldade de cumprir obrigações;
-- pendências acumuladas.
+- dependência exclusiva da OSC;
+- rota empreendedora inadequada.
 
-Decisão possível:
+Decisões possíveis:
+
 - manter ativo com plano de receita;
 - regularizar;
 - suspender uso no catálogo;
+- migrar para emprego/aprendizagem;
 - orientar baixa.
-```
-
-## Anexo K — Matriz de Conversão Dia 75
-
-```yaml
-conversao_dia_75:
-  participante_ou_grupo: ""
-  prontidao_tecnica: "baixa | media | alta"
-  demanda_plausivel: false
-  equipe_minima: false
-  risco_juridico: "baixo | medio | alto"
-  recomenda_formalizacao: false
-  recomenda_compra_ponte: false
-  recomenda_emprego: false
-  recomenda_nova_trilha: false
-  recomenda_assistencia: false
-  justificativa: ""
-```
-
-## Anexo L — Política Anticaptura para Empresas e Doadores
-
-```markdown
-# Política Anticaptura para Empresas e Doadores
-
-1. Doadores financiam carteiras de impacto, não beneficiários escolhidos.
-2. É vedada exigência política, religiosa, comercial ou pessoal.
-3. A marca do doador não pode humilhar participantes nem transformar vulnerabilidade em propaganda.
-4. O doador não controla Conselho Local, Central ou seleção.
-5. Conflitos de interesse devem ser declarados.
 ```
 
 ---
 
-# 34. Referências normativas e conceituais
+# 48. Referências normativas e conceituais
 
-Esta versão é conceitual e operacional. Não substitui parecer jurídico, contábil, trabalhista, tributário ou administrativo.
+Esta versão é conceitual e operacional. Não substitui parecer jurídico, contábil, trabalhista, tributário, previdenciário, administrativo, securitário, arquivístico, tecnológico ou de proteção de dados.
 
-Referências úteis para desenvolvimento posterior:
+Antes de qualquer execução real, o piloto deve ser validado por pareceres locais sobre ISS, NFS-e, MEI, SIMEI, responsabilidade civil, voluntariado, uso de espaço público, LGPD, segurança de campo, contratos, seguros, guarda documental e limites de atuação da OSC/Fundo.
 
-- Constituição Federal de 1988 — direitos fundamentais, trabalho, assistência social, autonomia universitária e participação social.
-- Consolidação das Leis do Trabalho — relação de emprego e contrato de aprendizagem.
+Referências para desenvolvimento e validação local:
+
+- Constituição Federal de 1988 — direitos fundamentais, trabalho, assistência social, autonomia universitária, imunidades e participação social.
+- Consolidação das Leis do Trabalho — relação de emprego, fraude, subordinação e aprendizagem.
+- Súmula 331 do Tribunal Superior do Trabalho — terceirização e responsabilidade.
+- Código Civil — simulação, contratos, empreitada, responsabilidade civil e instrumentos particulares.
 - Lei nº 9.608/1998 — serviço voluntário.
-- Lei nº 8.958/1994 — fundações de apoio a projetos de ensino, pesquisa e extensão.
-- Resolução CNE/CES nº 7/2018 — diretrizes para extensão na educação superior brasileira.
+- Lei Complementar nº 116/2003 — ISS e lista de serviços.
+- Lei Complementar nº 123/2006 — Simples Nacional, MEI e SIMEI.
+- Lei nº 8.958/1994 — fundações de apoio a ensino, pesquisa e extensão.
+- Resolução CNE/CES nº 7/2018 — extensão na educação superior.
+- Lei nº 12.682/2012 — digitalização e armazenamento eletrônico de documentos.
+- Decreto nº 10.278/2020 — requisitos técnicos para digitalização de documentos.
 - Lei nº 12.690/2012 — cooperativas de trabalho.
 - Lei nº 13.019/2014 — Marco Regulatório das Organizações da Sociedade Civil.
 - Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais.
 - Lei nº 13.800/2019 — fundos patrimoniais.
+- Lei nº 13.874/2019 — liberdade econômica e documentos digitais.
+- Lei nº 14.063/2020 — assinaturas eletrônicas.
 - Lei nº 14.133/2021 — licitações e contratos administrativos.
-- Regras do MEI, Simples Nacional, DAS, DASN-SIMEI e baixa de CNPJ.
-- Normas municipais de ISS e emissão de NFS-e.
-- Normas de saúde e segurança do trabalho aplicáveis conforme atividade.
-- Regras municipais de uso de espaço público.
+- MP nº 2.200-2/2001 — ICP-Brasil.
+- Regras municipais de ISS e NFS-e.
+- Regras do MEI, DAS, DASN-SIMEI e baixa de CNPJ.
+- Normas de saúde e segurança do trabalho aplicáveis.
+- Normas municipais de uso de espaço público.
+- Regras de seguro e responsabilidade civil aplicáveis à atividade.
+- Boas práticas de gestão documental, metadados, cadeia de custódia, segurança da informação e coleta móvel offline.
 
 ---
 
-# 35. Formulação final
+# 49. Formulação final
 
-A **Rede de Ascensão Local v4.8.1** é uma esteira de ascensão territorial que começa na proteção social, passa por formação e extensão aplicada, cria evidência e reputação, formaliza apenas unidades com demanda real, financia primeiras vendas por capital privado flexível e empurra as UPAs para mercado, contratos formais ou emprego digno.
+A Rede de Ascensão Local é uma esteira de ascensão territorial que começa na proteção social, passa por formação, diagnóstico, evidência, formalização seletiva e transição produtiva controlada, e só escala por mercado real ou contrato formal.
 
-Ela não tenta transformar pobreza em empreendedorismo instantâneo. Também não aceita que a urgência social justifique informalidade, dívida fiscal, subordinação disfarçada ou captura política.
+Ela não deve fabricar MEIs, oficinas falsas, vouchers artificiais, empreitadas disfarçadas, dossiês frágeis ou provas editáveis. Ela deve descobrir, com evidência, qual rota é juridicamente correta e economicamente possível para cada pessoa, cada serviço e cada território.
 
-A comunidade identifica necessidades e protege legitimidade. A universidade ajuda a diagnosticar e prototipar. A Central sustenta conformidade. A UPA formalizada executa. O Fundo Privado compra impacto por voucher. O Estado protege, autoriza e fiscaliza. O mercado e os contratos formais dão escala.
+A comunidade identifica necessidades e protege legitimidade. A universidade desenha método e evidência. O CGI-P sustenta governança enxuta. A Central orienta conformidade sem comandar trabalho. A UPA formalizada demonstra, vende ou executa conforme sua forma jurídica. O Fundo Privado financia transições sem capturar a governança. O Estado protege, autoriza, fiscaliza e contrata formalmente quando cabível.
 
 A fórmula final é:
 
-> **Formar sem explorar. Prototipar sem substituir serviço. Formalizar sem fabricar dívida. Comprar impacto sem esconder preço. Escalar sem precarizar.**
-
----
-
-# 36. Encerramento
-
-A Rede de Ascensão Local v4.8.1 nasce de uma decisão estrutural: não basta o povo ajudar o povo; é preciso impedir que a ajuda se converta em abuso, informalidade, dívida ou dependência.
-
-A comunidade continua sendo origem, critério e destino da ascensão. Mas a execução produtiva passa por trilhos: formação, extensão, formalização, compra privada de impacto, mercado assistido e contratos formais.
-
-A Rede não promete que todo participante virará empreendedor. Ela cria rotas honestas: UPA, emprego, aprendizagem, contrato, nova formação ou proteção social. A ascensão real exige seleção de rota, não fantasia de autonomia imediata.
+> formar sem explorar;  
+> demonstrar sem simular;  
+> formalizar sem fabricar dívida;  
+> comprar sem esconder subordinação;  
+> empreitar sem virar zeladoria;  
+> registrar sem virar folha de ponto;  
+> provar sem depender de planilha editável;  
+> corrigir sem paralisar a renda;  
+> escalar sem precarizar;  
+> redirecionar sem punir quem ainda não encontrou mercado.
 
 A última regra é simples:
 
-> **Quem precisa entra. Quem aprende prova. Quem está pronto formaliza. Quem executa vende com nota. Quem escala contrata direito. Quem não está pronto é protegido, não empurrado para o fracasso.**
+> A base não vira auditora. A UPA confere o visível. O monitor coleta com segurança. O DIC protege o campo. A Secretaria revisa o essencial. A OSC assina o fechado. A nota fiscal regulariza o financeiro. A falha externa vira contingência, não culpa. Quem não encontra mercado é protegido, redirecionado ou retirado da rota empreendedora antes que a formalização vire dívida.
