@@ -2,8 +2,8 @@
 
 ## Modelo de piloto controlado para ascensão comunitária, formação territorial, oficinas demonstrativas, UPAs formalizadas, compra-ponte comercial, empreitada territorial limitada, contrato estruturado e governança probatória enxuta
 
-**Status:** modelo jurídico-operacional limpo para piloto controlado  
-**Data:** 2026-05-25  
+**Status:** documento em duas partes. Parte I — protocolo de piloto controlado RAL-Lite v5.4 com Protocolo Campo v5, Núcleo Operacional Mínimo, modelo financeiro do piloto, Mapa de Compradores e articulação com política pública e crédito produtivo. Parte II — RAL-Standard v1, arquitetura de escala controlada, separada e ativada apenas pelo gatilho do Dia 270.  
+**Data:** 2026-05-29  
 **Autoria conceitual:** KESTLER
 
 > A comunidade identifica necessidades e talentos. A extensão acadêmica transforma problemas em diagnóstico, método e evidência. A governança integrada protege o piloto sem criar uma mini-prefeitura institucional. A Central sustenta conformidade sem comandar trabalho. A UPA formalizada executa apenas quando houver forma jurídica adequada. O Fundo Privado financia transições produtivas por modalidades separadas. O Estado protege, autoriza, fiscaliza e contrata formalmente quando indispensável.
@@ -30,23 +30,24 @@
 12. Missões por categoria  
 13. Ponte Acadêmica de Extensão Territorial — N1.5  
 14. Contrato de Saída Acadêmica, Dia 75 e Encerramento Extensionista  
-15. Formalização Assistida — N1.6  
+15. Formalização Assistida — N1.6 *(inclui Prova de Demanda 0)*  
 16. Unidades Produtivas de Ascensão — UPAs  
 17. Central de Garantia e Serviços Compartilhados  
 18. N1.75 — Camadas de Transição Produtiva  
 19. N1.75-A — Oficina Prática Demonstrativa Territorial  
 20. Roteiro Pedagógico Modular Estrito — RPME  
 21. Laboratório de Ofertabilidade e Pré-RVO da UPA  
-22. N1.75-B — Compra-Ponte Comercial com Cliente Real  
+22. N1.75-B — Compra-Ponte Comercial com Cliente Real *(inclui PCPS, Matriz de Pagador Real e Classificação de Receitas)*  
+22.BT. N1.75-BT — Compra-Ponte Triangular de Resultado Fechado *(inclui PRA-T, ACC-T, TVC-lite e Termo de Tomador Não Diretivo)*  
 23. Carteira Territorial de Voucher  
 24. N1.75-C — Empreitada Territorial de Resultado Limitado — ETRL  
 25. Chamada Técnica por Checklist Visual  
 26. Voluntariado, coprodução e não mistura operacional  
-27. N1.75-D — Contrato Estruturado  
-28. Fundo Privado, financiamento e separação de contas  
-29. Empresas, comércio local e compradores de impacto  
-30. Papel subsidiário do Estado  
-31. Universidades e proteção contra colonização acadêmica  
+27. N1.75-D — Contrato Estruturado *(inclui PRA, PRA-T, ACC, ACC-T, Vetos, Fatores Cumulativos, TVC e TVC-lite)*  
+28. Fundo Privado, financiamento e separação de contas *(inclui Conta F sem operação financeira, Conta G — Bolsa-Travessia com parcela emergencial e modelo financeiro mínimo do piloto)*  
+29. Empresas, comércio local e compradores de impacto *(inclui B2B/B2I, Cliente Âncora Protegido, classificação de tipos de comprador, Mapa de Compradores e Carta de Intenção de Compra)*  
+30. Papel subsidiário do Estado *(inclui articulação com CadÚnico, Acredita no Primeiro Passo, SINE e SUAS)*  
+31. Universidades e proteção contra colonização acadêmica *(inclui contingência de ausência acadêmica e conciliação entre prova e LGPD)*  
 32. Proteção contra abuso, exploração e captura  
 33. Regras para zonas vermelhas  
 34. Fechamento probatório dos registros do piloto  
@@ -58,29 +59,118 @@
 40. Protocolo de Contingência Fiscal de Campo — PCFC  
 41. Textos-padrão de NFS-e e bloqueio de emissão errada  
 42. Passaporte de Ascensão  
-43. Indicadores de avaliação  
-44. Projeto-piloto recomendado  
-45. Matriz de riscos  
-46. Instrumentos operacionais mínimos  
-47. Anexos-modelo  
+43. Indicadores de avaliação *(inclui indicadores de canal e autonomia)*  
+44. Projeto-piloto recomendado — RAL-Lite  
+45. Matriz de riscos *(inclui riscos de canal e autonomia)*  
+46. Instrumentos operacionais mínimos *(inclui instrumentos de canal e autonomia)*  
+47. Anexos-modelo da Parte I — Campo v5 *(inclui Anexos AO a BH)*  
 48. Referências normativas e conceituais  
-49. Formulação final
+49. Formulação final *(inclui formulação revisada de canal e autonomia e formulação Campo v5)*  
+Apêndice. Relação com a RAL-Standard v1 *(fronteira; o que fica fora do piloto)*
+
+---
+
+## Parte II — RAL-Standard v1 (Escala Controlada)
+
+S1. Abertura conceitual da RAL-Standard  
+S2. N1.7 — Motor de Demanda e Absorção  
+S3. Prova de Absorção 0  
+S4. N1.75-E — Absorção Formal Assistida  
+S5. Catálogo RAL de Produtos Territoriais Padronizados  
+S6. Selo RAL de Prontidão Produtiva  
+S7. Instrumento Standard 4 — Dossiê de Crédito Pós-Prova  
+S8. Camadas de custo — RAL-Core, RAL-Plus, RAL-Red  
+S9. Régua Padrão Ouro de Saídas Fortes  
+S10. Manual de Mercado e Absorção — Carteira B2B/B2I  
+S11. Manual de Mercado e Absorção — Carteira de Absorção Formal  
+S12. Manual de Mercado e Absorção — CRM da RAL  
+S13. Manual de Mercado e Absorção — Playbook de Abordagem Empresarial  
+Caderno de Anexos Standard *(Anexos SI a SV)*
 
 ---
 
 ## Itens transversais incorporados ao piloto
 
-Além dos capítulos numerados, esta versão passa a incorporar os seguintes dispositivos transversais: Linha de Corte Operacional, Financeira e Probatória; Janela 1 e Janela 2 da Transição Comercial; Conta F — Ponte de Transição Comercial; Regra de Eficiência Social Consolidada; ITA — Ingestão Tardia por Falha Técnica; AMR — Aborto de Missão por Risco; Seleção, Treinamento e Conduta de Monitores de Campo; Carimbo Local Canônico em Coleta Offline; Módulo Estruturado de Saída para Veredito C; Régua de Veredito do Dia 270; proibição de WhatsApp pessoal e proibição de exclusão manual de mídias locais pelo monitor; escala em funil do piloto; regra de orçamento variável do funil; distinção entre comunicação comercial da UPA e coleta probatória da Rede; lista tríplice pré-aprovada para parecerista de contingência; protocolo de compressão e saturação offline do DIC; e regra de custo de implantação por célula territorial.
+Além dos capítulos numerados, esta versão incorpora os seguintes dispositivos transversais: RAL-Lite — Piloto Mínimo Protegido; RAL-Lite Campo v5; Rigor por Gatilho (Verde/Amarelo/Vermelho); DIC universal com fluxos Verde/Amarelo/Vermelho; Linha de Corte Operacional, Financeira e Probatória; Janela 1 e Janela 2 da Transição Comercial; Conta F — Ponte de Transição Comercial sem operação financeira; Conta G — Bolsa-Travessia com parcela emergencial e marcos externos; Regra de Eficiência Social Consolidada; ITA — Ingestão Tardia por Falha Técnica; AMR — Aborto de Missão por Risco; Seleção, Treinamento e Conduta de Monitores de Campo; Carimbo Local Canônico em Coleta Offline; Módulo Estruturado de Saída para Veredito C; Régua de Veredito do Dia 270; proibição de WhatsApp pessoal e proibição de exclusão manual de mídias locais pelo monitor; escala em funil do piloto; regra de orçamento variável do funil; distinção entre comunicação comercial da UPA e coleta probatória da Rede; lista tríplice pré-aprovada para parecerista de contingência; protocolo de compressão e saturação offline do DIC; regra de custo de implantação por célula territorial; Prova de Demanda 0; Pré-Mapa Fiscal Local; Impressão Digital Fiscal da UPA; Matriz de Pagador Real; Prova de Canal e Preço Sustentável (PCPS); N1.75-BT — Compra-Ponte Triangular de Resultado Fechado; PRA — Painel de Risco de Autonomia; PRA-T — Painel de Risco de Autonomia Triangular; Auditoria de Conduta Concreta (ACC); ACC-T — Auditoria de Conduta Concreta Triangular; Teste de Variabilidade Comercial (TVC); TVC-lite do Ciclo 1; Classificação de Receitas (autônoma, assistida, capturada); Cliente Âncora Protegido; Termo de Tomador Não Diretivo; Contrato de Compra-Ponte Triangular; RVO em quatro níveis (completa, rápida por chave, humana enxuta, reforçada); Bloco 4 em três níveis (4-A, 4-B, 4-C); e regras patrimoniais da Conta F.
 
 ## Cláusula transversal — Linha de Corte Operacional, Financeira e Probatória
 
-No piloto, a Rede adotará rigor escalonado, critérios binários e financiamento segregado por finalidade. O campo operará com coleta mínima, checklist visual, DIC simplificado e Protocolo de Rascunho Blindado sempre que houver dado identificável, documento fiscal, assinatura, imagem de participante, evidência de entrega ou informação sensível. Celular pessoal, WhatsApp pessoal, galeria comum e backup automático são vedados para coleta sensível.
+No piloto, a Rede adotará rigor escalonado, critérios binários e financiamento segregado por finalidade. O campo operará com coleta mínima, checklist visual, DIC institucional e Protocolo de Rascunho Blindado sempre que houver dado identificável, documento fiscal, assinatura, imagem de participante, evidência de entrega ou informação sensível. O formulário varia pelo risco do ato (Verde, Amarelo ou Vermelho); o dispositivo é sempre institucional. Celular pessoal, WhatsApp pessoal, galeria comum e backup automático são vedados para coleta sensível.
 
 A origem da evidência deverá ser registrada no momento da ingestão por formulário, PUC-S, ODK/Kobo ou ferramenta equivalente, com identificador único, data/hora local, usuário responsável, dispositivo institucional, modalidade, código da missão e registro técnico mínimo de captura ou envio. A Secretaria Técnica poderá consolidar, revisar, hashear, assinar e arquivar o pacote final, mas não poderá suprir retroativamente metadados de origem não coletados.
 
 Hashes finais, metadados canônicos, manifestos externos e fechamento documental reforçado serão concentrados na Secretaria Técnica e aplicados exclusivamente aos atos críticos taxados pelo CGI-P: liberação de pagamentos, assinaturas de contratos, encerramento de ETRLs, abertura ou baixa de CNPJ, formalização de denúncias, registros fiscais de campo, TIF, ITA, AMR, incidentes de custódia, decisões em zona de risco e dossiês usados para prestação de contas institucional.
 
 A simplificação operacional não autoriza improviso. O monitor coleta pouco, coleta certo e não usa canal pessoal. A governança decide por impedimento real. O Fundo mostra o custo total. A rota empreendedora só continua se não destruir a pessoa nem mascarar demanda artificial.
+
+---
+
+## Cláusula transversal — RAL-Lite Campo v5
+
+A RAL-Lite Campo v5 é o modo de execução do primeiro ciclo territorial. Ela não substitui a Doutrina RAL; limita sua ativação por gatilhos. Opera com DIC universal para monitores, formulários proporcionais ao risco, RVO fiscal por impressão digital, TVC-lite desde a primeira recorrência, Conta F não financeira, Conta G com proteção emergencial e triangulação formal apenas como modalidade Vermelha-T.
+
+Os três fluxos de campo da Campo v5 são:
+
+| Fluxo | Uso |
+|---|---|
+| **DIC-Verde** | presença, formação, devolutiva, lista simples |
+| **DIC-Amarelo** | oficina remunerada, compra comercial, aceite, NFS-e |
+| **DIC-Vermelho** | CNPJ, baixa, TIF, ITA, AMR, Conta F, Conta G, triangulação, denúncia, pagamento com ressalva |
+
+A Campo v5 não transforma a OSC em fornecedora de mão de obra, não transforma a Conta F em factoring social, não transforma PDF em prova fiscal automática e não transforma declaração bilateral em prova de autonomia. O primeiro ciclo testa bordas verificáveis: demanda, nota, aceite, pagamento, ausência de comando e capacidade de redirecionamento.
+
+---
+
+## Cláusula transversal — Fronteira entre Campo v5 e RAL-Standard
+
+A RAL-Lite Campo v5 não executa a arquitetura Standard. Ela apenas coleta evidências mínimas para decidir se a célula territorial poderá, em ciclo posterior, ativar a RAL-Standard v1. N1.7 (Motor de Demanda e Absorção), N1.75-E (Absorção Formal Assistida), Catálogo RAL de Produtos Territoriais, Selo RAL de Prontidão Produtiva, Manual de Mercado e Absorção e Dossiê de Crédito Pós-Prova pertencem à camada Standard, não ao primeiro ciclo protegido.
+
+A fronteira é deliberada e protege a leveza do piloto. Tentar operar a arquitetura Standard dentro da Campo v5 reintroduz exatamente a sobrecarga que o Núcleo Operacional Mínimo existe para evitar. A Standard fica acima do piloto, na Parte II deste documento, e só é ativada por gatilho no Dia 270 (43.16).
+
+> Campo v5 testa se a RAL opera sem dano. A RAL-Standard v1 testa se a RAL escala com saída forte, demanda legítima, absorção formal, reputação portátil e custo competitivo.
+
+---
+
+## RAL-Lite — Piloto Mínimo Protegido
+
+A RAL-Lite é a versão operacional mínima do piloto, aplicável ao primeiro ciclo territorial. Ela usa os seis documentos-mãe já previstos: Ata Decisória, Ficha Integrada Participante/UPA, Checklist de Modalidade, Dossiê de Evidência, Contrato ou Termo curto e Registro Financeiro Simplificado. A versão integral da Rede permanece como **Doutrina RAL** — biblioteca de risco consultada por gatilhos objetivos, não aplicada uniformemente a todos os atos.
+
+A separação entre RAL-Lite e Doutrina RAL organiza o documento em duas camadas:
+
+- **RAL-Lite:** operação enxuta do piloto, com rigor proporcional ao risco do ato.
+- **Doutrina RAL:** referência completa acionada quando o gatilho de risco o exigir.
+
+> A RAL-Lite não prova tudo em todos os atos. Ela prova o suficiente no ato certo, com agravamento documental por risco real.
+
+### Rigor por Gatilho
+
+Nenhum ato ordinário receberá tratamento documental de ato crítico. O rigor reforçado será acionado por risco fiscal, trabalhista, probatório, territorial, contratual ou de proteção de dados.
+
+| Nível | Tipo de ato | Exemplos | Documentação exigida |
+|---|---|---|---|
+| **Verde** | Ato ordinário | Formação, presença, simulação, devolutiva, oficina simples sem pagamento crítico | Ficha simples, lista, rubrica, evidência mínima. Sem hash obrigatório, sem dossiê pesado. |
+| **Amarelo** | Ato econômico simples | Compra-Ponte de baixo valor, oficina remunerada simples, aceite de cliente, nota fiscal, pagamento comum | Contrato curto, nota/TIF, aceite, RVO simples. |
+| **Vermelho** | Ato crítico | Abertura/baixa de CNPJ, ETRL, pagamento com ressalva, zona de risco, denúncia, contrato estruturado, contingência fiscal, incidente de custódia, prestação de contas | Ata, dossiê reforçado, RVO reforçada, metadados, assinatura, hash e decisão do CGI-P. |
+
+---
+
+## Núcleo Operacional Mínimo
+
+Este documento é extenso porque é, ao mesmo tempo, manual de execução e biblioteca de risco. Quem opera o piloto no dia a dia não precisa carregar a Doutrina inteira na cabeça. Precisa dominar um núcleo curto. Tudo o que vem depois é consulta acionada por gatilho.
+
+O núcleo cabe em uma página e responde a quatro perguntas.
+
+**Quem decide.** Uma única instância no piloto: o CGI-P. Ele aprova entrada de turma, conversão de rota, abertura e baixa de CNPJ, contratação de comprador, pagamento com ressalva e saída. Decide por ata curta, com impedimento por conflito de interesse registrado. Não há outra mesa de decisão no primeiro ciclo.
+
+**Quem faz o quê.** O monitor coleta com o dispositivo institucional e não comanda trabalho. A Secretaria Técnica fecha a prova, emite e confere documento fiscal e guarda o original. A universidade desenha método e audita amostra até o Dia 75. A UPA executa dentro da forma jurídica que possui. O Fundo/OSC paga por finalidade separada e não escolhe pessoa. Ninguém acumula a função de decidir, executar e auditar o mesmo ato.
+
+**Os seis documentos que sustentam tudo.** Ata Decisória; Ficha Integrada Participante/UPA; Checklist de Modalidade; Dossiê de Evidência; Contrato ou Termo curto; Registro Financeiro Simplificado. Qualquer ato do piloto se apoia em um ou mais desses seis. Os 60 e poucos anexos são modelos desses seis documentos em situações específicas, não novas obrigações.
+
+**As cinco travas que nunca caem, mesmo no modo mais enxuto.** Sem demanda real comprovada, não se abre CNPJ. Sem documento fiscal final, não há pagamento definitivo. Serviço remunerado só por forma jurídica adequada. Coleta sensível só em dispositivo institucional. Quem não tem mercado é redirecionado com saída digna, nunca empurrado para dívida.
+
+Se um procedimento do piloto não couber neste núcleo nem for acionado por um gatilho Amarelo ou Vermelho concreto, ele é peso morto e deve ser cortado, não cumprido por hábito. A complexidade do modelo é reserva de proteção para o ato de risco, não rotina para o ato trivial.
+
+---
 
 # 1. Resumo executivo
 
@@ -101,12 +191,13 @@ A Rede conecta esses dois lados sem transformar vulnerabilidade em mão de obra 
 - não empreender não é fracassar;
 - registro de campo não é prova final enquanto não for fechado, assinado, hasheado e arquivado.
 
-O nível crítico da Rede é o N1.75, dividido em quatro camadas:
+O nível crítico da Rede é o N1.75, dividido em cinco camadas:
 
 | Subnível | Nome | Finalidade | Documento principal | Risco central |
 |---|---|---|---|---|
 | N1.75-A | Oficina Prática Demonstrativa Territorial | evidência, portfólio e prática pedagógica | NFS-e de oficina/instrução/facilitação compatível | simulação de oficina e docência-MEI habitual |
 | N1.75-B | Compra-Ponte Comercial com Cliente Real | testar preço, negociação e demanda pagável | contrato comprador-UPA, nota fiscal adequada e voucher limitado | artificialidade de demanda, inadimplência e erro fiscal |
+| N1.75-BT | Compra-Ponte Triangular de Resultado Fechado | viabilizar entrega B2B/B2I com fluxo de caixa protegido via OSC intermediária | contrato tripartite, OS/lote, aceite, NFS-e e Termo de Tomador Não Diretivo | terceirização ilícita, OSC virando fornecedora de mão de obra, subordinação no cliente |
 | N1.75-C | Empreitada Territorial de Resultado Limitado | atender demanda coletiva delimitada | contrato de empreitada e NFS-e contra OSC/Fundo | terceirização ilícita, responsabilidade civil e recorrência |
 | N1.75-D | Contrato Estruturado | absorver escala, equipe, rotina ou subordinação | CLT, aprendizagem, empresa, cooperativa autêntica ou módulo formal | custo maior, mas segurança jurídica superior |
 
@@ -114,11 +205,17 @@ A Rede não promete que todos virarão empreendedores. Ela testa rotas. Quem tem
 
 A fórmula operacional é:
 
-> formar → demonstrar → formalizar seletivamente → testar compra comercial → empreitar apenas quando coletivo, limitado e autorizado → estruturar contrato quando houver escala → encerrar ou redirecionar quando não houver mercado.
+> formar → demonstrar → formalizar seletivamente → testar compra comercial direta → testar compra triangular quando cliente B2B/B2I não contratar diretamente → empreitar apenas quando coletivo, limitado e autorizado → estruturar contrato quando houver escala → encerrar ou redirecionar quando não houver mercado.
 
 ---
 
-## 1.1 Honestidade econômica e rota não empreendedora
+## 1.1 Necessidade territorial não é pagador territorial
+
+> A necessidade pode nascer no território, mas o pagamento pode vir de fora. A RAL-Lite não presume que o morador vulnerável será o comprador principal da formalização. Quando o preço sustentável não couber na liquidez local, a rota deverá buscar comprador B2B/B2I, cliente âncora, ETRL, contrato estruturado ou rota não empreendedora.
+
+Confundir necessidade social com demanda pagável é o erro mais comum na transição produtiva. A Rede identifica o problema no território, mas deve localizar o pagador certo antes de abrir CNPJ ou iniciar Compra-Ponte.
+
+## 1.2 Honestidade econômica e rota não empreendedora
 
 A Rede não presume que a rota empreendedora será sempre adequada. Quando o custo de proteger a formalização produtiva superar a renda viável da UPA, a rota correta será contrato estruturado, emprego assistido, aprendizagem, nova trilha, baixa preventiva ou proteção social.
 
@@ -132,7 +229,7 @@ Cursos isolados não bastam. Bolsa sem saída cria dependência. Trabalho inform
 
 ## A solução
 
-A Rede de Ascensão Local cria uma esteira controlada. Primeiro acolhe, documenta e forma. Depois usa a universidade para transformar necessidades territoriais em diagnóstico, método e evidência. Em seguida formaliza seletivamente, apenas quando houver demanda plausível e forma jurídica adequada. Por fim, usa quatro camadas de transição produtiva para testar e proteger a passagem para renda formalizada.
+A Rede de Ascensão Local cria uma esteira controlada. Primeiro acolhe, documenta e forma. Depois usa a universidade para transformar necessidades territoriais em diagnóstico, método e evidência. Em seguida formaliza seletivamente, apenas quando houver demanda plausível e forma jurídica adequada. Por fim, usa cinco camadas de transição produtiva para testar e proteger a passagem para renda formalizada.
 
 ## Como funciona
 
@@ -141,10 +238,12 @@ A Rede de Ascensão Local cria uma esteira controlada. Primeiro acolhe, document
 3. Participantes passam por Chão Social e Laboratório Formativo.
 4. A universidade organiza diagnóstico, protótipos, rubricas e roteiros pedagógicos.
 5. O Comitê de Governança Integrada do Piloto decide rotas de conversão.
-6. A Formalização Assistida abre CNPJ apenas quando houver viabilidade mínima.
+6. A Formalização Assistida abre CNPJ apenas quando houver viabilidade mínima e Prova de Demanda 0 positiva.
 7. A Oficina Demonstrativa gera portfólio e evidência, sem simular serviço.
-8. A Compra-Ponte Comercial testa cliente real, preço cheio e voucher limitado.
-9. A Empreitada Territorial Limitada atende demandas coletivas sem ticket individual.
+8. A Compra-Ponte Comercial testa comprador real, pagador adequado, preço sustentável e voucher limitado.
+8.1. Antes de formalizar ou ampliar a Compra-Ponte, a Rede identifica o pagador real da demanda: morador, comércio local, empresa, escola, condomínio, OSC, Fundo, cliente âncora ou contratante estruturado.
+8.2. Quando o cliente B2B/B2I não puder contratar diretamente a UPA no primeiro ciclo, a Rede pode usar a Compra-Ponte Triangular (N1.75-BT), com a OSC como contratante intermediária, objeto fechado, Termo de Tomador Não Diretivo e receita classificada como assistida ou capturada.
+9. A Empreitada Territorial Limitada atende demandas coletivas sem ticket individual. Demandas comunitárias sem pagador individual natural não devem ser forçadas para B2C; devem ser avaliadas como ETRL ou contrato estruturado.
 10. A escala migra para contrato estruturado, emprego, aprendizagem, empresa ou cooperativa autêntica.
 11. Os registros de campo são fechados por protocolo probatório, com cadeia de custódia, metadados, hash e assinatura adequada.
 
@@ -164,20 +263,28 @@ O piloto não testa apenas geração imediata de renda. Ele testa se a Rede cons
 
 O piloto também testa a relação entre custo de proteção e renda real. Se proteger a rota empreendedora custa mais do que a renda que ela consegue gerar, a saída correta não é insistir no MEI; é migrar para contrato estruturado, emprego assistido, aprendizagem, nova trilha, proteção social ou baixa preventiva.
 
+## A Rede explicada em linguagem simples
+
+Todo o resto deste documento é técnico porque protege a pessoa de armadilhas jurídicas e fiscais. Mas quem participa tem o direito de entender, em poucas frases, o que está sendo oferecido. Esta é a versão que deve ser lida com o participante na entrada, sem promessa que a Rede não pode cumprir.
+
+> Você entra para aprender, mostrar o que sabe fazer e descobrir, com ajuda, qual é o melhor caminho de trabalho e renda para você. Pode ser abrir o seu próprio negócio, mas também pode ser um emprego, um curso, um contrato ou um apoio social. Nenhum desses caminhos é fracasso. O que a Rede não vai fazer é empurrar você para abrir CNPJ ou assinar contrato que vire dívida ou que não tenha cliente de verdade. Enquanto você está aprendendo, ninguém vai usar o seu trabalho de graça. Quando você for prestar um serviço pago, vai ser com documento, contrato e nota fiscal, do jeito certo. Se um caminho não der certo, a Rede ajuda a achar outro, e não larga você no meio.
+
+Essa promessa curta é a tradução fiel das regras longas. Se algo no piloto contrariar essa frase, é o piloto que está errado, não a frase.
+
 # 3. Definição do modelo
 
 A Rede de Ascensão Local é uma tecnologia social de ascensão comunitária com trilhos jurídicos. Seu objetivo é converter necessidades reais do território em formação, evidência, reputação, formalização seletiva, primeiras receitas seguras, mercado assistido ou contrato formal.
 
 Definição técnica:
 
-> A Rede de Ascensão Local é uma infraestrutura comunitária de ascensão produtiva que identifica necessidades territoriais, forma participantes vulneráveis, registra competências, usa extensão acadêmica para diagnóstico e desenho metodológico, incuba unidades produtivas formalizadas e testa rotas de renda por oficinas demonstrativas, compra comercial assistida, empreitadas territoriais limitadas e contratos estruturados, sem informalidade trabalhista, fiscal, previdenciária ou probatória.
+> A Rede de Ascensão Local é uma infraestrutura comunitária de ascensão produtiva que identifica necessidades territoriais, forma participantes vulneráveis, registra competências, usa extensão acadêmica para diagnóstico e desenho metodológico, incuba unidades produtivas formalizadas e testa rotas de renda por oficinas demonstrativas, compra comercial assistida, compra-ponte triangular para canais B2B/B2I, empreitadas territoriais limitadas e contratos estruturados, sem informalidade trabalhista, fiscal, previdenciária ou probatória.
 
 A Rede entrega oito produtos:
 
 1. **Produto humano:** estabilização, formação, evidência, reputação e rota.
 2. **Produto comunitário:** necessidades reais transformadas em diagnósticos, oficinas, contratos ou encaminhamentos.
 3. **Produto reputacional:** Passaporte de Ascensão com evidências verificáveis.
-4. **Produto jurídico:** separação entre formação, demonstração, compra comercial, empreitada e contrato estruturado.
+4. **Produto jurídico:** separação entre formação, demonstração, compra comercial direta, compra-ponte triangular, empreitada e contrato estruturado.
 5. **Produto econômico:** primeiras receitas formais sem criar dependência artificial permanente.
 6. **Produto institucional:** comunidade, universidade, Central, empresas, Estado e UPAs com fronteiras claras.
 7. **Produto probatório:** registros fechados por cadeia de custódia, metadados, assinatura, hash e arquivo físico quando aplicável.
@@ -210,7 +317,8 @@ A Rede não é:
 | N1.5 | Ponte Acadêmica | diagnóstico, protótipo, método, rubrica e evidência | apenas demonstrativo não substitutivo | extensão/pesquisa aplicada |
 | N1.6 | Formalização Assistida | abertura seletiva de CNPJ, conta, nota e reserva fiscal | não | preparação jurídico-contábil |
 | N1.75-A | Oficina Demonstrativa | oficina prática com turma real e portfólio | sim, se houver NFS-e compatível | serviço formativo/demonstrativo |
-| N1.75-B | Compra-Ponte Comercial | cliente real, preço cheio e voucher limitado | sim | contrato comprador-UPA e nota adequada |
+| N1.75-B | Compra-Ponte Comercial por Canal Real | comprador real, pagador adequado, preço sustentável, nota fiscal e subsídio limitado | sim | contrato comprador-UPA e nota adequada |
+| N1.75-BT | Compra-Ponte Triangular | entrega B2B/B2I fechada via OSC intermediária, com PRA-T, ACC-T e TVC-lite | sim, classificada como assistida ou capturada | contrato tripartite, OS/lote, aceite e Termo de Tomador Não Diretivo |
 | N1.75-C | ETRL | entrega coletiva limitada em microterritório | sim | empreitada por resultado com NFS-e contra OSC/Fundo |
 | N1.75-D | Contrato Estruturado | escala, equipe, rotina ou subordinação | sim | CLT, aprendizagem, empresa, cooperativa autêntica ou módulo formal |
 | N2 | Mercado Assistido | clientes externos, receita própria e redução de dependência | sim | MEI, ME, cooperativa, empresa, contrato formal |
@@ -224,7 +332,8 @@ Nenhuma passagem é automática. Cada nível exige evidência mínima:
 - de N1 para N1.5: aderência ao projeto acadêmico e segurança;
 - de N1.5 para N1.6: demanda plausível, competência e forma jurídica possível;
 - de N1.6 para N1.75-A: compatibilidade com oficina, turma real e emissão fiscal adequada;
-- de N1.6 para N1.75-B: cliente potencial, proposta, preço, nota e capacidade comercial mínima;
+- de N1.6 para N1.75-B: Prova de Demanda 0, Matriz de Pagador Real, preço sustentável, tomador fiscal correto, proposta, nota e capacidade mínima de execução comercial;
+- de N1.6 para N1.75-BT: todos os requisitos de N1.75-B, acrescidos de: cliente B2B/B2I com necessidade operacional real documentada, objeto fechado por OS/lote/medição, aceitação do Termo de Tomador Não Diretivo, PRA-T sem bloqueio e DIC-Vermelho disponível;
 - de N1.6 para N1.75-C: forma jurídica adequada, autorização territorial ou pública quando cabível, seguro/EPI quando exigível e escopo coletivo limitado;
 - de N1.75 para N2: cliente real, avaliação positiva, redução de dependência e capacidade fiscal;
 - de N2 para N3: recorrência, escala e regime jurídico compatível.
@@ -258,7 +367,7 @@ A Janela 1 não prova, sozinha, mercado sustentável. Ela prova apenas que a UPA
 
 ## 4.5 Janela 2 — Prova Comercial Assistida
 
-A Janela 2 tem duração de 180 a 270 dias. Sua função é testar comprador externo, cliente âncora, receita fora da Rede, contrato estruturado, emprego assistido, aprendizagem, nova trilha ou baixa preventiva.
+A Janela 2 tem duração de 180 a 270 dias. Sua função é testar comprador externo, cliente âncora, receita fora da Rede, contrato estruturado, emprego assistido, aprendizagem, nova trilha ou baixa preventiva. Durante a Janela 2, o PRA (Painel de Risco de Autonomia), a ACC (Auditoria de Conduta Concreta) e o TVC (Teste de Variabilidade Comercial) ficam ativos para contratos com concentração relevante. Para operações N1.75-BT ativas na Janela 2, PRA-T e ACC-T permanecem obrigatórios a cada renovação.
 
 A baixa preventiva não será automática pelo simples fim da Janela 1. Ela dependerá de risco fiscal, ausência de receita, ausência de reserva, inexistência de comprador plausível e decisão registrada do CGI-P.
 
@@ -270,13 +379,13 @@ Quando a rota UPA/MEI se mostrar inadequada, o encerramento do CNPJ ou a pausa o
 
 O piloto poderá envolver até 30 participantes nas camadas N0, N1 e N1.5, desde que a exposição à rota econômica formalizada permaneça limitada. A ampliação do topo do funil não autoriza abertura proporcional de CNPJs, multiplicação de vouchers, aumento de ETRLs ou criação artificial de compras comerciais.
 
-A escala econômica do primeiro ciclo permanece restrita: até 12 a 16 participantes elegíveis para conversão, até 4 a 6 candidatos à formalização assistida e até 2 a 3 UPAs formalizadas. A finalidade do funil ampliado é diluir custo formativo, melhorar triagem, produzir diagnóstico e reduzir erro de formalização, não fabricar escala empreendedora prematura.
+A escala econômica do primeiro ciclo permanece restrita: até 12 a 16 participantes elegíveis para conversão, até 4 a 6 candidatos à formalização assistida e até 2 UPAs formalizadas no primeiro ciclo. A finalidade do funil ampliado é diluir custo formativo, melhorar triagem, produzir diagnóstico e reduzir erro de formalização, não fabricar escala empreendedora prematura.
 
 A entrada no funil deve ser comunicada como trilha de diagnóstico, formação e orientação de rota, não como promessa de CNPJ, renda, contratação ou empreendedorismo. A Rede não rejeita 27 pessoas; ela identifica, com segurança, quais rotas não devem passar pela UPA/MEI.
 
 ## 4.8 Saídas obrigatórias para quem não segue para UPA
 
-Quando o funil formar 30 pessoas e apenas 2 ou 3 UPAs avançarem, a Rede deverá possuir rotas de saída previamente pactuadas. Antes de iniciar turma ampliada, o CGI-P deve registrar capacidade mínima de encaminhamento para emprego assistido, aprendizagem, contrato estruturado, nova trilha, proteção social, documentação ou retorno formativo.
+Quando o funil formar 30 pessoas e apenas 2 UPAs avançarem, a Rede deverá possuir rotas de saída previamente pactuadas. Antes de iniciar turma ampliada, o CGI-P deve registrar capacidade mínima de encaminhamento para emprego assistido, aprendizagem, contrato estruturado, nova trilha, proteção social, documentação ou retorno formativo.
 
 O funil ampliado será inválido se produzir frustração sem encaminhamento. A taxa de não conversão para UPA não é problema quando houver saída digna; torna-se falha operacional quando a Rede apenas comunica que a pessoa não serve para empreender e encerra o vínculo.
 
@@ -309,7 +418,7 @@ Abrir CNPJ antes de existir demanda, reserva fiscal, capacidade de nota e plano 
 
 ## 5.4 O erro da compra-piloto única
 
-Uma única modalidade de compra não resolve todos os casos. O território precisa de camadas distintas: oficina demonstrativa, compra comercial, empreitada territorial e contrato estruturado.
+Uma única modalidade de compra não resolve todos os casos. O território precisa de camadas distintas: oficina demonstrativa, compra comercial direta, compra-ponte triangular para clientes B2B/B2I que não contratam diretamente no primeiro ciclo, empreitada territorial e contrato estruturado.
 
 ## 5.5 O erro da dependência acadêmica
 
@@ -342,6 +451,10 @@ Oficina demonstrativa exige turma real, roteiro, prática dos alunos, rubrica, e
 ## 6.4 Compra comercial testa mercado
 
 Compra-Ponte Comercial só existe quando há cliente real, preço cheio, proposta, aceite, nota fiscal e coparticipação ou pagamento validado.
+
+## 6.4-T Triangulação não esconde subordinação
+
+A Compra-Ponte Triangular não é atalho para informalidade. Se o cliente controlar jornada, método, pessoalidade ou integração da UPA, a forma jurídica correta é contrato estruturado — independentemente do nome do instrumento. A OSC intermediária não pode ser usada para ocultar vínculo empregatício.
 
 ## 6.5 Empreitada territorial não é zeladoria
 
@@ -497,7 +610,8 @@ Papéis possíveis:
 - contratar ETRL;
 - apoiar seguro, EPI e ferramentas;
 - financiar contrato estruturado ou cliente âncora;
-- apoiar baixa preventiva e transição para emprego.
+- apoiar baixa preventiva e transição para emprego;
+- atuar como contratante intermediária formal em N1.75-BT, desde que o objeto seja fechado, o cliente assine o Termo de Tomador Não Diretivo e a OSC não comande o trabalho da UPA.
 
 ## 7.8 Estado
 
@@ -520,10 +634,11 @@ O CGI-P é permitido apenas em piloto de escala reduzida:
 - até 30 participantes nas camadas N0/N1/N1.5;
 - até 12 a 16 participantes elegíveis para decisão de conversão;
 - até 4 a 6 candidatos à formalização assistida;
-- até 3 UPAs formalizadas;
+- até 2 UPAs formalizadas;
 - até 1 território;
 - até 2 oficinas demonstrativas no primeiro ciclo;
-- até 2 compras comerciais reais no primeiro ciclo;
+- até 2 compras comerciais reais no primeiro ciclo (N1.75-B e/ou N1.75-BT combinadas);
+- até 1 operação N1.75-BT, se houver cliente B2B/B2I com necessidade operacional real e Termo de Tomador Não Diretivo assinado;
 - até 1 ETRL, se indispensável e segura.
 
 A ampliação para 30 pessoas não altera a escala econômica protegida. Ao escalar para mais territórios, mais UPAs ou maior volume de contratos, as funções devem ser separadas progressivamente.
@@ -667,7 +782,8 @@ Campos mínimos:
 - exige autorização pública;
 - potencial formativo;
 - potencial de oficina demonstrativa;
-- potencial de compra comercial;
+- potencial de compra comercial direta;
+- potencial de compra triangular B2B/B2I;
 - potencial de ETRL;
 - potencial de contrato estruturado;
 - risco de captura;
@@ -679,7 +795,8 @@ Classificação obrigatória:
 |---|---|
 | formativa | N1/N1.5 |
 | demonstrativa | N1.75-A |
-| comercial individual | N1.75-B |
+| comercial individual com comprador direto | N1.75-B |
+| comercial B2B/B2I com intermediação necessária | N1.75-BT |
 | territorial coletiva | N1.75-C |
 | recorrente ou escalável | N1.75-D/N3 |
 | alto risco ou inviável | não executar no piloto |
@@ -761,6 +878,10 @@ Oficina demonstrativa exige turma real, roteiro pedagógico, prática dos alunos
 
 ETRL é contrato por resultado, pontual, delimitado e não recorrente. Não pode virar manutenção contínua, escala permanente, equipe informal ou contratação repetida dos mesmos CNPJs como motor da OSC.
 
+## 11.7-T Compra-Ponte Triangular
+
+N1.75-BT é modalidade excepcional com intermediação da OSC. Exige objeto fechado, Termo de Tomador Não Diretivo, PRA-T sem bloqueio e classificação de receita como assistida ou capturada. Não é compra comercial comum e não prova mercado autônomo no Ciclo 1. Se o cliente exigir jornada, escala, pessoalidade ou integração funcional, a rota migra obrigatoriamente para N1.75-D.
+
 ## 11.8 Trabalho subordinado
 
 Quando houver jornada, comando, habitualidade, pessoalidade, subordinação e remuneração, deve haver CLT, aprendizagem, empresa contratada, cooperativa autêntica quando cabível ou outro módulo formal.
@@ -825,6 +946,18 @@ Exemplos:
 - orçamento real com coparticipação;
 - compra com teto subvencionável;
 - emissão fiscal adequada.
+
+## 12.4-T Missões Comerciais Triangulares (N1.75-BT)
+
+Objetivo: entrega B2B/B2I de resultado fechado via OSC intermediária, com PRA-T, ACC-T e Termo de Tomador Não Diretivo.
+
+Regime: DIC-Vermelho obrigatório. Receita classificada como assistida ou capturada no Ciclo 1.
+
+Exemplos:
+
+- pequena entrega de organização documental para empresa local com objeto fechado e OS;
+- serviço de digitalização para instituição que não contrata diretamente MEI no primeiro ciclo;
+- produção de material visual para comércio local com escopo fechado e aceite por entrega.
 
 ## 12.5 Empreitadas Territoriais Limitadas
 
@@ -926,6 +1059,7 @@ Decisões possíveis:
 
 - N1.75-A — Oficina Demonstrativa;
 - N1.75-B — Compra-Ponte Comercial;
+- N1.75-BT — Compra-Ponte Triangular (quando houver cliente B2B/B2I e Termo de Tomador Não Diretivo disponível);
 - N1.75-C — ETRL;
 - N1.75-D — Contrato Estruturado;
 - emprego assistido;
@@ -969,6 +1103,24 @@ A Formalização Assistida prepara a unidade econômica antes de qualquer venda 
 - ensinar obrigações;
 - definir plano de baixa preventiva;
 - avaliar seguro/EPI quando exigível.
+
+## 15.X Prova de Demanda 0 — filtro anterior ao CNPJ
+
+Nenhum CNPJ será aberto apenas porque existe talento, formação ou necessidade comunitária. Antes da formalização, a Rede deverá registrar uma Prova de Demanda 0 contendo:
+
+1. problema real identificado no território;
+2. canal provável de pagamento (B2C local, B2B, B2I, ETRL, contrato estruturado);
+3. comprador potencial identificado;
+4. ticket estimado por entrega ou ciclo;
+5. comparação com referência informal mínima do território;
+6. preço mínimo sustentável para a UPA;
+7. risco de liquidez do canal identificado;
+8. alternativa não empreendedora avaliada;
+9. hipótese de B2B/B2I, ETRL ou Contrato Estruturado, quando o morador não possuir liquidez suficiente.
+
+> Sem Prova de Demanda 0, não há abertura de CNPJ. A ausência de demanda pagável não reprova o participante; reprova a rota empreendedora naquele momento.
+
+O comprador potencial do item 3 não é categoria abstrata: é nome registrado no Mapa de Compradores do Piloto (29.Z). Quando possível, a Prova de Demanda 0 se apoia em ao menos uma Carta de Intenção de Compra assinada por comprador com necessidade operacional real, que vale mais do que qualquer projeção de planilha.
 
 ## 15.2 Proibição de fábrica de MEIs
 
@@ -1017,6 +1169,19 @@ Se o município, o Emissor Nacional, a inscrição municipal, o alvará, o CNAE,
 
 CNPJ não será aberto se não houver financiamento mínimo para suporte fiscal, baixa preventiva e transição comercial por 6 a 9 meses. Abrir CNPJ sem essa retaguarda transfere risco para participante vulnerável.
 
+## 15.8 Pré-Mapa Fiscal Local
+
+Antes da primeira compra remunerada, a Rede deve classificar o município conforme sua capacidade fiscal real. Sem classificação fiscal local, não há primeira compra remunerada.
+
+| Classe | Condição | Efeito |
+|---|---|---|
+| **A** | XML/API/consulta estruturada confiável | RVO semi-automática possível |
+| **B** | consulta pública por chave ou código | RVO rápida por chave |
+| **C** | apenas PDF/DANFSe sem consulta estável | RVO humana enxuta obrigatória |
+| **D** | sistema instável ou emissão de NFS-e inviável | PCFC/TIF; bloqueio da compra até regularização |
+
+Município fiscalmente frágil não exclui o participante da Rede. Exclui apenas a rota de compra fiscalmente dependente naquele ciclo. Permanecem possíveis formação, portfólio, emprego assistido, aprendizagem, contrato estruturado, oficina não remunerada ou compra em canal fiscalmente viável.
+
 # 16. Unidades Produtivas de Ascensão — UPAs
 
 ## 16.1 Definição
@@ -1061,7 +1226,8 @@ A UPA só entra em qualquer camada remunerada se tiver:
 - preço ou proposta definida;
 - ausência de pendência crítica;
 - aceite das regras anticaptura;
-- forma jurídica compatível com o escopo.
+- forma jurídica compatível com o escopo;
+- para N1.75-BT: Impressão Digital Fiscal registrada, PRA-T sem bloqueio e Termo de Tomador Não Diretivo disponível para assinatura pelo cliente.
 
 ## 16.5 Responsabilidade documental limitada da UPA
 
@@ -1126,12 +1292,13 @@ A Central pode orientar, registrar e proteger. Não pode transformar controle do
 
 # 18. N1.75 — Camadas de Transição Produtiva
 
-O N1.75 não é uma única solução. É um conjunto de quatro camadas que protegem a passagem entre formação, formalização e renda real.
+O N1.75 não é uma única solução. É um conjunto de cinco camadas que protegem a passagem entre formação, formalização e renda real.
 
 | Camada | Quando usar | Quando não usar |
 |---|---|---|
 | N1.75-A Oficina Demonstrativa | quando há turma real e objetivo pedagógico | quando o objetivo principal é entregar serviço físico |
 | N1.75-B Compra Comercial | quando há cliente real e demanda individual | quando não há pagador ou nota fiscal clara |
+| N1.75-BT Compra Triangular | quando há cliente B2B/B2I com necessidade operacional real, objeto fechado, OS/lote, aceite e aceitação do Termo de Tomador Não Diretivo | quando há jornada, escala, pessoalidade, ordens diárias, posto fixo ou substituição de empregado |
 | N1.75-C ETRL | quando há demanda coletiva delimitada | quando vira manutenção recorrente ou equipe subordinada |
 | N1.75-D Contrato Estruturado | quando há rotina, escala ou equipe | quando a demanda é pontual e simples |
 
@@ -1148,7 +1315,8 @@ A modalidade é escolhida pelo CGI-P ou por instância técnica equivalente, com
 - risco fiscal;
 - escala;
 - recorrência;
-- segurança.
+- segurança;
+- para N1.75-BT especificamente: existência de cliente B2B/B2I com necessidade operacional real, disponibilidade de Termo de Tomador Não Diretivo assinado e PRA-T sem bloqueio.
 
 ## 18.2 Regra de descaracterização
 
@@ -1156,6 +1324,7 @@ Qualquer camada deve ser migrada quando a realidade mudar.
 
 - Oficina sem turma vira serviço disfarçado.
 - Compra sem cliente real vira subsídio artificial.
+- Compra Triangular com cliente que comanda jornada, pessoa ou método vira N1.75-D obrigatório.
 - ETRL repetida vira terceirização ou manutenção.
 - MEI com equipe vira fraude potencial.
 - Voluntário misturado com UPA paga vira passivo trabalhista e civil.
@@ -1419,6 +1588,122 @@ A Compra-Ponte será considerada artificial se o comprador só existir por causa
 
 Antes de abrir CNPJ ou ampliar voucher, a Rede deve aplicar matriz de liquidez por trilha, contendo no mínimo: ticket médio, frequência provável, comprador real, margem líquida, concorrência informal, necessidade de ferramenta, risco técnico, dependência de voucher, potencial de cliente externo e potencial de contrato estruturado.
 
+## 22.X Prova de Canal e Preço Sustentável — PCPS
+
+A PCPS substitui a lógica de preço de mercado purista por uma análise de canal de pagamento. A mediana informal local não será teto absoluto; será referência diagnóstica. Se o preço mínimo sustentável da UPA superar a capacidade de pagamento do morador ou comércio local, a trilha não será automaticamente inviável — deverá migrar para B2B/B2I, cliente âncora, ETRL, Contrato Estruturado ou rota não empreendedora.
+
+Critérios da PCPS:
+
+1. preço mínimo sustentável (cobrindo custo, reserva fiscal e margem mínima);
+2. referência informal local (diagnóstica, não teto);
+3. referência formal ou semiforme externa;
+4. canal de pagamento provável (B2C, B2B, B2I, ETRL, contrato);
+5. coparticipação real quando houver voucher;
+6. margem líquida estimada;
+7. possibilidade de recompra ou recorrência;
+8. risco de demanda solidária ou capturada.
+
+## 22.Y Matriz de Pagador Real
+
+> Necessidade nasce no território; pagamento pode vir de fora; execução só ocorre na modalidade correta.
+
+| Situação | Pagador correto | Modalidade |
+|---|---|---|
+| Benefício individual e comprador local com liquidez | Morador/comércio local | Compra-Ponte B2C |
+| Benefício individual, mas morador sem liquidez — comprador B2B/B2I contrata diretamente | Empresa, comércio maior, escola, condomínio, cliente âncora | Compra-Ponte B2B/B2I direta |
+| Benefício individual, comprador B2B/B2I não contrata diretamente no Ciclo 1 | Empresa ou instituição com necessidade operacional real — via OSC intermediária | Compra-Ponte Triangular N1.75-BT |
+| Benefício coletivo sem pagador individual | OSC/Fundo/instituição parceira | ETRL |
+| Demanda recorrente, escala, equipe ou rotina | Empresa, OSC, Estado ou contratante formal | Contrato Estruturado |
+| Sem pagador real | Nenhum | Não formalizar; redirecionar |
+
+## 22.Z Classificação de receitas: autônoma, assistida e capturada
+
+**Receita autônoma:** cliente obtido pela UPA por catálogo passivo, indicação leve ou recompra direta, sem intervenção substantiva da Rede.
+
+**Receita assistida:** Rede apresentou o comprador, mas a UPA negociou preço, escopo e execução de forma independente.
+
+**Receita capturada:** Rede, Fundo, OSC ou doador criou, negociou, fechou ou sustentou a compra sem necessidade operacional real do tomador.
+
+> Receita assistida pode validar canal. Receita capturada valida incubação, não mercado.
+
+---
+
+# 22.BT N1.75-BT — Compra-Ponte Triangular de Resultado Fechado
+
+## 22.BT.1 Definição
+
+N1.75-BT é modalidade excepcional em que a OSC figura como contratante intermediária formal para viabilizar entrega B2B/B2I de escopo fechado, curto, mensurável e não incorporável à rotina do tomador. A triangulação existe apenas quando o cliente não pode ou não quer contratar diretamente a UPA no primeiro ciclo, mas possui necessidade operacional real e aceita resultado por entrega.
+
+A receita triangular não será classificada como autônoma plena no Ciclo 1. Será classificada como assistida ou capturada conforme o grau de intermediação da OSC.
+
+> N1.75-BT é modalidade Vermelha-T: excepcional, de resultado fechado, com risco trabalhista próprio.
+
+## 22.BT.2 Quando usar e condições obrigatórias
+
+A modalidade BT exige o cumprimento simultâneo de todos os critérios abaixo. A ausência de qualquer um bloqueia a triangulação:
+
+- cliente B2B/B2I com necessidade operacional real documentada;
+- objeto fechado por OS, lote, entrega, pacote ou medição;
+- cliente assina o Termo de Tomador Não Diretivo antes do início;
+- não há posto fixo, jornada, pessoalidade absoluta nem ordens diárias do cliente;
+- não há substituição de empregado regular do tomador;
+- não há integração da UPA à equipe interna do tomador;
+- a UPA tem método próprio e preço próprio definido;
+- o cliente compra resultado, não disponibilidade de pessoa;
+- PRA-T sem indicação de bloqueio;
+- ACC-T e TVC-lite ativos desde a primeira operação;
+- DIC-Vermelho obrigatório para toda coleta da modalidade.
+
+## 22.BT.3 Expressões proibidas no objeto do contrato e na NFS-e
+
+São proibidas as seguintes descrições no contrato e na NFS-e da modalidade BT:
+
+- "manda alguém amanhã";
+- "apoio operacional";
+- "serviços gerais";
+- "diária";
+- "plantão";
+- "mão de obra";
+- "ajudante";
+- "rotina administrativa";
+- "recepção";
+- "limpeza recorrente";
+- "jardinagem mensal";
+- "manutenção contínua";
+- "disponibilização de pessoa";
+- "apoio mensal" sem objeto mensurável;
+- "suporte operacional" sem objeto mensurável.
+
+## 22.BT.4 Matriz de veto da triangulação
+
+| Achado | Efeito |
+|---|---|
+| horário fixo exigido pelo cliente | bloqueia triangulação |
+| ordens diárias do cliente | bloqueia |
+| exigência de pessoa específica | bloqueia |
+| posto fixo permanente | bloqueia |
+| substituição de empregado regular | bloqueia |
+| pagamento mensal sem OS/medição | bloqueia |
+| integração à equipe interna | bloqueia |
+| crachá funcional interno | bloqueia até readequação |
+| ferramenta do tomador sem justificativa técnica | ACC-T2 |
+| mesmo valor com escopo delimitado e aceite | permitido com TVC-lite ativo |
+| mesmo valor sem escopo delimitado | bloqueia renovação |
+
+## 22.BT.5 Papel da OSC na triangulação
+
+A OSC figura como contratante intermediária legítima apenas para viabilizar o fluxo de caixa e a conformidade fiscal do primeiro ciclo. Ela não pode:
+
+- controlar jornada da UPA;
+- dar ordens operacionais diárias;
+- distribuir tarefas pelo cliente;
+- concentrar pagamento para redistribuir informalmente;
+- transformar-se em fornecedora habitual de mão de obra ao cliente.
+
+## 22.BT.6 Reclassificação obrigatória
+
+Se o cliente repetir contratação exigindo os mesmos elementos proibidos, a rota migra obrigatoriamente para N1.75-D — Contrato Estruturado. A repetição sem readequação é bloqueio, não advertência.
+
 # 23. Carteira Territorial de Voucher
 
 ## 23.1 Definição
@@ -1450,6 +1735,12 @@ A redução do voucher local só ocorrerá com matriz de substituição de recei
 O voucher local não desaparece porque o território pobre ganhou liquidez. Ele desaparece quando outra fonte de receita ou saída formal assume a função de transição.
 
 É vedado aplicar fade-out automático sem substituição real de receita. Se a UPA depende integralmente do voucher ao final da Janela 2, a rota empreendedora deve ser revista, pausada ou encerrada com Módulo Estruturado de Saída.
+
+## 23.7 Voucher como teste, não como mercado
+
+> Voucher não prova mercado. Voucher mede fricção inicial de compra. A validação econômica dependerá de coparticipação, canal de pagamento real, margem líquida e redução de dependência do subsídio.
+
+Se o voucher for necessário porque o morador vulnerável não possui liquidez estrutural, a Rede deverá avaliar migração para B2B/B2I, ETRL, Contrato Estruturado ou rota não empreendedora, em vez de insistir no B2C subsidiado.
 
 # 24. N1.75-C — Empreitada Territorial de Resultado Limitado — ETRL
 
@@ -1614,6 +1905,166 @@ Migrar para N1.75-D quando houver:
 - serviço público ordinário;
 - risco técnico superior ao piloto.
 
+## 27.X Painel de Risco de Autonomia — PRA
+
+O PRA substitui qualquer índice eliminatório de concentração de cliente. Concentração financeira é alerta; subordinação concreta é bloqueio.
+
+Componentes:
+
+1. **D1 — concentração no maior tomador:** percentual da receita total gerada pelo cliente principal.
+2. **DRV — dependência de Rede/Fundo/OSC/doador/compra capturada:** percentual de receita classificada como capturada.
+3. **ACC — Auditoria de Conduta Concreta:** verificação de sinais de subordinação real.
+4. **TVC — Teste de Variabilidade Comercial:** análise de padrão de faturamento.
+
+Regras do PRA:
+
+- D1 acima de 70% aciona ACC. Não reprova sozinho.
+- DRV acima de 50% impede classificar a UPA como autônoma plena para N2, salvo negociação externa avançada com necessidade operacional real.
+- DRV acima de 70% aciona revisão da rota empreendedora.
+
+## 27.X-T PRA-T — Painel de Risco de Autonomia Triangular
+
+O PRA-T é obrigatório em toda operação N1.75-BT. Avalia especificamente o risco de subordinação no cliente corporativo. Ele é acionado antes da contratação e a cada renovação.
+
+Dimensões obrigatórias do PRA-T:
+
+1. local de execução — dentro ou fora das instalações do cliente;
+2. canal de comando — quem dá instrução e por qual meio;
+3. horário ou escala — exigida pelo cliente ou definida pela UPA;
+4. pessoalidade — o cliente exige pessoa específica;
+5. integração à equipe interna — a UPA participa de reuniões, sistemas ou rotinas internas;
+6. ferramentas do tomador — sem justificativa técnica documental;
+7. existência de OS/lote/aceite — por entrega ou por disponibilidade;
+8. preço próprio da UPA — definido pela UPA ou imposto pelo cliente;
+9. recorrência — pontual, sazonal ou contínua;
+10. papel real da OSC — intermediária de conformidade ou coordenadora operacional.
+
+Regra central do PRA-T:
+
+> Se o tomador controlar jornada, pessoa, método diário ou integração funcional, a triangulação é bloqueada e a rota migra para N1.75-D.
+
+## 27.Y Auditoria de Conduta Concreta — ACC
+
+A ACC é leve, retrospectiva e proporcional. Não audita WhatsApp privado, não rastreia localização, não acompanha jornada e não transforma o monitor em fiscal de rotina.
+
+**Gatilhos da ACC:**
+
+- D1 acima de 70%;
+- contrato acima de 6 meses;
+- pagamento mensal recorrente;
+- renovação sucessiva;
+- denúncia;
+- linguagem suspeita em contrato ou NFS-e;
+- ausência de medição ou OS;
+- sinais de posto fixo ou pessoalidade;
+- DRV alto.
+
+**Estrutura da ACC:**
+
+- **ACC-0:** triagem documental — análise de NFS-e, contratos, valores, datas e descrições.
+- **ACC-1:** declaração espelhada UPA/tomador — ambas respondem separadamente ao mesmo questionário sobre a relação contratual.
+- **ACC-2:** revisão qualificada pela Secretaria Técnica em caso de veto absoluto, contradição entre declarações ou alto risco acumulado.
+
+**Papel do monitor na ACC:**
+
+O monitor não audita rotina, não acompanha jornada, não fiscaliza execução diária, não coleta conversa privada, não decide vínculo e não confronta tomador. A Secretaria Técnica analisa documentos de borda. O monitor só coleta documentos quando já previstos e seguros.
+
+### Vetos Absolutos da ACC
+
+Qualquer "sim" abaixo paralisa renovação UPA/MEI e exige migração para contrato estruturado ou readequação:
+
+- controle de frequência punitivo, ponto ou grade horária idêntica à de empregados;
+- pessoalidade absoluta (tomador exige que apenas aquela pessoa específica execute);
+- ordens diárias sobre modo de execução;
+- sanção disciplinar típica de empregado;
+- posto fixo permanente;
+- substituição de empregado regular ou função ordinária do tomador;
+- pagamento mensal sem escopo, OS, medição ou aceite documentado;
+- integração como equipe interna do tomador.
+
+### Fatores Cumulativos da ACC
+
+Fatores que isolados não determinam vínculo, mas acumulados indicam risco:
+
+- uniforme idêntico ao de funcionário interno (não mero EPI);
+- crachá funcional interno (não crachá de visitante ou prestador);
+- ferramentas principais do tomador sem justificativa técnica;
+- reuniões internas obrigatórias do tomador;
+- metas internas do tomador atribuídas à UPA;
+- renovações sucessivas sem nova proposta ou escopo atualizado;
+- ausência de preço próprio ou proposta da UPA;
+- exclusividade prática;
+- pagamento fixo sem variação ou medição.
+
+Régua de acumulação:
+
+- 1 fator: observar.
+- 2 fatores: ajustar contrato.
+- 3 fatores: bloquear renovação até readequação.
+- 4 ou mais fatores: presumir rota errada e migrar para contrato estruturado.
+
+## 27.Y-ACC Peso das declarações bilaterais
+
+> Nota de aplicação: declarações da UPA e do tomador são insumos fracos. O peso decisório principal recai sobre NFS-e, OS, aceite, padrão de pagamento, recorrência e descrição fiscal. Ver ACC-1 (seção 27.Y) e ACC-T2 (seção 27.Y-T) para aplicação concreta.
+
+## 27.Y-T ACC-T — Auditoria de Conduta Concreta Triangular
+
+A ACC-T é obrigatória em toda operação N1.75-BT e se divide em três etapas:
+
+**ACC-T0 — pré-contratação:**
+O cliente assina o Termo de Tomador Não Diretivo antes do início da operação. Sem assinatura do termo, a triangulação não é autorizada pelo CGI-P.
+
+**ACC-T1 — execução:**
+Mudanças de escopo só por OS/aditivo formal. O cliente pode avaliar a entrega, mas não pode dirigir o trabalho, alterar método diário nem exigir pessoa específica. O monitor verifica sinais de comando indevido sem fiscalizar rotina, sem rastrear localização e sem coletar conversa privada.
+
+**ACC-T2 — fechamento:**
+A Secretaria Técnica analisa OS, aceite, NFS-e, datas, valores, descrição fiscal, recorrência e sinais de comando indevido. Se houver contradição entre declarações e padrão fiscal, o padrão fiscal prevalece.
+
+Regra sintética da ACC-T:
+
+> Cliente avalia resultado. Cliente não comanda rotina.
+
+## 27.Z Teste de Variabilidade Comercial — TVC
+
+O TVC analisa o padrão de faturamento para identificar salário disfarçado por faturamento.
+
+**Critérios de alerta:**
+
+- notas fiscais com mesmo valor por três ou mais meses consecutivos;
+- mesma descrição genérica sem variação;
+- mesma data aproximada de emissão;
+- ausência de OS, medição ou aceite;
+- pagamento mensal sem resultado delimitado ou verificável.
+
+> Valor fixo não é proibido. Valor fixo sem escopo mensurável é risco.
+
+**Exemplo permitido:** manutenção mensal com área definida, frequência, atividades, exclusões e aceite assinado.
+
+**Exemplos proibidos ou críticos na NFS-e:** "serviços gerais", "apoio operacional", "ajudante", "diária", "plantão", "mão de obra", "serviços continuados" sem escopo delimitado, "disponibilização de pessoa", "apoio mensal" ou "suporte operacional" sem objeto mensurável.
+
+## 27.Z-L TVC-lite — Ciclo 1
+
+O TVC-lite é a versão proporcional aplicada desde a primeira recorrência no Ciclo 1. Não paralisa por erro sanável, mas exige correção antes de novo pagamento.
+
+Critérios de alerta do TVC-lite:
+
+- termo proibido na NFS-e;
+- descrição genérica sem identificação de lote ou entrega;
+- mesmo valor repetido sem OS ou aceite;
+- mesma data aproximada de emissão mês a mês;
+- mesmo tomador concentrando receita acima de 70%;
+- ausência de aceite documentado;
+- pagamento mensal sem resultado delimitado ou verificável.
+
+| Achado | Efeito |
+|---|---|
+| erro isolado em descrição antes do pagamento | corrigir antes da liberação |
+| termo proibido repetido | bloquear nova operação até correção |
+| valor fixo com escopo, OS e aceite | permitido com observação |
+| valor fixo sem escopo delimitado | bloquear renovação |
+| concentração acima de 70% | acionar ACC-lite ou PRA-T; não bloquear sozinho |
+| pagamento mensal sem medição ou resultado | bloquear continuidade |
+
 ---
 
 # 28. Fundo Privado, financiamento e separação de contas
@@ -1628,6 +2079,7 @@ O Fundo Privado deve operar com conta segregada, regulamento público, critério
 |---|---|
 | A | formação e oficinas demonstrativas |
 | B | voucher comercial e Compra-Ponte B |
+| B-T | Compra-Ponte Triangular — separada da Conta B para isolar risco de intermediação |
 | C | ETRL |
 | D | contrato estruturado e escala |
 | E | seguros, EPI e contingência |
@@ -1637,7 +2089,8 @@ O Fundo Privado deve operar com conta segregada, regulamento público, critério
 | Modalidade | Documento fiscal/financeiro |
 |---|---|
 | Oficina | NFS-e de oficina/instrução/facilitação compatível ou TIF temporário |
-| Compra Comercial | nota fiscal conforme tomador real e desenho validado |
+| Compra Comercial (N1.75-B) | nota fiscal conforme tomador real e desenho validado |
+| Compra Triangular (N1.75-BT) | contrato tripartite, NFS-e da UPA contra OSC + NFS-e da OSC contra cliente, OS, aceite e TIF se necessário |
 | ETRL | NFS-e contra OSC/Fundo ou TIF temporário |
 | Contrato Estruturado | contrato formal, folha, nota empresarial ou instrumento adequado |
 
@@ -1668,19 +2121,55 @@ Além das contas internas já previstas, o Fundo poderá criar a Conta F — Pon
 
 Finalidades permitidas:
 
-- reduzir risco para comprador real;
-- custear regularidade, cadastro e documentação;
-- apoiar prospecção comercial;
-- complementar voucher transicional com terceiro pagador real;
+- regularidade fiscal e documental da UPA;
+- cadastro de fornecedor junto a compradores reais;
+- documentação de habilitação;
+- ferramenta mínima exigida por comprador externo com funil documentado;
+- seguro ou habilitação técnica exigida por comprador;
+- apoio à triangulação formal quando a OSC for contratante legítima;
+- prospecção comercial com comprador real, inclusive canal B2B/B2I;
+- complemento transicional de voucher com terceiro pagador real;
 - viabilizar cliente âncora;
-- financiar transição para contrato estruturado, emprego, aprendizagem ou baixa preventiva;
-- apoiar seguro, ferramenta mínima ou habilitação exigida por comprador externo, quando houver funil documentado.
+- custo de transição para contrato estruturado, emprego, aprendizagem ou baixa preventiva;
+- tarifa ou garantia com operador financeiro regular, se houver parecer técnico e contábil favorável.
 
 Uso proibido:
 
-> A Conta F não poderá financiar entregas cujo único comprador substantivo seja a própria Rede ou o próprio Fundo.
+> A Conta F não poderá financiar entregas cujo único comprador substantivo seja a própria Rede ou o próprio Fundo. A Conta F não comprará demanda artificial nem portfólio sem necessidade operacional real do tomador.
+
+> A Conta F não compra recebíveis, não desconta nota fiscal, não antecipa crédito, não faz mútuo, não opera capital de giro reembolsável e não atua como factoring social. Subvenção não reembolsável de capital de giro não é finalidade da Conta F — quando excepcionalmente necessária, deve ser classificada como subsídio puro e registrada separadamente, jamais como validação de mercado.
 
 A Conta F não é bolsa, salário, frente de trabalho ou compra artificial de portfólio. É conta de redução de risco para comprador real e de travessia controlada entre Janela 1 e Janela 2.
+
+### 28.7.X Regras patrimoniais da Conta F
+
+Todo ativo adquirido com recursos da Conta F deverá ter destinação definida antes da compra. São três modalidades admitidas:
+
+1. **Doação produtiva irreversível de baixo valor:** quando o custo de retomada for maior que o valor do ativo. Registrar como transferência patrimonial com finalidade produtiva.
+2. **Cessão de uso condicionada:** para equipamento relevante, com Termo de Cessão, finalidade, condições de uso, devolução e depreciação prevista.
+3. **Ativo comum da Rede:** quando a ferramenta for compartilhada por várias UPAs, com registro de controle e responsável.
+
+> Ferramenta comprada pela Conta F não poderá virar salário indireto, prêmio pessoal opaco ou ativo sem rastreabilidade. Todo ativo relevante terá destinação definida antes da compra.
+
+## 28.X Conta G — Reserva de Transição Protegida (Bolsa-Travessia)
+
+O Fundo poderá criar a Conta G — Reserva de Transição Protegida, também denominada **Bolsa-Travessia**, mantida separada da Conta F para preservar a integridade desta.
+
+**Finalidade:** apoio temporário por até 45 dias quando a rota UPA/MEI for interrompida por risco trabalhista, colapso de comprador, veto da ACC, baixa preventiva ou migração para contrato estruturado.
+
+**Condições:**
+
+- não remunera serviço nem entrega produtiva;
+- não substitui salário;
+- deve estar vinculada a plano de saída documentado;
+- pode financiar formação, requalificação, busca ativa de emprego, aprendizagem, baixa preventiva, transição documental ou proteção de renda mínima.
+
+**Estrutura de liberação em duas camadas:**
+
+1. **Parcela emergencial inicial:** liberada por decisão do CGI-P sem exigência de validação externa prévia. A Conta G não pode deixar a pessoa sem proteção enquanto aguarda resposta burocrática de terceiros. A primeira parcela é proteção emergencial.
+2. **Parcelas seguintes:** dependem de marco externo verificável — confirmação por contador, empresa, escola, entidade social, coordenação pedagógica ou órgão parceiro. Não se aceita print produzido pela própria UPA como prova suficiente para continuidade.
+
+> A Bolsa-Travessia existe para reduzir o incentivo à mentira defensiva na auditoria e impedir colapso abrupto de renda quando a forma jurídica muda de trilho.
 
 ## 28.8 Regra de Eficiência Social Consolidada
 
@@ -1699,6 +2188,59 @@ A classificação como P&D não significa custo não recorrente universal. DICs,
 A ampliação do topo do funil para até 30 participantes só poderá ocorrer se houver orçamento variável aprovado para formação, insumos, EPIs de treino, lanches, transporte, bolsas-formação quando cabíveis, tempo de monitoria, rubricas, devolutivas e Módulo Estruturado de Saída.
 
 É vedado ampliar a turma formativa para diluir custo fixo sem lastro financeiro para o custo variável. Antes da abertura do ciclo, o CGI-P deverá aprovar orçamento por participante N0/N1/N1.5 e declarar a capacidade de atendimento sem redução de segurança, sem improvisação documental e sem aumento indevido de carga dos monitores.
+
+## 28.10 Modelo financeiro mínimo do piloto
+
+Nenhuma das regras anteriores tem sentido sem um orçamento. A Rede só deve abrir o primeiro ciclo depois de demonstrar, com números, que consegue sustentar a travessia de 6 a 9 meses. Os valores a seguir são parâmetros de referência para um ciclo de 9 meses, 12 a 16 participantes no topo do funil e até 2 UPAs, calibrados pelos custos vigentes em 2026. Eles não são promessa nem teto rígido; servem para o CGI-P e o Fundo decidirem se há lastro antes de prometer CNPJ a alguém. Cada item deve ser substituído pelo preço real cotado no território antes da execução.
+
+**Custo recorrente mensal**
+
+| Item | Referência mensal |
+|---|---:|
+| Secretaria Técnica (meio período) e apoio contábil | R$ 4.500 |
+| 2 monitores titulares de campo | R$ 4.000 |
+| Monitor reserva em reciclagem e standby | R$ 800 |
+| Conformidade e parecer técnico recorrente | R$ 1.200 |
+| Conectividade, dados institucionais e plataforma de coleta | R$ 400 |
+| **Subtotal recorrente** | **R$ 10.900** |
+
+Em 9 meses, o custo recorrente projeta-se em torno de R$ 98.000.
+
+**Custo de implantação (não recorrente, registrado como P&D)**
+
+| Item | Referência |
+|---|---:|
+| 3 dispositivos institucionais criptografados (aparelho e configuração) | R$ 6.000 |
+| Parecer jurídico e fiscal municipal inicial (ISS, NFS-e, MEI, LGPD, responsabilidade civil) | R$ 8.000 |
+| Montagem de formulários, simulações e treinamento inaugural de monitores | R$ 5.000 |
+| **Subtotal implantação** | **R$ 19.000** |
+
+**Custo variável do funil (12 a 16 pessoas, 9 meses)**
+
+| Item | Referência |
+|---|---:|
+| Insumos formativos, EPI de treino e material pedagógico | R$ 6.000 |
+| Transporte e lanches | R$ 4.500 |
+| Bolsas-formação quando cabíveis (não remuneram serviço) | R$ 12.000 |
+| Certificação, devolutiva e Módulo Estruturado de Saída | R$ 3.000 |
+| **Subtotal variável** | **R$ 25.500** |
+
+**Reservas e contas segregadas**
+
+| Conta | Finalidade | Referência |
+|---|---|---:|
+| Contas A a E | formação, voucher, ETRL e contingência | R$ 20.000 |
+| Conta F | redução de risco do comprador real | R$ 8.000 |
+| Conta G | Bolsa-Travessia de transição protegida | R$ 10.000 |
+| **Subtotal reservas** | | **R$ 38.000** |
+
+Somados, os quatro blocos colocam o custo total de referência do primeiro ciclo em torno de **R$ 180.000** — algo como **R$ 11.000 a R$ 15.000 por participante** no topo do funil. Esse número desconfortável é o ponto, não um erro: ele torna visível, antes de começar, que proteger a rota empreendedora é caro e que a renda de duas UPAs MEI dificilmente paga o controle que as protege no primeiro ciclo.
+
+A consequência econômica está explícita na régua do Dia 270 e na Regra de Eficiência Social Consolidada. Se o custo de controle institucional consumir mais de 50% do ciclo, a expansão da rota empreendedora suspende; acima de 70%, a rota UPA/MEI é presumida inadequada para aquele território. O primeiro ciclo não se justifica pela renda gerada, e sim por três retornos: o valor diagnóstico de descobrir quais rotas não funcionam ali, a saída digna dos participantes que não devem carregar CNPJ e a queda do custo de implantação por célula quando o modelo é replicado, já que parecer, formulários e treinamento inaugural não se repetem integralmente.
+
+**O custo que recai sobre a UPA.** Aberto o CNPJ, a UPA passa a dever o DAS-MEI todo mês, independentemente de faturar. Em 2026, com salário mínimo de R$ 1.621, o DAS de serviços fica em torno de R$ 86 por mês — cerca de R$ 1.030 por ano só de tributo fixo, antes de qualquer despesa operacional. O teto de faturamento do MEI permanece em R$ 81.000 por ano (média de R$ 6.750 por mês), inalterado desde 2018, com tolerância de até 20% antes do desenquadramento retroativo para microempresa. Por isso a regra de não abrir CNPJ sem reserva para pelo menos seis meses de DAS, contabilidade e contingência não é zelo excessivo: é a diferença entre formalização e dívida fabricada. A Reforma Tributária preservou o regime do MEI com transição longa, mas a emissão de NFS-e passou a exigir os campos de IBS e CBS, e o sistema emissor usado pela UPA precisa estar atualizado.
+
+**Quem paga.** O modelo não presume um financiador único. O custo de implantação e a Secretaria Técnica são tipicamente cobertos por Fundo Privado, edital filantrópico ou parceria; o custo variável do funil pode ser dividido com financiadores de impacto por carteira, nunca por pessoa nominal; as reservas das Contas F e G exigem recurso não reembolsável dedicado. Antes da primeira turma, o CGI-P deve registrar de onde vem cada bloco. Ciclo sem fonte declarada para os 9 meses não inicia.
 
 # 29. Empresas, comércio local e compradores de impacto
 
@@ -1733,6 +2275,18 @@ Empresas e doadores não podem:
 
 A empresa deve financiar carteira ou modalidade, não pessoa escolhida nominalmente.
 
+## 29.3-T Tipos de comprador — classificação e tratamento
+
+| Tipo de comprador | Tratamento |
+|---|---|
+| comprador direto da UPA (B2C ou B2B sem intermediação) | melhor prova de mercado; receita autônoma ou assistida |
+| cliente âncora protegido | tração assistida; ACC a cada 90 dias se D1 acima de 70% |
+| cliente triangular via OSC (N1.75-BT) | teste de execução fiscal e qualidade; receita assistida ou capturada; não valida mercado autônomo pleno no Ciclo 1 |
+| contratante com rotina, escala ou pessoalidade | N1.75-D obrigatório |
+| doador sem necessidade operacional real | não valida mercado; receita capturada |
+
+> Receita triangular não será classificada como autônoma plena no Ciclo 1. Será assistida ou capturada conforme o grau de intermediação da OSC.
+
 ---
 
 ## 29.4 Compradores âncora e tempo de mercado
@@ -1741,11 +2295,87 @@ Empresas e compradores de impacto não devem ser tratados apenas como doadores. 
 
 A prospecção de comprador externo deve começar antes do fim da Janela 1. A Janela 2 não pode começar do zero comercial; deve partir de uma carteira mínima de contatos, intenções, cadastros, compradores potenciais ou hipóteses de contrato estruturado.
 
+## 29.X Comprador B2B/B2I com necessidade operacional real
+
+Empresas, escolas, condomínios, comércios e instituições podem ser compradores reais quando:
+
+- pagam com recurso próprio;
+- possuem necessidade operacional concreta;
+- contratam por escopo, lote, entrega ou medição;
+- não exigem jornada, posto fixo ou pessoalidade;
+- não usam compra como doação disfarçada;
+- aceitam nota fiscal e contrato.
+
+> Contrato B2B/B2I prospectado pela Rede não será automaticamente considerado receita capturada. Se houver necessidade operacional real, pagamento próprio, escopo delimitado e negociação final pela UPA, a receita será classificada como tração comercial assistida, não como dependência artificial.
+
+## 29.Y Cliente Âncora Protegido
+
+O cliente âncora pode contratar por 6 a 12 meses, sem limitação artificial ao prazo curto, desde que respeitadas as seguintes condições:
+
+- necessidade operacional real documentada;
+- contrato por escopo, lote, entrega, pacote ou medição;
+- sem exclusividade;
+- sem jornada ou grade horária;
+- sem ordens diárias sobre modo de execução;
+- sem pessoalidade absoluta;
+- sem posto fixo permanente;
+- ACC a cada 90 dias quando houver concentração relevante (D1 acima de 70%);
+- se o contrato for estruturado via N1.75-BT: ACC-T obrigatória a cada renovação, independentemente de D1.
+
+> Cliente âncora externo pode ser tração; cliente âncora que comanda rotina vira contrato estruturado.
+
+## 29.Z Mapa de Compradores do Piloto
+
+A Prova de Demanda 0, a Matriz de Pagador Real e a PCPS dizem como validar mercado, mas não substituem o trabalho concreto de encontrar quem paga. Esse é, na prática, o elo que mais derruba projetos juridicamente bem desenhados: a estrutura de proteção fica impecável e ninguém compra. Por isso o piloto não inicia a camada econômica sem um Mapa de Compradores nomeado, com pessoas e instituições reais, não categorias abstratas.
+
+Antes da primeira Compra-Ponte, o CGI-P deve registrar, por trilha, ao menos três compradores potenciais identificados por nome, com o serviço específico que comprariam, faixa de preço plausível, frequência esperada e quem dentro da organização decide a compra. Categorias servem para procurar; o que entra no mapa é o comprador concreto.
+
+| Categoria | Exemplo de comprador real | O que tipicamente compra |
+|---|---|---|
+| Comércio local | mercado, padaria, oficina, salão do bairro | digitalização de documentos, organização, pequenos reparos, comunicação visual simples |
+| Condomínio e síndico | prédio residencial, condomínio popular | jardinagem leve, pintura de trecho autorizado, organização de áreas comuns |
+| Escola e creche | unidade municipal, escola comunitária, OSC educacional | oficinas, digitalização de acervo, manutenção não estrutural |
+| Empresa de impacto | empregador da região, fornecedor âncora | lotes de serviço por escopo, absorção de egresso em CLT ou aprendizagem |
+| OSC e Fundo | a própria gestora e parceiras | ETRL de escopo fechado, oficina demonstrativa, contratação de egresso |
+| Poder público | prefeitura, equipamento do SUAS | contratação formal por dispensa ou licitação quando couber, jamais zeladoria disfarçada |
+
+A regra que organiza o mapa continua sendo a do item 1.1: a necessidade nasce no território, mas o pagador raramente é o morador vulnerável. Quando o preço sustentável não couber na liquidez local, a trilha migra para B2B/B2I, cliente âncora, ETRL ou contrato estruturado antes de qualquer CNPJ. Trilha sem comprador nomeado é trilha bloqueada para formalização.
+
+### Carta de Intenção de Compra
+
+Para sair do plano da hipótese, o piloto usa um instrumento leve e não vinculante que transforma interesse verbal em sinal verificável de demanda. A Carta de Intenção não é contrato, não cria obrigação de pagar e não garante negócio; serve para distinguir o comprador que de fato existe do comprador imaginado.
+
+```markdown
+# Carta de Intenção de Compra
+
+Comprador potencial:
+Responsável pela decisão:
+Serviço de interesse:
+Faixa de preço considerada aceitável:
+Frequência provável (única, mensal, sazonal):
+Necessidade operacional real que motiva a compra:
+Prazo em que pretende decidir:
+
+Declaro interesse em contratar o serviço descrito de uma UPA formalizada,
+por escopo fechado e mediante nota fiscal, sem que isto constitua obrigação
+de compra, exclusividade ou comando sobre a forma de execução do prestador.
+```
+
+Três cartas assinadas por compradores distintos, com necessidade operacional real, valem mais como Prova de Demanda 0 do que qualquer projeção de planilha. Carta assinada por doador sem necessidade operacional, ou cujo único comprador substantivo seria a própria Rede, não conta como mercado e classifica a receita futura como capturada.
+
 ## 29.5 Bloco 4 de absorção para não convertidos
 
-Se o piloto operar com funil ampliado de até 30 participantes, a Rede deverá pactuar previamente um Bloco 4 de absorção para pessoas não convertidas em UPA. Esse Bloco 4 poderá incluir empresas parceiras, aprendizagem, emprego assistido, estágio social protegido, cursos técnicos, contrato estruturado, encaminhamento de documentação, proteção social e novas trilhas.
+Se o piloto operar com funil ampliado de até 30 participantes, a Rede deverá pactuar previamente um Bloco 4 de absorção para pessoas não convertidas em UPA, dividido em três níveis:
 
-Sem Bloco 4 minimamente viável, o funil ampliado não deve ser aberto. A Rede não pode gerar 90% de não conversão empreendedora sem rota de dignidade, devolutiva e continuidade.
+**Bloco 4-A — saída mínima garantida:** devolutiva individual, Passaporte atualizado, orientação documental, proteção social, nova trilha formativa.
+
+**Bloco 4-B — absorção parcial pactuada:** entrevistas com empresas parceiras, cursos técnicos externos, aprendizagem, encaminhamento técnico ativo.
+
+**Bloco 4-C — absorção forte:** emprego assistido, aprendizagem formalizada, contrato estruturado ou cliente âncora com absorção real.
+
+> Sem Bloco 4-C minimamente viável, não abrir turma de 30. Operar com 12 a 16 participantes.
+
+A Rede não pode gerar 90% de não conversão empreendedora sem rota de dignidade, devolutiva e continuidade documentada.
 
 # 30. Papel subsidiário do Estado
 
@@ -1772,7 +2402,23 @@ O Estado entra para proteger, autorizar, fiscalizar, reconhecer e contratar form
 
 ## 30.3 Contratos públicos
 
-Quando houver serviço recorrente ou de escala, usar licitação, parceria formal, contrato com empresa, cooperativa autêntica, CLT, aprendizagem ou módulo estruturado.
+Quando houver serviço recorrente ou de escala, usar licitação, parceria formal, contrato com empresa, cooperativa autêntica, CLT, aprendizagem ou módulo estruturado. A contratação pública segue exclusivamente a Lei nº 14.133/2021, único marco de licitações desde a revogação da Lei nº 8.666/1993. Para entregas de pequeno valor, a contratação direta por dispensa de licitação prevista no art. 75 pode ser viável dentro dos limites atualizados anualmente — em 2026, pelo Decreto nº 12.807/2025 — sempre com justificativa, pesquisa de preços e publicação no Portal Nacional de Contratações Públicas. Parcerias com a OSC seguem o Marco Regulatório das Organizações da Sociedade Civil (Lei nº 13.019/2014). Nenhum desses instrumentos pode ser usado para mascarar zeladoria contínua ou emprego público.
+
+## 30.4 Articulação com política pública e crédito produtivo
+
+A Rede não opera no vácuo nem precisa reinventar o que o Estado já oferece. Antes de construir qualquer trilho próprio, ela deve perguntar se a pessoa não seria mais bem servida por um programa existente — e, quando a resposta for sim, encaminhar em vez de absorver. Esse encaminhamento é resultado positivo, não perda de participante.
+
+O ponto de partida é o Cadastro Único. A maioria dos participantes elegíveis já está ou deveria estar no CadÚnico, que é a porta de entrada para a rede de proteção social e para programas de inclusão produtiva. Regularizar o cadastro é, muitas vezes, a primeira ação de ascensão mais eficiente que abrir um CNPJ.
+
+A partir daí, a Rede articula sem duplicar:
+
+- **Acredita no Primeiro Passo**, instituído pela Lei nº 14.995/2024, oferece microcrédito produtivo orientado a juros reduzidos, qualificação e apoio ao empreendedorismo para inscritos no CadÚnico entre 16 e 65 anos, com garantia de fundo público que dispensa avalista. Para a UPA que já provou demanda e maturidade comercial, é fonte de capital muito mais barata e adequada do que recurso reembolsável da Rede. A Conta F, que por princípio não opera crédito, não compete com isso: encaminha.
+- **Procred 360 e Crediamigo**, dentro do mesmo guarda-chuva, atendem MEIs e microempresas já formalizados que precisam de giro — etapa posterior à validação que o piloto faz.
+- **SINE e intermediação de mão de obra** são a rota natural para quem o diagnóstico aponta para emprego assistido, não para empreendedorismo. O Bloco 4 deve ter esse encaminhamento mapeado.
+- **Equipamentos do SUAS**, incluindo o Acessuas Trabalho, são parceiros para acolhimento, busca ativa e proteção social de quem retorna à rota não empreendedora.
+- **Qualificação profissional pública e Sistema S** podem substituir ou complementar a formação da Rede, reduzindo custo variável do funil.
+
+O contrafactual deve ser explícito na avaliação do ciclo. A pergunta honesta não é "quantos viraram empreendedores", mas "o que a Rede entregou que o microcrédito do Acredita, o SINE e a qualificação pública não entregariam sozinhos". A resposta legítima está em três funções que esses programas não cumprem isoladamente: o trilho jurídico-probatório que evita vínculo disfarçado e MEI precoce; a triagem que descobre, com evidência, qual rota não destrói a pessoa antes de empurrá-la para o crédito; e a costura territorial que liga necessidade, formação, comprador real e saída digna num único percurso acompanhado. Onde a Rede não agrega nada além do que o programa público já faz, o caminho correto é encaminhar e registrar a saída positiva, não criar estrutura paralela.
 
 ---
 
@@ -1807,6 +2453,18 @@ A universidade não deve:
 ## 31.4 Devolutiva
 
 Todo projeto acadêmico deve garantir versão simples do relatório, proteção de dados, consentimento, reconhecimento adequado e proibição de exposição humilhante.
+
+## 31.5 Contingência de ausência ou atraso da universidade
+
+A extensão acadêmica é o motor metodológico do N1.5, mas não pode ser ponto único de falha. Prazos universitários, calendários de aprovação em comitê de ética, rotatividade de estudantes e incentivos acadêmicos raramente se encaixam no cronograma de um piloto territorial. Por isso a Rede deve poder seguir mesmo quando a universidade atrasa ou sai.
+
+A salvaguarda tem três camadas. Primeiro, os produtos metodológicos críticos — matriz de competências, RPME, rubricas e limites de materialidade — devem ser entregues e transferidos à Secretaria Técnica como acervo da Rede até o Dia 75, de modo que sua posse não dependa da permanência da equipe acadêmica. Segundo, a parceria deve prever um substituto possível desde o início: outra instituição de ensino, um profissional técnico contratado para o desenho pedagógico ou uma metodologia já validada em ciclo anterior. Terceiro, se nenhuma ponte acadêmica estiver disponível no prazo, o CGI-P pode iniciar o ciclo em modo reduzido, usando apenas trilhas de baixo risco com método pré-existente, e adiar a abertura de trilhas que dependam de diagnóstico acadêmico novo. O que não se admite é paralisar a proteção da pessoa porque o parceiro acadêmico se ausentou, nem improvisar método sem rubrica e sem limite de materialidade só para não parar.
+
+## 31.6 Conciliação entre prova e proteção de dados
+
+O modelo exige, ao mesmo tempo, cadeia probatória robusta — fotos, assinaturas, metadados, hashes — e minimização de dados pela LGPD (Lei nº 13.709/2018). As duas exigências não são contraditórias quando se separa finalidade de volume. A Rede coleta o mínimo necessário para cada finalidade declarada e protege com rigor o que coleta, em vez de coletar muito e proteger pouco.
+
+Na prática: a base legal de cada coleta é registrada na ingestão; dado sensível e imagem de pessoa só entram quando a finalidade probatória os exige, nunca por hábito; o consentimento é informado e revogável, com versão simples para o participante; a guarda segue prazos definidos, com descarte ao fim da finalidade, salvo obrigação fiscal ou contábil que imponha retenção; e a vedação a mapeamento de parentesco e a dados excessivos do item 6.8 permanece. Para um piloto pequeno, aplica-se o tratamento simplificado que a Autoridade Nacional de Proteção de Dados prevê para agentes de pequeno porte, sem dispensar a indicação de um responsável pelo tratamento e o registro básico das operações. A prova final nasce no fechamento probatório, não na quantidade de dados acumulados; cadeia de custódia bem-feita protege a pessoa tanto quanto protege a Rede.
 
 ---
 
@@ -1902,6 +2560,10 @@ Quando a zona for classificada como inviável, a Rede deve declarar que o territ
 
 A Rede não deve fingir piloto territorial onde só é possível atendimento deslocado. Formação fora do território, mentoria discreta, documentação, proteção social e contratação fora da zona podem continuar, mas não substituem a declaração de inviabilidade territorial.
 
+> Em Zona Vermelha Inviável, a RAL-Lite não executa missão econômica territorial, não entra com DIC, não coleta imagem de campo e não tenta operar desenvolvimento territorial visível. O território pode continuar elegível para apoio a pessoas, formação deslocada, documentação, mentoria, proteção social e contratação fora da zona.
+
+Os scripts de abordagem técnica previstos nos protocolos de monitores aplicam-se exclusivamente a pressão burocrática de baixo risco — comprador impaciente, UPA ansiosa, coordenação pedindo atalho. Esses scripts não devem ser usados em situação de coerção armada, revista iminente ou intimidação física. Em coerção armada, a missão é abortada (AMR) sem confronto, sem coleta e sem tentativa de salvar prova.
+
 # 34. Fechamento probatório dos registros do piloto
 
 ## 34.1 Regra geral
@@ -1928,7 +2590,10 @@ Evitar nos dossiês:
 - supervisor como comando de jornada;
 - advertência;
 - produtividade por hora;
-- falta como punição trabalhista.
+- falta como punição trabalhista;
+- "disponibilizado pelo cliente" (em contexto BT);
+- "equipe do cliente" referindo-se à UPA;
+- "integrado à equipe" em qualquer dossiê N1.75-BT.
 
 Usar:
 
@@ -1941,7 +2606,10 @@ Usar:
 - prestador;
 - dossiê;
 - nota fiscal;
-- termo de ciência.
+- termo de ciência;
+- OS (Ordem de Serviço);
+- aceite por entrega;
+- resultado delimitado.
 
 ## 34.4 Assinatura e imutabilidade
 
@@ -1981,6 +2649,7 @@ O monitor não declara que a pessoa compreendeu perfeitamente o documento. Regis
 | dossiê pedagógico comum | não precisa; monitor assina |
 | compra comercial simples de baixo valor | 1 testemunha ou monitor, se necessário |
 | contrato comercial de maior valor | 2 testemunhas recomendadas |
+| contrato N1.75-BT (tripartite) | 2 testemunhas recomendadas; todas as três partes devem assinar |
 | ETRL | 2 testemunhas ou anuência institucional |
 | assinatura a rogo ou baixa alfabetização funcional | 2 testemunhas obrigatórias |
 | abertura/baixa de CNPJ | seguir contador, gov.br, cartório ou regra aplicável |
@@ -2097,6 +2766,8 @@ Quando houver dado identificável, documento fiscal, assinatura, imagem de parti
 # 38. Dispositivo Institucional Criptografado, ODK/Kobo e coleta offline segura
 
 ## 38.1 Dispositivo Institucional Criptografado — DIC
+
+Todo monitor em campo utiliza exclusivamente DIC ou dispositivo institucional equivalente. O que varia não é o dispositivo, mas o formulário. Atos verdes usam formulário mínimo; atos amarelos usam formulário econômico simples; atos vermelhos usam formulário reforçado. É vedado ao monitor alternar entre DIC e celular pessoal por julgamento de conveniência.
 
 A coleta digital sensível deve ocorrer preferencialmente em dispositivo institucional dedicado, não em celular pessoal.
 
@@ -2235,6 +2906,44 @@ A RVO reforçada será obrigatória para ITA, AMR, evidência recebida fora do f
 
 Evidência recebida fora do fluxo aprovado não será automaticamente descartada, mas será rebaixada para insumo contingencial até decisão da Secretaria Técnica.
 
+## 39.8 Níveis de RVO — revisão Campo v5
+
+A RVO opera em quatro níveis proporcionais ao risco e à disponibilidade de fonte fiscal oficial:
+
+| Nível | Uso |
+|---|---|
+| **RVO completa** | primeira nota de qualquer UPA, primeiro tomador, primeiro contrato |
+| **RVO rápida por chave** | quando houver consulta pública oficial (Classe A ou B do Pré-Mapa Fiscal) |
+| **RVO humana enxuta** | quando houver apenas PDF/DANFSe sem consulta estável (Classe C) |
+| **RVO reforçada** | TIF, ITA, AMR, Conta F, Conta G, triangulação, pagamento com ressalva |
+
+> A RVO automática só é admitida com dado fiscal estruturado, chave pública verificável ou consulta oficial. PDF ou foto sem validação externa não gera RVO automática.
+
+## 39.9 Impressão Digital Fiscal da UPA
+
+A Impressão Digital Fiscal é o perfil fiscal canônico de cada UPA, registrado na Secretaria Técnica após a primeira RVO completa. Ela serve como referência de comparação para todas as notas subsequentes.
+
+Campos obrigatórios:
+
+1. CNPJ emissor;
+2. tomador autorizado;
+3. código de serviço municipal;
+4. CNAE/ocupação;
+5. descrição fiscal padrão aprovada;
+6. faixa de valor esperada por modalidade;
+7. município/emissor;
+8. modalidade (A, B, BT, C, D);
+9. termos proibidos para aquela UPA e trilha;
+10. regra de contingência fiscal aplicável.
+
+Uso operacional:
+
+- primeira nota: RVO completa obrigatória e registro da Impressão Digital;
+- notas seguintes: comparação automática ou humana contra a Impressão Digital;
+- divergência em qualquer campo: RVO humana;
+- TIF: RVO reforçada;
+- PDF sem consulta oficial: RVO humana enxuta.
+
 # 40. Protocolo de Contingência Fiscal de Campo — PCFC
 
 ## 40.1 Definição
@@ -2319,6 +3028,10 @@ Os textos-base devem ser ajustados ao código de serviço, à regra de ISS e ao 
 
 > Serviço de [descrição objetiva do serviço] prestado ao tomador [nome/CPF/CNPJ], conforme proposta comercial e contrato de escopo fechado.
 
+### Compra-Ponte Triangular (N1.75-BT)
+
+> Serviço de [descrição objetiva] executado pela UPA [nome/CNPJ] para o cliente [nome/CNPJ do cliente final], com intermediação contratual da OSC [nome/CNPJ], conforme Ordem de Serviço [código], escopo fechado, resultado delimitado e aceite por entrega.
+
 ### ETRL
 
 > Serviço de [descrição objetiva] em área comum ou microterritório [identificação], conforme Ordem de Serviço ETRL-[código], com escopo fechado e resultado limitado.
@@ -2340,7 +3053,19 @@ Evitar descrições como:
 - serviço sob supervisão diária;
 - jornada;
 - posto de trabalho;
-- equipe disponibilizada.
+- equipe disponibilizada;
+- serviços continuados (sem escopo delimitado);
+- disponibilização de pessoa;
+- apoio mensal (sem objeto mensurável);
+- suporte operacional (sem objeto mensurável);
+- serviços gerais;
+- apoio operacional.
+
+Regras adicionais para contratos recorrentes:
+
+- descrições genéricas repetidas mês a mês são alerta de TVC;
+- contratos recorrentes devem referenciar OS, medição ou aceite no texto da NFS-e;
+- descrição deve identificar escopo ou lote, não apenas categoria genérica.
 
 ## 41.4 Bloqueio preventivo
 
@@ -2368,6 +3093,9 @@ O Passaporte registra trajetória, competência e evidência. Não é controle d
 - portfólios;
 - propostas comerciais;
 - contratos N1.75-B;
+- contratos N1.75-BT (classificados como assistidos ou capturados);
+- bloqueios por PRA-T ou ACC-T, quando houver;
+- migração para N1.75-D por comando do tomador, quando houver;
 - ETRL executada;
 - avaliações;
 - transição para N2/N3;
@@ -2447,6 +3175,19 @@ Só entra no Passaporte o que tiver relação com prática real, evidência mín
 - negativas documentadas;
 - voucher reduzido.
 
+## 43.6-T N1.75-BT — Compra Triangular
+
+- operações BT realizadas;
+- PRA-T sem bloqueio (autorizados);
+- PRA-T com bloqueio (migrados para N1.75-D);
+- ACC-T0 realizadas;
+- ACC-T2 acionadas;
+- clientes recusados por risco de comando;
+- Termos de Tomador Não Diretivo assinados;
+- receitas BT classificadas como assistidas;
+- receitas BT classificadas como capturadas;
+- tempo médio de RVO-Vermelho por operação BT.
+
 ## 43.7 N1.75-C — ETRL
 
 - empreitadas executadas;
@@ -2490,7 +3231,11 @@ Só entra no Passaporte o que tiver relação com prática real, evidência mín
 - pagamento definitivo sem documento fiscal final;
 - documento assinado sem RVO;
 - coleta sensível em celular pessoal;
-- formulário sensível deixado em rascunho aberto.
+- formulário sensível deixado em rascunho aberto;
+- operação N1.75-BT sem Termo de Tomador Não Diretivo;
+- cliente BT com ordens diárias sem bloqueio registrado;
+- OSC intermediária comandando trabalho da UPA;
+- receita BT classificada como autônoma sem ciclo posterior comprovado.
 
 ---
 
@@ -2529,7 +3274,48 @@ Só entra no Passaporte o que tiver relação com prática real, evidência mín
 - nova trilha;
 - UPA com receita externa;
 - UPA com cliente âncora;
-- UPA pausada sem inadimplência.
+- UPA pausada sem inadimplência;
+- participantes protegidos por Bolsa-Travessia (Conta G);
+- tomadores que aceitaram migração para contrato estruturado;
+- tomadores que rescindiram após ACC.
+
+## 43.X Indicadores de canal e autonomia
+
+- Prova de Demanda 0 realizadas;
+- trilhas bloqueadas antes do CNPJ (sem canal real);
+- trilhas migradas para B2B/B2I;
+- trilhas migradas para ETRL;
+- trilhas migradas para Contrato Estruturado;
+- receita autônoma (por UPA);
+- receita assistida (por UPA);
+- receita capturada (por UPA);
+- D1 por UPA;
+- DRV por UPA;
+- ACC acionadas;
+- ACC-0 verde / ACC-1 amarela / ACC-2 vermelha / bloqueio preta;
+- TVC com padrão variável (normal);
+- TVC com padrão fixo sem escopo (risco de salário disfarçado);
+- Bolsa-Travessia acionadas.
+
+## 43.X-T Indicadores de triangulação e Campo v5
+
+- número de operações N1.75-BT realizadas;
+- triangulações bloqueadas por PRA-T;
+- ACC-T0 realizadas (pré-contratação);
+- ACC-T2 acionadas (fechamento);
+- clientes recusados por risco de comando indevido;
+- notas validadas por chave pública (Pré-Mapa Classe A ou B);
+- notas revisadas por RVO humana enxuta (Pré-Mapa Classe C);
+- TIFs abertos por falha fiscal municipal;
+- tempo médio de RVO em lote;
+- operações bloqueadas por TVC-lite;
+- parcelas emergenciais da Conta G liberadas;
+- parcelas da Conta G liberadas por marco externo verificável;
+- uso da Conta F sem operação financeira;
+- receitas triangulares classificadas como assistidas;
+- receitas triangulares classificadas como capturadas;
+- municípios classificados no Pré-Mapa Fiscal (A/B/C/D);
+- Impressões Digitais Fiscais registradas por UPA.
 
 ## 43.14 Indicadores do funil ampliado
 
@@ -2539,7 +3325,7 @@ A taxa de não conversão para UPA deve ser interpretada junto com saídas posit
 
 ## 43.15 Régua de Veredito do Dia 270
 
-A avaliação do Dia 270 deverá classificar o ciclo em uma das seguintes classes:
+A avaliação do Dia 270 deverá classificar o ciclo em uma das seguintes classes. Nesta régua, **Bloco 1** designa a parcela dos recursos totais do ciclo consumida pelo custo de controle institucional — Secretaria Técnica, conformidade, tecnologia e contabilidade —, na forma medida pela Regra de Eficiência Social Consolidada (28.8).
 
 | Classe | Veredito | Critério operacional | Efeito |
 |---|---|---|---|
@@ -2550,23 +3336,49 @@ A avaliação do Dia 270 deverá classificar o ciclo em uma das seguintes classe
 
 Classe C exige Módulo Estruturado de Saída obrigatório. Classe D impede nova abertura de CNPJ na mesma trilha ou território até redesenho econômico, redução estrutural do custo de controle ou existência de comprador âncora comprovado.
 
+## 43.16 Gatilho de Ativação da RAL-Standard v1
+
+A régua do Dia 270 é também o ponto em que se decide se uma célula territorial pode deixar de operar apenas como piloto protegido e ativar a RAL-Standard v1 — a camada de escala com demanda estruturada, absorção formal, catálogo, selo e crédito pós-prova, desenvolvida na Parte II deste documento. A ativação é exceção condicionada, não consequência automática de um ciclo bem-sucedido.
+
+A Standard só é ativada quando todos os critérios abaixo estão presentes:
+
+- veredito Classe A ou B forte no Dia 270;
+- ausência de passivo trabalhista crítico;
+- ausência de dívida fiscal causada pela Rede;
+- ao menos uma saída forte validada (emprego, aprendizagem, contrato estruturado, cliente âncora com absorção real ou UPA com receita externa recorrente);
+- carteira mínima de compradores ou absorvedores reais;
+- custo institucional compatível com replicação (Bloco 1 em patamar replicável);
+- Secretaria Técnica capaz de operar a escala sem aumento desproporcional de custo.
+
+Faltando qualquer critério, a célula permanece em RAL-Lite diagnóstica e repete ou ajusta o ciclo protegido. A existência de carteira B2B/B2I, empresa âncora, Bloco 4-C ou comprador externo no primeiro ciclo é registrada como evidência de elegibilidade para a Standard, nunca como obrigação de escalar.
+
 # 44. Projeto-piloto recomendado
 
-## 44.1 Escala
+## 44.1 Escala — RAL-Lite (primeiro ciclo territorial)
 
-- 1 território;
-- até 30 participantes em N0/N1/N1.5;
-- 12 a 16 participantes elegíveis para decisão de conversão;
-- 4 a 6 candidatos à formalização assistida;
+- 1 território Verde/Amarelo;
+- **12 a 16 participantes no primeiro ciclo** se não houver Bloco 4-C operacional; até 30 se houver;
+- máximo **2 UPAs formalizadas** no primeiro ciclo;
+- 1 trilha principal;
+- 1 Turma-Âncora N1;
 - 1 universidade parceira;
 - 1 OSC/Rede;
 - 1 CGI-P;
-- 1 trilha principal e 1 trilha secundária;
-- 1 Turma-Âncora N1;
-- 2 a 3 UPAs formalizadas no máximo;
-- 2 oficinas demonstrativas;
-- 2 compras comerciais reais;
-- 1 ETRL no máximo, apenas se houver área comum segura e autorizada;
+- 1 oficina demonstrativa;
+- 1 ou 2 compras reais (preferencialmente com Matriz de Pagador Real aplicada);
+- **0 ETRL no primeiro ciclo**, salvo necessidade coletiva limpa, autorizada e sem risco;
+- **N1.75-BT apenas se** objeto for fechado, cliente aceitar Termo de Tomador Não Diretivo e PRA-T não indicar risco de comando;
+- Prova de Demanda 0 obrigatória antes de qualquer CNPJ;
+- Pré-Mapa Fiscal Local obrigatório antes da primeira compra remunerada;
+- Matriz de Pagador Real antes da Compra-Ponte;
+- DIC universal para todos os monitores, com fluxo Verde/Amarelo/Vermelho;
+- RVO fiscal por Impressão Digital desde a segunda nota de cada UPA;
+- lote fiscal semanal ou bisemanal para revisão em bloco;
+- TVC-lite ativo desde a primeira recorrência de pagamento;
+- PRA/ACC/TVC ativos durante Janela 2;
+- Conta F sem operação financeira (sem recebível, mútuo, desconto ou capital de giro reembolsável);
+- Conta G com parcela emergencial e marcos externos para parcelas seguintes;
+- Bolsa-Travessia (Conta G) disponível se houver interrupção por risco trabalhista;
 - 0 mutirões mistos;
 - 0 rede de MEIs coordenada;
 - 0 atividade de alto risco.
@@ -2606,12 +3418,14 @@ A escala do piloto tem finalidade jurídico-operacional, probatória, pedagógic
 | N1.5 | 90 dias | diagnóstico, RPME, protótipo, relatório e Passaporte |
 | Dia 75 | 1 semana | Conversão pelo CGI-P |
 | N1.6 | 30 dias | formalização seletiva, NFS-e pré-configurada ou rota alternativa |
-| N1.75-A/B/C | 90 dias | oficinas, compras reais e, se cabível, ETRL única |
+| N1.75-A/B/BT | 90 dias | oficinas e compras reais, diretas e/ou triangulares se houver cliente BT elegível; ETRL apenas por exceção Vermelha expressa |
 | Avaliação | mês 6 a 9 | escalar, corrigir, redirecionar ou encerrar |
 
 ## 44.5 Advertência do piloto
 
-Piloto pequeno não significa piloto informal. Antes de iniciar, validar ISS, NFS-e, MEI, Simples Nacional, LGPD, seguro, EPI, uso de espaço público, limites da extensão, voluntariado, contratos, responsabilidade civil, forma jurídica das UPAs, fechamento probatório, DIC e contingência fiscal.
+Piloto pequeno não significa piloto informal. Antes de iniciar, validar ISS, NFS-e, MEI, Simples Nacional, LGPD, seguro, EPI, uso de espaço público, limites da extensão, voluntariado, contratos, responsabilidade civil, forma jurídica das UPAs, fechamento probatório, DIC e contingência fiscal. Para ciclos com N1.75-BT planejado: validar também Pré-Mapa Fiscal Local, disponibilidade de Termo de Tomador Não Diretivo e capacidade da Secretaria Técnica para RVO-Vermelho obrigatória.
+
+O projeto-piloto recomendado não executa a RAL-Standard. Ele apenas gera evidências para eventual ativação posterior da Standard, conforme o gatilho do Dia 270 (43.16). A existência de carteira B2B/B2I, empresa âncora, Bloco 4-C ou comprador externo no primeiro ciclo é registrada como evidência de elegibilidade, não como obrigação de escala. Tentar antecipar catálogo, selo, motor de demanda ou crédito pós-prova dentro do piloto descaracteriza o ciclo protegido.
 
 ---
 
@@ -2678,7 +3492,7 @@ Antes do ciclo, a Secretaria Técnica deve estimar horas de campo, horas de revi
 
 O funil ampliado só poderá ser aberto com orçamento variável aprovado para insumos de treino, EPIs formativos, lanches, transporte, material pedagógico, bolsas-formação quando cabíveis, devolutivas, certificação, atendimento social e Módulo Estruturado de Saída.
 
-A Rede não deve ampliar participantes apenas para melhorar indicador percentual de custo fixo. Se o Fundo não cobrir o custo variável absoluto do topo do funil, a turma deve permanecer em 10 a 16 participantes.
+A Rede não deve ampliar participantes apenas para melhorar indicador percentual de custo fixo. Se o Fundo não cobrir o custo variável absoluto do topo do funil, a turma deve permanecer em 12 a 16 participantes.
 
 # 45. Matriz de riscos
 
@@ -2744,6 +3558,41 @@ A Rede não deve ampliar participantes apenas para melhorar indicador percentual
 | Parecerista de bolso | baixa | alto | lista tríplice pré-aprovada por universidade e Conselho Local/CGI-P |
 | Confusão entre WhatsApp comercial da UPA e prova da Rede | alta | alto | separar negociação comercial de coleta probatória; monitor não recebe evidência pessoal |
 
+## 45.2 Riscos de canal e autonomia (adicionados)
+
+| Risco | Probabilidade | Impacto | Resposta |
+|---|---:|---:|---|
+| B2C popular sem liquidez estrutural do comprador | alta | alto | aplicar PCPS e Matriz de Pagador Real; migrar para B2B/B2I, ETRL ou Contrato Estruturado |
+| Comprador solidário confundido com mercado | alta | alto | exigir coparticipação real, aceite e avaliação; classificar como receita capturada se não houver necessidade operacional |
+| Comprador institucional virando patrão econômico | média | alto | ACC periódica, TVC e regra do Cliente Âncora Protegido |
+| Cliente âncora com subordinação prática | média | alto | ACC-1 e vetos absolutos; migrar para contrato estruturado |
+| Conluio UPA-tomador nas declarações espelhadas | baixa | alto | TVC por padrão fiscal-financeiro; análise documental de NFS-e e contratos |
+| Notas fiscais mensais fixas sem escopo | média | alto | TVC; exigir OS, medição ou aceite; bloquear renovação |
+| Conta F comprando demanda artificial | média | alto | proibição expressa; exigir necessidade operacional real do tomador |
+| Ativo produtivo sem regra patrimonial | média | médio | regras de doação, cessão e ativo comum da Conta F |
+| Bolsa-Travessia confundida com salário | média | alto | Conta G separada da Conta F; sem exigência de entrega produtiva |
+| DRV punindo canal B2B legítimo | média | médio | DRV apenas alerta; necessidade operacional real valida canal |
+| ACC virando teatro documental | baixa | médio | ACC baseada em padrão fiscal, não em questionário; vetos absolutos binários |
+| Monitor fiscalizando rotina e recriando subordinação | baixa | alto | monitor não audita jornada, não rastreia localização, não coleta conversa privada |
+| DIC em zona vermelha parecendo inteligência policial | baixa | muito alto | AMR, não coleta; relatório minimalista e codificado |
+
+## 45.3 Riscos de Campo v5 e triangulação (adicionados)
+
+| Risco | Probabilidade | Impacto | Resposta |
+|---|---|---|---|
+| OSC virar fornecedora de mão de obra na triangulação | média | alto | N1.75-BT, PRA-T, ACC-T, veto por comando indevido e migração para N1.75-D |
+| triangulação mascarar terceirização ilícita | média | alto | objeto fechado, OS, aceite, sem jornada, Termo de Tomador Não Diretivo |
+| cliente B2B comandar UPA diretamente | média | alto | Termo de Tomador Não Diretivo e bloqueio imediato |
+| Conta F virar factoring social ou mútuo | média | alto | proibição expressa de compra/desconto de recebíveis e capital de giro reembolsável |
+| RVO automática com PDF falso ou sem consulta oficial | média | alto | RVO automática só com chave pública, XML ou fonte oficial; PDF exige RVO humana enxuta |
+| município fiscalmente frágil excluindo participante da Rede | média | médio | redirecionar rota de compra; não excluir participante |
+| Conta G travada por lentidão de validação de terceiros | média | alto | parcela emergencial inicial sem exigência de validação prévia + marcos externos para parcelas seguintes |
+| declarações bilaterais virando teatro declaratório | média | médio | TVC-lite e padrão fiscal com peso decisório superior às declarações |
+| monitor alternando entre DIC e celular pessoal por conveniência | média | alto | DIC universal obrigatório; sem exceção por julgamento do monitor |
+| Pré-Mapa Fiscal não realizado antes da primeira compra | média | alto | bloqueio da primeira compra até classificação fiscal municipal |
+| Impressão Digital Fiscal não registrada após primeira RVO | média | médio | RVO completa obrigatória e registro simultâneo da Impressão Digital |
+| TVC-lite não ativado desde a primeira recorrência | média | alto | TVC-lite ativo desde o primeiro ciclo de pagamento repetido |
+
 # 46. Instrumentos operacionais mínimos
 
 ## 46.1 N0/N1
@@ -2800,6 +3649,18 @@ A Rede não deve ampliar participantes apenas para melhorar indicador percentual
 7. Dossiê Comercial.
 8. RVO.
 
+## 46.5-BT N1.75-BT
+
+1. Contrato de Compra-Ponte Triangular (Anexo BE).
+2. Termo de Tomador Não Diretivo (Anexo BD).
+3. PRA-T — Painel de Risco de Autonomia Triangular (Anexo BB).
+4. ACC-T — Auditoria de Conduta Concreta Triangular (Anexo BC).
+5. TVC-lite do Ciclo 1 (Anexo BA).
+6. Checklist de N1.75-BT / matriz de veto da triangulação.
+7. OS/lote ou modelo de medição de entrega.
+8. Dossiê Comercial Triangular.
+9. RVO-Vermelho obrigatória.
+
 ## 46.6 N1.75-C
 
 1. Contrato de ETRL.
@@ -2855,10 +3716,43 @@ A Rede não deve ampliar participantes apenas para melhorar indicador percentual
 17. Orçamento variável do funil ampliado.
 18. Lista tríplice de pareceristas de contingência.
 19. Protocolo de compressão e saturação offline do DIC.
-20. Plano de Bloco 4 de absorção para não convertidos.
+20. Plano de Bloco 4 de absorção para não convertidos (4-A, 4-B, 4-C).
 21. Relatório de custo de implantação por célula territorial.
 
-# 47. Anexos-modelo
+## 46.10 Instrumentos adicionados após revisão de canal e autonomia
+
+1. Prova de Demanda 0.
+2. Matriz de Pagador Real.
+3. Prova de Canal e Preço Sustentável (PCPS).
+4. Ficha de Cliente Âncora Protegido.
+5. Ficha de Autonomia do Tomador.
+6. Painel de Risco de Autonomia — PRA.
+7. Auditoria de Conduta Concreta — ACC (ACC-0, ACC-1, ACC-2).
+8. Teste de Variabilidade Comercial — TVC.
+9. Classificação de Receita Autônoma / Assistida / Capturada.
+10. Termo de Cessão de Uso de Ferramenta (Conta F).
+11. Registro Patrimonial da Conta F.
+12. Conta G — Reserva de Transição Protegida.
+13. Termo de Bolsa-Travessia.
+14. Plano de Transição Protegida.
+15. Checklist de Contrato B2B/B2I.
+16. Checklist de Cliente Âncora Protegido.
+
+## 46.11 Instrumentos adicionados pela Campo v5
+
+1. Protocolo RAL-Lite Campo v5 (Anexo AX).
+2. Pré-Mapa Fiscal Local (Anexo AY).
+3. Impressão Digital Fiscal da UPA (Anexo AZ).
+4. TVC-lite do Ciclo 1 (Anexo BA).
+5. PRA-T — Painel de Risco de Autonomia Triangular (Anexo BB).
+6. ACC-T — Auditoria de Conduta Concreta Triangular (Anexo BC).
+7. Termo de Tomador Não Diretivo (Anexo BD).
+8. Contrato de Compra-Ponte Triangular (Anexo BE).
+9. Registro de RVO Fiscal em Lote (Anexo BF).
+10. Conta F — Proibição de Operação Financeira (Anexo BG).
+11. Conta G — Parcela Emergencial e Marcos Externos (Anexo BH).
+
+# 47. Anexos-modelo da Parte I — Campo v5
 
 ## Anexo A — Carta de Princípios do Núcleo Local de Ascensão
 
@@ -2891,7 +3785,7 @@ ata_decisoria_cgip:
   data: ""
   presentes: []
   impedidos: []
-  modalidade: "N1.75-A | N1.75-B | N1.75-C | N1.75-D | outro"
+  modalidade: "N1.75-A | N1.75-B | N1.75-BT | N1.75-C | N1.75-D | outro"
   decisao: "aprovado | aprovado_com_ressalva | negado | redirecionado"
   criterios_utilizados: []
   riscos_identificados: []
@@ -2909,8 +3803,8 @@ ata_decisoria_cgip:
 plano_de_missao:
   nome: ""
   territorio: ""
-  categoria: "formativa | academica | demonstrativa | comercial | etrl | estruturada | voluntaria"
-  nivel: "N0 | N1 | N1.5 | N1.6 | N1.75-A | N1.75-B | N1.75-C | N1.75-D | N2 | N3"
+  categoria: "formativa | academica | demonstrativa | comercial | comercial_triangular | etrl | estruturada | voluntaria"
+  nivel: "N0 | N1 | N1.5 | N1.6 | N1.75-A | N1.75-B | N1.75-BT | N1.75-C | N1.75-D | N2 | N3"
   necessidade_atendida: ""
   responsavel: ""
   participantes: []
@@ -2953,6 +3847,7 @@ Período:
 ## Rotas de saída
 - Oficina Demonstrativa;
 - Compra-Ponte Comercial;
+- Compra-Ponte Triangular (N1.75-BT);
 - ETRL;
 - Contrato Estruturado;
 - emprego/aprendizagem;
@@ -3012,8 +3907,11 @@ habilitacao_upa:
   pendencia_critica: false
   apta_n175a: false
   apta_n175b: false
+  apta_n175bt: false
   apta_n175c: false
   apta_n175d: false
+  impressao_digital_fiscal_registrada: false
+  termo_tomador_nao_diretivo_disponivel: false
 ```
 
 ## Anexo G — RPME
@@ -3246,7 +4144,7 @@ termo_indisponibilidade_fiscal:
   hora: ""
   upa: ""
   cnpj: ""
-  modalidade: "N1.75-A | N1.75-B | N1.75-C"
+  modalidade: "N1.75-A | N1.75-B | N1.75-BT | N1.75-C | N1.75-D"
   servico: ""
   valor: ""
   tomador: ""
@@ -3339,6 +4237,7 @@ rvo:
 textos_padrao_nfs_e:
   oficina: "Serviço de oficina prática demonstrativa em [trilha], com finalidade pedagógica, prática assistida e registro de evidências, no âmbito da Rede de Ascensão Local."
   compra_comercial: "Serviço de [descrição objetiva] prestado ao tomador [nome/CPF/CNPJ], conforme proposta comercial e contrato de escopo fechado."
+  compra_triangular_BT: "Serviço de [descrição objetiva] executado pela UPA [nome/CNPJ] para o cliente [nome/CNPJ do cliente final], com intermediação contratual da OSC [nome/CNPJ], conforme Ordem de Serviço [código], escopo fechado, resultado delimitado e aceite por entrega."
   etrl: "Serviço de [descrição objetiva] em área comum ou microterritório [identificação], conforme Ordem de Serviço ETRL-[código], com escopo fechado e resultado limitado."
   contrato_estruturado: "Descrição conforme contrato formal, regime empresarial, CLT, cooperativa autêntica, aprendizagem ou instrumento aplicável."
 ```
@@ -3470,24 +4369,36 @@ matriz_impedimento_real:
 conta_f_ponte_transicao_comercial:
   finalidade: "reduzir risco de comprador real e evitar Vale da Morte financeiro"
   usos_permitidos:
-    - regularidade fiscal e documental
-    - cadastro de fornecedor
-    - prospeccao comercial
-    - complemento transicional com terceiro pagador real
-    - seguro ou ferramenta minima exigida por comprador
-    - apoio a contrato estruturado
-    - emprego ou aprendizagem
-    - baixa preventiva
+    - regularidade_fiscal_e_documental
+    - cadastro_de_fornecedor
+    - documentacao_de_habilitacao
+    - ferramenta_minima_com_funil_documentado
+    - seguro
+    - apoio_triangulacao_formal_N175BT
+    - prospeccao_comercial_B2B_B2I
+    - complemento_transicional_voucher_com_terceiro_pagador_real
+    - cliente_ancora
+    - transicao_para_contrato_estruturado
+    - emprego_ou_aprendizagem
+    - baixa_preventiva
+    - tarifa_ou_garantia_com_operador_financeiro_regular_com_parecer
   usos_proibidos:
-    - pagar entrega cujo comprador substantivo seja a propria Rede
-    - pagar entrega cujo comprador substantivo seja o proprio Fundo
-    - comprar portfolio artificial
-    - substituir mercado por renda permanente
+    - compra_de_recebiveis
+    - desconto_de_nota_fiscal
+    - antecipacao_de_credito
+    - mutuo_simples
+    - capital_de_giro_reembolsavel
+    - factoring_social
+    - pagar_entrega_cujo_comprador_substantivo_seja_a_propria_Rede
+    - pagar_entrega_cujo_comprador_substantivo_seja_o_proprio_Fundo
+    - comprar_portfolio_artificial
+    - substituir_mercado_por_renda_permanente
   condicoes_de_liberacao:
-    - funil comercial documentado
-    - regularidade fiscal
-    - ausencia de subordinacao
-    - decisao registrada do CGI-P
+    - funil_comercial_documentado
+    - regularidade_fiscal
+    - ausencia_de_subordinacao
+    - decisao_registrada_do_CGI_P
+  nota: "Subvencao nao reembolsavel de capital de giro, se excepcionalmente necessaria, deve ser classificada como subsidio puro e registrada separadamente — jamais como validacao de mercado."
 ```
 
 ## Anexo AE — Matriz de Eficiência Social Consolidada
@@ -3502,8 +4413,15 @@ matriz_eficiencia_social:
   custo_contabil: 0
   valor_liquido_upas: 0
   receita_externa_upas: 0
+  receita_autonoma_upas: 0
+  receita_assistida_upas: 0
+  receita_capturada_upas: 0
+  operacoes_N175BT_realizadas: 0
+  receita_BT_assistida: 0
+  receita_BT_capturada: 0
   valor_voucher: 0
   valor_conta_f: 0
+  valor_conta_bt: 0
   contratos_estruturados: 0
   empregos_assistidos: 0
   aprendizagens: 0
@@ -3660,9 +4578,16 @@ relatorio_dia_270:
   participantes_iniciais: 0
   upas_formalizadas: 0
   receita_liquida_upas: 0
+  receita_autonoma: 0
+  receita_assistida: 0
+  receita_capturada: 0
+  operacoes_N175BT: 0
+  receita_BT_assistida: 0
+  receita_BT_capturada: 0
   receita_externa: 0
   valor_voucher: 0
   valor_conta_f: 0
+  valor_conta_bt: 0
   custo_bloco_1: 0
   percentual_bloco_1: 0
   contratos_estruturados: 0
@@ -3672,6 +4597,8 @@ relatorio_dia_270:
   incidentes_trabalhistas: 0
   incidentes_fiscais: 0
   incidentes_campo: 0
+  triangulacoes_bloqueadas_PRA_T: 0
+  ACC_T_realizadas: 0
   classe: "A | B | C | D"
   decisao: "escalar | corrigir | redirecionar | encerrar | pivotar_para_contrato_estruturado"
 ```
@@ -3716,6 +4643,554 @@ custo_implantacao_celula_territorial:
 
 ---
 
+## Anexo AO — Prova de Demanda 0
+
+```yaml
+prova_de_demanda_0:
+  trilha: ""
+  necessidade_identificada: ""
+  canal_provavel_pagamento: "B2C_local | B2B_direto | B2B_triangular_N175BT | B2I | ETRL | contrato_estruturado"
+  comprador_potencial: ""
+  ticket_estimado: 0
+  referencia_informal_local: 0
+  preco_minimo_sustentavel: 0
+  risco_de_liquidez: "baixo | medio | alto"
+  alternativa_nao_empreendedora_avaliada: ""
+  hipotese_B2B_B2I_ETRL_contrato: ""
+  decisao: "abrir_CNPJ | bloquear | redirecionar | migrar_para_N175BT | migrar_para_ETRL | migrar_para_contrato_estruturado"
+  responsavel_CGI_P: ""
+  data: ""
+```
+
+## Anexo AP — Matriz de Pagador Real
+
+```yaml
+matriz_pagador_real:
+  necessidade: ""
+  beneficio: "individual | coletivo"
+  pagador_natural: ""
+  liquidez_pagador_natural: "suficiente | insuficiente | ausente"
+  pagador_alternativo: "empresa | escola | condominio | comercio_maior | OSC | cliente_ancora | contratante_formal"
+  modalidade_correta: "Compra_Ponte_B2C | Compra_Ponte_B2B_direto | Compra_Ponte_Triangular_N175BT | ETRL | Contrato_Estruturado | nao_formalizar"
+  decisao: ""
+  observacao: "Necessidade nasce no territorio; pagamento pode vir de fora; execucao so ocorre na modalidade correta."
+```
+
+## Anexo AQ — Prova de Canal e Preço Sustentável (PCPS)
+
+```yaml
+pcps:
+  trilha: ""
+  preco_minimo_sustentavel: 0
+  referencia_informal_local: 0
+  referencia_formal_ou_semiforme_externa: 0
+  margem_liquida_estimada: 0
+  canal_de_pagamento: "B2C | B2B_direto | B2B_triangular_N175BT | B2I | ETRL | contrato | misto"
+  voucher_necessario: false
+  coparticipacao_real: false
+  possibilidade_recompra_ou_recorrencia: "alta | media | baixa | ausente"
+  risco_demanda_solidaria_ou_capturada: "alto | medio | baixo"
+  veredito: "canal_viavel | migrar_canal | redirecionar | nao_formalizar"
+  observacao: "Mediana informal local nao e teto absoluto; e referencia diagnostica."
+```
+
+## Anexo AR — Painel de Risco de Autonomia (PRA)
+
+```yaml
+pra:
+  upa: ""
+  ciclo: ""
+  D1_concentracao_maior_tomador_pct: 0
+  DRV_dependencia_rede_fundo_capturada_pct: 0
+  receita_autonoma_pct: 0
+  receita_assistida_pct: 0
+  receita_capturada_pct: 0
+  gatilho_ACC: false
+  motivo_gatilho_ACC: ""
+  decisao:
+    D1_acima_70: "acionar_ACC"
+    DRV_acima_50: "impedir_classificacao_N2_autonoma_plena"
+    DRV_acima_70: "revisar_rota_empreendedora"
+  classificacao_autonomia: "autonoma_plena | assistida | capturada | em_revisao"
+  nota_triangulacao: "Para operações N1.75-BT, aplicar também PRA-T (Anexo BB). O PRA-T avalia risco de subordinação no cliente corporativo e é acionado antes da contratação e a cada renovação."
+```
+
+## Anexo AS — Auditoria de Conduta Concreta (ACC)
+
+```yaml
+acc:
+  upa: ""
+  tomador: ""
+  data: ""
+  nivel: "ACC-0 | ACC-1 | ACC-2"
+  vetos_absolutos:
+    controle_frequencia_punitivo: false
+    pessoalidade_absoluta: false
+    ordens_diarias_execucao: false
+    sancao_disciplinar_tipica: false
+    posto_fixo_permanente: false
+    substituicao_empregado_regular: false
+    pagamento_mensal_sem_escopo_OS_medicao: false
+    integracao_equipe_interna_tomador: false
+  resultado_veto: "nenhum | um_ou_mais_vetos_ativos"
+  fatores_cumulativos:
+    uniforme_identico_funcionario_interno: false
+    cracha_funcional_interno: false
+    ferramentas_do_tomador_sem_justificativa: false
+    reunioes_internas_obrigatorias: false
+    metas_internas_tomador: false
+    renovacoes_sem_nova_proposta: false
+    ausencia_preco_proprio: false
+    exclusividade_pratica: false
+    pagamento_fixo_sem_variacao_medicao: false
+  total_fatores_cumulativos: 0
+  regime_fatores:
+    1: "observar"
+    2: "ajustar_contrato"
+    3: "bloquear_renovacao"
+    4_ou_mais: "migrar_contrato_estruturado"
+  declaracao_UPA: ""
+  declaracao_tomador: ""
+  contradicoes_detectadas: false
+  decisao: "renovar | ajustar | bloquear | migrar | ACC-2"
+```
+
+## Anexo AT — Teste de Variabilidade Comercial (TVC)
+
+```yaml
+tvc:
+  upa: ""
+  tomador: ""
+  periodo_analisado: ""
+  nfs_e_analisadas: 0
+  valores_identicos_consecutivos: false
+  meses_consecutivos_mesmo_valor: 0
+  descricao_generica_repetida: false
+  ausencia_OS: false
+  ausencia_medicao: false
+  ausencia_aceite: false
+  pagamento_mensal_sem_resultado_delimitado: false
+  risco_salario_disfarçado: "baixo | medio | alto"
+  exemplo_permitido: "manutencao_mensal_com_area_frequencia_atividades_exclusoes_aceite"
+  termos_proibidos_detectados: []
+  decisao: "padrao_variavel_normal | ajustar_descricao | bloquear_ate_OS | ACC-2"
+  versao_lite_ciclo_1: true
+  nota_lite: "No Ciclo 1, aplicar TVC-lite (Anexo BA). TVC completo se aplica a contratos recorrentes em Janela 2."
+```
+
+## Anexo AU — Cliente Âncora Protegido
+
+```yaml
+cliente_ancora_protegido:
+  tomador: ""
+  necessidade_operacional_real: true
+  escopo_por_lote_entrega_pacote_medicao: true
+  prazo_contrato_meses: 0
+  prazo_maximo_admitido_meses: 12
+  exclusividade: false
+  jornada_ou_grade_horaria: false
+  ordens_diarias_execucao: false
+  pessoalidade_absoluta: false
+  posto_fixo_permanente: false
+  ACC_periodica_90_dias: true
+  D1_monitorado: true
+  usa_triangulacao_N175BT: false
+  ACC_T_a_cada_renovacao_se_BT: true
+  termo_tomador_nao_diretivo_assinado_se_BT: true
+  classificacao: "ancora_protegido | ancora_com_restricao | migrar_contrato_estruturado"
+  observacao: "Cliente ancora externo pode ser tracao; cliente ancora que comanda rotina vira contrato estruturado. Se usar N1.75-BT, ACC-T obrigatoria a cada renovacao."
+```
+
+## Anexo AV — Termo de Cessão/Doação de Ferramenta (Conta F)
+
+```yaml
+termo_cessao_doacao_ferramenta:
+  ativo: ""
+  valor: 0
+  modalidade: "doacao_produtiva_irreversivel | cessao_de_uso_condicionada | ativo_comum_da_Rede"
+  destinatario: ""
+  finalidade_produtiva: ""
+  condicoes_de_uso: ""
+  devolucao_prevista: false
+  prazo_devolucao: ""
+  depreciacao_prevista: ""
+  destino_em_caso_de_baixa_preventiva: ""
+  rastreabilidade: true
+  responsavel: ""
+  data: ""
+  observacao: "Ferramenta comprada pela Conta F nao pode virar salario indireto, premio pessoal opaco ou ativo sem rastreabilidade."
+```
+
+## Anexo AW — Bolsa-Travessia / Transição Protegida (Conta G)
+
+```yaml
+bolsa_travessia_conta_g:
+  participante_ou_upa: ""
+  motivo_acionamento:
+    - risco_trabalhista_identificado
+    - colapso_de_comprador
+    - veto_da_ACC
+    - baixa_preventiva
+    - migracao_para_contrato_estruturado
+    - interrupcao_por_risco_fiscal
+  prazo_maximo_dias: 45
+  estrutura_liberacao:
+    parcela_emergencial_inicial:
+      exige_validacao_externa_previa: false
+      decisao: "CGI-P"
+    parcelas_seguintes:
+      exigem_marco_externo_verificavel: true
+      fontes_aceitas:
+        - contador
+        - empresa_parceira
+        - escola
+        - entidade_social
+        - coordenacao_pedagogica
+        - orgao_parceiro
+      fontes_nao_aceitas:
+        - print_produzido_pela_propria_UPA
+  valor_diario_ou_semanal: 0
+  valor_total_previsto: 0
+  nao_remunera_servico: true
+  nao_exige_entrega_produtiva: true
+  nao_substitui_salario: true
+  vinculada_a_plano_de_saida: true
+  plano_de_saida:
+    - formacao_ou_requalificacao
+    - busca_ativa_de_emprego
+    - aprendizagem
+    - baixa_preventiva
+    - transicao_documental
+    - protecao_de_renda_minima
+  responsavel_CGI_P: ""
+  data_inicio: ""
+  data_limite: ""
+  observacao: "A primeira parcela é proteção emergencial — não aguarda burocracia de terceiros. A continuidade exige marco externo verificável."
+```
+
+---
+
+## Anexo AX — Protocolo RAL-Lite Campo v5
+
+```yaml
+protocolo_campo_v5:
+  versao: "RAL-Lite v5.2 com Protocolo Campo v5"
+  dic_universal: true
+  fluxos:
+    DIC_Verde: "presença, formação, devolutiva, lista simples"
+    DIC_Amarelo: "oficina remunerada, compra comercial, aceite, NFS-e"
+    DIC_Vermelho: "CNPJ, baixa, TIF, ITA, AMR, Conta F, Conta G, triangulação, denúncia, pagamento com ressalva"
+  tvc_lite_desde_primeira_recorrencia: true
+  conta_f_sem_operacao_financeira: true
+  conta_g_parcela_emergencial: true
+  triangulacao_modalidade_vermelha_T: true
+  pre_mapa_fiscal_obrigatorio: true
+  impressao_digital_fiscal_obrigatoria: true
+  rvo_por_impressao_digital: true
+  lote_fiscal_semanal_ou_bisemanal: true
+```
+
+## Anexo AY — Pré-Mapa Fiscal Local
+
+```yaml
+pre_mapa_fiscal_local:
+  municipio: ""
+  sistema_fiscal: ""
+  classe: "A | B | C | D"
+  criterio:
+    A: "XML/API/consulta estruturada confiável"
+    B: "consulta pública por chave ou código"
+    C: "apenas PDF/DANFSe sem consulta estável"
+    D: "sistema instável ou emissão de NFS-e inviável"
+  efeito:
+    A: "RVO semi-automática possível"
+    B: "RVO rápida por chave"
+    C: "RVO humana enxuta obrigatória"
+    D: "PCFC/TIF; bloqueio de compra remunerada até regularização"
+  participante_excluido_por_municipio_fragil: false
+  rotas_alternativas_quando_D:
+    - formação
+    - portfólio
+    - emprego_assistido
+    - aprendizagem
+    - contrato_estruturado
+    - oficina_não_remunerada
+    - compra_em_canal_fiscalmente_viavel
+  data_classificacao: ""
+  responsavel: ""
+```
+
+## Anexo AZ — Impressão Digital Fiscal da UPA
+
+```yaml
+impressao_digital_fiscal:
+  upa: ""
+  cnpj: ""
+  data_registro: ""
+  tomador_autorizado: ""
+  codigo_servico_municipal: ""
+  cnae_ocupacao: ""
+  descricao_fiscal_padrao: ""
+  faixa_valor_por_modalidade:
+    N175A: ""
+    N175B: ""
+    N175BT: ""
+    N175C: ""
+    N175D: ""
+  municipio_emissor: ""
+  modalidades_habilitadas: []
+  termos_proibidos_especificos: []
+  regra_contingencia_fiscal: ""
+  uso_operacional:
+    primeira_nota: "RVO completa + registro da Impressão Digital"
+    notas_seguintes: "comparação contra Impressão Digital"
+    divergencia: "RVO humana obrigatória"
+    tif: "RVO reforçada"
+    pdf_sem_consulta: "RVO humana enxuta"
+```
+
+## Anexo BA — TVC-lite do Ciclo 1
+
+```yaml
+tvc_lite:
+  upa: ""
+  tomador: ""
+  ciclo: ""
+  criterios_alerta:
+    termo_proibido_nfs_e: false
+    descricao_generica_sem_lote: false
+    mesmo_valor_sem_OS_ou_aceite: false
+    mesma_data_aproximada_consecutiva: false
+    concentracao_tomador_acima_70pct: false
+    ausencia_aceite_documentado: false
+    pagamento_mensal_sem_resultado: false
+  tabela_efeito:
+    erro_isolado_antes_pagamento: "corrigir antes da liberação"
+    termo_proibido_repetido: "bloquear nova operação"
+    valor_fixo_com_escopo_OS_aceite: "permitido com observação"
+    valor_fixo_sem_escopo: "bloquear renovação"
+    concentracao_acima_70: "acionar ACC-lite ou PRA-T"
+    pagamento_mensal_sem_medicao: "bloquear continuidade"
+  decisao: ""
+  responsavel: ""
+  data: ""
+```
+
+## Anexo BB — PRA-T — Painel de Risco de Autonomia Triangular
+
+```yaml
+pra_t:
+  upa: ""
+  tomador: ""
+  ciclo: ""
+  dimensoes:
+    local_execucao: "instalações do cliente | externo | misto"
+    canal_comando: "OSC | UPA diretamente | cliente diretamente | misto"
+    horario_ou_escala: "definido pela UPA | exigido pelo cliente"
+    pessoalidade: false
+    integracao_equipe_interna: false
+    ferramentas_do_tomador_sem_justificativa: false
+    OS_lote_aceite_por_entrega: true
+    preco_proprio_da_UPA: true
+    recorrencia: "pontual | sazonal | contínua"
+    papel_real_da_OSC: "intermediária de conformidade | coordenadora operacional"
+  resultado:
+    bloqueio_triangulacao: false
+    motivo_bloqueio: ""
+    rota_alternativa: "N1.75-D | N1.75-C | N1.75-B | nenhuma"
+  regra_central: "Se o tomador controlar jornada, pessoa, método diário ou integração funcional, a triangulação é bloqueada e a rota migra para N1.75-D."
+```
+
+## Anexo BC — ACC-T — Auditoria de Conduta Concreta Triangular
+
+```yaml
+acc_t:
+  upa: ""
+  tomador: ""
+  data: ""
+  nivel: "ACC-T0 | ACC-T1 | ACC-T2"
+  acc_t0_pre_contratacao:
+    termo_tomador_nao_diretivo_assinado: false
+    triangulacao_autorizada_cgip: false
+  acc_t1_execucao:
+    mudanca_escopo_por_OS_aditivo: true
+    cliente_avalia_entrega_sem_dirigir_trabalho: true
+    sinais_de_comando_indevido: false
+    descricao_sinais: ""
+  acc_t2_fechamento:
+    OS_analisada: false
+    aceite_analisado: false
+    nfs_e_analisada: false
+    datas_valores_coerentes: false
+    descricao_fiscal_adequada: false
+    recorrencia_sem_subordinacao: false
+    contradicao_declaracao_vs_padrao_fiscal: false
+  regra_sintetica: "Cliente avalia resultado. Cliente não comanda rotina."
+  decisao: "renovar | ajustar | bloquear | migrar_N175D"
+```
+
+## Anexo BD — Termo de Tomador Não Diretivo
+
+```markdown
+# Termo de Tomador Não Diretivo
+
+Tomador:
+CNPJ/CPF:
+UPA contratada:
+OSC intermediária (quando N1.75-BT):
+Data:
+
+O tomador declara e se compromete a:
+
+1. não controlar jornada, frequência ou horário da UPA;
+2. não exigir posto fixo ou presença permanente;
+3. não exigir que apenas uma pessoa específica execute o serviço;
+4. não dar ordens diárias sobre método de execução;
+5. não integrar a UPA à sua equipe interna;
+6. não utilizar crachá funcional interno para a UPA;
+7. não convocar a UPA para reuniões internas obrigatórias da organização;
+8. não substituir empregado regular pela UPA;
+9. comunicar mudanças de escopo exclusivamente por OS ou aditivo formal;
+10. avaliar a entrega por resultado, lote, medição ou aceite;
+11. não vincular pagamento a disponibilidade de pessoa.
+
+O descumprimento de qualquer item acima autoriza a OSC ou a Rede a suspender a operação e acionar ACC-T2 imediatamente.
+
+Assinatura do tomador: ______________________
+```
+
+## Anexo BE — Contrato de Compra-Ponte Triangular (N1.75-BT)
+
+```markdown
+# Contrato de Compra-Ponte Triangular
+
+OSC intermediária:
+UPA contratada:
+CNPJ da UPA:
+Cliente B2B/B2I:
+CNPJ/CPF do cliente:
+
+## Objeto
+
+Entrega fechada de [descrição objetiva do serviço], conforme OS n.º [código], com escopo delimitado, prazo definido e aceite por resultado.
+
+## Valor
+
+Preço: R$ [valor]
+Forma de pagamento: [condições]
+NFS-e: emitida pela UPA contra a OSC
+
+## Vedações expressas ao cliente
+
+O cliente não pode:
+- controlar jornada ou horário;
+- exigir posto fixo;
+- exigir pessoalidade absoluta;
+- dar ordens diárias de execução;
+- integrar a UPA à equipe interna;
+- substituir empregado regular.
+
+## Mudanças de escopo
+
+Somente por OS ou aditivo assinado pelas três partes.
+
+## Suspensão por comando indevido
+
+Qualquer sinal de direção de trabalho pelo cliente autoriza suspensão imediata pela OSC, com acionamento de ACC-T2 e reavaliação da rota para N1.75-D.
+
+## Classificação de receita
+
+Receita classificada como assistida no Ciclo 1. Reclassificação para autônoma somente em ciclo posterior com necessidade operacional documentada sem intermediação substantiva da OSC.
+```
+
+## Anexo BF — Registro de RVO Fiscal em Lote
+
+```yaml
+rvo_lote:
+  periodo: ""
+  responsavel_secretaria: ""
+  data_revisao: ""
+  upas_revisadas: []
+  total_notas_no_periodo: 0
+  notas_validadas_por_chave: 0
+  notas_rvo_humana_enxuta: 0
+  notas_rvo_completa: 0
+  notas_rvo_reforcada: 0
+  divergencias_impressao_digital: 0
+  tifs_abertos: 0
+  notas_bloqueadas: 0
+  notas_aprovadas_verde: 0
+  notas_aprovadas_amarelo: 0
+  tempo_medio_revisao_minutos: 0
+  observacoes: ""
+```
+
+## Anexo BG — Conta F — Proibição de Operação Financeira
+
+```yaml
+conta_f_proibicao_financeira:
+  proibicoes_expressas:
+    - compra_de_recebiveis
+    - desconto_de_nota_fiscal
+    - antecipacao_de_credito
+    - mutuo_simples
+    - capital_de_giro_reembolsavel
+    - factoring_social
+    - subvencao_nao_reembolsavel_de_capital_de_giro_como_validacao_de_mercado
+  tratamento_da_subvencao_pura:
+    permitida: true
+    classificacao_obrigatoria: "subsídio puro"
+    registro_separado: true
+    nao_classifica_como_validacao_de_mercado: true
+  finalidades_permitidas:
+    - regularidade_fiscal_e_documental
+    - cadastro_de_fornecedor
+    - habilitacao_tecnica_exigida_por_comprador
+    - ferramenta_minima_com_funil_documentado
+    - seguro
+    - apoio_triangulacao_formal
+    - prospeccao_comercial_B2B_B2I
+    - complemento_transicional_voucher_com_terceiro_real
+    - cliente_ancora
+    - transicao_para_contrato_estruturado
+    - emprego_ou_aprendizagem
+    - baixa_preventiva
+    - tarifa_ou_garantia_com_operador_financeiro_regular_com_parecer
+```
+
+## Anexo BH — Conta G — Parcela Emergencial e Marcos Externos
+
+```yaml
+conta_g_campo_v5:
+  participante_ou_upa: ""
+  motivo_acionamento: ""
+  estrutura_liberacao:
+    parcela_emergencial_inicial:
+      exige_validacao_externa_previa: false
+      decisao: "CGI-P"
+      valor: 0
+      prazo_dias: 0
+    parcelas_seguintes:
+      exigem_marco_externo_verificavel: true
+      fontes_aceitas_de_validacao:
+        - contador
+        - empresa_parceira
+        - escola
+        - entidade_social
+        - coordenacao_pedagogica
+        - orgao_parceiro
+      fontes_nao_aceitas:
+        - print_produzido_pela_propria_UPA
+    total_parcelas: 0
+    prazo_total_maximo_dias: 45
+  regra_central: "A Conta G não pode deixar a pessoa sem proteção enquanto aguarda resposta burocrática de terceiros. A primeira parcela é proteção emergencial; a continuidade exige marco externo verificável."
+  plano_de_saida_documentado: true
+  nao_remunera_servico: true
+  nao_substitui_salario: true
+```
+
+---
+
 # 48. Referências normativas e conceituais
 
 Esta versão é conceitual e operacional. Não substitui parecer jurídico, contábil, trabalhista, tributário, previdenciário, administrativo, securitário, arquivístico, tecnológico ou de proteção de dados.
@@ -3741,10 +5216,14 @@ Referências para desenvolvimento e validação local:
 - Lei nº 13.800/2019 — fundos patrimoniais.
 - Lei nº 13.874/2019 — liberdade econômica e documentos digitais.
 - Lei nº 14.063/2020 — assinaturas eletrônicas.
-- Lei nº 14.133/2021 — licitações e contratos administrativos.
+- Lei nº 14.133/2021 — licitações e contratos administrativos, único marco geral desde a revogação da Lei nº 8.666/1993.
+- Decreto nº 12.807/2025 — atualização dos limites monetários da Lei nº 14.133/2021 vigentes em 2026, inclusive faixas de dispensa de licitação.
+- Lei nº 14.995/2024 — Programa Acredita no Primeiro Passo (microcrédito produtivo orientado, qualificação e inclusão produtiva para inscritos no CadÚnico).
+- Lei Complementar nº 214/2025 — Reforma Tributária (IBS e CBS), com preservação do regime do MEI e transição até 2033, e inclusão dos campos de IBS e CBS na emissão de NFS-e.
+- Resoluções da Autoridade Nacional de Proteção de Dados, em especial o regime simplificado para agentes de tratamento de pequeno porte.
 - MP nº 2.200-2/2001 — ICP-Brasil.
-- Regras municipais de ISS e NFS-e.
-- Regras do MEI, DAS, DASN-SIMEI e baixa de CNPJ.
+- Regras municipais de ISS e NFS-e, incluindo o Portal Nacional da NFS-e.
+- Regras do MEI, DAS-MEI, DASN-SIMEI e baixa de CNPJ, observado o teto de R$ 81.000 anuais vigente em 2026 e o valor do DAS atrelado ao salário mínimo de R$ 1.621.
 - Normas de saúde e segurança do trabalho aplicáveis.
 - Normas municipais de uso de espaço público.
 - Regras de seguro e responsabilidade civil aplicáveis à atividade.
@@ -3766,6 +5245,7 @@ A fórmula final é:
 > demonstrar sem simular;  
 > formalizar sem fabricar dívida;  
 > comprar sem esconder subordinação;  
+> triangular sem terceirizar ilegalmente;  
 > empreitar sem virar zeladoria;  
 > registrar sem virar folha de ponto;  
 > provar sem depender de planilha editável;  
@@ -3787,4 +5267,433 @@ A Rede só deve abrir CNPJ quando puder sustentar a travessia mínima: Secretari
 
 A prova não nasce no WhatsApp. A segurança não nasce no improviso. O mercado não nasce do voucher. A governança local não nasce do parecer remoto. A ascensão não nasce do CNPJ. A Rede só cumpre sua finalidade quando consegue proteger a pessoa antes, durante e depois da hipótese empreendedora.
 
-O funil ampliado não existe para excluir a maioria. Existe para impedir que a maioria seja empurrada para a forma jurídica errada. Se 30 entram e apenas 3 UPAs avançam, o indicador decisivo não é a taxa bruta de conversão empreendedora; é a existência de saída digna, documentada e financiada para os 27 que não devem carregar um CNPJ inviável.
+O funil ampliado não existe para excluir a maioria. Existe para impedir que a maioria seja empurrada para a forma jurídica errada. Se 30 entram e apenas 2 UPAs avançam, o indicador decisivo não é a taxa bruta de conversão empreendedora; é a existência de saída digna, documentada e financiada para os 28 que não devem carregar um CNPJ inviável.
+
+## 49.2 Formulação revisada após revisão de canal e autonomia
+
+> A Rede não força o morador pobre a pagar o custo da formalização. A necessidade nasce no território; o pagador pode estar fora dele. A Compra-Ponte só valida mercado quando há canal real, preço sustentável e tomador adequado. Cliente âncora é tração quando não comanda trabalho. Concentração financeira é alerta; subordinação concreta é bloqueio. Declaração bilateral ajuda; padrão de faturamento decide; transição protegida reduz mentira.
+
+As seis mudanças que esta revisão incorpora ao documento:
+
+1. **Da hiper-regulação para o rigor por gatilho.** A RAL-Lite opera com documentação proporcional ao risco do ato — verde, amarelo ou vermelho — sem tratar formulário de presença com o mesmo peso de abertura de CNPJ.
+
+2. **Do B2C popular para a Matriz de Pagador Real.** Necessidade territorial não implica comprador territorial. Quando o morador vulnerável não possui liquidez estrutural, a trilha migra para B2B/B2I, ETRL, Contrato Estruturado ou rota não empreendedora.
+
+3. **Da Prova de Preço Real rígida para Prova de Canal e Preço Sustentável.** A mediana informal local é referência diagnóstica, não teto absoluto. O que importa é se há canal de pagamento real com preço mínimo sustentável para a UPA.
+
+4. **Do índice eliminatório de concentração para PRA + ACC + TVC.** Concentração financeira alta aciona auditoria, não reprovação automática. A ACC verifica conduta concreta; o TVC verifica padrão fiscal; os vetos absolutos são binários.
+
+5. **Da declaração espelhada ingênua para auditoria anticonluio por padrão fiscal-financeiro.** Declarações bilaterais ajudam. Padrão de faturamento — mesmo valor, mesma data, descrição genérica, sem OS — decide o risco real.
+
+6. **Da saída abstrata para Transição Protegida com Bolsa-Travessia não remuneratória.** Quando a forma jurídica muda de trilho, a Conta G garante até 45 dias de proteção sem exigir entrega produtiva, reduzindo o incentivo à mentira defensiva na auditoria e impedindo colapso abrupto de renda.
+
+## 49.3 Formulação Campo v5
+
+> A versão Campo da RAL-Lite não transforma a OSC em fornecedora de mão de obra, não transforma a Conta F em factoring social, não transforma PDF em prova fiscal automática e não transforma declaração bilateral em prova de autonomia. O primeiro ciclo testa bordas verificáveis: demanda, nota, aceite, pagamento, ausência de comando e capacidade de redirecionamento. Se o comprador quiser rotina, escala ou pessoa, a rota correta é contrato estruturado.
+
+As sete travas que a Campo v5 adiciona ao modelo:
+
+1. **DIC universal.** O dispositivo não varia por conveniência do monitor. O formulário varia pelo risco do ato.
+
+2. **Triangulação como modalidade Vermelha-T.** N1.75-BT é excepcional, de resultado fechado, com PRA-T, ACC-T e Termo de Tomador Não Diretivo obrigatórios. Não é compra comercial comum.
+
+3. **Pré-Mapa Fiscal Local.** Sem classificação fiscal municipal, não há primeira compra remunerada. Município fiscalmente frágil redireciona a rota, não exclui o participante.
+
+4. **Impressão Digital Fiscal.** Cada UPA tem perfil fiscal canônico. Divergência aciona RVO humana, não liberação automática.
+
+5. **TVC-lite desde a primeira recorrência.** Não se aguarda acúmulo de recorrências para verificar padrão de salário disfarçado.
+
+6. **Conta F sem operação financeira.** Não compra recebível, não faz mútuo, não antecipa crédito. Reduz risco para comprador real; não financia liquidez da UPA.
+
+7. **Conta G com proteção emergencial real.** A primeira parcela não aguarda burocracia de terceiros. A continuidade depende de marco externo verificável. Proteger antes de exigir prova.
+
+A Campo v5 é suficiente para testar segurança operacional, fiscal, trabalhista e probatória. Ela não pretende provar escala econômica plena. A prova de escala, demanda estruturada, absorção formal, reputação portátil e crédito pós-prova pertence à RAL-Standard v1.
+
+---
+
+# Apêndice — Relação com a RAL-Standard v1
+
+Este apêndice existe para marcar fronteira e abrir a Parte II. Ele não dilui o piloto: a arquitetura Standard é desenvolvida adiante, na **Parte II — RAL-Standard v1**, que incorpora também o Manual de Mercado e Absorção e o Caderno de Anexos Standard, em numeração própria (prefixo S) para manter a separação entre piloto protegido e escala controlada.
+
+O que **permanece** no escopo da Campo v5: acolhimento, formação, diagnóstico acadêmico, formalização seletiva, as cinco camadas do N1.75 incluindo a triangular, Compra-Ponte, voucher, ETRL excepcional, contrato estruturado, Conta F não financeira, Conta G emergencial, cadeia de custódia, RVO fiscal e a régua do Dia 270. A Campo v5 prova que a Rede opera sem dano.
+
+O que **fica de fora** da Campo v5 e pertence à RAL-Standard v1: o N1.7 (Motor de Demanda e Absorção, com carteiras de compradores, absorvedores e demandas financiáveis); a Prova de Absorção 0; o N1.75-E (Absorção Formal Assistida); o Catálogo RAL de Produtos Territoriais Padronizados; o Selo RAL de Prontidão Produtiva; o Dossiê de Crédito Pós-Prova; as camadas de custo RAL-Core, RAL-Plus e RAL-Red; e a Régua Padrão Ouro de saídas fortes. A RAL-Standard prova que a Rede escala com saída forte.
+
+A passagem de uma camada para a outra não é automática. Ocorre apenas pelo Gatilho de Ativação do Dia 270 (43.16), quando a célula territorial demonstra segurança, demanda legítima, absorção formal mínima e custo replicável. Até lá, a célula opera exclusivamente como piloto protegido.
+
+---
+
+# PARTE II — RAL-Standard v1
+
+**Escala Controlada de Inclusão Produtiva Territorial**
+
+Esta parte não é executada no primeiro ciclo protegido. Ela só é ativada quando a célula territorial cumpre o Gatilho de Ativação do Dia 270 (43.16): segurança operacional, fiscal, trabalhista e probatória comprovada, demanda legítima, absorção formal mínima e custo replicável. Antes disso, tudo o que segue permanece inerte. A numeração própria, com prefixo S, e a separação física existem para impedir que a arquitetura de escala contamine a leveza do piloto. Nenhuma trava da Parte I é revogada aqui; a Standard apenas acrescenta motor de demanda, reputação portátil e encaminhamento de crédito a uma base que já provou segurança.
+
+## S1. Abertura conceitual da RAL-Standard
+
+A RAL-Standard não substitui a Campo v5. Ela só é ativada quando a célula territorial já possui evidência de segurança, demanda legítima, capacidade operacional e absorção formal mínima. Sua função é converter proteção em saída forte.
+
+> A RAL não é um programa de empreendedorismo. É um sistema territorial de decisão, preparação, reputação e conexão produtiva que escolhe entre emprego, aprendizagem, UPA, contrato estruturado, cliente âncora, ETRL, crédito pós-prova ou proteção social conforme evidência de demanda legítima, absorção formal, autonomia, custo e risco.
+
+Onde a Campo v5 prova que a Rede opera sem dano, a Standard prova que a Rede escala com saída forte sem perder os trilhos de proteção.
+
+## S2. N1.7 — Motor de Demanda e Absorção
+
+O N1.7 é o bloco mais importante da Standard e o que falta às políticas que apenas formam e soltam. Antes de qualquer escala, a célula precisa de demanda real organizada em carteira, não de intenção difusa.
+
+O motor reúne carteira de compradores B2B/B2I, carteira de empresas absorvedoras em CLT e aprendizagem, carteira de demandas comunitárias financiáveis, empresas âncora, compradores de impacto, contratantes formais e demandas que possam virar ETRL, contrato público, patrocínio ou compra de impacto. A prospecção externa começa antes do fim da Janela 1, e a Janela 2 nunca recomeça do zero comercial.
+
+> Sem carteira mínima de compradores, absorvedores e demandas financiáveis, a célula não opera RAL-Standard. Opera apenas RAL-Lite diagnóstica.
+
+## S3. Prova de Absorção 0
+
+Espelho da Prova de Demanda 0, voltado a emprego, aprendizagem e contrato formal. Existe para impedir que "emprego assistido" vire promessa genérica. Registra, por oportunidade real: empresa ou contratante potencial; tipo de vaga ou demanda; função; requisitos mínimos; salário ou bolsa; jornada; regime jurídico; possibilidade de aprendizagem; risco de exploração simbólica; aderência ao Passaporte; responsável pela confirmação; e status da absorção. Sem Prova de Absorção 0, a rota de empregabilidade não avança para o N1.75-E.
+
+## S4. N1.75-E — Absorção Formal Assistida
+
+Dá à empregabilidade a mesma dignidade técnica que a UPA recebeu no piloto. São requisitos obrigatórios: empresa com vaga ou demanda real; função definida; regime formal (CLT, aprendizagem ou contrato regular); jornada e remuneração claras; aprendizagem quando cabível; Passaporte anexado; acompanhamento de 90 dias; canal de denúncia ativo; e vedação de teste gratuito, estágio informal ou exploração simbólica.
+
+O N1.75-E transforma o que o piloto trata como Bloco 4-C — emprego assistido, aprendizagem formalizada, contrato estruturado ou cliente âncora com absorção real — em camada técnica permanente da Standard, submetida à mesma régua probatória das demais camadas.
+
+## S5. Catálogo RAL de Produtos Territoriais Padronizados
+
+O motor comercial da Standard. A Rede não vende pessoas vulneráveis treinadas; organiza entregas verificáveis por escopo. Cada produto do catálogo é descrito por nome comercial, escopo fechado, exclusões, unidade de cobrança, faixa de preço, margem mínima, tempo médio, risco técnico, CNAE ou ocupação compatível, texto-padrão de NFS-e, evidência final, roteiro de aceite e gatilho de migração para contrato estruturado.
+
+Produtos iniciais sugeridos: digitalização de lote documental; mutirão de currículos e entrevistas; organização de arquivo, estoque ou sala; jardinagem leve delimitada; pintura simples em painel ou trecho; e pequenos reparos não estruturais de baixo risco.
+
+> A RAL não vende pessoas vulneráveis treinadas. A RAL organiza entregas verificáveis por escopo.
+
+## S6. Selo RAL de Prontidão Produtiva
+
+Torna o Passaporte legível para o mercado. O Selo não garante perfeição; atesta passagem por régua verificável de prontidão.
+
+| Selo | Sentido |
+|---|---|
+| RAL-Formação | concluiu trilha e rubrica |
+| RAL-Operação | entende checklist, contrato, nota e evidência |
+| RAL-Compra | realizou oficina ou compra validada |
+| RAL-Emprego | apto a absorção formal assistida |
+| RAL-UPA | apto a operar como unidade produtiva |
+| RAL-Escala | apto a contrato estruturado, empresa ou cooperativa |
+
+> O Selo RAL não garante perfeição. Ele atesta passagem por régua verificável de prontidão.
+
+## S7. Instrumento Standard 4 — Dossiê de Crédito Pós-Prova
+
+Crédito não é nível natural de progressão, por isso não recebe rótulo N1.8. A regra central preserva a Conta F, que permanece proibida de comprar recebíveis, descontar nota, antecipar crédito, fazer mútuo, operar capital de giro reembolsável ou atuar como factoring social.
+
+> A RAL não concede crédito. A RAL qualifica risco produtivo, documenta demanda, valida canal, mede autonomia e encaminha dossiê a operador financeiro regular.
+
+| Tipo | Uso |
+|---|---|
+| Crédito de ferramenta | comprador real e ferramenta necessária |
+| Crédito de giro limitado | contrato, OS, lote ou pedido validado |
+| Crédito de escala | receita externa recorrente e TVC saudável |
+
+> Crédito não financia esperança. Crédito só financia demanda demonstrada.
+
+Quando a UPA já provou demanda, o encaminhamento natural é a microfinança pública adequada — Acredita no Primeiro Passo, Procred 360, Crediamigo — antes de qualquer recurso reembolsável da própria Rede (30.4).
+
+## S8. Camadas de custo — RAL-Core, RAL-Plus, RAL-Red
+
+Transforma o Verde, Amarelo e Vermelho operacional em camadas de custo, para que a escala saiba onde gasta.
+
+| Camada | Uso | Finalidade |
+|---|---|---|
+| RAL-Core | N0/N1, Passaporte, saída formativa | baixo custo e alta escala |
+| RAL-Plus | CNPJ, NFS-e, compra, RVO | custo médio e poucos casos |
+| RAL-Red | BT, ETRL, Conta F/G, zona de risco, contrato estruturado | alto custo e exceção |
+
+> A RAL só escala quando o custo de suporte por saída forte for menor que o custo de manter a pessoa em ciclos repetidos de qualificação sem saída.
+
+## S9. Régua Padrão Ouro de Saídas Fortes
+
+Metas de referência da Standard, não obrigação universal do primeiro ciclo.
+
+| Métrica | Meta Standard |
+|---|---|
+| Saídas positivas no Dia 270 | 70% ou mais |
+| Saídas fortes | 40% ou mais |
+| Pessoas sem saída concreta | no máximo 10% |
+| CNPJ aberto sem receita após 90 dias | 0 |
+| Dívida fiscal criada pela Rede | 0 |
+| Passivo trabalhista crítico | 0 |
+| Receita externa ou contrato real | ao menos 50% da renda gerada |
+| Voucher no Dia 270 | abaixo de 30% da renda gerada |
+| Custo de controle no ciclo replicado | abaixo de 35% |
+| Participantes com Passaporte ou Selo utilizável externamente | 80% |
+| Compradores ou empresas ativos antes do Dia 75 | mínimo 5 por território |
+| Bloco 4-C operacional | obrigatório para turma ampliada |
+
+---
+
+# Manual de Mercado e Absorção (Standard)
+
+Operacionaliza o N1.7. Vende entrega, não pessoa; escopo, não disponibilidade; prontidão, não vulnerabilidade; redução de risco, não caridade; trilha de absorção, não favor social.
+
+## S10. Carteira B2B/B2I
+
+Registra, por comprador potencial: nome; setor; necessidade operacional; ticket provável; prazo de pagamento; exigência fiscal; risco de subordinação; produto RAL compatível; responsável pelo contato; e status no funil.
+
+## S11. Carteira de Absorção Formal
+
+Registra, por empregador potencial: empresa; função; regime; salário ou bolsa; requisitos; número de vagas; data provável; contato de RH; possibilidade de aprendizagem; aderência ao Passaporte; e risco de exploração.
+
+## S12. CRM da RAL
+
+Fases do funil de mercado e absorção: prospectado; contato feito; necessidade confirmada; produto compatível; proposta enviada; aceite; execução; recompra; absorção formal; e bloqueado por risco.
+
+## S13. Playbook de Abordagem Empresarial
+
+Linguagem correta na abordagem: vender entrega, não pessoa; vender escopo, não disponibilidade; vender prontidão, não vulnerabilidade; vender redução de risco, não caridade; vender trilha de absorção, não favor social.
+
+---
+
+# Caderno de Anexos Standard
+
+Anexos da Parte II, em numeração própria SI a SV. São inertes no piloto e só se aplicam após a ativação da RAL-Standard.
+
+## Anexo SI — Protocolo RAL-Standard v1
+
+```yaml
+protocolo_ral_standard_v1:
+  ativacao: "somente apos Gatilho do Dia 270 (43.16)"
+  pre_requisitos:
+    - veredito_classe_A_ou_B_forte
+    - ausencia_passivo_trabalhista_critico
+    - ausencia_divida_fiscal_da_rede
+    - ao_menos_uma_saida_forte_validada
+    - carteira_minima_compradores_ou_absorvedores
+    - bloco_1_em_patamar_replicavel
+    - secretaria_tecnica_capaz_de_escalar
+  preserva_travas_parte_I: true
+  camadas_de_custo: "RAL-Core | RAL-Plus | RAL-Red"
+  decisao: "CGI-P"
+```
+
+## Anexo SJ — N1.7 Motor de Demanda e Absorção
+
+```yaml
+n17_motor_demanda_absorcao:
+  carteira_b2b_b2i: []
+  carteira_absorvedores_clt_aprendizagem: []
+  carteira_demandas_comunitarias_financiaveis: []
+  empresas_ancora: []
+  compradores_de_impacto: []
+  contratantes_formais: []
+  demandas_convertem_em:
+    - etrl
+    - contrato_publico
+    - patrocinio
+    - compra_de_impacto
+  prospeccao_iniciada_antes_do_fim_janela_1: true
+  regra: "Sem carteira minima, a celula opera apenas RAL-Lite diagnostica."
+```
+
+## Anexo SK — Prova de Absorção 0
+
+```yaml
+prova_de_absorcao_0:
+  empresa_ou_contratante: ""
+  tipo_de_vaga_ou_demanda: ""
+  funcao: ""
+  requisitos_minimos: []
+  salario_ou_bolsa: ""
+  jornada: ""
+  regime_juridico: "clt | aprendizagem | contrato_regular | outro"
+  possibilidade_de_aprendizagem: false
+  risco_de_exploracao_simbolica: "baixo | medio | alto"
+  aderencia_ao_passaporte: ""
+  responsavel_pela_confirmacao: ""
+  status_da_absorcao: "prospectado | confirmado | em_processo | concretizado | bloqueado"
+```
+
+## Anexo SL — Carteira B2B/B2I
+
+```yaml
+carteira_b2b_b2i:
+  - nome_comprador: ""
+    setor: ""
+    necessidade_operacional: ""
+    ticket_provavel: 0
+    prazo_de_pagamento: ""
+    exigencia_fiscal: ""
+    risco_de_subordinacao: "baixo | medio | alto"
+    produto_ral_compativel: ""
+    responsavel_pelo_contato: ""
+    status: "prospectado | contato | necessidade_confirmada | proposta | aceite | execucao | recompra | bloqueado"
+```
+
+## Anexo SM — Carteira de Absorção Formal
+
+```yaml
+carteira_absorcao_formal:
+  - empresa: ""
+    funcao: ""
+    regime: "clt | aprendizagem | contrato_regular"
+    salario_ou_bolsa: ""
+    requisitos: []
+    numero_de_vagas: 0
+    data_provavel: ""
+    contato_rh: ""
+    possibilidade_de_aprendizagem: false
+    aderencia_ao_passaporte: ""
+    risco_de_exploracao: "baixo | medio | alto"
+```
+
+## Anexo SN — Matriz de Contratante Real
+
+```yaml
+matriz_de_contratante_real:
+  contratante: ""
+  necessidade_operacional_real: true
+  paga_por_escopo_fechado: true
+  exige_nota_fiscal: true
+  quer_rotina_escala_ou_pessoa: false
+  comando_sobre_execucao: false
+  veredito: "contratante_legitimo | risco_de_subordinacao | rota_contrato_estruturado"
+```
+
+## Anexo SO — N1.75-E Absorção Formal Assistida
+
+```yaml
+n175e_absorcao_formal_assistida:
+  empresa: ""
+  vaga_ou_demanda_real: true
+  funcao_definida: ""
+  regime_formal: "clt | aprendizagem | contrato_regular"
+  jornada: ""
+  remuneracao: ""
+  aprendizagem_quando_cabivel: false
+  passaporte_anexado: true
+  acompanhamento_90_dias: true
+  canal_de_denuncia_ativo: true
+  vedacoes:
+    - teste_gratuito
+    - estagio_informal
+    - exploracao_simbolica
+```
+
+## Anexo SP — Catálogo RAL de Produtos Territoriais
+
+```yaml
+catalogo_ral_produtos:
+  produtos_iniciais:
+    - digitalizacao_de_lote_documental
+    - mutirao_de_curriculos_e_entrevistas
+    - organizacao_de_arquivo_estoque_ou_sala
+    - jardinagem_leve_delimitada
+    - pintura_simples_em_painel_ou_trecho
+    - pequenos_reparos_nao_estruturais_baixo_risco
+  regra: "A RAL organiza entregas verificaveis por escopo; nao vende pessoas."
+```
+
+## Anexo SQ — Ficha de Produto RAL
+
+```yaml
+ficha_de_produto_ral:
+  nome_comercial: ""
+  escopo_fechado: ""
+  exclusoes: []
+  unidade_de_cobranca: ""
+  faixa_de_preco: ""
+  margem_minima: ""
+  tempo_medio: ""
+  risco_tecnico: "baixo | medio | alto"
+  cnae_ou_ocupacao_compativel: ""
+  texto_padrao_nfs_e: ""
+  evidencia_final: ""
+  roteiro_de_aceite: ""
+  gatilho_migracao_contrato_estruturado: ""
+```
+
+## Anexo SR — Selo RAL de Prontidão Produtiva
+
+```yaml
+selo_ral_prontidao:
+  participante: ""
+  selos_obtidos:
+    - RAL-Formacao
+    - RAL-Operacao
+    - RAL-Compra
+    - RAL-Emprego
+    - RAL-UPA
+    - RAL-Escala
+  evidencia_por_selo: {}
+  utilizavel_externamente: true
+  ressalva: "O selo atesta passagem por regua verificavel, nao perfeicao."
+```
+
+## Anexo SS — Dossiê de Crédito Pós-Prova
+
+```yaml
+dossie_credito_pos_prova:
+  upa: ""
+  tipo: "credito_de_ferramenta | credito_de_giro_limitado | credito_de_escala"
+  demanda_demonstrada: true
+  canal_validado: true
+  autonomia_medida: true
+  risco_produtivo_qualificado: true
+  operador_financeiro_regular_destino: ""
+  rede_concede_credito: false
+  trava: "Credito so financia demanda demonstrada, nunca esperanca."
+  encaminhamento_publico_preferencial:
+    - acredita_no_primeiro_passo
+    - procred_360
+    - crediamigo
+```
+
+## Anexo ST — Régua Standard de Saídas Fortes
+
+```yaml
+regua_standard_saidas_fortes:
+  saidas_positivas_dia_270_meta: ">= 70%"
+  saidas_fortes_meta: ">= 40%"
+  pessoas_sem_saida_concreta_max: "<= 10%"
+  cnpj_sem_receita_apos_90_dias: 0
+  divida_fiscal_criada_pela_rede: 0
+  passivo_trabalhista_critico: 0
+  receita_externa_ou_contrato_real_min: ">= 50% da renda gerada"
+  voucher_dia_270_max: "< 30% da renda gerada"
+  custo_controle_ciclo_replicado_max: "< 35%"
+  passaporte_ou_selo_externo_min: ">= 80%"
+  compradores_ativos_antes_dia_75_min: 5
+  bloco_4c_para_turma_ampliada: "obrigatorio"
+```
+
+## Anexo SU — CRM de Mercado e Absorção
+
+```yaml
+crm_mercado_absorcao:
+  fases:
+    - prospectado
+    - contato_feito
+    - necessidade_confirmada
+    - produto_compativel
+    - proposta_enviada
+    - aceite
+    - execucao
+    - recompra
+    - absorcao_formal
+    - bloqueado_por_risco
+```
+
+## Anexo SV — Relatório Standard do Dia 270+
+
+```yaml
+relatorio_standard_dia_270:
+  celula_territorial: ""
+  ciclo: ""
+  classe_dia_270: "A | B | C | D"
+  gatilho_standard_atingido: false
+  saidas_fortes: 0
+  saidas_positivas: 0
+  pessoas_sem_saida: 0
+  receita_externa_percentual: 0
+  voucher_percentual: 0
+  custo_controle_percentual: 0
+  carteira_compradores_ativos: 0
+  carteira_absorvedores_ativos: 0
+  creditos_encaminhados: 0
+  recomendacao: "ativar_standard | repetir_lite | redesenhar | encerrar"
+```
