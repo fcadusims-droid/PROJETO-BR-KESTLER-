@@ -15,7 +15,7 @@ O **RTTA — Relatório Técnico de Triagem e Transição Assistida** é o instr
 
 O modelo adota **Degradação Operacional Segura**. Quando o município não possui equipe, dinheiro, plantão, viatura, sistema digital, vaga, abrigo ou Conselho Tutelar responsivo, o fluxo não deve ser abandonado nem simulado. Ele degrada para o mínimo seguro: neutralizar exposição ao risco, registrar a decisão, acionar o órgão materialmente competente, impedir policialização da pobreza, preservar dados, evitar plantão informal e revisar posteriormente conforme a capacidade real.
 
-Na emergência, o **Código Vermelho Protetivo** é classificado por natureza material: policial, médico, tutelar, institucional ou social grave. O objetivo é evitar que toda vulnerabilidade social vire caso de polícia. Quando uma criança retirada de risco não puder permanecer em local seguro e o fluxo ordinário falhar, o modelo prevê a **Recepção Protetiva Emergencial Temporária** — procedimento documentado de recepção provisória, com comunicação posterior obrigatória às autoridades competentes. O instrumento técnico interno é denominado Porta 93; o documento de registro é o **TEPE — Termo de Entrega Protetiva Emergencial**.
+Na emergência, o **Código Vermelho Protetivo** é classificado por natureza material: policial, médico, tutelar, institucional ou social grave. O objetivo é evitar que toda vulnerabilidade social vire caso de polícia. O modelo **não cria acolhimento municipal autônomo**. Quando houver serviço de acolhimento habilitado e pactuado, aciona-se o **Protocolo Excepcional do art. 93 do ECA**, com comunicação obrigatória à autoridade judiciária. Quando não houver assunção imediata pelo fluxo competente, usa-se a **Retaguarda de Custódia** — permanência física curta, documentada e supervisionada, limitada a 4 horas. Se esse teto estourar sem assunção material, o caso passa a **Preservação Residual Antiabandono**, registrada como falha sistêmica, não como rotina permitida. O instrumento operacional do N1 passa a ser a **Ficha Única de Crise Noturna**, com Bloco de Alerta Vital de Integridade (B.A.V.I.), conversão automática em ROQ-T factual e Retificação Técnica Diurna (RTD).
 
 A participação social é admitida por um **Ecossistema Plural de Cooperação Protetiva**. Voluntários, empresas, universidades, organizações sociais, comunidades e especialistas podem apoiar mutirões, capacitação, logística, consulta assistida, orientação técnica e fomento finalístico. Não podem exercer coerção, fiscalizar famílias de forma autônoma, acessar dados nominais, decidir risco, aplicar sanção, interditar ou substituir autoridade pública.
 
@@ -35,15 +35,15 @@ Este documento é uma arquitetura completa de política pública. Ele não deve 
 
 **Camada B — Piloto mínimo.** Abrange regularização assistida de microprestadores, RTTA, status operacional simples, consulta assistida, validação de vínculos pela rede instalada, Código Vermelho mínimo e ICO básico.
 
-**Camada C — Kit operacional.** Abrange ficha de adesão, RTTA, termo de ciência, cartão do Código Vermelho, matriz de dados, TEPE, formulário de status, protocolo de consulta assistida, formulário de reavaliação e relatório mensal.
+**Camada C — Kit operacional.** Abrange ficha de adesão, RTTA, termo de ciência, cartão do Código Vermelho, matriz de dados, Ficha Única de Crise Noturna, Retaguarda e ROQ-T factual, Termo de Entrega Segura, Retificação Técnica Diurna — RTD, checklist de Unidade Âncora, cartão de Alerta Vital de Integridade — B.A.V.I., formulário de status, protocolo de consulta assistida, formulário de reavaliação e relatório mensal.
 
-**Camada D — Expansão progressiva.** Abrange fomento material robusto, fundo, voucher, integração digital avançada, voluntariado territorial ampliado, autonomia local aprofundada, módulos domésticos, supervisão digital assistida e auditorias mais complexas.
+**Camada D — Expansão progressiva.** Abrange fomento material robusto, fundo, voucher, integração digital avançada, voluntariado territorial ampliado, autonomia local aprofundada, módulos domésticos, supervisão digital assistida e auditorias mais complexas. O acolhimento emergencial não pactuado **não** é módulo de expansão: é vedado. A Camada D não autoriza criação de acolhimento municipal autônomo em nenhuma hipótese.
 
 A implementação inicial deverá começar pela Camada B. A Camada D somente será ativada após maturidade operacional, avaliação do piloto, pactuação institucional e base legal adequada.
 
 ### 1.2. Núcleo do piloto inaugural
 
-Antes do ciclo de 180 dias, recomenda-se **janela sentinela de transporte infantil de risco** de 30 a 45 dias, conforme seção 56.1.1. Essa janela testa os instrumentos nucleares sem abrir o balcão de microprestadores. O piloto inaugural de 180 dias começa após essa janela, por três entregas:
+Antes do ciclo de 180 dias, recomenda-se **janela sentinela de transporte infantil de risco** de 30 dias corridos, conforme seção 56.1.1. Essa janela testa os instrumentos nucleares sem abrir o balcão de microprestadores. O piloto inaugural de 180 dias começa após essa janela, por três entregas:
 
 1. regularização assistida de microprestadores infantis, com janela de adesão voluntária protegida, RTTA, limites operacionais e plano de adequação;
 2. status operacional simples, consulta assistida e linguagem pública compreensível, sem efeito de selo ou recomendação estatal;
@@ -59,7 +59,7 @@ Também não deverá usar o componente digital como eixo organizador do piloto. 
 
 Ficam expressamente fora do ciclo inaugural de 180 dias:
 
-- ICL estatístico sofisticado;
+- índice ou modelagem estatística sofisticada de risco;
 - auditoria digital de laudos;
 - análise de metadados de fotos;
 - sorteio ou rodízio formal de pareceristas privados;
@@ -83,10 +83,12 @@ A regra geral é progressiva: primeiro tornar visível a rede informal de cuidad
 
 | Fase | Módulos ativados | Módulos adiados ou condicionados |
 |---|---|---|
-| Fase 1 — 180 dias | microprestadores, RTTA, status simples, consulta assistida, validação pela rede, Código Vermelho mínimo, ICO básico | risco doméstico amplo, plataforma avançada, fomento material robusto, voluntariado domiciliar, sanções complexas |
-| Fase 2 — 6 a 12 meses | fomento material com base legal, fundo ou voucher, TEPE pactuado, auditoria de dados, expansão territorial limitada | visitas domiciliares amplas, integração federada complexa, autonomia local deliberativa |
-| Fase 3 — expansão controlada | transporte, evasão escolar, supervisão digital assistida, autonomia local ampliada, auditoria independente | módulos domésticos sensíveis sem defesa, dados e controle externo completos |
+| Pré-piloto — 30 dias corridos | transporte infantil de risco, Urnas Físicas Analógicas, TIDT, Lista Central, Fiscalização Sentinela, Checklist Universal de Transporte, Código Vermelho | ODA, RECOT, Cadastro Reverso amplo, microcreches, continuidade infantil em massa |
+| Fase 1 — 180 dias | microprestadores, RTTA, PTS, status simples, consulta assistida, validação pela rede, Código Vermelho mínimo, ICO básico, ODA, RECOT com Rodízio; Retaguarda noturna **apenas se houver Unidade Âncora apta** (sem Unidade Âncora, módulo noturno desativado) | risco doméstico amplo, plataforma avançada, fomento material robusto, voluntariado domiciliar, sanções complexas |
+| Fase 2 — 6 a 12 meses | fomento material com base legal, fundo ou voucher, Protocolo Excepcional do art. 93 do ECA pactuado com Judiciário, Ministério Público, Conselho Tutelar, assistência social e serviço de acolhimento habilitado, auditoria de dados, expansão territorial limitada | visitas domiciliares amplas, integração federada complexa, autonomia local deliberativa |
+| Fase 3 — expansão controlada | evasão escolar, supervisão digital assistida, autonomia local ampliada, auditoria independente | módulos domésticos sensíveis sem defesa, dados e controle externo completos |
 | Fase 4 — maturidade | risco doméstico material grave com garantias completas, integração digital proporcional, indicadores robustos | qualquer módulo sem teste pobreza-negligência, proteção de dados, direito de defesa e controle externo |
+| Expansão futura | APDA, CEFA, AMEF, MACSO, educação familiar assistida, voluntariado pedagógico | base legal específica, pactuação educacional e proteção de dados obrigatórias |
 
 ### 1.6. Exposição de motivos resumida
 
@@ -104,7 +106,7 @@ A fórmula pública do modelo é: **regularizar sem destruir, proteger sem invad
 
 ---
 
-Esta seção resume a versão executável do projeto para prefeito, secretário, vereador, Ministério Público, Conselho Tutelar, imprensa, famílias e microprestadores. Ela não substitui o documento completo; serve como porta de entrada para a implantação inicial.
+Esta seção resume a versão executável do projeto para gestores públicos, parlamentares, órgãos de proteção, imprensa, famílias e microprestadores. Ela não substitui o documento completo; serve como porta de entrada para a implantação inicial.
 
 **Nome público do piloto.** Para fins de comunicação pública do piloto inaugural, recomenda-se utilizar a denominação **"Programa Municipal de Regularização Assistida de Ambientes Infantis"**, reservando o nome completo do modelo à arquitetura técnica. O piloto não fiscaliza residências, não cria cadastro geral de famílias e não regula estilos parentais. Seu objeto inicial é tornar visíveis ambientes infantis informais, reduzir riscos críticos e informar famílias sobre a situação operacional conhecida dos prestadores.
 
@@ -120,21 +122,21 @@ Esta seção resume a versão executável do projeto para prefeito, secretário,
 
 **Instrumentos mínimos.** A execução inicial exige ficha de adesão, relatório de triagem limitada, termo de ciência do prestador, status operacional simples, consulta assistida, cartão de resposta emergencial, matriz mínima de dados, relatório mensal e métrica simples de captura da fila.
 
-**Resposta a risco grave.** Diante de perigo atual, a rede aciona o órgão materialmente competente: segurança quando houver violência, ameaça, arma, crime ou necessidade de acesso seguro; saúde quando houver lesão, intoxicação, crise ou desidratação; assistência e proteção quando houver abandono, ausência de adulto apto ou necessidade de acolhimento emergencial. Vulnerabilidade social sem perigo físico atual não vira caso policial por falta de CRAS ou Conselho Tutelar.
+**Resposta a risco grave.** Diante de perigo atual, a rede aciona o órgão materialmente competente: segurança quando houver violência, ameaça, arma, crime ou necessidade de acesso seguro; saúde quando houver lesão, intoxicação, crise ou desidratação; assistência e proteção quando houver abandono, ausência de adulto apto ou necessidade de entrega segura, acionamento do Conselho Tutelar, serviço de acolhimento habilitado ou autoridade competente, sem criação de acolhimento municipal autônomo. Vulnerabilidade social sem perigo físico atual não vira caso policial por falta de CRAS ou Conselho Tutelar.
 
 **Proteção contra captura.** Nenhum vereador, liderança, igreja, associação, empresa, voluntário ou intermediário controla fila, indica beneficiário, acessa dados nominais ou define quem recebe apoio. A participação social escolhe prioridades e ajuda na execução; a decisão sensível permanece pública, motivada e auditável.
 
 **Critério de sucesso.** O piloto deve mostrar que mais prestadores informais ficaram visíveis, que riscos críticos foram neutralizados antes da continuidade do atendimento ou tiveram assunção material registrada pelo órgão competente, que as famílias conseguem consultar status, que o custo administrativo é proporcional, que não houve policialização da pobreza, que dados foram protegidos e que a fila não foi capturada por intermediários.
 
-**Critério de parada.** O piloto deve ser corrigido, pausado ou suspenso se produzir abuso estatal, vazamento grave de dados, captura política da fila, uso recorrente da polícia para demandas sociais, acolhimento emergencial prolongado fora do fluxo legal, custo administrativo desproporcional ou fechamento de serviço sem continuidade infantil mínima.
+**Critério de parada.** O piloto deve ser corrigido, pausado ou suspenso se produzir abuso estatal, vazamento grave de dados, captura política da fila, uso recorrente da polícia para demandas sociais, permanência, retaguarda ou acolhimento fora do fluxo legal, especialmente sem serviço habilitado, sem pactuação ou sem autoridade competente, custo administrativo desproporcional ou fechamento de serviço sem continuidade infantil mínima.
 
-**Kit impresso do Dia 1.** O piloto inaugural deverá ser executável no Dia 1 por meio de kit impresso mínimo: quadro de decisão emergencial, ficha de validação por lote e rodapé de proteção procedimental do agente. A lógica é reduzir medo, dúvida, retrabalho e empurra-empurra antes de ativar sistemas digitais ou módulos complexos. Os três instrumentos estão detalhados no Capítulo 67 — Kit de Prateleira N1.
+**Kit impresso do Dia 1.** O piloto inaugural deverá ser executável no Dia 1 por meio de kit impresso mínimo, cujos instrumentos estão detalhados no Capítulo 67 — Kit de Prateleira N1: quadro de decisão emergencial (Chave 1), ficha de validação por lote, rodapé de proteção procedimental do agente, ficha analógica de triagem do PTS, modelo de TIDT, ata do sorteio sentinela, checklist universal de transporte, fluxo ODA/RECOT com rodízio e Ficha Única de Crise Noturna, com B.A.V.I., Código 99 restrito, Certidão de Ausência de Contato, conversão automática em ROQ-T factual e RTD diurna. A lógica é reduzir medo, dúvida, retrabalho e empurra-empurra antes de ativar sistemas digitais ou módulos complexos.
 
 **Nova arquitetura operacional consolidada.** O modelo funciona assim em cada situação:
 
 - *Quando há pendência técnica simples:* PTS pode comprovar correção específica, reduzir incerteza e evitar retorno fiscal desnecessário.
 - *Quando há risco baixo:* PTS pode gerar efeito interno provisório; a família vê **OPERAÇÃO LIMITADA CONHECIDA — Pendência em verificação**, enquanto não houver confirmação pública da correção.
-- *Quando há risco da Tabela Negra:* PTS não libera automaticamente; antecipa a rechecagem pública e não encerra restrição. Fraude ou divergência grave gera Alerta sob TIDT, recebimento provisório como documento fraco e eventual inclusão na Lista Central após homologação da coordenação.
+- *Quando há risco da Tabela Negra:* PTS não libera automaticamente; antecipa a rechecagem pública e não encerra restrição. Fraude ou divergência grave gera Alerta Interno de Balcão, PTS do emissor fica inoperante para fast-track e prioridade, e eventual inclusão na Lista Central após contraditório e homologação da coordenação.
 - *Quando o imóvel é o risco:* usar ODA, com o prestador cuidando e o município supervisionando perímetro.
 - *Quando o prestador é o risco:* não há ODA; desloca-se a criança, não o serviço.
 - *Quando não há vaga nem dinheiro:* registrar insuficiência, acionar escada de capacidade existente e disparar Alerta de Déficit Crítico com obrigação de propor resposta institucional.
@@ -153,7 +155,7 @@ Esta seção resume a versão executável do projeto para prefeito, secretário,
 
 Em todos os módulos aplicam-se as mesmas salvaguardas-mãe: não punição da pobreza isolada, não privatização da coerção, proteção de dados, direito de contestação, fila auditável, neutralização da exposição a risco grave, vedação de intermediação obrigatória, controle externo e continuidade infantil antes de fechamento abrupto.
 
-Na comunicação pública e na leitura executiva, os nomes técnicos devem ser traduzidos para linguagem simples. RTTA pode ser apresentado como relatório de triagem limitada; TEPE como termo de entrega protetiva emergencial; ICO como alerta simples contra captura da fila. Expressões operacionais como bypass originário, Envelope 3, Chave 1, URPI-N1 ou matriz de confiança devem permanecer nos protocolos técnicos, sem dominar a apresentação política do projeto.
+Na comunicação pública e na leitura executiva, os nomes técnicos devem ser traduzidos para linguagem simples. RTTA pode ser apresentado como relatório de triagem limitada; ICO como alerta simples contra captura da fila. Quanto à resposta emergencial, deve-se **evitar TEPE na comunicação pública do piloto**: usar "Ficha Única de Crise Noturna" para a retaguarda e "Termo de Entrega Segura" quando houver entrega a adulto apto. A expressão "art. 93 do ECA" fica reservada ao fluxo pactuado com serviço de acolhimento habilitado. Expressões operacionais como bypass originário, Envelope 3, Chave 1, URPI-N1 ou matriz de confiança devem permanecer nos protocolos técnicos, sem dominar a apresentação política do projeto.
 
 ## 2. Nome do modelo
 
@@ -227,7 +229,7 @@ Essa tese combina dezesseis elementos:
 
 ## 5. Arquitetura modular do modelo
 
-O modelo organiza-se em sete camadas.
+O modelo organiza-se em sete camadas. Estas camadas numéricas descrevem a arquitetura temática do modelo e não se confundem com as camadas de leitura e implementação A, B, C e D da seção 1.1, que indicam a ordem de execução do piloto.
 
 **Camada 1 — Núcleo conceitual e jurídico.** Define responsabilidade parental e institucional, piso mínimo, proporcionalidade, teste pobreza-negligência, economicidade protetiva e garantias contra abuso estatal.
 
@@ -239,7 +241,7 @@ O modelo organiza-se em sete camadas.
 
 **Camada 5 — Fiscalização e implementação.** Estabelece fiscalização sentinela, teto administrativo, pilotos, métricas, governança, controle externo e anexos setoriais.
 
-**Camada 6 — Degradação operacional e resposta de crise.** Define como o modelo funciona quando faltam equipe, orçamento, plantão, viatura, abrigo, tecnologia ou resposta tutelar. Inclui N1-LRF, bypass originário, Porta 93, TEPE, taxonomia do Código Vermelho, regra do lugar seguro e plano de continuidade infantil.
+**Camada 6 — Degradação operacional e resposta de crise.** Define como o modelo funciona quando faltam equipe, orçamento, plantão, viatura, abrigo, tecnologia ou resposta tutelar. Inclui N1-LRF, bypass originário, Código Vermelho, Retaguarda de Custódia, Preservação Residual Antiabandono, Unidade Âncora, Protocolo Excepcional do art. 93 do ECA, Ficha Única de Crise Noturna, ROQ-T factual e RTD, taxonomia do Código Vermelho, regra do lugar seguro e plano de continuidade infantil.
 
 **Camada 7 — Governança plural, autonomia local e anticaptura.** Admite cooperação de voluntários, empresas, universidades, organizações sociais e comunidades, bem como personalização territorial, mas preserva coerção pública, dados protegidos, fila cega, controle contra intermediação política e Índice de Captura Operacional.
 
@@ -303,6 +305,14 @@ A degradação operacional não autoriza omissão diante de risco grave. Também
 Formulação:
 
 > A insuficiência de capacidade municipal não afasta o dever de acionar a proteção possível, mas impede a simulação de capacidade inexistente. O fluxo degradado deve preservar o mínimo seguro: neutralizar exposição ao risco, registrar a decisão, acionar o órgão materialmente competente, proteger dados, evitar policialização da pobreza e revisar posteriormente a resposta.
+
+Cláusula de vedação de acolhimento paralelo:
+
+> A insuficiência de capacidade não autoriza criação de acolhimento paralelo. Quando o fluxo ideal falhar, o município preserva fisicamente a criança contra abandono, registra a falha e escala a responsabilidade institucional, mas não converte sala pública, CRAS, escola ou viatura em abrigo informal.
+
+Fórmula do disjuntor temporal:
+
+> O prazo de 4 horas encerra a normalidade administrativa da Retaguarda, não o dever de proteção contra abandono.
 
 ### 6.9. Responsabilidade compartilhada sem privatização da coerção
 
@@ -731,7 +741,7 @@ O treinamento será escalonado para não impedir o arranque do piloto em municí
 - vedação de intermediação política, religiosa ou econômica;
 - registro mínimo de ocorrência e encaminhamento.
 
-**Formação técnica ampliada.** Destinada a equipes que farão visitas, checagens, RTTA, reavaliações, Porta 93, análise de dados, fiscalização sentinela, quarentena de atos capturados ou resposta protetiva. Conteúdo recomendado:
+**Formação técnica ampliada.** Destinada a equipes que farão visitas, checagens, RTTA, reavaliações, Retaguarda de Custódia, acionamento do art. 93 do ECA pactuado, análise de dados, fiscalização sentinela, quarentena de atos capturados ou resposta protetiva. Conteúdo recomendado:
 
 - segurança em visita domiciliar;
 - leitura de ambiente;
@@ -750,11 +760,41 @@ O treinamento será escalonado para não impedir o arranque do piloto em municí
 - trauma e neurodivergência;
 - viés de classe, raça, religião e estrutura familiar;
 - linguagem simples e adaptação comunicacional;
-- preenchimento de RTTA, TEPE, relatório de reavaliação e registros de status;
+- preenchimento de RTTA, Ficha Única de Crise Noturna, relatório de reavaliação e registros de status;
 - critérios de neutralização de exposição ao risco;
 - prevenção de captura territorial e uso do ICO.
 
 A ausência de formação ampliada não impede ações mínimas de orientação, consulta assistida e acionamento emergencial por portas de entrada capacitadas no treinamento de arranque. Ela impede apenas atos técnicos sensíveis que exijam competência, supervisão ou responsabilidade específica.
+
+**Módulo de 2 horas — Ficha Única.** Neste módulo a Ficha Única não terá simulação individual obrigatória; terá **leitura guiada e preenchimento conjunto**, em grupo, com o instrutor conduzindo campo a campo.
+
+**Módulo de 4 horas — simulação prática obrigatória.** Haverá simulação prática obrigatória com caso de porta trancada, Secretário incontactável, Conselho Tutelar sem resposta e decisão sobre local físico menos arriscado disponível.
+
+**Conceitos pedagógicos do treinamento da Ficha Única:**
+
+- *tacógrafo antinarrativa:* a ficha registra horários, canais e respostas, como um tacógrafo, não como diário;
+- *margem morta:* a ficha não oferece espaço livre para texto corrido; o desenho físico impede narrativa;
+- *converter, codificar ou diferir:* o que não couber em campo objetivo deve ser convertido em campo existente, codificado (Código 99) ou diferido para a revisão diurna;
+- frase do instrutor: **"não explique, marque o campo"**;
+- frase de enquadramento: **"não estou julgando ninguém, estou marcando o disjuntor de 4 horas"**.
+
+#### 16.5.1. Submódulo de treinamento da Ficha Única de Crise Noturna
+
+**Caso-base com porta trancada.** A simulação do módulo de 4 horas usará o seguinte caso: a Unidade Âncora existe, mas a porta está trancada; o Secretário não atende; a chave não é localizada. O participante deverá marcar o destino físico real disponível, não fingir acesso. A correção será considerada incorreta se o participante "entrar" na Unidade Âncora sem chave ou autorização fática; nesse caso, a resposta correta é marcar "mesmo local por ser o menos arriscado disponível" ou "Evento Crítico de Falha Estrutural" e seguir o fluxo de Preservação Residual com Certidão de Ausência de Contato.
+
+**Diretriz pedagógica contra narrativa livre na Ficha Única.** A ficha tem três saídas para o que não couber em campo objetivo: *converter* (transformar em campo existente), *codificar* (Código 99, máximo 10 palavras) ou *diferir* (remeter à revisão diurna). Frase do instrutor: **"Não explique. Marque o campo."** Frase de inversão de proteção: **"Se você escrever literatura, o advogado anula a ficha. Proteja o relógio, marque a caixa."**
+
+**Semáforo de assinatura.**
+
+- *Verde (registrar):* horários, canais, respostas, estado aparente, providências.
+- *Amarelo (registrar como fato neutro):* ausência de contato, inexistência de adulto apto, transbordo, Unidade Âncora inapta.
+- *Vermelho (proibido na ficha):* culpa, dolo, crime, negligência, diagnóstico, opinião, histórico familiar, acusação contra Conselho Tutelar.
+
+**Porto seguro procedimental — fórmula definitiva.**
+
+> O agente que preserva a criança, aciona canais, marca campos, evita narrativa e não adultera documento mantém porto seguro procedimental, salvo dolo, fraude, violência, abandono deliberado ou erro grosseiro.
+
+**Revisão diurna obrigatória.** Após toda ficha com transbordo, B.A.V.I. positivo, Código 99, erro material, ausência de contato ou Preservação Residual, haverá revisão diurna. A revisão diurna não reescreve a ficha; ela anexa a Retificação Técnica Diurna (RTD).
 
 ### 16.6. Contextualização familiar
 
@@ -854,7 +894,9 @@ Modelo mínimo de matriz de dados do piloto:
 | Validação de vínculo | código do prestador, confirmação agregada, token ou registro assistido | medir uso do serviço sem depender só do prestador | proteção infantil e minimização de dados | equipe de dados ou ponto assistido autorizado | prazo curto definido no protocolo | sem compartilhamento nominal ordinário | pseudonimização e logs | CRAS, UBS, escola ou canal oficial |
 | Código Vermelho | identificação da criança quando necessária, local, risco, órgão acionado | proteção emergencial da vida, saúde e integridade | proteção da vida e melhor interesse da criança | rede materialmente competente | conforme protocolo e necessidade de controle | Conselho, saúde, assistência, segurança ou Judiciário quando cabível | acesso por perfil e registro de acesso | revisão posterior e direito de contestação |
 | Status operacional | situação administrativa do prestador, limites, data de atualização | informar famílias e reduzir opacidade do risco | interesse público e proteção infantil | público, sem dados infantis | enquanto vigente e histórico mínimo | público, sem identificação de crianças | sem dados de criança e linguagem neutra | contestação rápida do prestador |
-| TEPE | identificação disponível da criança, órgão entregador, motivo, destino | documentar recepção emergencial excepcional | proteção emergencial e comunicação obrigatória | acolhimento, órgão gestor e autoridades competentes | conforme norma de acolhimento e controle | Juízo, Conselho Tutelar, Ministério Público e órgão gestor | sigilo, acesso restrito e logs | revisão pelo órgão competente |
+| Ficha Única de Crise Noturna | identificação disponível da criança, origem da crise, natureza do risco, B.A.V.I., acionamentos, horários | documentar resposta emergencial e não assunção material (ROQ-T factual) | proteção emergencial e comunicação obrigatória | rede materialmente competente, acolhimento habilitado e órgão gestor | conforme protocolo e controle | Juízo, Conselho Tutelar, Ministério Público e órgão gestor quando cabível | sigilo, acesso restrito, logs e sem narrativa livre | revisão diurna e RTD |
+
+A matriz de dados abrange ainda os instrumentos da resposta emergencial: Ficha Única, B.A.V.I., ROQ-T factual, Preservação Residual, RTD, Certidão de Ausência de Contato e Checklist de Unidade Âncora. A todos aplica-se minimização radical: sem narrativa, sem prontuário, sem diagnóstico e sem dados familiares extensos. Registram-se apenas campos objetivos, canais, horários, respostas e marcações de fato.
 
 ---
 
@@ -863,6 +905,15 @@ Modelo mínimo de matriz de dados do piloto:
 Quando houver perigo grave, concreto ou iminente, a escala ordinária pode ser superada. A emergência não cria uma nova polícia familiar nem autoriza fiscalização genérica. Ela aciona uma coreografia obrigatória da rede pública para impedir que a criança permaneça exposta enquanto órgãos discutem competência.
 
 O instrumento recomendado é o **Protocolo de Resposta Protetiva Imediata**, acionado por **Código Vermelho Protetivo**. Trata-se de função operacional e fluxo de rede, não de órgão físico novo. O município poderá atribuir as funções do protocolo a estruturas existentes, conforme disponibilidade local e norma aplicável.
+
+Quando a criança precisar de destino físico, o protocolo opera por quatro níveis, do mais desejável ao de falha. A entrega segura é sempre preferencial; a Retaguarda de Custódia cobre o intervalo enquanto se busca a assunção pelo fluxo competente, inclusive o art. 93 do ECA quando pactuado; a Preservação Residual é o registro de falha quando a rede não assume:
+
+1. **entrega segura** a responsável legal, familiar ou adulto de referência apto;
+2. **Retaguarda de Custódia** curta, limitada a 4 horas, documentada e supervisionada;
+3. **acionamento de serviço de acolhimento habilitado pelo art. 93 do ECA**, quando houver pactuação prévia, com comunicação obrigatória à autoridade judiciária;
+4. **Preservação Residual Antiabandono** quando a rede falha — falha sistêmica consumada, não autorização de acolhimento municipal autônomo.
+
+O modelo não cria acolhimento municipal próprio. A "recepção emergencial municipal" não existe como instrumento autônomo: o que existe é entrega segura, retaguarda curta, art. 93 pactuado e, em falha, preservação física contra abandono com escalonamento de responsabilidade institucional.
 
 A regra de emergência é:
 
@@ -876,7 +927,7 @@ O Código Vermelho deve ser classificado conforme a natureza material do risco. 
 |---|---|---|
 | Vermelho-policial | agressão, ameaça, arma, cárcere, abuso em flagrante, agressor presente, crime em curso, necessidade de acesso seguro ou contenção | polícia, guarda municipal quando cabível, autoridade de segurança |
 | Vermelho-médico | ferimento, intoxicação, autolesão iminente, surto grave, desidratação, crise clínica, inconsciência, sofrimento psíquico agudo | SAMU, UPA, hospital, UBS ou serviço de saúde disponível |
-| Vermelho-tutelar | criança abandonada, sem adulto apto, retirada de situação insegura, necessidade de medida protetiva imediata | Conselho Tutelar, assistência social, Porta 93 quando cabível |
+| Vermelho-tutelar | criança abandonada, sem adulto apto, retirada de situação insegura, necessidade de medida protetiva imediata | Conselho Tutelar, assistência social, entrega segura, Retaguarda de Custódia ou art. 93 do ECA quando pactuado |
 | Vermelho-institucional | escola, creche, microcreche, transporte, abrigo ou contraturno com risco crítico atual | cessação da exposição, responsáveis, fiscalização competente, Conselho Tutelar e órgão materialmente competente |
 | Vermelho-social grave | vulnerabilidade extrema com risco de deterioração rápida, especialmente primeira infância, fome aguda, desidratação provável, criança pequena sem adulto apto | assistência, saúde, Conselho Tutelar e proteção emergencial conforme risco material |
 
@@ -924,7 +975,7 @@ Cláusula:
 
 **Marco de reavaliação.** No marco de reavaliação operacional, a coordenação formal, quando existente, ou a primeira autoridade materialmente competente verificará se houve assunção, despacho, contato qualificado, chegada em cena, necessidade de escalonamento, rebaixamento ou manutenção do risco. O rebaixamento somente ocorrerá se houver informação suficiente sobre cessação do perigo grave atual.
 
-**Primeira decisão protetiva.** Deve ser definida medida imediata: permanência com responsável seguro, atendimento de saúde, contenção de agressor, entrega a familiar apto, acionamento do Conselho Tutelar, Porta 93, acolhimento emergencial, cessação de operação perigosa, interdição parcial ou pedido urgente à autoridade judicial.
+**Primeira decisão protetiva.** Deve ser definida medida imediata: permanência com responsável seguro, atendimento de saúde, contenção de agressor, entrega segura a familiar apto, acionamento do Conselho Tutelar, Retaguarda de Custódia curta, acionamento do art. 93 do ECA quando pactuado, cessação de operação perigosa, interdição parcial ou pedido urgente à autoridade judicial.
 
 **Revisão posterior.** Todo Código Vermelho deverá ser revisado em até 24 horas quando houver plantão formal ou equipe disponível. Em modo N1-LRF sem disponibilidade regular, a revisão ocorrerá no primeiro ciclo administrativo possível, sem prejuízo do acionamento emergencial imediato dos órgãos materialmente competentes.
 
@@ -940,7 +991,7 @@ A primeira autoridade pública que tomar conhecimento de risco vermelho deverá 
 
 #### 19.6.1. Assunção material do caso
 
-Todo Código Vermelho deverá registrar qual órgão assumiu materialmente a primeira resposta, qual risco justificou o acionamento e qual medida concreta foi adotada. A assunção material poderá ocorrer por chegada ao local, atendimento de saúde, contenção de agressor, recepção institucional, entrega a responsável seguro, acolhimento emergencial ou outra providência verificável.
+Todo Código Vermelho deverá registrar qual órgão assumiu materialmente a primeira resposta, qual risco justificou o acionamento e qual medida concreta foi adotada. A assunção material poderá ocorrer por chegada ao local, atendimento de saúde, contenção de agressor, recepção por serviço de acolhimento habilitado, entrega segura a responsável apto ou outra providência verificável.
 
 Acionar um órgão não equivale a proteger a criança. O registro da assunção material é o que distingue resposta protetiva real de despacho administrativo sem efeito.
 
@@ -958,13 +1009,13 @@ O SAMU ou serviço de saúde atua em ferimento, intoxicação, crise psiquiátri
 
 O Conselho Tutelar aplica medidas protetivas, requisita serviços públicos, aciona responsáveis, comunica Ministério Público ou autoridade judiciária quando necessário e acompanha a continuidade do caso.
 
-A assistência social providencia acolhimento emergencial, contato com família extensa, alimentação, transporte social, apoio psicossocial, benefício eventual quando cabível e acompanhamento posterior.
+A assistência social atua no contato com família extensa, alimentação, transporte social, apoio psicossocial, benefício eventual quando cabível, Retaguarda de Custódia conforme protocolo, acionamento de serviço de acolhimento habilitado pelo art. 93 do ECA quando pactuado e acompanhamento posterior.
 
 A educação protege a criança sob sua guarda imediata, impede retirada por pessoa não autorizada, comunica a rede e preserva registros escolares mínimos.
 
 O Ministério Público atua diante de omissão grave da rede, necessidade de medida judicial, crime, falha institucional reiterada, resistência de órgão público, captura política do fluxo ou risco de arquivamento informal.
 
-O Judiciário atua quando a medida exigir ordem judicial, busca, afastamento, acolhimento judicializado, restrição relevante de direitos ou entrada domiciliar não amparada por flagrante, socorro, desastre, consentimento válido ou hipótese legal equivalente.
+O Judiciário atua quando a medida exigir ordem judicial, busca, afastamento, medida judicial de acolhimento, restrição relevante de direitos ou entrada domiciliar não amparada por flagrante, socorro, desastre, consentimento válido ou hipótese legal equivalente.
 
 ### 19.8. Entrada domiciliar e limites da emergência
 
@@ -986,7 +1037,11 @@ O cartão deverá conter, no mínimo:
 >
 > **Acione saúde, 192, UPA, hospital ou UBS quando houver:** ferimento, intoxicação, autolesão iminente, surto grave, desidratação, inconsciência, crise clínica, sofrimento psíquico agudo ou necessidade de transporte sanitário.
 >
-> **Acione Conselho Tutelar, assistência social ou Recepção Protetiva Emergencial Temporária quando houver:** abandono, ausência de adulto apto, necessidade de entrega a responsável seguro, recepção temporária documentada ou medida protetiva.
+> **Acione Conselho Tutelar, assistência social, entrega segura ou serviço de acolhimento habilitado (art. 93 do ECA, quando pactuado) quando houver:** abandono, ausência de adulto apto, necessidade de entrega a responsável seguro ou medida protetiva.
+>
+> **Se houver remédio vital, alergia crítica, outra pessoa em risco atual ou perigo de morte narrado pela criança:** marque B.A.V.I. e acione saúde ou segurança imediatamente.
+>
+> **Se não houver adulto apto e o órgão competente não assumir:** use a Ficha Única de Crise Noturna; não escreva narrativa livre.
 >
 > **Não acione 190 apenas porque:** há pobreza, falta de vaga, CRAS fechado, Conselho Tutelar sem resposta, conflito verbal sem ameaça, suspeita genérica de negligência, demanda de benefício social ou moradia precária sem risco atual de morte ou lesão grave.
 >
@@ -994,51 +1049,87 @@ O cartão deverá conter, no mínimo:
 
 ### 19.11. Notificação mínima de fim de semana, feriado e madrugada
 
-Em modo N1-LRF, a notificação mínima fora do expediente não constitui plantão nem gera obrigação de resposta imediata por servidor municipal sem escala formal. Sua função é preservar rastro administrativo para consolidação no primeiro ciclo útil e permitir responsabilização do órgão que assumiu materialmente o caso.
+Em modo N1-LRF, a notificação mínima fora do expediente não constitui plantão nem gera obrigação de resposta imediata por servidor municipal sem escala formal. Sua função é apenas preservar rastro administrativo para consolidação no primeiro ciclo útil e permitir responsabilização do órgão que assumiu materialmente o caso. Ela não institui plantão informal, sobreaviso tácito nem disponibilidade permanente.
+
+A crise noturna real será registrada pela **Ficha Única de Crise Noturna**. O acionamento de autoridade política deverá ser registrado; se não houver resposta, usar a **Certidão de Ausência de Contato**, que documenta as tentativas por canal oficial e mantém o caso em Preservação Residual Antiabandono até a revisão diurna.
 
 A notificação mínima deverá conter: criança ou identificação disponível, local, risco, órgão acionado, horário, quem assumiu, para onde a criança foi, necessidade de saúde, abrigo, família extensa, acompanhamento ou reavaliação.
 
-### 19.12. Recepção Protetiva Emergencial Temporária (Porta 93)
+### 19.12. Protocolo Excepcional do art. 93 do ECA, Retaguarda de Custódia e Preservação Residual Antiabandono
 
-**Denominação pública:** Recepção Protetiva Emergencial Temporária.
-**Denominação técnica interna:** Procedimento RPE-T/93.
-A expressão "acolhimento emergencial sem guia prévia" permanece apenas no corpo jurídico deste instrumento, não como nome público nem como cabeçalho de comunicação. A denominação técnica interna é utilizada nos protocolos administrativos, na portaria intersecretarial e nos instrumentos internos. Na comunicação pública, nos materiais para famílias e na apresentação política do piloto, deve ser utilizada exclusivamente a denominação pública.
+**Propósito operacional:** nenhuma criança retirada de situação de risco deve ficar em viatura, delegacia, hospital sem indicação médica, rua ou local inseguro por falha de fluxo. O município não organiza acolhimento próprio; organiza uma sequência de proteção física que aciona o serviço competente e, na falha da rede, preserva a criança contra abandono enquanto escala a responsabilidade institucional.
 
-**Propósito operacional:** nenhuma criança retirada de situação de risco deve ficar em viatura, delegacia, hospital sem indicação médica, rua ou local inseguro por falha de fluxo. O município organiza um procedimento de recepção temporária, documentado e comunicado às autoridades, até que o órgão competente assuma o caso.
+#### 19.12.1. Protocolo Excepcional do art. 93 do ECA
 
-O município deverá instituir, no âmbito de seus serviços próprios, contratados, conveniados, subvencionados ou pactuados, este procedimento, destinado a impedir que criança ou adolescente retirado de situação de risco permaneça em viatura, delegacia, hospital sem indicação médica, via pública, residência insegura ou local sem responsável apto.
+A expressão **Porta 93 não será usada na comunicação pública**. Internamente, quando mencionada, designará apenas o acionamento excepcional do art. 93 do ECA por entidade de acolhimento habilitada, com comunicação obrigatória à autoridade judiciária. Não é porta municipal própria. Sem pactuação prévia com serviço de acolhimento habilitado, o módulo art. 93 fica desativado.
 
-**Camada jurídica — limites e não ampliações:** este procedimento não cria nova hipótese de acolhimento, não substitui decisão judicial, não substitui o Conselho Tutelar, não dispensa o Ministério Público quando cabível, não institui regime municipal autônomo de medida protetiva e não altera competências já estabelecidas pelo regime jurídico vigente. Ele não amplia o poder estatal sobre famílias. Sua única função é cobrir o intervalo entre a detecção do risco e a assunção pelo fluxo ordinário competente, operando dentro dos limites do regime jurídico vigente e com comunicação obrigatória às autoridades em até 24 horas para que o sistema legal retome o controle do caso. Trata-se de procedimento excepcional de recepção emergencial, utilizado apenas quando houver urgência protetiva, ausência de responsável apto, impossibilidade de permanência segura e falha momentânea do fluxo ordinário.
+Quando houver pactuação prévia com Conselho Tutelar, Ministério Público, Judiciário, assistência social e serviço de acolhimento habilitado, o acionamento do art. 93 do ECA é o caminho preferencial diante de criança sem responsável apto e sem permanência segura.
 
-A Porta 93 poderá operar em dois modos.
+**Camada jurídica — limites e não ampliações:** o acionamento do art. 93 não cria nova hipótese de acolhimento, não substitui decisão judicial, não substitui o Conselho Tutelar, não dispensa o Ministério Público quando cabível, não institui regime municipal autônomo de medida protetiva e não altera competências já estabelecidas pelo regime jurídico vigente. O município não "recebe" criança em acolhimento sem serviço habilitado.
 
-**Modo A — Porta 93 Pactuada.** Aplicável quando houver pactuação prévia com Conselho Tutelar, Ministério Público, Judiciário, assistência social, serviços de acolhimento e demais órgãos envolvidos. É o modo preferencial e deve ser buscado pelo município antes do arranque do piloto.
+#### 19.12.2. Retaguarda de Custódia
 
-**Modo B — Porta 93 de Última Barreira.** Aplicável excepcionalmente quando, cumulativamente, houver urgência protetiva, criança ou adolescente sem responsável apto, impossibilidade de permanência segura, falha momentânea do fluxo ordinário e inexistência de alternativa familiar ou institucional imediatamente segura. A ausência de pactuação prévia não autoriza deixar criança ou adolescente em viatura, delegacia, via pública, hospital sem indicação clínica ou local inseguro. Nessa hipótese extrema, o recebimento emergencial deverá ser documentado por TEPE, comunicado em até 24 horas às autoridades competentes e submetido a revisão obrigatória.
+**Retaguarda de Custódia é permanência física curta, documentada e supervisionada, limitada a 4 horas, sem pernoite ordinário, sem guarda, sem acolhimento, sem substituição do Conselho Tutelar e sem estabilização residencial.**
 
-A Porta 93 somente será usada quando não houver responsável legal seguro, familiar apto ou adulto de referência confiável, e quando a permanência da criança no local, em viatura, delegacia, hospital sem indicação clínica, via pública ou residência insegura representar risco maior. O Município deverá buscar pactuação prévia com Conselho Tutelar, Ministério Público, Judiciário, serviços de acolhimento e, quando cabível, segurança pública, para padronizar o uso do TEPE.
+Seu papel é cobrir o intervalo entre a retirada do risco e a assunção pelo fluxo competente ou a entrega a adulto apto. O teto de 4 horas não autoriza abandono, entrega insegura nem hospitalização ou policialização indevida. A Retaguarda só pode ser ativada em local que cumpra o checklist de Unidade Âncora.
 
-A Porta 93 operacionaliza o acolhimento excepcional e urgente por serviço de acolhimento institucional próprio, contratado, conveniado, regional ou pactuado, com comunicação obrigatória em até 24 horas à autoridade judiciária competente, ao Conselho Tutelar, ao Ministério Público e ao órgão municipal responsável.
+#### 19.12.3. Preservação Residual Antiabandono
 
-A permanência por Porta 93 deverá durar apenas o tempo estritamente necessário à assunção pelo fluxo ordinário, à entrega a responsável apto ou à ratificação pela autoridade competente, vedada sua conversão em acolhimento prolongado sem o procedimento legal aplicável.
+**Atingido o teto de 4 horas sem assunção material, a Retaguarda se esgota e o caso passa a Preservação Residual Antiabandono. Isso não é autorização; é falha sistêmica consumada. A responsabilidade sobe para o Responsável Institucional de Crise.**
 
-O recebimento emergencial será documentado por **Termo de Entrega Protetiva Emergencial — TEPE**, assinado pelo órgão ou agente entregador e pelo responsável pelo serviço de acolhimento, com registro mínimo de data, hora, local de origem, identificação disponível da criança, motivo da entrega, risco constatado, órgãos acionados, tentativa de contato com Conselho Tutelar, estado aparente da criança e providências imediatas.
+A Preservação Residual não converte sala pública, CRAS, escola ou viatura em abrigo informal. Ela apenas reconhece que, esgotada a rede, o dever de não abandonar a criança permanece, sob responsabilidade institucional escalonada e registro de falha.
 
-A ausência de guia prévia, requisição tutelar ou decisão judicial não poderá ser invocada pelo serviço municipal, contratado, conveniado, subvencionado ou pactuado como motivo de recusa quando houver urgência protetiva, criança sem responsável apto e impossibilidade de permanência segura.
+**Pernoite como Evento Crítico.** Um único pernoite em Preservação Residual sem art. 93 do ECA pactuado e sem ordem ou assunção por autoridade competente constitui **Evento Crítico imediato**, não mera métrica. Ele dispara comunicação obrigatória ao Responsável Institucional de Crise, ao controle interno e à instância de acompanhamento, revisão diurna prioritária e reavaliação da ativação do módulo noturno.
+
+**Em N1-LRF, se não houver escala técnica formal remunerada, o Responsável Institucional de Crise padrão será o Secretário Municipal de Assistência Social, Prefeito ou autoridade política equivalente.**
+
+#### 19.12.4. Unidade Âncora de Preservação Residual
+
+A Retaguarda e a Preservação Residual só podem ocorrer em **Unidade Âncora de Preservação Residual**, com campos mínimos verificados:
+
+- dois adultos presentes ou acionáveis;
+- chave ou acesso real;
+- banheiro;
+- água;
+- alimento simples;
+- local de repouso emergencial;
+- telefone funcional;
+- acesso controlado;
+- iluminação;
+- ausência de agressor;
+- rota de saída.
+
+Regra dura:
+
+> Se a Unidade Âncora existe só no papel, o módulo noturno não pode ser ativado.
+
+#### 19.12.5. Responsável Institucional de Crise
+
+O Responsável Institucional de Crise é quem assume a escalada quando a rede falha. A responsabilidade decorre do cargo político quando não houver escala técnica remunerada formal.
+
+Não se usará a expressão "sobreaviso" para servidor comum, nem se imporá telefone pessoal informal como obrigação funcional. Quando o Secretário ou Prefeito não responder, o fechamento do registro se dará pela **Certidão de Ausência de Contato**, que documenta as tentativas por canal oficial e mantém o caso em Preservação Residual Antiabandono até a revisão diurna.
+
+#### 19.12.6. ROQ-T factual — Registro de Não Assunção Material do Caso
+
+O **ROQ-T factual** é efeito automático da Ficha Única, não representação escrita pelo servidor.
+
+> O servidor não classifica omissão individual, dolo, culpa ou infração disciplinar. Ele só registra canais, horários e respostas. A classificação fica para a revisão diurna.
 
 ### 19.13. Vedação à hospitalização social
 
 Hospital, UPA, pronto-socorro ou unidade de saúde somente serão destino primário quando houver necessidade clínica, suspeita de lesão, intoxicação, abuso, desidratação, sofrimento psíquico grave, crise médica ou avaliação sanitária indispensável.
 
-É vedado usar unidade de saúde como abrigo social por ausência de guia, vaga, plantão tutelar ou resposta administrativa. Após estabilização ou liberação médica, a criança deverá ser entregue a responsável seguro, família extensa apta, Porta 93, Conselho Tutelar ou autoridade competente.
+É vedado usar unidade de saúde como abrigo social por ausência de guia, vaga, plantão tutelar ou resposta administrativa. Após estabilização ou liberação médica, a criança deverá ser entregue a responsável seguro, família extensa apta, serviço de acolhimento habilitado (art. 93 do ECA, quando pactuado), Conselho Tutelar ou autoridade competente.
 
-### 19.14. Entrega protetiva temporária a familiar ou adulto de referência
+Ressalva de alerta vital: se não houver indicação clínica, o hospital não pode virar destino social, mas **B.A.V.I. positivo obriga o acionamento de saúde**. A diretriz antinarrativa da Ficha Única não pode, em nenhuma hipótese, suprimir alerta médico vital relatado pela criança ou observável.
 
-Sempre que houver familiar, responsável legal ou adulto de referência imediatamente seguro, identificado e apto, a entrega protetiva temporária poderá preceder o acolhimento institucional, mediante registro mínimo, compromisso de apresentação posterior e comunicação ao Conselho Tutelar ou autoridade competente.
+### 19.14. Entrega Segura a Responsável, Familiar ou Adulto de Referência Apto
 
-Critérios mínimos: identificação do adulto, vínculo com a criança, sobriedade, ausência de condição de agressor ou coabitante do agressor, local seguro, assinatura de termo e compromisso de apresentação posterior.
+A entrega segura é a **saída prioritária** diante de criança sem permanência segura, antes da Retaguarda de Custódia, sempre que houver adulto seguro disponível. Sempre que houver familiar, responsável legal ou adulto de referência imediatamente seguro, identificado e apto, a entrega segura deverá preceder qualquer retaguarda ou acionamento de serviço de acolhimento, mediante **Termo de Entrega Segura**, com registro mínimo, compromisso de apresentação posterior e comunicação ao Conselho Tutelar ou autoridade competente.
 
-Havendo dúvida relevante sobre conivência, retorno ao agressor, coação, manipulação familiar, intoxicação, ameaça ou incapacidade de cuidado, prevalecerá a Porta 93.
+Critérios mínimos: identificação do adulto, vínculo com a criança, sobriedade aparente, ausência de condição de agressor ou coabitante do agressor, local seguro, telefone, assinatura de termo e compromisso de apresentação posterior.
+
+Havendo dúvida relevante sobre conivência, retorno ao agressor, coação, manipulação familiar, intoxicação, ameaça ou incapacidade de cuidado, não se fará a entrega: prevalecerá a Retaguarda de Custódia e, quando pactuado, o acionamento do art. 93 do ECA.
 
 ### 19.15. Plano de continuidade infantil em risco crítico
 
@@ -1054,9 +1145,9 @@ Cláusula:
 
 Para fins deste protocolo, **URPI — Unidade de Resposta Protetiva Imediata** designa o conjunto de funções, fluxos e capacidades municipais de acionamento emergencial, não necessariamente um órgão físico autônomo. O nível (N1, N2, N3) reflete a capacidade disponível do município.
 
-**URPI-N1 — baixa capacidade.** Opera com cartão de bolso, ficha de uma página, bypass originário, acionamento direto do órgão materialmente competente, registro posterior, consulta presencial, lista mínima de contatos, Porta 93 quando houver acolhimento pactuado e revisão no primeiro ciclo administrativo possível.
+**URPI-N1 — baixa capacidade.** Opera com cartão de bolso, ficha de uma página, bypass originário, acionamento direto do órgão materialmente competente, registro posterior, consulta presencial, lista mínima de contatos, art. 93 do ECA quando houver serviço de acolhimento habilitado pactuado e revisão no primeiro ciclo administrativo possível. **URPI-N1 só opera retaguarda noturna se houver Unidade Âncora real, chave/acesso, adulto responsável e Ficha Única impressa.**
 
-**URPI-N1-LRF — baixa capacidade com restrição fiscal.** Não promete plantão municipal próprio, gratificação, sobreaviso ou SLA interno. Veda plantão informal e usa bypass originário, notificação mínima e consolidação posterior.
+**URPI-N1-LRF — baixa capacidade com restrição fiscal.** Não promete plantão municipal próprio, gratificação, sobreaviso ou SLA interno. Veda plantão informal e usa bypass originário, notificação mínima e consolidação posterior. **Não promete plantão, sobreaviso, equipe móvel ou resposta noturna municipal se não houver autoridade política responsável e unidade mínima disponível.**
 
 **URPI-N2 — média capacidade.** Usa número municipal, formulários digitais simples, grupo institucional formal, plantão quando legalmente instituído, termo de cooperação com segurança, saúde e acolhimento, relatório mensal de tempos de resposta e simulações periódicas.
 
@@ -1080,6 +1171,10 @@ A primeira autoridade em cena ou a coordenação formal, quando existente, dever
 Cláusula:
 
 > A desmobilização operacional não apagará o registro da ocorrência nem impedirá acompanhamento social, sanitário, escolar ou tutelar quando houver vulnerabilidade residual, dúvida razoável, crise neurodivergente, sofrimento psíquico, risco familiar ou possibilidade de manipulação da cena.
+
+Cláusula de alerta vital:
+
+> B.A.V.I. positivo impede o rebaixamento para mera vulnerabilidade social até avaliação material mínima. Relato de remédio vital, alergia crítica, bebê preso, outra criança em risco, intoxicação ou autolesão não pode ser diferido para a revisão diurna; exige acionamento imediato de saúde ou segurança.
 
 ---
 
@@ -1188,7 +1283,7 @@ A ODA é vedada quando o risco à criança originar-se do prestador ou de sua eq
 - transporte inseguro por conduta do motorista;
 - qualquer caso em que o próprio prestador ou equipe componha o risco.
 
-Nesses casos, não se desloca o prestador. Desloca-se a criança para responsável seguro, família extensa, prestador formal, rede protetiva ou Recepção Protetiva Emergencial Temporária.
+Nesses casos, não se desloca o prestador. Desloca-se a criança para responsável seguro, família extensa, prestador formal, rede protetiva, entrega segura, Retaguarda de Custódia ou serviço de acolhimento habilitado (art. 93 do ECA, quando pactuado).
 
 #### 21.3.5. Mapa de Capacidade de Continuidade do Mês 0
 
@@ -1205,17 +1300,17 @@ O piloto deverá construir, na operação relâmpago do Mês 0, um **Mapa de Cap
 - limites de uso de cada espaço ou serviço;
 - indicação de custo ou gratuidade;
 - responsável por cada local ou serviço;
-- **Unidade Pública de Retaguarda de Custódia** previamente identificada.
+- **Unidade Âncora de Preservação Residual** previamente identificada, com acesso físico real.
 
 Esse mapa não cria vaga nem dinheiro. Ele identifica portas possíveis antes da crise, para que a resposta emergencial não dependa de improviso.
 
-#### 21.3.5.1. Unidade Pública de Retaguarda de Custódia
+#### 21.3.5.1. Unidade Âncora de Preservação Residual
 
-O Mapa de Capacidade deverá identificar previamente ao menos uma **Unidade Pública de Retaguarda de Custódia** — sala, equipamento público, sede da assistência social, espaço do Conselho Tutelar, escola pública ou outro local seguro com chave, responsável identificado, acesso controlado e capacidade mínima de permanência temporária de crianças.
+O Mapa de Capacidade deverá identificar previamente ao menos uma **Unidade Âncora de Preservação Residual** — sala, equipamento público, sede da assistência social, espaço do Conselho Tutelar, escola pública ou outro local seguro que disponha de **acesso físico real**, não apenas identificação nominal. Deve constar: quem tem a chave, como se entra de madrugada, quem é o adulto acionável, e se há água, alimento simples, banheiro, telefone funcional e iluminação.
 
-Essa unidade serve para receber crianças evacuadas de ODA suspensa por Código Vermelho, quando não houver zona segura interna disponível. UBS, UPA e hospital continuam sendo destino primário apenas quando houver necessidade clínica; não devem ser usados como solução de custódia social.
+Essa unidade serve para receber crianças evacuadas de ODA suspensa por Código Vermelho, quando não houver zona segura interna disponível, e para abrigar a Retaguarda de Custódia curta. UBS, UPA e hospital **não** funcionam como custódia social: continuam sendo destino primário apenas quando houver necessidade clínica.
 
-A unidade deverá constar no Mapa de Capacidade com: localização, responsável, horário de funcionamento, capacidade máxima, condições mínimas verificadas pelo checklist binário da ODA e contato de acionamento direto.
+A Unidade Âncora deverá constar no Mapa de Capacidade com: localização, responsável pela chave, segundo adulto acionável, horário de acesso, capacidade máxima, condições mínimas verificadas pelo Checklist de Unidade Âncora e contato de acionamento direto. Se a Unidade Âncora existir só no papel ou sem acesso físico real, o módulo noturno não poderá ser ativado.
 
 #### 21.3.6. Ficha de Fechamento com Continuidade Mínima
 
@@ -1229,7 +1324,7 @@ Toda interdição total de microprestador deverá registrar:
 - se houve ODA aplicada;
 - se havia vaga pública disponível;
 - se havia prestador formal substituto;
-- se houve necessidade de Conselho Tutelar, CRAS, saúde ou Recepção Protetiva Emergencial Temporária;
+- se houve necessidade de Conselho Tutelar, CRAS, saúde, Retaguarda de Custódia ou serviço de acolhimento habilitado (art. 93 do ECA, quando pactuado);
 - insuficiência estrutural documentada;
 - condição para reabertura parcial;
 - plano de reavaliação e prazo.
@@ -1275,7 +1370,7 @@ A ordem de prioridade para permanência é:
 
 #### 21.3.10. Saída material obrigatória da ODA e do RECOT
 
-O encerramento de ODA ou RECOT exige Ficha de Fechamento com destino fático imediato para cada criança. O dever público é cumprido mediante oferta documentada razoável: vaga pública existente, prestador formal ocioso, rede familiar indicada, retorno parcial seguro ao prestador original quando o risco original foi sanado, novo endereço de cuidado ou Recepção Protetiva Emergencial Temporária quando cabível.
+O encerramento de ODA ou RECOT exige Ficha de Fechamento com destino fático imediato para cada criança. O dever público é cumprido mediante oferta documentada razoável: vaga pública existente, prestador formal ocioso, rede familiar indicada, retorno parcial seguro ao prestador original quando o risco original foi sanado, novo endereço de cuidado, entrega segura ou serviço de acolhimento habilitado (art. 93 do ECA, quando pactuado).
 
 O encerramento não depende de consenso infinito da família. Recusa expressa e injustificada dos responsáveis deve ser registrada; quando gerar risco à criança, deverá ser encaminhada ao Conselho Tutelar com documentação da oferta realizada.
 
@@ -1287,7 +1382,7 @@ O servidor da ponta não enfrenta fisicamente o prestador hostil, não retira ad
 
 A retirada protetiva das crianças deverá ocorrer preferencialmente para sala administrativa segura, guarita ou dependência interna do perímetro municipal com trancamento independente, comunicação externa e rota de saída que não dependa da área controlada pelo prestador hostil.
 
-Inexistindo zona segura com rota de fuga, a prioridade será evacuação do perímetro — quando possível sem confronto físico — em direção à unidade pública ativa mais próxima: UBS de plantão, hospital, base da Guarda Municipal, conselho plantonista pactuado ou outro equipamento seguro.
+Inexistindo zona segura com rota de fuga, a prioridade será evacuação do perímetro — quando possível sem confronto físico — para a **Unidade Âncora de Preservação Residual previamente indicada no Mapa de Capacidade**, se apta. Se não houver acesso físico real à Unidade Âncora, a ficha deverá marcar "mesmo local por ser o menos arriscado disponível" ou "Evento Crítico de Falha Estrutural", sem fingir acesso inexistente. UBS, UPA, hospital ou pronto-socorro somente serão destino primário quando houver necessidade clínica, suspeita de lesão, intoxicação, crise médica, sofrimento psíquico agudo ou avaliação sanitária indispensável. Base da Guarda Municipal ou apoio policial somente serão acionados quando houver risco de segurança, ameaça, agressor presente, retenção, crime em curso ou necessidade de acesso seguro.
 
 ### 21.4. Envelope 4 — Fiscalização e auditoria
 
@@ -1795,7 +1890,7 @@ Em N1-LRF, nenhuma dessas prioridades constitui SLA, plantão, sobreaviso, prome
 
 ### 27.11.2. TIDT — Termo de Infração e Divergência Técnica
 
-O **TIDT — Termo de Infração e Divergência Técnica** é o instrumento único que formaliza tanto infrações do prestador quanto divergências do emissor de PTS. Ele substitui definitivamente qualquer referência a TDM e unifica o registro em um formulário com duas colunas distintas.
+O **TIDT — Termo de Infração e Divergência Técnica** é o instrumento único que formaliza tanto infrações do prestador quanto divergências do emissor de PTS. Ele substitui definitivamente instrumentos anteriores de divergência material e unifica o registro em formulário com duas colunas distintas.
 
 **Coluna A — efeitos sobre o prestador:** quebra de ODA, infração ao núcleo indeclinável, acionamento de Código Vermelho, restrição, caducidade do RTTA, suspensão operacional.
 
@@ -1809,7 +1904,7 @@ O TIDT separa rigorosamente três níveis de efeito:
 
 **Nível 3 — inclusão consolidada na Lista Central:** ocorre apenas após contraditório sumário e despacho da Coordenação do Núcleo Central. O fiscal de campo não tem poder de incluir profissional na Lista Central de forma unilateral.
 
-O TIDT deverá ser assinado por dois servidores públicos ou pela fiscalização competente. O fiscal de campo preenche e aciona o Alerta Interno; a Coordenação do Núcleo Central homologa, revisa ou cancela. Expressões como "dolo indiciário" são vedadas na fase de Alerta Interno; o coordenador de balcão não diagnostica dolo.
+O TIDT deverá ser assinado por dois servidores públicos ou pela fiscalização competente. O fiscal de campo preenche e aciona o Alerta Interno; a Coordenação do Núcleo Central homologa, revisa ou cancela. Suspeitas subjetivas de dolo, fraude ou má-fé não serão usadas na fase de Alerta Interno; a coordenação de balcão não diagnostica intenção.
 
 ### 27.11.3. Alerta Interno de Balcão
 
@@ -2066,7 +2161,8 @@ Os seguintes termos técnicos deverão permanecer no processo interno e jamais a
 - RTTA deferido;
 - laudo subsidiário;
 - operação assistida documentada;
-- Procedimento RPE-T/93;
+- Preservação Residual Antiabandono;
+- ROQ-T factual;
 - ODA ativada;
 - strike de PTS.
 
@@ -2477,7 +2573,7 @@ Classificação recomendada:
 
 O ICO não produz sanção automática. Produz revisão obrigatória.
 
-### 43.3. Gatilhos simples de captura
+### 43.4. Gatilhos simples de captura
 
 Serão gatilhos de alerta, conforme protocolo local:
 
@@ -2861,6 +2957,163 @@ Fórmula-síntese:
 
 ---
 
+---
+
+> ⚠️ **BIBLIOTECA DE EXPANSÃO FUTURA — MÓDULO DE APOIO PEDAGÓGICO FAMILIAR ASSISTIDO, CEFA E SEGURANÇA OPERACIONAL DE CAMPO — NÃO INTEGRA O PILOTO INAUGURAL**
+>
+> Este módulo não compõe o piloto inaugural de 180 dias. Sua ativação dependerá de base legal adequada, pactuação com a rede de educação, assistência social, proteção de dados, controle interno e órgãos competentes, além de protocolo específico para voluntariado, missões domiciliares, avaliação mínima de aprendizagem e segurança operacional de campo.
+
+---
+
+### 51.6. Módulo de Apoio Pedagógico Familiar Assistido, CEFA e Segurança Operacional de Campo
+
+#### 51.6.1. Tese do módulo
+
+O modelo poderá admitir, em fase posterior, um sistema de apoio educacional familiar destinado a famílias que desejem ou necessitem participar diretamente da educação de seus filhos, sem que isso implique vigilância domiciliar, imposição ideológica estatal, substituição automática da escola regular ou abandono do piso educacional mínimo da criança.
+
+A fórmula central é:
+
+> **Base comum verificável; método familiar livre; conteúdo extra escolhido pela família.**
+
+O Estado, instituições privadas, entidades comunitárias e voluntários poderão apoiar a família com espaço, tutoria, materiais, reforço, recomposição de aprendizagem, avaliação diagnóstica e segurança operacional. A família preserva ampla liberdade sobre método, ritmo, ênfases culturais, valores complementares e conteúdos adicionais, desde que a criança aprenda o núcleo básico compatível com sua idade e etapa de desenvolvimento.
+
+Cláusula-mãe de não vigilância:
+
+> A educação familiar assistida, o voluntariado pedagógico e o acompanhamento de campo não autorizam vigilância domiciliar generalizada, cadastro de rotinas familiares, gravação ambiental, rastreamento permanente, fiscalização ideológica ou substituição da autoridade parental por preferências do Estado, de entidades privadas, de voluntários ou de grupos comunitários.
+
+Cláusula-mãe de proteção da criança:
+
+> A autonomia familiar na escolha de método, valores complementares e conteúdos extras não elimina o direito da criança ao piso educacional comum, à alfabetização, ao desenvolvimento cognitivo, à segurança, à convivência, à proteção contra abuso, à recomposição de aprendizagem quando necessária e à formação mínima compatível com sua autonomia futura.
+
+#### 51.6.2. APDA — Apoio Pedagógico Domiciliar Assistido
+
+O **APDA — Apoio Pedagógico Domiciliar Assistido** é o serviço voluntário, público, privado, comunitário ou conveniado pelo qual professores, tutores, instrutores ou voluntários educacionais capacitados podem comparecer à residência da família ou a outro local indicado para oferecer apoio pedagógico, reforço, recomposição de aprendizagem, alfabetização, educação financeira, ciência, história, tecnologia, leitura, matemática, orientação digital ou outro conteúdo educacional lícito.
+
+O APDA não é fiscalização domiciliar, não é inspeção moral da família, não é substituição automática da escola regular e não autoriza coleta ampla de dados domésticos.
+
+**Finalidades legítimas:** dificuldade temporária de frequência escolar; criança com barreira de aprendizagem; doença, deficiência, neurodivergência ou mobilidade reduzida; bullying grave ou crise escolar; evasão ou risco de evasão; defasagem de alfabetização; família sem condições materiais de deslocamento; criança em transição protetiva; reforço escolar; interesse voluntário da família em apoio educacional complementar.
+
+**Adesão voluntária:** A adesão ao APDA será sempre voluntária para a família, salvo medida judicial ou protetiva específica em caso de abandono educacional grave. A família poderá aceitar, recusar, remarcar ou encerrar o atendimento sem que a recusa isolada gere presunção de negligência, desde que a criança não esteja em privação educacional grave.
+
+**Liberdade familiar de escolha:** a família poderá indicar preferências quanto a área do conhecimento, perfil pedagógico, método de ensino, material didático, ritmo, abordagem religiosa ou cultural, conteúdos complementares e necessidades da criança. O Estado não classificará tutores ou voluntários por ideologia política. A escolha familiar poderá observar compatibilidade pedagógica, cultural, filosófica ou religiosa, mas sem criação de cadastro estatal de perfis ideológicos de professores.
+
+Formulação:
+
+> A família poderá escolher tutores, materiais e abordagens compatíveis com seus valores filosóficos, religiosos, culturais e pedagógicos, desde que não haja violação ao piso educacional comum, aos direitos fundamentais da criança ou à proteção contra abuso, discriminação e isolamento educacional.
+
+#### 51.6.3. Voluntariado Educacional Protegido
+
+O Voluntariado Educacional Protegido é a atuação de pessoas físicas ou entidades que oferecem apoio pedagógico, cultural, técnico, artístico, profissionalizante ou educacional a crianças e adolescentes atendidos pelo modelo. O voluntário não substitui professor legalmente exigido, escola regular, responsável familiar, Conselho Tutelar, assistente social ou autoridade pública.
+
+**Triagem e habilitação mínima:** identificação civil; registro no sistema do programa; termo de conduta; treinamento obrigatório; checagem de antecedentes quando juridicamente cabível; entrevista de aptidão; referência institucional quando possível; compromisso de proteção de dados; ciência de vedação a contato privado não autorizado com criança; ciência de vedação a presentes, favores, dinheiro, imagens, convites externos ou proselitismo coercitivo.
+
+A avaliação de idoneidade, conduta e aptidão para atuação educacional com crianças e adolescentes não deve virar filtro moral genérico. Avaliação psicológica só deve existir quando houver base técnica, profissional habilitado e finalidade proporcional.
+
+**Vedações ao voluntário:** ficar sozinho com a criança sem regra expressa e ciência da família; solicitar segredo à criança; pedir fotos, documentos, dinheiro, favores ou votos; coletar dados da casa sem finalidade educacional; registrar cômodos, rostos ou documentos sem necessidade; manter contato privado com criança fora dos canais autorizados; impor ideologia, religião, partido ou visão moral como condição de apoio; usar a visita para fiscalizar rotina doméstica; comunicar suspeitas sem elemento objetivo; divulgar informações da família; usar o programa para captação política, religiosa, comercial ou associativa.
+
+#### 51.6.4. CEFA — Centro de Educação Familiar Assistida
+
+O **CEFA — Centro de Educação Familiar Assistida** é um espaço público, privado, comunitário, conveniado ou filantrópico destinado a apoiar famílias que desejem participar diretamente da educação de seus filhos em ambiente estruturado, seguro e assistido.
+
+O CEFA fornece sala, mesa, materiais, biblioteca, internet, banheiro, refeitório, pátio, apoio pedagógico, avaliação diagnóstica e ambiente adequado. A família conduz a aprendizagem da criança, com apoio institucional quando desejar.
+
+Formulação pública:
+
+> O CEFA é equipamento de apoio à educação familiar, recomposição de aprendizagem, contraturno pedagógico e fortalecimento da participação dos pais na educação dos filhos.
+
+No piloto inaugural, o CEFA não constituirá substituto automático da matrícula escolar obrigatória, escola paralela, certificação autônoma de escolaridade ou autorização geral de ensino domiciliar. Em fase futura, com base legal própria, poderia ser estruturado como regime especial de educação familiar supervisionada.
+
+**Estrutura física mínima do CEFA:** salas familiares reservadas por turno; banheiro; refeitório; pátio; biblioteca ou material didático; acesso à internet quando possível; materiais básicos; controle de entrada e saída; apoio técnico disponível; ambiente seguro; regras de convivência; protocolo de emergência.
+
+#### 51.6.5. Base Comum com Método Familiar
+
+O CEFA e o APDA observarão a distinção entre núcleo básico e método familiar.
+
+**Núcleo básico obrigatório** (conforme idade e etapa de desenvolvimento): alfabetização; leitura; escrita; interpretação de texto; matemática; raciocínio lógico; ciências naturais; história; geografia; cidadania básica; saúde; segurança digital; convivência; noções de economia e vida prática quando adequado; capacidade de argumentar e compreender diferentes perspectivas.
+
+**Liberdade de método:** a família poderá ensinar o núcleo básico por método clássico, religioso, técnico, por projetos, por livros, por prática, por conversa, conteudista, lúdico, artesanal, comunitário, científico, por experiências ou por ênfases em economia, religião, cultura local, ciência, tecnologia, literatura, ofícios ou artes. O Estado não deve punir método diferente se a criança aprende o piso básico.
+
+**Conteúdo extra livre:** fora do núcleo básico, a família terá ampla liberdade para escolher conteúdos complementares — religião, teologia, filosofia, economia, educação financeira, programação, robótica, música, agricultura, empreendedorismo, literatura clássica, história militar, línguas, artes, culinária, ofícios manuais, civismo, tecnologia, esportes, cultura familiar ou comunitária. O limite é: o conteúdo extra não pode envolver abuso, violência, exploração, discriminação ilícita, isolamento educacional grave, fraude, incitação criminosa ou violação aos direitos fundamentais da criança.
+
+Fórmula:
+
+> O que compõe o piso básico é verificável. Como ensinar esse piso é decisão primária da família.
+
+#### 51.6.6. AMEF — Avaliação Mínima de Educação Familiar
+
+A **AMEF — Avaliação Mínima de Educação Familiar** é a ferramenta de verificação do piso educacional comum no CEFA ou no APDA. Ela não avalia ideologia, religião, estilo familiar ou método pedagógico. Avalia se a criança está aprendendo o básico.
+
+A AMEF poderá verificar: leitura compatível com idade; escrita; compreensão de texto; matemática básica; raciocínio lógico; ciências básicas; história e geografia; noções de cidadania; segurança digital; capacidade de explicar ideias; autonomia progressiva; defasagem grave; risco de isolamento educacional.
+
+| Resultado | Resposta |
+|---|---|
+| aprendizagem adequada | continuidade com baixa intervenção |
+| defasagem leve | apoio, material, tutor ou reforço |
+| defasagem moderada | plano de recomposição |
+| defasagem grave persistente | acompanhamento formal e busca ativa |
+| privação educacional severa | acionamento da rede competente |
+| abuso, exploração ou risco grave | Código Vermelho ou medida protetiva |
+
+A AMEF não deve gerar punição automática. Ela gera apoio progressivo, salvo abandono educacional grave ou risco materializado.
+
+Formulação:
+
+> A avaliação mede competências mínimas, não obediência ideológica, método familiar ou preferência cultural.
+
+#### 51.6.7. MACSO — Módulo de Acompanhamento de Campo e Segurança Operacional
+
+O **MACSO — Módulo de Acompanhamento de Campo e Segurança Operacional** é o sistema de segurança para missões domiciliares ou territoriais autorizadas, envolvendo professores, tutores, voluntários, agentes técnicos ou profissionais vinculados ao programa. Sua finalidade é proteger a criança, a família e o profissional durante a missão.
+
+Formulação:
+
+> O sistema acompanha a missão, não a vida do voluntário nem a rotina da família.
+
+**Ativação por missão:** o MACSO só será ativado durante missão previamente cadastrada, contendo: profissional ou voluntário designado; família ou local atendido; finalidade; horário previsto; janela operacional; canal de contato; check-in de chegada; check-outs periódicos; check-out final; protocolo de alerta. O rastreamento termina quando a missão é encerrada.
+
+**Geolocalização temporária:** o dispositivo ou aplicativo poderá registrar localização apenas durante a missão. Vedações: sem rastreamento fora do horário autorizado; sem mapa público; sem acesso por escola, vereador, ONG, família ou terceiros; acesso restrito à coordenação autorizada; logs obrigatórios; retenção curta; eliminação após prazo, salvo incidente; vedação de uso disciplinar abusivo; vedação de uso para medir produtividade pedagógica.
+
+**Check-ins periódicos e respostas possíveis:**
+
+- *OK:* atendimento normal;
+- *Apoio leve:* atraso, dúvida, conflito verbal, família ausente ou necessidade de orientação;
+- *Emergência:* risco atual;
+- *PIN de coação:* resposta aparentemente normal no aparelho, mas aciona alerta silencioso na coordenação.
+
+O PIN de coação protege o profissional que está sendo observado ou pressionado.
+
+**Escalonamento por não resposta:**
+
+| Situação | Resposta |
+|---|---|
+| atraso leve | lembrete automático |
+| 5 a 10 minutos sem resposta | nova tentativa de contato |
+| 15 a 20 minutos sem resposta | contato por segundo canal |
+| 30 minutos sem resposta | avaliação pela coordenação |
+| 45 a 60 minutos sem resposta com sinais de risco | deslocamento de supervisor ou acionamento local |
+| botão de pânico ou PIN de coação | resposta imediata conforme risco |
+
+A ausência de resposta não gera presunção de culpa da família. A polícia só será acionada quando houver risco policial real: ameaça, agressão, arma, retenção, cárcere, crime em curso, necessidade de acesso seguro ou perigo físico atual.
+
+**Vedação à gravação contínua:** o MACSO não realizará gravação contínua de áudio, vídeo ou ambiente doméstico. Gravação somente será admitida por consentimento específico, em emergência, por base legal expressa, com finalidade determinada, retenção limitada e controle de acesso.
+
+Formulação:
+
+> Localização temporária e check-in de segurança podem existir. Vigilância audiovisual domiciliar permanente não.
+
+**Proteção de dados:** dados coletáveis: missão; horário; check-in; check-out; alertas; localização durante a missão; incidentes; responsável pelo atendimento. Dados vedados ordinariamente: rotina completa da família; imagens da casa; conversas; áudio ambiente; localização fora da missão; dados escolares detalhados sem finalidade; dados de saúde; fotos de crianças; documentos pessoais; preferências religiosas ou políticas.
+
+**Proteção da família:** antes da visita, a família deverá receber: nome ou código do profissional; finalidade da visita; horário previsto; canal oficial de confirmação; direito de cancelar ou remarcar; canal de reclamação; aviso de que não deve entregar dinheiro, documentos, senhas ou favores; aviso de que a criança não deve ser isolada sem regra expressa. A família poderá encerrar a visita se se sentir insegura, salvo hipótese protetiva específica.
+
+#### 51.6.8. Síntese executiva do módulo
+
+O modelo poderá, em fase posterior, instituir apoio à educação familiar assistida, permitindo que famílias recebam tutores em casa ou utilizem centros próprios de educação familiar, com salas, materiais, alimentação, pátio e apoio pedagógico. O núcleo será a Base Comum com Método Familiar: a criança deve aprender o piso educacional básico, mas a família escolhe o método, ritmo, materiais, valores complementares e conteúdos extras. Professores, tutores e voluntários passarão por triagem, treinamento, registro e regras de conduta. Missões domiciliares poderão usar sistema de check-in, geolocalização temporária e botão de emergência, limitado à segurança operacional da visita, sem vigilância permanente, gravação doméstica ou fiscalização da rotina familiar. O módulo não integra o piloto inaugural e dependerá de base legal, proteção de dados e pactuação intersetorial.
+
+---
+
+> **FIM DO MÓDULO DE EXPANSÃO FUTURA — EDUCAÇÃO FAMILIAR ASSISTIDA. Retomada do documento principal.**
+
+---
+
 ## 52. Transporte escolar
 
 O transporte escolar envolve risco físico elevado. O núcleo legal e técnico de segurança não deve ser flexibilizado.
@@ -2965,6 +3218,8 @@ Escopos possíveis:
 
 A ordem mais segura de implementação é começar por módulos institucionais e territoriais, e não por fiscalização doméstica.
 
+**Regra de ativação da Retaguarda noturna:** nenhum piloto poderá ativar Retaguarda noturna sem testar previamente a Ficha Única, a chave da Unidade Âncora, o canal do Responsável Institucional de Crise e o procedimento de Certidão de Ausência de Contato.
+
 #### 56.1.1. Pré-piloto de transporte infantil de risco — 30 dias corridos
 
 O arranque mais seguro do modelo não é a abertura universal do balcão de microcreches. É uma **janela sentinela de transporte escolar e infantil de risco**, com duração máxima de **30 dias corridos, improrrogáveis**, iniciando 5 dias úteis antes do retorno oficial das aulas.
@@ -2980,6 +3235,8 @@ Justificativa técnica: o transporte tem risco material mais objetivo, menor dep
 O pré-piloto de transporte deve testar: identificação de risco material, status público simples, PTS, TIDT, Lista Central, Fiscalização Sentinela, Código Vermelho e comunicação pública cautelar.
 
 O pré-piloto de transporte **não deve testar ainda:** ODA, RECOT, Cadastro Reverso amplo, reordenamento de microcreches e continuidade infantil em massa.
+
+**Ficha Única no pré-piloto:** o pré-piloto testa a Ficha Única apenas como simulação, salvo ocorrência real. Como o transporte é o primeiro módulo, a ficha deve ser treinada no contexto de criança retirada de van insegura, sem abrir "acolhimento emergencial" como rotina.
 
 **Tabela Negra em transporte:** item da Tabela Negra identificado em transporte — superlotação grave, criança sem cinto, veículo inseguro, motorista alcoolizado, porta travada, ausência de condutor habilitado, criança em compartimento inadequado — gera TIDT, bloqueio cautelar, Código Vermelho ou resposta material imediata conforme o caso. Orientação como regra ampla só vale para pendências formais ou transicionáveis.
 
@@ -3097,7 +3354,7 @@ A portaria intersecretarial deverá conter, obrigatoriamente, **anexos visuais d
 Anexos visuais obrigatórios:
 
 - Fluxograma do Código Vermelho — tipos, primeiro acionamento e assunção material;
-- Fluxograma da Porta 93 — Modo A e Modo B, TEPE e comunicação em 24 horas;
+- Fluxograma da resposta emergencial — entrega segura, Retaguarda de Custódia de 4 horas, art. 93 do ECA quando pactuado e Preservação Residual Antiabandono;
 - Fluxograma do RTTA — triagem, classificação de risco, restrições e prazos;
 - Quadro de decisão do Conselho Tutelar — quando acionar, quando rebaixar, quando manter;
 - Validação por lote em município N1 — o que informar, o que não coletar;
@@ -3105,9 +3362,9 @@ Anexos visuais obrigatórios:
 
 A portaria intersecretarial do piloto deverá conter, como **anexos obrigatórios de fricção zero**, os instrumentos imprimíveis do Kit de Prateleira N1 (Capítulo 67). Esses instrumentos terão prevalência operacional no treinamento inicial, sem substituir o decreto, o RTTA completo, a matriz de dados ou os protocolos técnicos.
 
-**Decreto do piloto** deverá conter expressamente: calendário da janela sentinela de transporte; regras de Urna Física Analógica para sorteio; modelo de Ata do Sorteio Sentinela; tratamento do TIDT com três níveis de efeito; contraditório sumário do emissor de PTS em 48 horas úteis; Lista Central de Recebibilidade de PTS; Unidade Pública de Retaguarda de Custódia; RECOT com Rodízio de Turno Proporcionado; vedação de flexibilização da Tabela Negra; e critérios de comunicação ao conselho de classe apenas após filtro qualificado.
+**Decreto do piloto** deverá conter expressamente: calendário da janela sentinela de transporte; regras de Urna Física Analógica para sorteio; modelo de Ata do Sorteio Sentinela; tratamento do TIDT com três níveis de efeito; contraditório sumário do emissor de PTS em 48 horas úteis; Lista Central de Recebibilidade de PTS; Unidade Âncora de Preservação Residual; Retaguarda de Custódia de 4 horas, Preservação Residual Antiabandono e Responsável Institucional de Crise; RECOT com Rodízio de Turno Proporcionado; vedação de flexibilização da Tabela Negra; e critérios de comunicação ao conselho de classe apenas após filtro qualificado.
 
-**Portaria intersecretarial** deverá conter como anexos visuais de uma página, em linguagem operacional: fluxo TIDT/PTS com três níveis; fluxo Alerta Interno de Balcão; fluxo Urnas Sentinela com Coreografia de Saque; modelo de Ata do Sorteio; Checklist Universal de Transporte em dois modos; fluxo de Unidade Pública de Retaguarda de Custódia; RECOT com Rodízio de Turno Proporcionado; e os instrumentos do Kit de Prateleira N1.
+**Portaria intersecretarial** deverá conter como anexos visuais de uma página, em linguagem operacional: fluxo TIDT/PTS com três níveis; fluxo Alerta Interno de Balcão; fluxo Urnas Sentinela com Coreografia de Saque; modelo de Ata do Sorteio; Checklist Universal de Transporte em dois modos; fluxo de Unidade Âncora de Preservação Residual e Ficha Única de Crise Noturna; RECOT com Rodízio de Turno Proporcionado; e os instrumentos do Kit de Prateleira N1.
 
 **Terceira peça — Projeto de Lei Municipal Curto.** Autoriza apenas o que exigir base legislativa mais robusta: fomento condicionado, fundo, voucher, entrega de bens físicos, pagamento direto a fornecedor, isenção de taxas, sanções administrativas específicas, deveres obrigatórios para particulares, status operacional compulsório, compartilhamento intersetorial estruturado de dados e mecanismos de controle externo.
 
@@ -3121,11 +3378,15 @@ O projeto de lei curto não deverá reproduzir todo o modelo nem engessar detalh
 
 O cronograma recomendado é:
 
-**Dia 0 a 15:** publicação do decreto do piloto, portaria intersecretarial, designação formal de responsáveis, nomeação de coordenador central exclusivo da quinzena inicial, treinamento mínimo, distribuição do cartão do Código Vermelho, reunião com Ministério Público, Conselho Tutelar, saúde, educação, assistência, controle interno e órgãos de segurança, quando possível.
+**Dia -5 a Dia 0 (pré-letivo — 5 dias úteis antes do início das aulas):** publicação do decreto do piloto, portaria intersecretarial, designação formal de responsáveis, nomeação do Coordenador Central exclusivo, treinamento mínimo, distribuição do cartão do Código Vermelho, distribuição do Kit de Prateleira N1, carga de rotas históricas de transporte, simulação de TIDT, teste de formulários e organização do Núcleo Central. Não haverá exigência de comparecimento prévio de motoristas informais.
 
-**Dia 0 a 15 (simultâneo — eixo de base):** construção da linha de base do Mês 0, mediante operação relâmpago com escolas, UBS, CRAS, CREAS, agentes comunitários, Conselho Tutelar, listas de espera de creche, cadastros locais e denúncias qualificadas.
+**Dia 0 a 15 (simultâneo — eixo de base):** construção da linha de base do Mês 0, mediante operação relâmpago com escolas, UBS, CRAS, CREAS, agentes comunitários, Conselho Tutelar, listas de espera de creche, cadastros locais e denúncias qualificadas. Reunião com Ministério Público, Conselho Tutelar, saúde, educação, assistência, controle interno e órgãos de segurança, quando possível.
 
-**Dia 15 a 45:** campanha institucional, abertura da janela de adesão voluntária protegida, consulta assistida, início de pré-cadastros, teste do Protocolo de Resposta Protetiva Imediata, simulação do bypass originário em N1-LRF e, quando houver plantão formal, simulação do bypass por falha de coordenação.
+**Dia 0 a 30 (pré-piloto de transporte):** janela sentinela de transporte infantil de risco — fiscalização sentinela com Urnas Físicas Analógicas, TIDT, Lista Central, Checklist Universal de Transporte e Código Vermelho. Teste isolado dos instrumentos nucleares antes da abertura do balcão de microcreches.
+
+**Dia 31:** abertura compulsória do balcão de adesão voluntária protegida para microcreches e microprestadores do microterritório piloto.
+
+**Dia 31 a 45:** campanha institucional, abertura e operação da janela de adesão voluntária protegida, consulta assistida, início de pré-cadastros, teste do Protocolo de Resposta Protetiva Imediata, simulação do bypass originário em N1-LRF e, quando houver plantão formal, simulação do bypass por falha de coordenação.
 
 **Dia 45 a 180:** execução dos RTTAs, status operacional, validação assistida de vínculos, revisões de risco, relatórios mensais, auditoria de custo administrativo, relatório de incidentes de dados e monitoramento de KPIs.
 
@@ -3259,7 +3520,7 @@ A métrica não usará estimativa abstrata do universo invisível como denominad
 
 **Métrica:** tempo entre o primeiro registro de Código Vermelho Protetivo e a primeira medida concreta de proteção.
 
-Medida concreta de proteção inclui retirada de exposição atual, contenção de agressor, chegada ou assunção formal de polícia, SAMU ou saúde, comunicação efetiva ao Conselho Tutelar, encaminhamento à saúde, entrega a responsável seguro, acolhimento emergencial, cessação imediata de operação perigosa ou outra medida equivalente.
+Medida concreta de proteção inclui retirada de exposição atual, contenção de agressor, chegada ou assunção formal de polícia, SAMU ou saúde, comunicação efetiva ao Conselho Tutelar, encaminhamento à saúde, entrega segura a responsável apto, Retaguarda de Custódia conforme protocolo, acionamento de serviço de acolhimento habilitado pelo art. 93 do ECA quando pactuado, cessação imediata de operação perigosa ou outra medida equivalente.
 
 **SLA territorializado (N2/N3 apenas):** onde houver plantão formal, escala ou capacidade administrativa, o decreto ou ato do piloto poderá fixar metas distintas para perímetro urbano denso, perímetro urbano expandido, zona rural e área de difícil acesso. A meta não deve exigir tempo urbano de resposta para território rural ou isolado. O relatório deverá comparar cada caso com a meta territorial aplicável.
 
@@ -3316,10 +3577,18 @@ A avaliação do piloto deverá produzir decisão administrativa expressa, e nã
 | uso recorrente do 190 para vulnerabilidade social sem perigo físico atual | recalibrar Código Vermelho | refazer treinamento, cartão operacional e destinos materiais de acionamento |
 | alertas ICO laranja ou vermelho recorrentes | pausar governança local afetada | reforçar canal direto, fila cega, sorteio, rodízio e controle externo |
 | vazamento grave, acesso indevido ou tratamento de dados sem base suficiente | pausar módulo de dados | suspender integração, reduzir coleta e refazer matriz de dados |
-| Porta 93 Modo B usada de forma recorrente ou sem comunicação tempestiva às autoridades | reforçar pactuação e rever protocolo | buscar Modo A pactuado, corrigir fluxo, reforçar TEPE e comunicação em 24 horas |
+| Preservação Residual recorrente, pernoite na Retaguarda ou uso da Retaguarda como abrigo informal | reforçar pactuação e rever protocolo | buscar art. 93 do ECA pactuado, corrigir fluxo, reforçar Unidade Âncora, Ficha Única e Certidão de Ausência de Contato |
 | fechamento de microprestador sem continuidade infantil mínima | suspender expansão | revisar Envelope 3, plano de continuidade e critérios de interdição |
 | abuso estatal, punição da pobreza ou visita domiciliar indevida | suspender módulo sensível | apurar responsabilidade, retreinar equipes e reforçar controle externo |
 | risco crítico não neutralizado ou acidente grave ligado a falha do fluxo | suspender e redesenhar | bloquear expansão, revalidar RTTAs e revisar matriz de risco |
+| pernoite recorrente em Preservação Residual | suspender módulo noturno | exigir Unidade Âncora apta e art. 93 do ECA pactuado antes de reativar |
+| pernoite único em Preservação Residual sem art. 93 pactuado ou sem ordem/assunção competente | Evento Crítico imediato | comunicar Responsável Institucional de Crise e controle, revisão diurna prioritária e reavaliação do módulo noturno |
+| Unidade Âncora inexistente ou inacessível | desativar módulo noturno | proibir Retaguarda noturna até acesso físico real comprovado |
+| mais de uma Preservação Residual em 60 dias | revisar arquitetura emergencial | reforçar pactuação, Responsável Institucional de Crise e rede de acolhimento habilitado |
+| B.A.V.I. não acionado quando devido | suspender e retreinar | refazer treinamento de alerta vital e cartão B.A.V.I. |
+| uso da Ficha Única como relato social | retreinar e auditar | reforçar diretriz antinarrativa e desenho de margem morta |
+| reclassificações diurnas recorrentes por erro do mesmo campo | revisar instrumento | redesenhar o campo, retreinar e anexar RTD |
+| tentativa de usar a Retaguarda como abrigo informal | suspender módulo | reafirmar teto de 4 horas e vedação de acolhimento municipal autônomo |
 
 A decisão de expandir, manter, corrigir, pausar ou suspender deverá ser motivada, publicada em versão agregada e acompanhada de plano de correção quando houver falha relevante.
 
@@ -3332,8 +3601,12 @@ O piloto deverá monitorar, conforme capacidade local:
 - número de quebras de contenção e caducidades por reabertura de área vedada;
 - quantidade de acionamentos ao 190 e percentual efetivamente policial;
 - percentual de acionamentos policiais por vulnerabilidade social sem perigo físico atual;
-- número de TEPES emitidos;
-- recusas de Porta 93 ou acolhimento emergencial;
+- número de Fichas Únicas de Crise Noturna emitidas;
+- número de Retaguardas de Custódia ativadas e número que ultrapassou o teto de 4 horas;
+- número de casos em Preservação Residual Antiabandono e número de pernoites;
+- número de Certidões de Ausência de Contato emitidas;
+- número de B.A.V.I. positivos e respectivos acionamentos de saúde ou segurança;
+- número de acionamentos do art. 93 do ECA por serviço habilitado pactuado;
 - uso de hospital sem necessidade médica;
 - Códigos Vermelhos em fim de semana, feriado ou madrugada;
 - tempo até assunção formal por órgão competente;
@@ -3360,7 +3633,7 @@ O piloto deverá monitorar, conforme capacidade local:
 - número de rotas fiscalizadas no ciclo;
 - número de Triagens Prioritárias por Ficha de Lote;
 - número de Códigos Vermelhos reais por flagrante vs. por Triagem Prioritária;
-- número de usos da Unidade Pública de Retaguarda de Custódia;
+- número de usos da Unidade Âncora de Preservação Residual e de Eventos Críticos de Falha Estrutural por ausência de acesso;
 - número de RECOTs com Rodízio de Turno Proporcionado aplicados.
 
 **Linguagem de treinamento para agentes de campo:**
@@ -3626,7 +3899,7 @@ Retaliação inclui expulsão de criança, aumento de preço, negativa de vaga, 
 |---|---|---|
 | RTTA | interpretação como licença, alvará ou chancela estatal | tarja de triagem limitada, escopo restrito, termo de ciência, limites operacionais e reavaliação |
 | Status público | dano reputacional, concorrência predatória ou erro de informação | data visível, contestação rápida, histórico mínimo e linguagem neutra |
-| Porta 93 | aparência de acolhimento municipal paralelo ao ECA | excepcionalidade, TEPE, comunicação em até 24 horas, pactuação prévia e vedação de substituição do Conselho ou Judiciário |
+| Resposta emergencial (art. 93 do ECA, Retaguarda, Preservação Residual) | aparência de acolhimento municipal paralelo ao ECA | vedação de acolhimento municipal autônomo, art. 93 apenas por serviço habilitado pactuado, Retaguarda de 4 horas, registro de falha sistêmica e Responsável Institucional de Crise |
 | Dados pessoais | vazamento, excesso de coleta ou recusa genérica de cooperação | matriz de dados, minimização, logs, acesso por perfil, retenção limitada e canal de contestação |
 | ICO | acusação de perseguição política, religiosa ou comunitária | gatilho não sancionatório, revisão obrigatória, amostragem, contraditório e retorno ao modo padrão |
 | Fomento | clientelismo, favorecimento ou emenda de destinatário disfarçado | fila cega, critério público, vedação de intermediação e matriz de risco |
@@ -3729,9 +4002,9 @@ Retaliação inclui expulsão de criança, aumento de preço, negativa de vaga, 
 
 > Em município de baixa capacidade sob restrição fiscal, o Código Vermelho operará por bypass originário: qualquer agente capacitado acionará diretamente o órgão materialmente competente, sem plantão municipal fictício, sobreaviso informal ou SLA incompatível com a capacidade real.
 
-### 61.24. Recepção Protetiva Emergencial Temporária e TEPE
+### 61.24. Resposta emergencial: art. 93 do ECA, Retaguarda de Custódia e Preservação Residual Antiabandono
 
-> Criança ou adolescente retirado de situação de risco e sem responsável apto não poderá permanecer em viatura, hospital sem indicação médica, via pública, delegacia ou local inseguro por ausência de guia ou falha de fluxo. O município organizará recepção temporária documentada — denominada internamente Porta 93 —, mediante TEPE e comunicação obrigatória em até 24 horas às autoridades competentes. O procedimento não cria nova hipótese de acolhimento, não substitui o Conselho Tutelar, o Ministério Público ou o Judiciário, não altera competências estabelecidas pelo regime jurídico vigente e encerra-se com a assunção pelo fluxo ordinário competente.
+> Criança ou adolescente retirado de situação de risco e sem responsável apto não poderá permanecer em viatura, hospital sem indicação médica, via pública, delegacia ou local inseguro por ausência de guia ou falha de fluxo. É **vedada a criação de acolhimento municipal autônomo**. A resposta opera em sequência: entrega segura a adulto apto, mediante Termo de Entrega Segura; Retaguarda de Custódia curta, limitada a 4 horas, documentada e supervisionada em Unidade Âncora; acionamento do **Protocolo Excepcional do art. 93 do ECA** por serviço de acolhimento habilitado, quando pactuado, com comunicação à autoridade judiciária; e, esgotada a rede, **Preservação Residual Antiabandono** como falha sistêmica consumada, sob responsabilidade do Responsável Institucional de Crise. O instrumento de registro é a Ficha Única de Crise Noturna, com B.A.V.I., conversão automática em ROQ-T factual e Retificação Técnica Diurna. O procedimento não cria nova hipótese de acolhimento, não substitui o Conselho Tutelar, o Ministério Público ou o Judiciário, não altera competências estabelecidas pelo regime jurídico vigente e encerra-se com a assunção pelo fluxo ordinário competente.
 
 ### 61.25. Ecossistema plural sem privatização da coerção
 
@@ -4058,7 +4331,7 @@ Resposta:
 1. classificar como Vermelho-tutelar com componente médico e possível componente policial;
 2. acionar saúde por risco biológico;
 3. acionar segurança se houver necessidade de acesso seguro;
-4. acionar Conselho Tutelar ou Porta 93;
+4. acionar Conselho Tutelar; preencher Ficha Única de Crise Noturna; usar entrega segura, Retaguarda de Custódia ou art. 93 do ECA quando pactuado;
 5. não tratar como simples Laranja administrativo.
 
 ### 62.23. PM retira criança de violência doméstica e Conselho não atende
@@ -4067,11 +4340,11 @@ Situação: polícia afasta agressor de madrugada, criança está sem responsáv
 
 Resposta:
 
-1. tentar responsável seguro ou família extensa apta;
-2. se inexistente ou duvidoso, acionar Porta 93;
-3. preencher TEPE;
-4. serviço de acolhimento recebe sem exigir guia prévia;
-5. comunicar Juízo, Conselho Tutelar, Ministério Público e órgão gestor em até 24 horas.
+1. tentar responsável seguro ou família extensa apta, com Termo de Entrega Segura;
+2. se inexistente ou duvidoso, usar Retaguarda de Custódia curta e acionar serviço de acolhimento habilitado pelo art. 93 do ECA quando pactuado;
+3. preencher a Ficha Única de Crise Noturna (sem narrativa livre); se o Conselho e a autoridade política não responderem, emitir Certidão de Ausência de Contato e manter Preservação Residual Antiabandono;
+4. serviço de acolhimento habilitado recebe pelo art. 93 do ECA, com comunicação à autoridade judiciária;
+5. comunicar Juízo, Conselho Tutelar, Ministério Público e órgão gestor; submeter à revisão diurna.
 
 ### 62.24. Hospital usado como abrigo social
 
@@ -4080,7 +4353,7 @@ Situação: criança sem lesão é deixada em pronto-socorro porque abrigo exigi
 Resposta:
 
 1. registrar desvio de fluxo;
-2. acionar Porta 93;
+2. acionar serviço de acolhimento habilitado pelo art. 93 do ECA quando pactuado, ou Retaguarda de Custódia curta em Unidade Âncora;
 3. manter hospital apenas se houver necessidade clínica;
 4. comunicar recusa do serviço de acolhimento;
 5. revisar pactuação interinstitucional.
@@ -4095,7 +4368,7 @@ Resposta:
 2. registrar vínculo e local seguro;
 3. colher termo de recebimento;
 4. comunicar Conselho Tutelar no primeiro ciclo possível;
-5. optar pela Porta 93 se houver dúvida de conivência ou retorno ao agressor.
+5. optar pela Retaguarda de Custódia e art. 93 do ECA pactuado se houver dúvida de conivência ou retorno ao agressor.
 
 ### 62.26. Voluntário tenta visitar família sozinho
 
@@ -4316,7 +4589,14 @@ O modelo não defende:
 - plantão informal por WhatsApp;
 - cancelamento explosivo de RTTA sem continuidade infantil;
 - doutrinação política, religiosa ou ideológica de criança sob proteção substitutiva;
-- decisão de caso individual por votação comunitária ou Câmara Local.
+- decisão de caso individual por votação comunitária ou Câmara Local;
+- expulsão automática de crianças de RECOT sem Rodízio de Turno Proporcionado;
+- bloqueio sistemático de profissional de PTS por fiscal de campo sem contraditório;
+- hospitalização social por ausência de vaga ou falha de fluxo;
+- vigilância domiciliar permanente disfarçada de apoio educacional;
+- uso de voluntário educacional como fiscal moral da família;
+- gravação ambiental doméstica como condição de participação em programa;
+- rastreamento permanente de profissional fora da missão cadastrada.
 
 O modelo defende:
 
@@ -4342,7 +4622,8 @@ O modelo defende:
 - controle externo;
 - degradação operacional segura;
 - neutralização imediata da exposição ao risco;
-- Porta 93 e TEPE;
+- art. 93 do ECA pactuado, Retaguarda de Custódia de 4 horas e Preservação Residual Antiabandono;
+- Ficha Única de Crise Noturna, B.A.V.I., ROQ-T factual e RTD;
 - bypass originário em N1-LRF;
 - ecossistema plural sem privatizar coerção;
 - autonomia local parametrizada;
@@ -4353,7 +4634,17 @@ O modelo defende:
 - estratégia legislativa com crédito político legítimo sem intermediação individual;
 - educação plural, atualizada e contínua da criança sob proteção substitutiva;
 - escuta protegida periódica da criança em acolhimento ou cuidado substitutivo;
-- Matriz de Competência Deliberativa por Matéria, separando participação comunitária de decisão técnica e individual.
+- Matriz de Competência Deliberativa por Matéria, separando participação comunitária de decisão técnica e individual;
+- PTS como prova administrativa imperfeita e instrumento auxiliar ao RTTA;
+- TIDT com três níveis de efeito e contraditório sumário do emissor;
+- Lista Central de Recebibilidade de PTS sem exposição nominal;
+- ODA como contingência proporcional quando o risco está no imóvel, não no prestador;
+- RECOT com Rodízio de Turno Proporcionado antes de corte de capacidade;
+- Urnas Físicas Analógicas para seleção de rotas em N1;
+- Unidade Âncora de Preservação Residual como destino seguro de urgência, com acesso físico real;
+- APDA, CEFA e MACSO como módulos de expansão futura com base legal própria;
+- pré-piloto de transporte como janela sentinela antes do ciclo de microprestadores;
+- Cota Sentinela como proteção da fiscalização aleatória contra esvaziamento por fast-track.
 
 ---
 
@@ -4432,7 +4723,7 @@ Sua fórmula é:
 23. permitir rebaixamento operacional do Código Vermelho sem arquivamento social automático;
 24. operar em degradação segura quando faltar capacidade municipal;
 25. neutralizar a exposição ao risco antes de exigir solução definitiva;
-26. acionar Porta 93 e TEPE quando o fluxo tutelar ordinário falhar em urgência;
+26. acionar entrega segura, Retaguarda de Custódia de 4 horas, art. 93 do ECA pactuado e, em falha da rede, Preservação Residual Antiabandono, sem criar acolhimento municipal autônomo;
 27. impedir hospitalização social e policialização da pobreza;
 28. admitir cooperação plural sem privatizar coerção;
 29. permitir autonomia local parametrizada sem reduzir direitos infantis;
@@ -4442,7 +4733,12 @@ Sua fórmula é:
 33. expandir apenas após demonstração de efetividade, proporcionalidade e segurança informacional;
 34. garantir educação plural, atualizada e contínua para a criança sob proteção substitutiva, vedando doutrinação, censura pedagógica e formação desatualizada;
 35. assegurar escuta protegida periódica da criança em acolhimento, família acolhedora ou cuidado substitutivo, com relatório neutro e sem presunção automática de culpa;
-36. distinguir participação comunitária de decisão técnica por Matriz de Competência Deliberativa, impedindo que cargo, maioria local ou autoridade informal substituam decisão fundamentada em matérias sensíveis.
+36. distinguir participação comunitária de decisão técnica por Matriz de Competência Deliberativa, impedindo que cargo, maioria local ou autoridade informal substituam decisão fundamentada em matérias sensíveis;
+37. iniciar o piloto por janela sentinela de 30 dias em transporte infantil de risco, antes de abrir o balcão de microprestadores;
+38. usar Urnas Físicas Analógicas para seleção de rotas em N1, com coreografia de saque fixa e ata pública, sem planilha digital obrigatória;
+39. tratar o PTS como prova administrativa imperfeita, com TIDT de três níveis, contraditório sumário em 48 horas úteis e Lista Central sem exposição nominal;
+40. usar ODA como contingência proporcional quando o risco está no imóvel, com RECOT como última instância e Rodízio de Turno Proporcionado antes de qualquer corte de capacidade;
+41. reservar APDA, CEFA, AMEF e MACSO para expansão futura com base legal própria, garantindo educação familiar assistida sem vigilância domiciliar, sem imposição ideológica e com segurança operacional de campo proporcional.
 
 Frase-síntese:
 
@@ -4460,9 +4756,25 @@ Frase de fechamento do decreto:
 
 ## 67. Kit de Prateleira N1 — Instrumentos Imprimíveis do Dia 1
 
-Este capítulo contém os três instrumentos operacionais de fricção zero do piloto inaugural. São destinados a município N1, com baixa capacidade digital, equipe reduzida e servidor que precisa decidir no campo sem depender de leitura longa, sistema online ou coordenador disponível.
+Este capítulo contém os instrumentos operacionais de fricção zero do piloto inaugural. São destinados a município N1, com baixa capacidade digital, equipe reduzida e servidor que precisa decidir no campo sem depender de leitura longa, sistema online ou coordenador disponível.
 
-Os três instrumentos são complementares e devem ser distribuídos juntos no treinamento de arranque. Eles não substituem o decreto, o RTTA completo, a matriz de dados, os protocolos técnicos nem a autoridade competente. Eles reduzem medo, dúvida, retrabalho e empurra-empurra no Dia 1.
+Os instrumentos são complementares e devem ser distribuídos juntos no treinamento de arranque. Eles não substituem o decreto, o RTTA completo, a matriz de dados, os protocolos técnicos nem a autoridade competente. Eles reduzem medo, dúvida, retrabalho e empurra-empurra no Dia 1.
+
+Instrumentos do kit:
+
+1. Quadro de Decisão Tutelar e Chave 1 — Código Vermelho e Laranja Protetivo;
+2. Ficha de Validação Mínima por Lote;
+3. Termo de Porto Seguro Procedimental do Agente;
+4. Ficha Analógica de Triagem do PTS;
+5. Modelo de TIDT — Termo de Infração e Divergência Técnica;
+6. Ata do Sorteio Sentinela;
+7. Checklist Universal de Transporte;
+8. Fluxo ODA/RECOT com Rodízio de Turno Proporcionado;
+9. Anexo IX — Ficha Única de Crise Noturna, Retaguarda e ROQ-T factual;
+10. Anexo X — Termo de Entrega Segura;
+11. Anexo XI — Retificação Técnica Diurna — RTD;
+12. Anexo XII — Checklist de Unidade Âncora;
+13. Anexo XIII — Cartão B.A.V.I. e Código 99.
 
 ---
 
@@ -4502,11 +4814,11 @@ Acionar Conselho Tutelar ou assistência se houver ausência de responsável apt
 
 #### Pergunta 3 — A criança está sem adulto apto ou sem local seguro?
 
-Marque SIM se houver: abandono; criança pequena desacompanhada; responsável intoxicado, ausente ou incapaz; impossibilidade de entrega segura; criança retirada de local inseguro; ausência de familiar apto; necessidade de acolhimento emergencial; risco de permanecer em viatura, delegacia, via pública, hospital sem indicação clínica ou residência insegura.
+Marque SIM se houver: abandono; criança pequena desacompanhada; responsável intoxicado, ausente ou incapaz; impossibilidade de entrega segura; criança retirada de local inseguro; ausência de familiar apto; necessidade de retaguarda ou de serviço de acolhimento habilitado; risco de permanecer em viatura, delegacia, via pública, hospital sem indicação clínica ou residência insegura.
 
 **Se SIM → Vermelho-Tutelar / Social Grave.**
-Acionar Conselho Tutelar, assistência social, serviço de acolhimento ou Porta 93, conforme disponibilidade.
-Se não houver resposta ordinária e a criança estiver sem destino seguro: usar Porta 93 de Última Barreira, com TEPE e comunicação em até 24 horas às autoridades competentes.
+Acionar Conselho Tutelar e assistência social. Buscar, nesta ordem: entrega segura a adulto apto (Termo de Entrega Segura); Retaguarda de Custódia curta em Unidade Âncora; serviço de acolhimento habilitado pelo art. 93 do ECA quando pactuado.
+Se não houver resposta ordinária e a criança estiver sem destino seguro: preencher a Ficha Única de Crise Noturna, acionar o Responsável Institucional de Crise e, na falha, registrar Preservação Residual Antiabandono com Certidão de Ausência de Contato. Não criar acolhimento municipal autônomo.
 
 **Se NÃO → passar para a Pergunta 4.**
 
@@ -4811,3 +5123,348 @@ Classificado por: _____________________________________
 Cargo / função: ______________________________________
 Data: ______ / ______ / ____________
 Assinatura: _____________________________________________
+
+---
+
+### 67.5. Anexo V — Modelo de TIDT (Frente e Verso)
+
+**Finalidade:** formalizar infração do prestador (Coluna A) ou divergência de PTS (Coluna B) em instrumento único. O fiscal de campo preenche e aciona o Alerta Interno; a Coordenação homologa, revisa ou cancela.
+
+---
+
+**TIDT — TERMO DE INFRAÇÃO E DIVERGÊNCIA TÉCNICA**
+
+Data: ______ / ______ / ______ Hora: ______h______
+Número do TIDT: _______________
+Prestador ou processo de referência: ___________________________
+RTTA de referência, se houver: ________________________________
+
+---
+
+**COLUNA A — Infração do prestador (marcar o que se aplica)**
+
+- ( ) quebra de ODA — área vedada reaberta ou prestador ausente
+- ( ) infração ao núcleo indeclinável de segurança
+- ( ) caducidade do RTTA por descumprimento de condição
+- ( ) superlotação verificada
+- ( ) item da Tabela Negra exposto sem contenção
+- ( ) outro: _________________________________________________
+
+Descrição objetiva da infração: _______________________________
+Medida imediata adotada: ____________________________________
+
+---
+
+**COLUNA B — Divergência de PTS (marcar o que se aplica)**
+
+- ( ) divergência entre PTS e situação verificada em item da Tabela Negra
+- ( ) risco crítico omitido no PTS
+- ( ) omissão material relevante no PTS
+- ( ) PTS sem responsável, sem objeto ou desconectado do RTTA
+- ( ) outro: _________________________________________________
+
+Número de registro profissional do emissor: _____________________
+Descrição objetiva da divergência: _____________________________
+
+**Efeito imediato gerado por esta Coluna B:**
+- ( ) Alerta Interno de Balcão ativado — PTS do registro acima inoperante para fast-track até despacho da Coordenação
+
+---
+
+**Assinaturas (dois servidores ou fiscalização competente)**
+
+Servidor 1: _________________________ Matrícula: ____________
+Servidor 2: _________________________ Matrícula: ____________
+Data: ______ / ______ / ____________
+
+**Despacho da Coordenação Central (a ser preenchido após contraditório sumário)**
+
+- ( ) Alerta Interno homologado — incluir na Lista Central
+- ( ) Alerta Interno revisado — reduzir efeito para: ______________
+- ( ) Alerta Interno cancelado — motivo: _______________________
+
+Coordenador: _________________________ Data: _______________
+
+---
+
+### 67.6. Anexo VI — Ata do Sorteio Sentinela
+
+**Finalidade:** registrar o sorteio de rotas/prestadores para fiscalização sentinela, garantindo transparência, proteção de fonte e vedação de conflito de interesse.
+
+---
+
+**ATA DO SORTEIO SENTINELA**
+
+Ciclo de referência: ______ / ______ Território: _________________
+Data e hora do sorteio: ______ / ______ / ______ — ______h______
+Local: ______________________________________________________
+
+**Composição da Urna A — Cega:** ______ envelopes (1 por rota/prestador conhecido)
+**Composição da Urna B — Ponderada:** ______ envelopes (com multiplicação por sinal)
+
+**Sequência de saque realizada:**
+
+| Nº do saque | Urna | Rota/código retirado | Duplicidade? | Ação |
+|---|---|---|---|---|
+| 1 | A | | ( ) não ( ) sim | |
+| 2 | B | | ( ) não ( ) sim | |
+| 3 | B | | ( ) não ( ) sim | |
+| 4 | A | | | |
+| 5 | B | | | |
+| 6 | B | | | |
+
+Capacidade fiscalizatória do ciclo: ______ rotas/prestadores
+
+**Vedação cumprida:** ( ) Nenhum servidor que alimentou Ficha de Lote neste ciclo participou do sorteio.
+
+Assinatura do Coordenador Central: ___________________________
+Servidor efetivo testemunha (Adm/Finanças/Controle): ___________
+Cargo: __________________________ Matrícula: ________________
+Data: ______ / ______ / ____________
+
+---
+
+### 67.7. Anexo VII — Checklist Universal de Transporte
+
+**Finalidade:** orientar o fiscal no campo. Dois modos: Abordagem Rápida (60 segundos) e Verificação Completa N1.
+
+---
+
+**MODO DE ABORDAGEM RÁPIDA — primeiros 60 segundos**
+
+Se qualquer item abaixo for "NÃO": acionar resposta imediata antes de continuar.
+
+| Item crítico | SIM | NÃO |
+|---|---|---|
+| Número de crianças parece compatível com capacidade do veículo | | |
+| Cinto disponível e aparentemente funcional em cada assento | | |
+| Portas e travas aparentemente funcionais | | |
+| Condutor aparenta sobriedade e aptidão | | |
+| Nenhuma criança em compartimento inadequado (porta-malas, capota, exterior) | | |
+
+**Se houver "NÃO" em qualquer item acima:** classificar como potencial item de Tabela Negra → TIDT, bloqueio cautelar ou Código Vermelho conforme gravidade.
+
+---
+
+**MODO DE VERIFICAÇÃO COMPLETA N1**
+
+| Item | SIM | NÃO | N/A |
+|---|---|---|---|
+| Identificação visível do veículo (placa, número de rota) | | | |
+| Identificação visível do condutor | | | |
+| Número de crianças vs. capacidade declarada compatível | | | |
+| Cinto disponível por assento | | | |
+| Portas e travas funcionais | | | |
+| Saída de emergência desobstruída | | | |
+| Nenhuma criança em compartimento inadequado | | | |
+| Lista de embarque e desembarque disponível | | | |
+| Comunicação emergencial (celular, rádio) funcionando | | | |
+| Condutor sem sinal visível de intoxicação | | | |
+| Documentação básica do veículo disponível para consulta | | | |
+
+**Itens fora do checklist (requerem inspeção técnica especializada):** motor, freio, suspensão, estrutura automotiva.
+
+Fiscal: _________________________ Data: ___________________
+Veículo/rota verificado: ______________________________________
+Resultado: ( ) sem pendência | ( ) pendência transicionável | ( ) Tabela Negra → TIDT
+Observação: _________________________________________________
+
+---
+
+### 67.8. Anexo VIII — Fluxo ODA/RECOT com Rodízio de Turno Proporcionado
+
+**Finalidade:** guiar a resposta quando o risco está no imóvel do prestador, não no prestador. Linha de decisão sequencial.
+
+---
+
+**PASSO 1 — O risco está no imóvel ou no prestador?**
+
+- Risco no imóvel (elétrica, estrutura, sanitário): → ODA possível. Ir ao Passo 2.
+- Risco no prestador (abuso, violência, negligência, intoxicação): → ODA **vedada**. Deslocar criança. Acionar Código Vermelho ou Conselho Tutelar.
+
+**PASSO 2 — Checklist binário do espaço alternativo (13 itens da seção 21.3.3)**
+
+Todos os itens "SIM"? → ODA autorizada. Ir ao Passo 3.
+Algum "NÃO" em item crítico? → Espaço inadequado. Buscar outro ou acionar Retaguarda de Custódia.
+
+**PASSO 3 — ODA ativa (máximo 15 + 15 dias)**
+
+- Prestador fisicamente presente e cuidando das crianças.
+- Famílias assinam ciência.
+- Servidor supervisor de perímetro designado formalmente.
+- Dia 15: avaliar se problema original foi resolvido.
+  - Resolvido: retorno ao endereço original com nova vistoria.
+  - Não resolvido: prorrogação única de 15 dias (máximo).
+
+**PASSO 4 — RECOT (quando ODA vencer sem solução)**
+
+- Primeiro: avaliar Rodízio de Turno Proporcionado (turnos, jornada reduzida, horário parcial).
+- Se rodízio insuficiente: redução progressiva por P1/P2/P3 + faixa etária menor.
+- Dia 7: novo corte se necessário.
+- Dia 15: encerramento integral. Ficha de Fechamento obrigatória para cada criança.
+
+**PASSO 5 — Ficha de Fechamento com destino fático**
+
+Nenhum encerramento sem destino documentado: vaga pública, prestador formal, família extensa, entrega segura, Retaguarda de Custódia ou serviço de acolhimento habilitado (art. 93 do ECA, quando pactuado).
+
+---
+
+### 67.9. Anexo IX — Ficha Única de Crise Noturna, Retaguarda e ROQ-T factual
+
+**Finalidade:** registrar, por campos e horários, a resposta a criança em crise noturna sem responsável apto, quando o fluxo ordinário falha. Funciona por marcação, não por narrativa. A não assunção material do caso converte-se automaticamente em ROQ-T factual.
+
+**Desenho físico obrigatório:** sem campo de observações gerais; margens estreitas (margem morta); verso com tarja:
+
+> NÃO ESCREVER NO VERSO. ESTA FICHA FUNCIONA POR CAMPOS, HORÁRIOS E ASSINATURAS.
+
+---
+
+**FICHA ÚNICA DE CRISE NOTURNA**
+
+**1. Controle do registro**
+Nº da ficha: __________ Data: ______ / ______ / ______ Hora de abertura: ______h______
+
+**2. Identificação mínima**
+Criança identificada ou identificação disponível: ___________________
+Faixa etária aproximada: ______ Número de crianças: ______
+
+**3. Origem da crise**
+( ) retirada de transporte/van | ( ) evacuação de ODA | ( ) Código Vermelho | ( ) entrega por terceiro | ( ) outro: ______
+
+**4. Natureza objetiva do risco**
+( ) sem adulto apto | ( ) local inseguro | ( ) agressor presente afastado | ( ) abandono | ( ) outro objetivo: ______
+
+**5. Bloco de Alerta Vital de Integridade — B.A.V.I.**
+> Se a criança falar de remédio vital, alergia crítica, outra pessoa presa/em risco, bebê sozinho, intoxicação, autolesão ou perigo de morte: **não espere 4 horas; acione saúde ou segurança.**
+
+Relato de remédio vital/alergia crítica? ( ) não ( ) sim → acionar SAMU/saúde imediatamente e registrar hora: ______
+Relato de outra pessoa em risco atual? ( ) não ( ) sim → acionar segurança/saúde imediatamente e registrar hora: ______
+Outro perigo de vida? ( ) não ( ) sim → acionar imediatamente e registrar hora: ______
+
+**6. Condição objetiva da criança**
+( ) aparente bem-estar | ( ) sinais de fome/sede | ( ) sinais clínicos (→ saúde) | ( ) sono/cansaço | ( ) outro objetivo: ______
+
+**7. Acionamentos (registrar canal e horário)**
+Conselho Tutelar: canal ______ hora ______ resposta ______
+Saúde: canal ______ hora ______ resposta ______
+Segurança: canal ______ hora ______ resposta ______
+Serviço de acolhimento habilitado (art. 93): canal ______ hora ______ resposta ______
+Responsável Institucional de Crise: canal ______ hora ______ resposta ______
+
+**8. Controle de 4 horas (Retaguarda)**
+Início da Retaguarda: ______h______ Teto (início + 4h): ______h______
+Assunção material ocorreu antes do teto? ( ) sim → por quem/órgão: ______ ( ) não → conversão automática em ROQ-T factual
+
+**9. Conversão automática em ROQ-T factual — Registro de Não Assunção Material do Caso**
+Marcar somente fatos: canais acionados, horários e respostas registrados acima. Sem classificação de omissão, dolo, culpa ou infração. Classificação reservada à revisão diurna.
+
+**10. Campo [99] — Anomalia Logística Atual (máximo 10 palavras)**
+[99] ___________________________________________________________
+(Ex.: "porta trancada, aguardando viatura"; "criança não fala português"; "chave indisponível"; "pneu estourado, motorista fugiu". Não usar como observação geral.)
+
+**11. Destino físico**
+( ) entrega segura a adulto apto (anexar Termo de Entrega Segura) | ( ) Retaguarda em Unidade Âncora — **anexar Checklist de Unidade Âncora preenchido** | ( ) art. 93 do ECA pactuado | ( ) mesmo local por ser o menos arriscado disponível | ( ) Evento Crítico de Falha Estrutural
+
+**12. Comunicação de transbordo**
+Órgão para o qual o caso transbordou: ______ hora ______
+
+**13. Encerramento**
+Hora de encerramento: ______h______
+*Certidão de Ausência de Contato (se aplicável):* Certifico que a autoridade política padrão foi acionada por canal oficial às ______ e às ______, permanecendo incontactável. O caso segue em Preservação Residual Antiabandono por ausência de assunção material e será remetido à revisão diurna. Trata-se de responsabilidade institucional municipal por preservação física antiabandono.
+
+**14. Rodapé de proteção procedimental**
+O agente que preserva a criança, aciona canais, marca campos, evita narrativa e não adultera documento mantém porto seguro procedimental, salvo dolo, fraude, violência, abandono deliberado ou erro grosseiro.
+
+**Expressões proibidas nesta ficha:** "omissão dolosa", "mãe negligente", "conselheiro se omitiu", "família desestruturada", "crime", "acolhimento realizado", "guarda assumida pelo servidor". Usar apenas campos objetivos.
+
+Assinatura do agente: ________________________ Matrícula: ______
+Hora: ______h______
+
+---
+
+### 67.10. Anexo X — Termo de Entrega Segura
+
+**Finalidade:** documentar a entrega da criança a responsável legal, familiar ou adulto de referência apto, como saída prioritária antes da Retaguarda.
+
+---
+
+**TERMO DE ENTREGA SEGURA**
+
+Data: ______ / ______ / ______ Hora: ______h______
+Identidade do adulto recebedor: ________________________ Documento: ______
+Vínculo com a criança: _______________________________________
+Sobriedade aparente: ( ) sim ( ) não
+Ausência de condição de agressor ou coabitante do agressor: ( ) confirmada ( ) dúvida → não entregar
+Local de destino seguro: _____________________________________
+Telefone de contato: ________________________________________
+Ciência de apresentação posterior ao Conselho Tutelar/autoridade: ( ) sim
+
+Assinatura do adulto recebedor: ______________________________
+Assinatura do agente: _______________________________________
+Comunicação ao Conselho Tutelar: ( ) no primeiro ciclo possível — data: ______
+
+---
+
+### 67.11. Anexo XI — Retificação Técnica Diurna — RTD
+
+**Finalidade:** corrigir erro da madrugada sem rasurar a ficha original. A revisão diurna não reescreve a ficha; anexa a RTD.
+
+---
+
+**RETIFICAÇÃO TÉCNICA DIURNA — RTD**
+
+Ficha original nº: ______ Data da ficha: ______ Data da RTD: ______
+Campo marcado na origem: ____________________________________
+Campo correto: _____________________________________________
+Tipo de erro: ( ) Nível 1 — erro material sem impacto | ( ) Nível 2 — erro de classificação sem dano | ( ) Nível 3 — erro com impacto operacional | ( ) Nível 4 — erro crítico com risco ou dano
+Impacto verificado: _________________________________________
+Providência adotada: ________________________________________
+Comunicação externa necessária: ( ) não ( ) sim → órgão: ______
+Necessidade de retreinamento: ( ) não ( ) sim
+Assinatura do revisor diurno: ________________________________
+
+**Gatilhos de revisão diurna obrigatória:** toda ficha com transbordo, B.A.V.I. positivo, Código 99, erro material, ausência de contato ou Preservação Residual.
+
+---
+
+### 67.12. Anexo XII — Checklist de Unidade Âncora
+
+**Finalidade:** atestar acesso físico real da Unidade Âncora antes de ativar o módulo noturno. Se falhar item crítico, marcar **Unidade Âncora inapta** e **módulo noturno desativado**.
+
+---
+
+**CHECKLIST DE UNIDADE ÂNCORA**
+
+| Item | SIM | NÃO |
+|---|---|---|
+| Chave/acesso real disponível | | |
+| Responsável pela chave identificado e acionável | | |
+| Segundo adulto presente ou acionável | | |
+| Banheiro utilizável | | |
+| Água disponível | | |
+| Alimento simples disponível | | |
+| Local de repouso emergencial | | |
+| Iluminação | | |
+| Telefone funcional | | |
+| Acesso controlado | | |
+| Ausência de agressor | | |
+| Rota de saída | | |
+| Registro de entrada e saída | | |
+
+Resultado: ( ) Unidade Âncora apta | ( ) Unidade Âncora inapta → módulo noturno desativado
+Responsável pela verificação: ________________ Data: ______
+
+---
+
+### 67.13. Anexo XIII — Cartão B.A.V.I. e Código 99
+
+**Finalidade:** cartão de bolso para portas de entrada, garantindo que alerta vital não seja diferido pelas 4 horas.
+
+---
+
+**CARTÃO B.A.V.I.**
+
+> Se a criança falar de remédio vital, alergia crítica, outra pessoa presa/em risco, bebê sozinho, intoxicação, autolesão ou perigo de morte: **não espere 4 horas; acione saúde ou segurança.**
+
+**Código 99 — Anomalia Logística Atual (máximo 10 palavras).** Use para registrar a barreira concreta do momento, não como observação geral.
+Exemplos: "porta trancada, aguardando viatura"; "criança não fala português"; "chave indisponível"; "pneu estourado, motorista fugiu".
