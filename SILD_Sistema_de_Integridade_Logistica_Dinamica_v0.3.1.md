@@ -2,17 +2,14 @@
 
 ## Protocolo Progressivo de Evidência Logística baseado em Confiança Zero
 
-## Versão v0.5.2 — Arquitetura-Alvo de Campo e Padrão Global de Evidência
+## Versão v0.5.6 — Arquitetura-Alvo de Campo e Padrão Global de Evidência
 ## Subversão operacional: v0.4.1 — MVP-0 Executável
-## Incremento de leitura e foco: v0.5.2 (estrutura navegável + endurecimento do MVP-0)
 
-## Nota de revisão v0.5.1
+## Como ler este documento
 
-Esta versão incorpora a evolução conceitual do SILD como Protocolo, Plataforma e Certificação, preservando o MVP-0 como recorte operacional mínimo. As novas seções introduzem SILD Evidence Object, níveis de conformidade, interoperabilidade, governança do padrão, impacto indireto sobre mercados ilícitos logísticos, adoção institucional e roadmap global.
+O SILD é descrito em duas escalas que não devem ser confundidas. A **arquitetura-alvo** é o mapa completo de campo e a transição para padrão global de evidência logística. O **MVP-0** é o recorte mínimo executável: auditoria de saída, registro de evidência, ingestão de glosa em template padrão e geração de dossiê de defesa e regresso.
 
-A revisão v0.5.1 corrige referências residuais à v0.4, diferencia inteligência operacional inicial de inteligência federada, ajusta o playbook comercial para não sugerir Symmetry dentro do MVP-0 e esclarece que o objeto do Origin Snap possui escopo reduzido no ciclo zero.
-
-A subversão v0.5.2 (incremento de leitura e foco) não altera a arquitetura conceitual. Ela adiciona convenção de leitura por trilha, mapa de partes e índice navegável; endurece o vínculo de lacre no MVP-0; introduz estratégia de normalização e matching de glosa no ciclo zero; reposiciona a tese comercial do MVP-0 em torno de regresso e seguro; adiciona faixa de custo-alvo ao PIP/G2 Lite; e detalha a estrutura de governança e separação institucional do padrão.
+Para separar uma escala da outra ao longo da leitura, cada seção é marcada por uma trilha — explicada logo abaixo, em "Convenção de leitura". Quem só vai operar o ciclo zero lê as seções `[MVP-0]` e `[BASE]`; as seções `[ALVO]` e `[PADRÃO]` orientam o roadmap.
 
 ---
 
@@ -29,7 +26,7 @@ A regra de ouro de leitura é:
 
 > **Se você só tem 20 minutos e vai operar o ciclo zero, leia apenas as seções [MVP-0] e [BASE]. As seções [ALVO] e [PADRÃO] existem para orientar o roadmap, não para serem implementadas no piloto.**
 
-Quem precisa de uma leitura ainda mais curta para reunião comercial deve ir direto às seções 1, 8.1, 63, 64, 69 e 89.
+Quem precisa de uma leitura ainda mais curta para reunião comercial deve ir direto às seções 1, 8.1, 63, 64, 69, 89 e 95, ou ao Apêndice B (Commercial Brief).
 
 ---
 
@@ -43,11 +40,14 @@ O documento se organiza em sete partes temáticas. Os números entre colchetes s
 - **Parte IV — Modelo probatório** [31–53]: Evidence Object, estados por fase, classes internas, níveis de conformidade L0–L5, pacote de evidência, register e ledger, reconciliação, Fast Track, colisão probatória, Mesa Humana, RPI, Claim Intake, retenção, relatório e sistemas legados.
 - **Parte V — Elegibilidade e operação** [54–62]: APIs, contingência, MEP, topologias, índices de cooperação e granularidade, disputas internas, relação com GR, governança financeira.
 - **Parte VI — Comercial e piloto** [63–76]: defesa de receita, promessa do MVP-0, playbook, valor vs canhoto, separação arquitetura/MVP/piloto, roadmap, piloto recomendado, inviabilidade, métricas, arquitetura mínima, eventos, reason codes, LGPD, retenção.
-- **Parte VII — Padrão, impacto e visão** [77–89]: governança do padrão, limites técnicos, decisões por fase, CTM, inteligência de rede, impacto sobre mercados ilícitos, negação logística, multimodal, modelo comercial, adoção, segmentação, formulações institucionais, síntese.
+- **Parte VII — Padrão, impacto e visão** [77–95]: governança do padrão, limites técnicos, decisões por fase, CTM, inteligência de rede, impacto sobre mercados ilícitos, negação logística, multimodal, modelo comercial, adoção, segmentação, formulações institucionais, valor unilateral antes da rede, seguradora como âncora de adoção, ameaças ao protocolo, saturação probatória adversarial e proteção de fluxo, inteligência federada e base legal, comunicação estratégica, segmentação ampliada e síntese.
+- **Apêndices [A–D]**: recortes internos do mesmo documento — A (Field Spec técnico do MVP-0), B (Brief comercial do MVP-0), C (Tese de protocolo institucional) e D (Matriz de escopo congelado do MVP-0). São vistas filtradas; o corpo prevalece em caso de divergência.
 
 ---
 
 ## Índice navegável por trilha
+
+> Os títulos abaixo são rótulos curtos para leitura rápida; o cabeçalho de cada seção no corpo pode trazer a forma completa.
 
 **Parte I — Fundamentos e tese**
 1. Definição geral · [BASE/MVP-0]
@@ -150,7 +150,14 @@ O documento se organiza em sete partes temáticas. Os números entre colchetes s
 86. Adoção institucional · [PADRÃO]
 87. Segmentação de mercado · [MVP-0]
 88. Formulação institucional revisada · [BASE]
-89. Síntese final · [BASE]
+89. Valor unilateral antes da rede · [BASE/MVP-0]
+90. Seguradora como âncora de adoção · [MVP-0 → PADRÃO]
+91. Ameaças ao próprio protocolo · [BASE]
+91-A. Saturação Probatória Adversarial e Proteção de Fluxo · [BASE/PADRÃO]
+92. Inteligência de rede federada e base legal · [ALVO/PADRÃO]
+93. Comunicação estratégica: visão interna versus mensagem de mercado · [BASE]
+94. Segmentação ampliada por valor da prova · [MVP-0]
+95. Síntese final · [BASE]
 
 ---
 
@@ -158,15 +165,17 @@ O documento se organiza em sete partes temáticas. Os números entre colchetes s
 
 ## 1. Definição geral · [BASE/MVP-0]
 
-O **SILD — Sistema de Integridade Logística Dinâmica** é um protocolo progressivo de evidência logística baseado em Confiança Zero. Sua função é medir, registrar e classificar a confiabilidade da narrativa operacional de uma carga, começando pelo estado inicial da custódia e evoluindo para simetria origem-destino, certificação probatória, reconciliação comercial e inteligência de rede apenas quando a operação demonstrar maturidade suficiente.
+O **SILD — Sistema de Integridade Logística Dinâmica** é um protocolo progressivo de evidência logística. Em sua arquitetura-alvo, ele aplica princípios de Confiança Zero à cadeia de custódia. Sua função é medir, registrar e classificar a confiabilidade da narrativa operacional de uma carga, começando pelo estado inicial da custódia e evoluindo para simetria origem-destino, certificação probatória, reconciliação comercial e inteligência de rede apenas quando a operação demonstrar maturidade suficiente.
 
-Esta versão v0.5.1 deve ser lida como **Arquitetura-Alvo de Campo e Padrão Global de Evidência**, não como promessa de implementação integral no primeiro ciclo. A subversão operacional **v0.4.1 — MVP-0 Executável** permanece como o recorte mínimo de produto para validação inicial: auditoria de saída, registro simples de evidência, ingestão padronizada de glosa e geração de dossiê de defesa/regresso.
+Esta versão v0.5.6 deve ser lida como **Arquitetura-Alvo de Campo e Padrão Global de Evidência**, não como promessa de implementação integral no primeiro ciclo. A subversão operacional **v0.4.1 — MVP-0 Executável** permanece como o recorte mínimo de produto para validação inicial: auditoria de saída, registro simples de evidência, ingestão padronizada de glosa e geração de dossiê de defesa/regresso.
 
 O SILD não promete provar que uma carga é lícita, não certifica pureza material do conteúdo e não substitui inspeções físicas, perícia, fiscalização pública, gerenciamento de risco, seguradora ou autoridade competente. Sua função central é mais específica: **calcular quão confiável é a evidência que sustenta a história logística de uma carga**.
 
 O SILD pleno não confia isoladamente no operador, no smartphone, no lacre, no WMS, no TMS, no cliente ou no sistema legado. Ele combina sessão viva, objeto verificável, ambiente ancorado, dispositivo conhecido, ator identificado, evidência física e reconciliação auditável para medir a força da narrativa logística.
 
 No **MVP-0**, essa promessa deve ser reduzida: o produto ainda não implementa Confiança Zero plena. Ele organiza evidência operacional de origem e vincula essa evidência a uma glosa posterior para gerar defesa, seguro, auditoria ou regresso contra transportadora. A captura C0 é conformidade documental organizada, não prova antifraude forte.
+
+A expressão **Confiança Zero** é um princípio do protocolo-alvo e não deve aparecer em material operacional ou comercial do MVP-0. Vender o ciclo zero como "Confiança Zero", "antifraude" ou "segurança logística" cria expectativa que o produto não cumpre. A descrição técnica interna do MVP-0 é **estruturador de prova de origem para defesa e regresso**; a comunicação comercial usa a linguagem de valor da seção 64, nunca a do protocolo.
 
 A lógica central do SILD é:
 
@@ -195,7 +204,6 @@ O SILD nasce por recorte. No primeiro estágio executável, registra NF, manifes
 **Por que vale mesmo assim:** hoje, toda entrega contestada vira uma investigação improvisada de canhoto, foto de WhatsApp, e-mail e ligação. O MVP-0 troca essa caça manual por um dossiê estruturado, preservado no Dia 0, pronto para regresso, seguro ou negociação.
 
 **O degrau é pequeno de propósito.** Tudo o que aparece depois — captura atestada, simetria origem-destino, granularidade por pallet, RPI, certificação, padrão global, inteligência de rede — é visão de roadmap. Importante para orientar o futuro, irrelevante para a primeira venda. Misturar as duas coisas numa reunião inicial transforma um produto honesto em algo que soa como promessa exagerada.
-
 
 ## 2. SILD como Protocolo, Plataforma e Certificação · [PADRÃO]
 
@@ -286,7 +294,6 @@ A regra é:
 
 > **O SILD deve aceitar documentos locais, mas seu protocolo deve falar a linguagem universal de objeto, evento, ator, contexto, evidência, claim e custódia.**
 
-
 ## 5. Problema enfrentado · [BASE]
 
 Mercados ilícitos, desvios internos, fraudes documentais, roubos de carga, contaminação de remessas, avarias, faltas, chargebacks e disputas de entrega exploram uma fragilidade comum: a cadeia logística depende de declarações distribuídas entre muitos atores.
@@ -374,7 +381,7 @@ Ele mede a força da evidência que sustenta a história logística de uma carga
 
 O SILD deve ser implantado em camadas. A força probatória aumenta apenas quando a operação real suporta a camada seguinte.
 
-A v0.5.1 descreve a arquitetura-alvo e a transição para padrão global de evidência. O MVP-0 executável é apenas a primeira fatia dessa arquitetura.
+Este documento descreve a arquitetura-alvo e a transição para padrão global de evidência. O MVP-0 executável é apenas a primeira fatia dessa arquitetura.
 
 ### 8.1 MVP-0 — Auditoria de Saída e Defesa de Regresso
 
@@ -615,10 +622,10 @@ A prova primária são os frames congelados. O clipe auxiliar apenas demonstra c
 
 Metas de desempenho devem ser tratadas como hipóteses de piloto, não como promessa comercial inicial:
 
-- no MVP-0, medir apenas se a captura não trava a fila;
-- medir p50 e p95 na Semana 1 de linha de base;
+- no MVP-0, medir apenas se a captura não trava a fila; o MVP-0 não é avaliado por p50/p95 (ver seção 71);
+- a partir dos ciclos com captura atestada, medir p50 e p95 numa semana de linha de base;
 - buscar p50 abaixo de 25 segundos apenas após estabilização do fluxo;
-- buscar p95 abaixo de 60 segundos no início do piloto;
+- buscar p95 abaixo de 60 segundos no início desses ciclos;
 - reduzir p95 após ajuste de processo, treinamento, lacres legíveis e âncoras locais.
 
 O SILD não sobrevive se virar ritual burocrático.
@@ -731,7 +738,17 @@ Ficam fora do MVP-0:
 - rede de inteligência;
 - score de operadores;
 - blacklist;
-- bloqueio financeiro automático.
+- bloqueio financeiro automático;
+- "Confiança Zero" como linguagem comercial;
+- mapper visual de planilhas;
+- parser nativo de layout de marketplace;
+- reconciliação manual de glosa em tela;
+- OCR avançado;
+- IA de imagem ou IA de legibilidade de foto;
+- auditoria visual em tempo real;
+- leitura prévia de lacre como vínculo probatório;
+- troca obrigatória de lacre metálico já travado;
+- homologação obrigatória de novo lacre para o piloto.
 
 Acelerômetro, giroscópio e sinais de movimento podem ser pesquisados em fase futura, mas não devem impactar status operacional no MVP.
 
@@ -912,21 +929,58 @@ Número único, QR grande, alto contraste, número curto humano, lote e controle
 
 É o nível padrão do MVP-0.
 
-No MVP-0, o lacre Nível 1 é usado para registrar a saída e compor o dossiê de defesa ou regresso. Não há comparação obrigatória com destino.
+No MVP-0, o lacre Nível 1 é usado para registrar a saída e compor o dossiê de defesa ou regresso. Não há comparação obrigatória com destino. O MVP-0 **aceita o lacre que o cliente já usa**; não exige homologação de novo insumo nem troca de lacre para começar o piloto.
 
-#### Requisito duro de vínculo de lacre no MVP-0
+#### Vínculo de lacre fisicamente realista no MVP-0
 
-O elo mais frágil do C0 não é a qualidade da foto. É a ausência de prova de que **o lacre fotografado é o lacre que efetivamente viajou** vinculado àquele documento. Uma foto isolada de lacre íntegro, sem vínculo serial-documento registrado no momento físico da lacração, é apenas uma imagem; ela não impede que um lacre seja trocado ou aberto depois e a foto reaproveitada.
+O elo mais frágil do C0 não é a qualidade da foto. É a ausência de prova de que **o lacre registrado é o lacre que efetivamente viajou** vinculado àquele documento. Por isso o MVP-0 estrutura o vínculo de lacre com cuidado — mas de forma compatível com a realidade do pátio, onde o lacre frequentemente já chega travado, o QR metálico reflete e a leitura nem sempre é possível.
 
-Por isso, mesmo sendo o ciclo zero, o MVP-0 não trata o vínculo de lacre como opcional. A regra dura é:
+A regra realista é:
 
-> **No MVP-0, o serial do lacre deve ser lido por identificador físico robusto (QR, código de barras ou NFC) e vinculado à NF, pedido ou manifesto no momento da lacração no pátio, por operador autenticado. A digitação manual do serial é apenas fallback de contingência e gera o reason code `manual_seal_entry`, rebaixando o teto probatório da operação.**
+> **No MVP-0, o serial do lacre deve ser preferencialmente lido por identificador físico robusto (QR, código de barras ou NFC) no ponto físico de fechamento. Quando a leitura não for possível, admite-se fallback manual controlado, com `manual_seal_entry` e foto aproximada obrigatória, rebaixando o teto probatório. O vínculo nasce no fechamento, nunca antes.**
 
-Esse vínculo serial-documento-operador-horário é barato — não exige OCR heroico, app pesado, hub ou comparação de destino — mas fecha a maior parte da brecha de reaproveitamento de foto. É a diferença entre **evidência meramente organizada** e **evidência com força inicial defensável**.
+Os princípios que tornam esse vínculo honesto e implementável:
 
-O que o vínculo de lacre do MVP-0 **não** promete: ele não prova integridade mecânica sofisticada, não prova chegada e não substitui Symmetry. Ele prova, dentro de seus limites, que aquele lacre serializado foi associado àquele documento naquela origem, naquele horário, por aquele operador. Isso é suficiente para sustentar regresso contra transportadora e instrução de sinistro, que são as teses centrais do ciclo zero.
+- **O vínculo nasce no ponto físico de fechamento.** O evento `seal_bound` só é gerado quando o lacre já está instalado na unidade logística. Pré-leitura — escanear o lacre antes de aplicá-lo — **não** gera vínculo probatório, porque um lacre lido no balcão pode acabar em outra carga. Tentativa de leitura fora do fluxo de fechamento é registrada como `invalid_pre_scan_blocked` e não vincula.
+- **Aceitar o lacre existente.** O piloto usa o lacre que o cliente já tem. Lacre dual-readable (QR + serial humano legível) é **recomendação de evolução**, não requisito de piloto.
+- **Não obrigar troca de lacre já travado.** Se a leitura automática falhar com o lacre mecanicamente travado, não se exige romper e substituir o lacre. Cai-se para `manual_seal_entry` ou, se nem o serial for legível, `seal_not_verified`. A rejeição e troca de lacre só é permitida **antes** do travamento mecânico.
+- **Dupla digitação reduz erro de digitação, não eleva força probatória.** Pedir o serial duas vezes é controle de typo opcional; não muda o teto.
+- **Foto aproximada obrigatória em toda contingência manual.** Quando o serial é digitado, a foto aproximada do lacre passa a ser obrigatória, para permitir auditoria visual posterior sob demanda.
+- **Captura contra reflexo metálico.** A instrução de captura deve orientar o operador a mitigar reflexo: sem flash, distância de aproximadamente 20 cm, ângulo que evite brilho especular.
 
-A captura visual da zona mecânica do lacre (pino, cordoalha, haste, fecho) é **recomendada** no MVP-0 quando viável, mas permanece não-bloqueante. Quando ausente, o dossiê deve declarar explicitamente que a integridade mecânica não foi observada na origem.
+O que o vínculo de lacre do MVP-0 **não** promete: não prova integridade mecânica sofisticada, não prova chegada, não substitui Symmetry e não impede conluio de origem. Ele prova, dentro de seus limites, que aquele lacre foi associado àquele documento naquela origem, naquele horário, por aquele operador — suficiente para sustentar regresso e instrução de sinistro.
+
+#### Fluxo do app de pátio no MVP-0
+
+1. **Abrir operação** por NF, pedido ou manifesto.
+2. **Ir para fechamento.** O app orienta o operador a estar fisicamente no ponto de lacração.
+3. **Leitura do lacre.** A câmera de leitura abre apenas na etapa de fechamento.
+4. **Bloqueio de pré-scan.** Tentativa fora do fluxo de fechamento não gera `seal_bound` (`invalid_pre_scan_blocked`).
+5. **Leitura OK.** Salva método, serial, mídia e status pleno.
+6. **Leitura falha.** Libera contingência manual com um botão único: "Digitar código manual — lacre instalado". O app não pergunta "lacre travado ou não travado".
+7. **Entrada manual.** Exige serial digitado e foto aproximada obrigatória.
+8. **Dupla digitação.** Opcional, como controle de typo; não aumenta o teto.
+9. **Foto aproximada.** Obrigatória; a auditoria visual ocorre depois, sob demanda.
+10. **Foto de contexto.** Obrigatória para concluir a evidência mínima.
+11. **Saída confirmada.** O sistema salva hash, operador, horário, reason code e teto probatório.
+
+A leitura não permite modo em lote, para preservar o vínculo um-a-um entre lacre e operação.
+
+#### Matriz de estados de lacre do MVP-0
+
+| Cenário | `seal_bind_method` | `seal_bind_stage` | `manual_entry_visual_support` | `probative_ceiling` | Ação |
+| --- | --- | --- | --- | --- | --- |
+| QR/código/NFC lido no ponto de fechamento | `qr_read` / `barcode_read` / `nfc_read` | `post_lock_installed` | `not_applicable` | `origin_evidence_registered` | Dossiê automático |
+| Leitura falhou, serial digitado, foto ainda não auditada | `manual_entry` | `post_lock_installed` | `not_yet_audited` | `origin_evidence_registered_with_observation` | Dossiê com ressalva |
+| Serial digitado, auditoria posterior confirma foto nítida | `manual_entry` | `post_lock_installed` | `serial_visible_in_photo` | `origin_evidence_registered_with_observation` | Dossiê mantém ressalva |
+| Serial digitado, auditoria posterior acha foto parcial | `manual_entry` | `post_lock_installed` | `serial_partially_visible` | `origin_evidence_registered_with_observation` ou `origin_evidence_incomplete` | Decisão humana pós-glosa |
+| Serial digitado, foto cega | `manual_entry` | `post_lock_installed` | `serial_not_visible` | `origin_evidence_incomplete` | Dossiê fraco |
+| Pré-escaneamento | bloqueado | `invalid_pre_scan` | `not_applicable` | nenhum | Não gera `seal_bound` |
+| Sem leitura, sem serial, sem foto útil | `not_verified` | `post_lock_installed` | `serial_not_visible` | `origin_evidence_incomplete` | Evidência incompleta |
+
+A regra de vínculo é:
+
+> **Pré-leitura não vincula lacre à operação. Só leitura automática ou entrada manual no ponto físico de fechamento pode gerar vínculo de lacre.**
 
 ### Nível 2 — Lacre destrutível com evidência visual
 
@@ -955,9 +1009,7 @@ A regra é:
 
 > **O lacre do MVP-0 deve ser desenhado para leitura operacional, não para exigir OCR heroico ou comparação de destino inexistente.**
 
-## 23. PIP Duplex Lite — padrão físico do G2 Lite (fase futura — MVP-2) · [ALVO]
-
-Esta seção pertence ao MVP-2. O PIP Duplex Lite não faz parte do MVP-0 e não deve ser tratado como requisito do ciclo zero.
+## 23. PIP Duplex Lite — padrão físico do G2 Lite · [ALVO]
 
 O **PIP Duplex Lite — Pallet Integrity Pattern** é o padrão físico mínimo de integridade do SILD G2 Lite.
 
@@ -1045,13 +1097,19 @@ A regra econômica é:
 
 Em consequência, a decisão de aplicar G2 Lite deve partir de dois números do cliente, levantados na linha de base do piloto: **valor médio em disputa por pallet** e **frequência de glosa por pallet naquela rota/cliente**. Sem esses dois números, o G2 Lite é hipótese, não recomendação.
 
+O custo relevante não é só o do material. É o **custo total de aplicação**: insumo mais o tempo de operador para aplicar A, B e trava, mais o impacto na cadência da doca. Por isso:
+
+- a cronoanálise do PIP (tempo p50/p95 de aplicação por pallet) é trabalho de **P1 analítico**, não do MVP-0;
+- o kit físico só deve ser desenhado **depois** de medir a cadência real da doca;
+- o roadmap deve posicionar um **modelo "valor protegido vs fricção de doca"** antes de qualquer PIP físico;
+- as métricas futuras incluem tempo p50/p95 de aplicação de PIP;
+- critério de inviabilidade: **se o tempo de aplicação do PIP quebrar a cadência da doca, o G2 Lite não é elegível** naquela operação, por melhor que seja a economia de material.
+
 A regra é:
 
-> **O PIP completo é premium. O PIP Duplex Lite é o padrão econômico de campo — desde que seu custo por pallet permaneça uma fração pequena do valor que protege.**
+> **O PIP completo é premium. O PIP Duplex Lite é o padrão econômico de campo — desde que seu custo total de aplicação permaneça uma fração pequena do valor que protege e não quebre a cadência da doca.**
 
-## 24. SILD Symmetry (fase futura — MVP-2) · [ALVO]
-
-Esta seção pertence ao MVP-2. Symmetry não faz parte do MVP-0.
+## 24. SILD Symmetry · [ALVO]
 
 O **SILD Symmetry** é a fase que adiciona observação de destino ao Origin Snap, formando simetria origem-destino.
 
@@ -1063,9 +1121,9 @@ A regra é:
 
 O SILD Symmetry deve ser aplicado quando houver destino próprio ou destino terceiro cooperativo.
 
-## 25. Destino próprio (fase futura — MVP-2) · [ALVO]
+## 25. Destino próprio · [ALVO]
 
-Esta seção pertence ao MVP-2. No MVP-0, o destino próprio pode existir na operação real, mas não é requisito do produto.
+No MVP-0, o destino próprio pode existir na operação real, mas não é requisito do produto.
 
 Quando o destino é próprio, controlado ou pertencente à mesma organização do embarcador, o padrão deve ser o **SILD Snap App autenticado**.
 
@@ -1086,9 +1144,9 @@ A regra é:
 
 > **Quanto maior o controle sobre o destino, menor a tolerância a evidência anônima.**
 
-## 26. Destino terceiro cooperativo (fase futura — MVP-2) · [ALVO]
+## 26. Destino terceiro cooperativo · [ALVO]
 
-Esta seção pertence ao MVP-2. No MVP-0, destino cooperativo não é requisito.
+No MVP-0, destino cooperativo não é requisito.
 
 Destino terceiro cooperativo pode usar WebSnap, app autenticado, portal, PIN, e-mail corporativo, API, WMS ou confirmação por canal oficial.
 
@@ -1104,7 +1162,7 @@ A força probatória depende de:
 
 O destino terceiro não precisa começar com integração pesada. Mas, sem ator independente e contexto válido, não deve fechar prova forte.
 
-## 27. Destino não cooperativo (arquitetura-alvo; no MVP-0 apenas reduz escopo) · [MVP-0/ALVO]
+## 27. Destino não cooperativo · [MVP-0/ALVO]
 
 No MVP-0, destino não cooperativo apenas confirma que o produto deve limitar-se à evidência de origem e ao Claim Intake posterior.
 
@@ -1118,7 +1176,7 @@ A regra é:
 
 > **Destino não cooperativo impede prova forte de chegada; não invalida a evidência de origem.**
 
-## 28. QR do lacre e QR de recebimento (fase futura — MVP-2) · [ALVO]
+## 28. QR do lacre e QR de recebimento · [ALVO]
 
 A distinção entre QR de lacre e QR de recebimento pertence principalmente a ciclos com Symmetry. No MVP-0, usa-se apenas o QR ou serial do lacre quando disponível.
 
@@ -1146,7 +1204,7 @@ A regra é:
 
 Se o mesmo QR que está com o motorista permite fechar entrega, o motorista possui chave suficiente para simular recebimento.
 
-## 29. WebSnap (fase futura — MVP-2; não é pilar para marketplaces) · [ALVO]
+## 29. WebSnap · [ALVO]
 
 WebSnap não pertence ao MVP-0 e não deve ser vendido como solução para grandes marketplaces ou varejistas dominantes.
 
@@ -1196,7 +1254,6 @@ Uma foto feita pelo motorista não possui a mesma força de uma foto feita por c
 
 Uma confirmação de TMS não possui a mesma força de uma captura física autenticada.
 
-
 ---
 
 # PARTE IV — MODELO PROBATÓRIO
@@ -1234,7 +1291,6 @@ Na arquitetura-alvo, o mesmo objeto se expande para PACC Lite, Symmetry, G2 Lite
 A regra é:
 
 > **O MVP pode ser simples. O objeto probatório não deve ser conceitualmente frágil.**
-
 
 ## 32. Estados externos por fase · [MVP-0 + ALVO]
 
@@ -1360,7 +1416,7 @@ A unidade G2 foi identificada e registrada depois da retirada do veículo. A evi
 
 Há contradição objetiva: ID incompatível, etiqueta ausente sem explicação, stretch cortado, reembalagem aparente, trava de emenda violada, pallet diferente ou evidência conflitante.
 
-## 33. Critérios de Custódia Concluída (fase futura — MVP-2/MVP-3) · [ALVO]
+## 33. Critérios de Custódia Concluída · [ALVO]
 
 Custódia Concluída exige observação de origem e destino. Portanto, não é status do MVP-0.
 
@@ -1386,7 +1442,7 @@ A regra é:
 
 > **Custódia Concluída exige continuidade observada. Custódia Reconciliada exige explicação independente da lacuna.**
 
-## 34. Matriz de uso interno, operacional e externo (arquitetura-alvo) · [ALVO]
+## 34. Matriz de uso interno, operacional e externo · [ALVO]
 
 Esta matriz organiza a arquitetura-alvo. No MVP-0, os estados válidos são os listados na seção 32 para auditoria de saída, glosa e dossiê.
 
@@ -1407,7 +1463,7 @@ O SILD deve separar linguagem técnica, linguagem operacional e linguagem extern
 
 A linguagem externa deve ser factual e defensável. Ela não deve ocultar eventos relevantes, mas também não deve transformar limitação técnica em confissão comercial desnecessária.
 
-## 35. Classes internas (arquitetura-alvo) · [ALVO]
+## 35. Classes internas · [ALVO]
 
 As classes internas V0–V4 e C0–C4 pertencem à arquitetura-alvo. No MVP-0, podem existir apenas como rascunho analítico, não como motor de status.
 
@@ -1422,7 +1478,6 @@ Medem a qualidade técnica da mídia, do dispositivo e da sessão.
 Medem a força total da custódia, considerando origem, destino, contexto, ator, lacre, rota, independência e reconciliação.
 
 Nos ciclos posteriores, essas classes devem ser usadas internamente para cálculo, auditoria e evolução de produto. O usuário operacional deve ver estados simples.
-
 
 ## 36. Níveis de conformidade SILD · [PADRÃO]
 
@@ -1481,7 +1536,6 @@ Inclui RPI completa, reconciliação madura, Mesa Humana, Fast Track controlado,
 A regra é:
 
 > **O SILD não é aprovado ou reprovado de forma binária. Ele opera por níveis de conformidade, cada um com promessa probatória proporcional.**
-
 
 ## 37. Pacote de evidência · [MVP-0 → ALVO]
 
@@ -1598,7 +1652,7 @@ A regra é:
 
 > **MVP-0 registra evidência operacional suficiente. A arquitetura-alvo transforma essa evidência em cadeia append-only de custódia.**
 
-## 39. Reconciliação assíncrona (fase futura — MVP-2/MVP-3) · [ALVO]
+## 39. Reconciliação assíncrona · [ALVO]
 
 Reconciliação assíncrona não faz parte do MVP-0. No ciclo zero, o pós-fato é tratado por Claim Intake e dossiê de defesa.
 
@@ -1618,7 +1672,7 @@ O teto após falha relevante deve ser:
 
 Não se deve retornar para Custódia Concluída plena se a validação original perdeu contexto essencial.
 
-## 40. Evidências compensatórias (fase futura — MVP-2/MVP-3) · [ALVO]
+## 40. Evidências compensatórias · [ALVO]
 
 Evidências compensatórias pertencem à arquitetura de reconciliação futura. No MVP-0, o sistema apenas anexa evidência de origem, glosa importada e dossiê gerado.
 
@@ -1654,7 +1708,7 @@ Evidências fracas incluem:
 
 Dado produzido por quem se beneficia da simulação não pode curar a falha sozinho.
 
-## 41. Fast Track de reconciliação (fase futura — MVP-3) · [ALVO]
+## 41. Fast Track de reconciliação · [ALVO]
 
 Fast Track não pertence ao MVP-0. Sem visão computacional validada, Mesa Humana ou fontes compensatórias maduras, o sistema não deve automatizar conclusão de integridade física.
 
@@ -1755,7 +1809,7 @@ O bloqueio do Fast Track por recorrência não deve depender apenas de rota gen�
 
 Duas falhas sequenciais ou três alternadas em janela curta podem suspender o Fast Track para o ativo ou combinação envolvida, mesmo que a rota global esteja estatisticamente saudável.
 
-## 42. Colisão probatória (arquitetura-alvo; no MVP-0 apenas dossiê documental) · [MVP-0 + ALVO]
+## 42. Colisão probatória · [MVP-0 + ALVO]
 
 No MVP-0, a colisão é documental: evidência de saída versus glosa posterior. A colisão física completa, entre recebimento sistêmico e anomalia material observada no destino, pertence a ciclos com Symmetry, G2 Lite ou RPI completa.
 
@@ -1801,7 +1855,7 @@ O relatório não deve dizer:
 
 A colisão probatória deve preservar direito, prova e contexto sem transformar o SILD em acusador.
 
-## 43. Mesa Humana (fase futura — MVP-3) · [ALVO]
+## 43. Mesa Humana · [ALVO]
 
 Mesa Humana formal não pertence ao MVP-0. No ciclo zero, revisões podem ocorrer fora do sistema, mas não devem ser tratadas como módulo obrigatório.
 
@@ -1859,7 +1913,7 @@ Status externo possível:
 
 A Mesa Humana não deve apagar o evento original. Deve acrescentar decisão, motivo, aprovador, data, evidências consideradas e teto probatório.
 
-## 44. RPI completa — Ressalva Preventiva de Integridade (fase futura — MVP-3) · [ALVO]
+## 44. RPI completa — Ressalva Preventiva de Integridade · [ALVO]
 
 Esta seção descreve a RPI completa. No MVP-0 existe apenas RPI Lite: uma flag documental aberta por claim match.
 
@@ -1896,7 +1950,7 @@ A RPI pode servir para:
 - análise de conluio;
 - dossiê de defesa contra chargeback tardio.
 
-## 45. Severidade da RPI completa (fase futura — MVP-3) · [ALVO]
+## 45. Severidade da RPI completa · [ALVO]
 
 A severidade da RPI não pertence ao MVP-0. No ciclo zero, a RPI Lite não possui severidade operacional formal.
 
@@ -1963,7 +2017,7 @@ A regra é:
 
 > **RPI crítica não aguarda passivamente o cliente reclamar. Ela preserva prova e direito no Dia 0.**
 
-## 46. Ciclo de vida da RPI completa (fase futura — MVP-3) · [ALVO]
+## 46. Ciclo de vida da RPI completa · [ALVO]
 
 Este ciclo de vida não pertence ao MVP-0. No ciclo zero, a RPI Lite nasce por claim match e serve apenas para marcar o dossiê.
 
@@ -2013,7 +2067,7 @@ A regra é:
 
 > **O alerta operacional expira; a evidência permanece.**
 
-## 47. Janelas temporais da RPI completa (fase futura — MVP-3) · [ALVO]
+## 47. Janelas temporais da RPI completa · [ALVO]
 
 As janelas temporais completas da RPI pertencem ao MVP-3. O MVP-0 pode registrar a data da glosa e a data da importação, mas não gerencia ciclo de vida completo.
 
@@ -2112,6 +2166,12 @@ A regra comercial é:
 
 > **O SILD não integra primeiro com o marketplace. Ele integra primeiro com a dor do embarcador: a glosa que chegou ao financeiro.**
 
+No MVP-0, o SILD **não faz limpeza de planilha bruta**. A conversão da glosa bruta do cliente para o template SILD válido é **atividade operacional do cliente**, assistida apenas na implantação inicial. A plataforma recebe somente o template SILD válido; não absorve a bagunça documental do marketplace no ciclo zero.
+
+> **No MVP-0, a plataforma recebe apenas o template SILD válido. A conversão de planilhas brutas do cliente para o template é atividade operacional do cliente, assistida apenas na implantação inicial.**
+
+Para apoiar essa conversão sem inchar o produto, o SILD fornece uma **planilha-matriz de conversão** como **artefato de implantação** — um guia externo que mapeia colunas comuns de portais e ERPs para o template oficial. Esse artefato não é módulo de software, não roda dentro da plataforma e não deve ser confundido com o "mapper visual de planilhas", que fica fora do MVP-0 (seção 16).
+
 Canal suportado no MVP-0:
 
 - upload CSV/XLSX no template oficial SILD.
@@ -2143,12 +2203,13 @@ Eventos do Claim Intake no MVP-0:
 
 - `claim_file_imported`;
 - `commercial_claim_received`;
-- `claim_linked_to_origin_evidence`.
+- `claim_linked_to_origin_evidence`;
+- `claim_line_rejected`;
+- `claim_line_pending_exported`.
 
 Eventos futuros:
 
 - `claim_file_hash_recorded`;
-- `claim_line_rejected`;
 - `claim_line_pending_association`;
 - `claim_linked_to_operation`;
 - `claim_linked_to_rpi`;
@@ -2266,7 +2327,7 @@ O motor do ciclo zero deve tentar o vínculo em cascata determinística, parando
 3. **Match por pedido normalizado + CNPJ do cliente**, quando não há NF utilizável.
 4. **Match por referência comercial declarada no template** (campo livre controlado), apenas como apoio.
 
-Se nenhum nível resolver, a linha **não** é descartada: ela vira `claim_line_pending_association` e entra numa fila curta de associação manual, onde o operador do backoffice resolve com um clique a partir de candidatos sugeridos por cliente + janela de data + valor aproximado.
+Se nenhum nível resolver, a linha **não** é descartada silenciosamente e **não** gera tela de investigação no MVP-0. Ela é exportada como pendência (`claim_line_pending_exported`) em um **CSV de rejeições e pendências**, para correção externa pelo cliente e novo upload. Linha malformada que falha na validação do template gera `claim_line_rejected` no mesmo arquivo.
 
 O fluxo do MVP-0 fica:
 
@@ -2274,6 +2335,8 @@ O fluxo do MVP-0 fica:
 Arquivo de glosa importado
         ↓
 Claim Intake valida o template SILD
+        ↓
+Linha inválida → claim_line_rejected (vai para o CSV de pendências)
         ↓
 Normaliza chaves (NF, pedido, CNPJ, datas, valor)
         ↓
@@ -2286,16 +2349,22 @@ Se resolver:
         rpi_lite_opened_by_claim_match
         defense_dossier_generated
 Se não resolver automaticamente:
-        claim_line_pending_association   (fila curta de associação manual)
+        claim_line_pending_exported      (CSV de pendências → corrigir e reenviar)
 Se não houver operação correspondente alguma:
         claim_without_matching_origin_evidence
 ```
 
 A regra de matching do MVP-0 é:
 
-> **O SILD não deve perder uma glosa porque o cliente informou a referência de forma imperfeita. Ele deve normalizar, tentar a melhor chave disponível em cascata, declarar qual chave usou e, quando falhar, oferecer associação manual de baixo atrito — nunca um descarte silencioso.**
+> **O SILD não deve perder uma glosa porque o cliente informou a referência de forma imperfeita. Ele deve normalizar, tentar a melhor chave disponível em cascata, declarar qual chave usou e, quando falhar, exportar a pendência para correção externa — nunca um descarte silencioso e nunca uma tela de investigação no ciclo zero.**
 
-A **taxa de match automático** e a **taxa de associação manual resolvida** passam a ser métricas de primeira linha do piloto (ver seção 71), porque medem diretamente se a promessa do ciclo zero se sustenta na realidade dos dados do cliente.
+A regra de pendência é:
+
+> **No MVP-0, linha não conciliada não gera tela de investigação. Ela gera arquivo de pendência para correção externa e novo upload.**
+
+Essa decisão é deliberadamente de baixo volume: para o piloto de 30 dias, o round-trip de CSV é preferível a construir uma interface de reconciliação. A fila de associação manual em tela, com candidatos sugeridos, pertence a ciclos posteriores.
+
+A **taxa de match automático**, a **taxa de linhas rejeitadas no template** e a **taxa de novo upload após correção** passam a ser métricas de primeira linha do piloto (ver seção 71), porque medem diretamente se a promessa do ciclo zero se sustenta na realidade dos dados do cliente.
 
 ### Arquitetura-alvo
 
@@ -2355,7 +2424,7 @@ O SILD não deve perder uma glosa porque o marketplace não informou pallet. Ele
 
 O motor deve ser orientado por eventos, não por varredura cega.
 
-## 51. Armazenamento, cold storage e legal hold (fase futura — MVP-3) · [ALVO]
+## 51. Armazenamento, cold storage e legal hold · [ALVO]
 
 Cold storage automatizado e legal hold sistêmico não pertencem ao MVP-0. O ciclo zero deve manter retenção simples e proporcional.
 
@@ -2479,7 +2548,6 @@ Se há WMS sem ressalva, mas o SILD registra trava rompida, o caso não deve ir 
 
 Se há EDI ou portal sem ressalva em destino terceiro, o evento pode reconciliar falha de observabilidade, mas com teto probatório proporcional à qualidade da fonte.
 
-
 ---
 
 # PARTE V — ELEGIBILIDADE E OPERAÇÃO
@@ -2537,7 +2605,6 @@ Eventos recomendados:
 A interoperabilidade deve preservar minimização de dados, segregação por cliente, controle de acesso, trilha de exportação e finalidade legítima.
 
 O SILD deve integrar com WMS, TMS, ERP, GR, seguradoras, portais e marketplaces por contratos probatórios, não por adaptação caótica a cada fonte.
-
 
 ## 55. Contingência · [BASE]
 
@@ -2803,20 +2870,24 @@ Há uma armadilha comercial a evitar. Se o embarcador grande sangra principalmen
 
 O MVP-0 deve ser vendido, em primeiro lugar, como **defesa de regresso contra transportadora e instrução de sinistro junto à seguradora** — os dois fluxos em que o dossiê de saída tem efeito financeiro direto e imediato:
 
-1. **Regresso contra transportadora.** Quando há falta, avaria ou desvio atribuível ao trecho de transporte, o embarcador que possui evidência de saída lacrada e vinculada à NF tem posição contratual real para cobrar a transportadora ou descontar do frete. Aqui o dossiê não depende da boa vontade de um marketplace; depende de um contrato de transporte bilateral, onde a evidência tem peso.
+1. **Apoio ao regresso contra transportadora.** Quando há falta, avaria ou desvio atribuível ao trecho de transporte, o embarcador que possui evidência de saída lacrada e vinculada à NF chega à negociação com prova organizada, em vez de começar do zero. O dossiê **apoia** o pleito de regresso e a discussão de desconto de frete; ele não garante o resultado, que depende de contrato, circunstâncias e análise jurídica. Mas, diferentemente da glosa de marketplace, esse é um terreno bilateral onde a evidência tem peso real.
 
-2. **Instrução de sinistro / seguro.** Seguradoras de carga exigem comprovação de estado de saída para liberar ou precificar sinistro. Um dossiê de origem estruturado acelera a análise, reduz glosa de sinistro por falta de prova e melhora a relação de prêmio. Esse é um pagador que já valoriza prova por natureza.
+2. **Apoio à instrução de sinistro.** Seguradoras de carga avaliam o estado de saída ao analisar sinistro. Um dossiê de origem estruturado organiza a evidência disponível para essa instrução e pode compor a eventual cadeia de sub-rogação, conforme análise jurídica aplicável. O SILD não promete liberação mais rápida nem precificação melhor; ele entrega prova organizada a um interlocutor que já valoriza prova.
 
-A anti-glosa de marketplace e a defesa comercial interna são **benefícios secundários** do mesmo dossiê — reais, mas não a tese de venda. Vender o MVP-0 prioritariamente como "ganhe da Amazon" prepara a frustração; vender como "recupere do transportador e instrua o seguro mais rápido" entrega valor verificável no primeiro ciclo.
+A regra de prudência é:
+
+> **O SILD não promete resultado jurídico, desconto de prêmio, aceite automático de seguradora ou aceleração garantida de sinistro. Ele organiza a cadeia probatória de suporte para regresso, instrução de sinistro, auditoria e eventual sub-rogação, conforme análise jurídica aplicável.**
+
+A anti-glosa de marketplace e a defesa comercial interna são **benefícios secundários** do mesmo dossiê — reais, mas não a tese de venda. Vender o MVP-0 prioritariamente como "ganhe da Amazon" prepara a frustração; vender como "chegue à mesa de regresso e de sinistro com prova organizada" entrega valor verificável no primeiro ciclo.
 
 A tese inicial, então, é:
 
-> **Quando a glosa chega, o embarcador não começa do zero. Ele já tem a evidência de saída organizada e vinculada à NF, pronta para acionar regresso contra a transportadora e instruir o seguro — e, secundariamente, para sustentar defesa comercial e contestação.**
+> **Quando a glosa chega, o embarcador não começa do zero. Ele já tem a evidência de saída organizada e vinculada à NF, pronta para apoiar regresso contra a transportadora e instrução de sinistro — e, secundariamente, para sustentar defesa comercial e contestação.**
 
 O MVP-0 serve principalmente para:
 
-- **apoiar direito de regresso contra transportadora** (tese primária);
-- **apoiar aviso, instrução e análise de seguro** (tese primária);
+- **apoiar o pleito de regresso contra transportadora** (tese primária);
+- **organizar evidência para instrução de sinistro** (tese primária);
 - reduzir caça manual a canhotos, fotos, WhatsApp, e-mails e comprovantes;
 - montar dossiê de saída em minutos;
 - organizar defesa interna diante do financeiro;
@@ -2829,7 +2900,7 @@ A formulação comercial correta do MVP-0 é:
 
 > **Foto de saída, serial do lacre, NF e glosa financeira no mesmo dossiê.**
 
-> **O SILD não obriga o marketplace a aceitar sua versão; ele garante que você recupere da transportadora e instrua o seguro com prova organizada, em vez de começar a defesa do zero.**
+> **O SILD não obriga o marketplace a aceitar sua versão; ele impede que sua equipe comece a defesa sem prova organizada e apoia o pleito de regresso e a instrução de sinistro com evidência estruturada.**
 
 Para ciclos posteriores, com Symmetry, G2 Lite, RPI completa e integrações, a promessa pode evoluir para defesa de receita mais ampla, inclusive contra portais e marketplaces.
 
@@ -2937,7 +3008,7 @@ O SILD deve separar claramente três coisas.
 
 ### Arquitetura-alvo
 
-A versão v0.5.1 descreve o mapa completo de campo e a transição para padrão global: PACC Lite, SILD Hub, Symmetry, G2 Lite, PIP Duplex Lite, RPI completa, Claim Intake avançado, Fast Track, Mesa Humana, cold storage, legal hold e inteligência futura.
+A arquitetura-alvo deste documento descreve o mapa completo de campo e a transição para padrão global: PACC Lite, SILD Hub, Symmetry, G2 Lite, PIP Duplex Lite, RPI completa, Claim Intake avançado, Fast Track, Mesa Humana, cold storage, legal hold e inteligência futura.
 
 ### MVP técnico
 
@@ -3046,7 +3117,6 @@ Adiciona:
 - conectores EDI/SFTP/API;
 - inteligência operacional inicial de recorrência, limitada ao próprio ambiente do cliente.
 
-
 ### MVP-4 — SILD Standard & Certification
 
 Adiciona:
@@ -3088,7 +3158,6 @@ Adiciona:
 - interoperabilidade internacional de evidência de custódia;
 - governança institucional do padrão.
 
-
 A regra é:
 
 > **O SILD só sobe de camada quando a camada anterior provar valor operacional e comercial.**
@@ -3106,11 +3175,14 @@ Mede:
 - tempo de liberação;
 - qualidade dos canhotos;
 - frequência de lacres não fotografados;
+- **qualidade real dos lacres existentes do cliente;**
+- **taxa de QR/serial ilegível dos lacres atuais, antes de exigir qualquer troca de insumo;**
 - tempo para localizar evidência;
 - tipos de divergência;
 - retrabalho de reconstrução;
 - fluxo real de pátio;
 - glosas recebidas no financeiro;
+- **tempo de preparação da glosa pelo financeiro (fricção humana);**
 - prazo médio entre entrega e contestação;
 - custo de reconstrução de dossiê.
 
@@ -3119,7 +3191,7 @@ Mede:
 Na origem:
 
 - operação criada por NF, pedido ou manifesto;
-- lacre vinculado;
+- lacre vinculado no ponto físico de fechamento;
 - foto aproximada do lacre capturada;
 - foto de contexto traseiro capturada;
 - evidência registrada no Evidence Register.
@@ -3134,13 +3206,17 @@ No financeiro ou backoffice:
 Resultado do piloto:
 
 - tempo médio de captura C0;
+- **tempo do upload do template válido ao PDF (tempo core do software);**
 - taxa de operações capturadas sem atrasar pátio;
 - taxa de evidências mínimas completas;
+- **taxa de `manual_seal_entry`;**
+- **taxa de dossiês com ressalva;**
 - taxa de glosas importadas com sucesso;
 - taxa de glosas vinculadas a operações capturadas;
-- tempo para montar dossiê antes/depois do SILD;
 - número de casos em que o SILD substituiu busca manual por canhoto, print, ligação ou WhatsApp;
 - utilidade do dossiê para transportadora, seguro, financeiro ou auditoria.
+
+O resultado deve **separar três falhas distintas**: falha do software, falha do lacre (insumo/legibilidade) e falha do processo financeiro (preparação da glosa). Misturá-las leva a conclusões erradas sobre o produto.
 
 O piloto MVP-0 não deve medir sucesso por Symmetry, Fast Track, G2 Lite, PACC válido ou cold storage. Essas métricas pertencem a ciclos posteriores.
 
@@ -3181,27 +3257,42 @@ As métricas devem respeitar o estágio do produto.
 
 ### Métricas do MVP-0
 
+As métricas do MVP-0 separam **fricção humana** de **eficiência do software**, porque misturá-las distorce a leitura comercial do piloto.
+
+Tempo, em duas medidas distintas:
+
+- `human_claim_preparation_time` — **tempo humano de preparação** da glosa bruta para o template SILD, que é processo do cliente;
+- `sild_template_upload_to_pdf_time` — **tempo core do software**, do upload do template válido ao PDF do dossiê.
+
+O "tempo total da glosa bruta ao dossiê" **não** deve ser usado como métrica comercial isolada; ele serve apenas como métrica diagnóstica do processo do cliente, porque embute a fricção humana acima.
+
+Demais métricas do MVP-0:
+
 - tempo médio de captura C0;
+- `origin_capture_completion_rate` — taxa de operações com evidência mínima completa (lacre + foto de lacre + foto de contexto);
 - taxa de operações com lacre vinculado;
-- **taxa de lacres vinculados por leitura física (QR/código/NFC) versus digitação manual de fallback;**
-- taxa de operações com foto de lacre e foto de contexto;
+- **distribuição do método de vínculo do lacre: QR, código de barras, NFC, manual, não verificado;**
+- `manual_seal_entry_rate` — taxa de entrada manual de serial;
+- `seal_not_verified_rate` — taxa de lacre não verificável;
+- `qr_read_success_rate` — taxa de leitura automática bem-sucedida;
 - taxa de capturas que não travaram a fila;
 - taxa de glosas importadas no template SILD;
-- **taxa de match automático glosa↔operação (alvo de saúde do piloto a definir na linha de base);**
-- **taxa de associação manual resolvida na fila curta;**
+- `claim_template_rejection_rate` — taxa de linhas rejeitadas no template;
+- `claim_auto_match_rate` — taxa de match automático glosa↔operação (alvo de saúde do piloto a definir na linha de base);
+- `claim_pending_export_rate` — taxa de linhas exportadas como pendência;
+- taxa de novo upload após correção externa;
 - **taxa de glosas em `claim_without_matching_origin_evidence` (quanto menor, melhor);**
 - **distribuição da chave usada no match (NF / NF+série+CNPJ / pedido+CNPJ / referência);**
 - taxa de glosas vinculadas a operação capturada;
-- tempo para gerar dossiê de defesa/regresso;
+- taxa de dossiês com ressalva (`origin_evidence_registered_with_observation`);
 - redução do tempo de caça manual a evidências;
 - número de dossiês usados para transportadora, seguro, auditoria ou financeiro;
-- **número de dossiês que resultaram em regresso aceito pela transportadora ou em instrução de sinistro aceita pela seguradora (indicador de valor financeiro real);**
-- aceitação operacional pelo pátio;
-- quantidade de erros no template de Claim Intake.
+- **número de dossiês que apoiaram regresso contra transportadora ou instrução de sinistro (indicador de utilidade probatória real, sem prometer resultado jurídico);**
+- aceitação operacional pelo pátio.
 
 A métrica principal do MVP-0 é:
 
-> **reduzir o tempo de reconstrução de evidência quando chega uma glosa.**
+> **reduzir o tempo de reconstrução de evidência quando chega uma glosa — medido pelo tempo core do software, não pelo tempo total que embute a preparação humana.**
 
 A métrica de saúde estrutural do MVP-0 é:
 
@@ -3292,14 +3383,21 @@ Eventos mínimos do MVP-0:
 ```text
 operation_created
 manifest_or_nf_linked
-seal_bound
+closure_point_reached
+seal_bound                 (só nasce no ponto físico de fechamento)
+seal_read_failed           (quando a leitura automática falha)
+invalid_pre_scan_blocked   (tentativa de leitura fora do fechamento)
 origin_media_captured
 origin_capture_confirmed
 claim_file_imported
 commercial_claim_received
+claim_line_rejected
 claim_linked_to_origin_evidence
+claim_line_pending_exported
 defense_dossier_generated
 ```
+
+A regra de `seal_bound` é dura: ele **só** é emitido quando o lacre já está instalado no ponto físico de fechamento. Leitura prévia nunca gera `seal_bound`; gera `invalid_pre_scan_blocked`.
 
 No MVP-0, não há evento automático de RPI durante a jornada. A RPI Lite nasce apenas quando há claim match.
 
@@ -3373,16 +3471,33 @@ O MVP-0 deve começar com poucos reason codes.
 
 Reason codes do MVP-0:
 
+Captura e lacre:
+
 - `origin_evidence_registered`;
 - `seal_photo_captured`;
 - `context_photo_captured`;
-- `seal_unreadable`;
-- `manual_seal_entry`;
+- `seal_read_success` — leitura automática (QR/código/NFC) bem-sucedida no ponto de fechamento;
+- `seal_read_failed` — tentativa de leitura automática falhou (substitui o antigo `seal_unreadable`);
+- `manual_seal_entry` — serial digitado manualmente no ponto de fechamento;
+- `seal_not_verified` — lacre não verificável (sem leitura e sem serial útil);
+- `invalid_pre_scan_blocked` — tentativa de leitura fora do ponto de fechamento, não vincula;
+- `manual_entry_pending_visual_audit` — entrada manual com foto ainda não auditada;
+- `manual_entry_visual_confirmed` — auditoria posterior confirmou suporte visual do serial;
+- `manual_entry_visual_blind` — auditoria posterior indicou foto cega;
+- `origin_evidence_registered_with_observation` — status externo com ressalva;
+- `origin_evidence_incomplete` — evidência de origem incompleta.
+
+Glosa e dossiê:
+
 - `claim_template_imported`;
+- `claim_line_rejected` — linha malformada no template;
 - `claim_linked_to_origin_evidence`;
+- `claim_line_pending_exported` — pendência exportada em CSV para correção externa;
 - `rpi_lite_opened_by_claim_match`;
 - `defense_dossier_generated`;
 - `claim_without_matching_origin_evidence`.
+
+Nota de taxonomia: o `seal_read_failed` substitui o antigo `seal_unreadable`; não devem coexistir. Os códigos de lacre acima formam a taxonomia única do MVP-0, alinhada com o campo `seal_bind_method` e a matriz de estados de lacre da seção 22.
 
 Reason codes da arquitetura-alvo:
 
@@ -3482,7 +3597,6 @@ A regra é:
 
 A retenção não deve transformar o SILD em arquivo indefinido de vigilância operacional.
 
-
 ---
 
 # PARTE VII — PADRÃO, IMPACTO E VISÃO
@@ -3523,7 +3637,7 @@ O SILD registra evidência e classifica força probatória. Inferências de risc
 
 O protocolo não deve gerar listas negras opacas de motoristas, operadores, transportadoras, destinos ou clientes.
 
-A regra constitucional é:
+O princípio que rege essa proibição é:
 
 > **Risco aumenta exigência probatória; não substitui prova.**
 
@@ -3558,7 +3672,6 @@ A regra constitucional de governança é:
 
 Essa disciplina não pertence ao MVP-0 — no ciclo zero, a empresa simplesmente mantém o schema e versiona. Mas a ambição de padrão global declarada nas seções 2, 3 e 36 só é honesta se a estrutura de governança e a separação institucional estiverem desenhadas desde já como destino, não improvisadas quando o conflito explodir.
 
-
 ## 78. Limites técnicos · [BASE]
 
 O SILD possui limites explícitos.
@@ -3590,6 +3703,10 @@ Reconciliação não apaga lacuna original.
 RPI não acusa furto.
 
 Claim Intake não valida automaticamente legitimidade da glosa.
+
+O vínculo de lacre do MVP-0 não resiste a conluio de origem: um operador autenticado que forja a evidência de propósito tem teto probatório limitado, e o dossiê não deve afirmar mais do que "lacre associado ao documento por aquele operador naquele horário".
+
+Entrada manual de serial com foto cega é falha visual de contingência: não comprova o serial e leva a evidência ao teto `origin_evidence_incomplete`.
 
 Motorista terceirizado não é raiz de confiança.
 
@@ -3668,7 +3785,6 @@ No MVP Origin Snap e G2 Lite, o CTM completo não deve ser implementado.
 
 A lógica de mutação deve aparecer apenas como exceção simples quando houver divergência entre saída, chegada, reconciliação, RPI ou claim.
 
-
 ## 81. Inteligência de rede como fase futura · [ALVO/PADRÃO]
 
 A inteligência de rede federada não deve fazer parte do MVP. No MVP-3, podem existir sinais internos de recorrência e qualidade operacional restritos ao próprio cliente. A inteligência federada, multicliente, agregada e privacidade-preservada pertence ao MVP-5 ou a fases institucionais posteriores.
@@ -3711,8 +3827,6 @@ A inteligência de rede deve ser preferencialmente federada ou agregada quando e
 A regra é:
 
 > **Risco de rede aumenta exigência probatória; não substitui prova.**
-
-
 
 ## 82. Mecanismo de impacto sobre mercados ilícitos logísticos · [PADRÃO]
 
@@ -3783,7 +3897,6 @@ A regra é:
 
 > **A Negação Logística Ilícita aumenta fricção, custo e risco de contradição para narrativas logísticas falsas. Ela não substitui investigação criminal, perícia, fiscalização ou decisão judicial.**
 
-
 ## 84. Multimodal como fase futura · [ALVO]
 
 O SILD deve ser concebido como plataforma potencialmente multimodal, mas a expansão não pertence ao MVP.
@@ -3849,7 +3962,6 @@ Cobrança por doca, pátio ou ponto de captura.
 
 Insumo físico por pallet, com tiers de risco.
 
-
 Modelos de monetização de padrão e certificação:
 
 - licença de certificação SILD;
@@ -3882,7 +3994,6 @@ Certificação de transportadoras que aderem a fluxos mínimos de evidência, ex
 
 Certificação de relatórios que respeitam linguagem factual, limites probatórios, hashes, trilha de eventos, anexos, status e ausência de acusação automática.
 
-
 A proposta de valor inicial é:
 
 - reduzir reconstrução manual de entregas;
@@ -3895,7 +4006,6 @@ A proposta de valor inicial é:
 - proteger receita operacional.
 
 O SILD deve ser vendido como defesa de receita, não como vigilância logística.
-
 
 ## 86. Adoção institucional do SILD · [PADRÃO]
 
@@ -3933,7 +4043,6 @@ A regra é:
 
 > **O SILD se torna padrão quando cada ator racional prefere operar com evidência estruturada em vez de disputa narrativa.**
 
-
 ## 87. Segmentação de mercado · [MVP-0]
 
 O SILD deve começar em setores que pagam por prova, disputa e defesa de entrega.
@@ -3957,7 +4066,6 @@ Clientes iniciais adequados:
 
 O SILD não deve começar pela logística genérica de baixa margem nem pelo last-mile capilar não cooperativo.
 
-
 ## 88. Formulação institucional revisada · [BASE]
 
 O SILD pode ser apresentado em quatro camadas.
@@ -3978,8 +4086,309 @@ O SILD pode ser apresentado em quatro camadas.
 
 > **O SILD não combate crime como polícia. Ele reduz a capacidade de mercados ilícitos parasitarem cadeias logísticas lícitas por meio de narrativas falsas, lacunas de custódia e evidências fracas. Em escala institucional, o SILD aumenta o custo de simulação logística, reduz zonas cegas e torna contradições mais mensuráveis, contestáveis e auditáveis.**
 
+## 89. Valor unilateral antes da rede · [BASE/MVP-0]
 
-## 89. Síntese final · [BASE]
+Muitos projetos que se anunciam como "padrão" morrem no problema do ovo e da galinha: ninguém adota porque ninguém adotou. Um padrão que só gera valor quando muitos atores já o usam fica preso à ausência de massa crítica. Isso mata efeitos de rede antes que eles comecem.
+
+O SILD escapa dessa armadilha por um motivo que precisa ser dito explicitamente, porque é a maior força estratégica do projeto:
+
+> **O SILD entrega valor a um único ator, sozinho, antes de existir qualquer rede. Um embarcador que captura a saída e gera dossiê de regresso ganha imediatamente, mesmo que nenhuma transportadora, marketplace, seguradora ou outro embarcador use SILD.**
+
+O MVP-0 não precisa de adoção de terceiros para funcionar. Ele não depende de o destino cooperar, de o marketplace abrir API, de a transportadora se certificar ou de outro embarcador estar na rede. O ganho — reduzir caça manual a evidências e organizar regresso e sinistro — é **unilateral**.
+
+Isso inverte a lógica de adoção. Em vez de "o SILD vale quando todos usarem", a tese é:
+
+> **O SILD vale para você mesmo que você seja o único a usar. A rede é um bônus posterior, não um pré-requisito.**
+
+As consequências estratégicas:
+
+- **Venda não depende de convencer o ecossistema.** Cada embarcador é um caso de uso fechado em si mesmo. Não há necessidade de coordenar múltiplas partes para a primeira venda.
+- **O efeito de rede vem depois e por cima.** Quando muitos embarcadores já usam SILD por valor próprio, surge naturalmente a camada de linguagem comum, certificação e inteligência — mas como segunda onda, não como aposta inicial.
+- **O padrão emerge, não é decretado.** O SILD não vira padrão porque alguém declarou que é. Vira padrão porque acumulou massa de atores que adotaram por interesse unilateral e passaram a preferir sua gramática de evidência.
+
+A regra é:
+
+> **Padrão é efeito de rede; efeito de rede é consequência de valor unilateral repetido. Primeiro o valor isolado, muitas vezes; depois a rede; só então o padrão.**
+
+Toda decisão de roadmap deve passar por este filtro: a próxima funcionalidade gera valor para um ator sozinho, ou só gera valor se a rede já existir? Funcionalidades do primeiro tipo são seguras; funcionalidades do segundo tipo só entram depois que a base instalada justificar.
+
+## 90. Seguradora como âncora de adoção · [MVP-0 → PADRÃO]
+
+Padrões raramente se espalham por superioridade técnica. Espalham-se quando um ator com poder de barganha passa a exigi-los. Esse ator é a **âncora de adoção**: quem, ao adotar, arrasta os demais.
+
+No SILD, a âncora natural é a **seguradora de carga**, e isso tem fundamento jurídico concreto no Brasil, não apenas conveniência comercial.
+
+### Por que a seguradora, e não o embarcador isolado
+
+O embarcador adota o SILD por valor unilateral (seção 89), mas ele não tem poder para impor o padrão à cadeia. A seguradora tem. Quando uma seguradora condiciona prêmio, cobertura ou aceitação de sinistro à existência de evidência estruturada de custódia, ela move embarcadores e transportadores de uma só vez, porque ambos dependem da apólice.
+
+### O fundamento jurídico que torna a evidência valiosa para o seguro
+
+No direito brasileiro, paga a indenização, a seguradora se sub-roga nos direitos do segurado contra o causador do dano. O art. 786 do Código Civil estabelece que, paga a indenização, o segurador se sub-roga, nos limites do valor respectivo, nos direitos e ações que competirem ao segurado contra o autor do dano. Isso significa que a seguradora, depois de pagar o embarcador, vai cobrar a transportadora em ação regressiva — e o sucesso dessa ação depende de prova.
+
+A jurisprudência reforça o valor da prova. Conforme entendimento consolidado, o roubo de carga em transporte terrestre não é automaticamente fortuito externo capaz de romper o nexo causal; é cabível o direito de regresso quando as circunstâncias fáticas o autorizam, ainda que exista cláusula de renúncia, nas hipóteses de agravamento do risco ou culpa do transportador. A eficácia da defesa do transportador depende estritamente da observância das cláusulas de gerenciamento de risco, e cai por terra diante de prova de culpa grave ou dolo.
+
+A leitura estratégica é direta: tudo gira em torno de **prova de cumprimento de protocolo e de estado da carga**. É exatamente o que o SILD produz. Um dossiê SILD de saída, com lacre serializado vinculado à NF, horário, operador e contexto, é matéria-prima para:
+
+- a seguradora avaliar e precificar risco com mais informação;
+- a seguradora sustentar regresso contra o transportador com prova organizada;
+- o embarcador demonstrar que cumpriu protocolo de saída;
+- distinguir sinistro legítimo de alegação sem lastro.
+
+### O mecanismo de âncora
+
+Esta seção descreve o fundamento jurídico do *porquê* a seguradora valoriza a prova — não um argumento de venda. O art. 786 e a jurisprudência citados explicam por que evidência organizada importa no regresso e na sub-rogação; eles não devem ser usados como promessa comercial direta ao cliente. A regra de prudência da seção 63 vale aqui integralmente: o SILD não promete resultado jurídico, desconto de prêmio, aceite automático nem aceleração garantida de sinistro.
+
+A sequência de adoção via seguradora, descrita como hipótese de mercado de médio prazo, é:
+
+1. O SILD demonstra, em pilotos, que dossiês estruturados organizam melhor a evidência para análise de sinistro e para o pleito de regresso.
+2. Seguradoras **podem** passar a oferecer condição diferenciada — por exemplo, exigência reduzida de outras cautelas, ou tratamento preferencial de carga com evidência SILD — a seu próprio critério. Qualquer benefício de prêmio ou de prazo é decisão da seguradora, não promessa do SILD.
+3. Essa condição, se ocorrer, cria pressão de mercado: embarcadores querem o benefício, transportadores se adequam para manter contratos.
+4. A linguagem SILD de evidência tende a virar referência contratual entre embarcador, transportador e seguradora.
+
+A regra é:
+
+> **O embarcador adota o SILD por valor próprio. A seguradora pode transformar esse valor próprio em pressão de cadeia. O SILD organiza a prova; ele não promete a consequência jurídica ou comercial dessa prova.**
+
+### O que isso exige do produto
+
+Para que a seguradora seja âncora, o SILD precisa, em ciclos posteriores ao MVP-0:
+
+- formato de dossiê reconhecível e estável, com hashes, trilha de eventos e limites probatórios claros;
+- linguagem factual e não acusatória, compatível com uso em sinistro e regresso;
+- retenção e legal hold compatíveis com prazos de ação regressiva;
+- mapeamento entre reason codes e categorias de risco que a seguradora já usa.
+
+Nenhum desses requisitos pertence ao MVP-0. Mas todos devem ser antecipados no desenho do Evidence Object e do dossiê, para que a âncora seguradora seja possível quando o volume permitir.
+
+## 91. Ameaças ao próprio protocolo · [BASE]
+
+Um padrão de evidência que se torna valioso vira alvo. Quanto mais o SILD funcionar como moeda de confiança — capaz de influenciar prêmio de seguro, regresso, faturamento e disputa — maior o incentivo para corrompê-lo. Esta seção trata o SILD como algo a ser atacado, não apenas usado.
+
+Ignorar isso seria repetir o erro que o próprio SILD critica em outros sistemas: presumir que a evidência é confiável porque veio de uma fonte autorizada. A Confiança Zero deve se aplicar também ao próprio protocolo.
+
+### Vetores de ataque previsíveis
+
+**Falsificação de objeto físico.** Clonagem de lacre N1, reimpressão de QR, reuso de serial, etiqueta PIP duplicada. Mitigação progressiva: controle de reutilização e lote desde o N1; QR assinado, NFC e padrão físico não trivial nos níveis superiores; detecção de serial repetido no Evidence Register.
+
+**Reaproveitamento de mídia.** Foto antiga de lacre íntegro reapresentada para uma operação nova. Esta é a brecha central do C0, e é por isso que a seção 22 estrutura o vínculo serial-documento-operador-horário no ponto físico de fechamento — com leitura automática preferencial e fallback manual com ressalva — e por isso o PACC Lite (sessão viva, nonce, frames congelados) existe na arquitetura-alvo. Mídia sem sessão atestada deve sempre carregar teto probatório menor.
+
+**Conluio de operador autenticado.** Operador próprio do pátio que captura evidência forjada de propósito. Mitigação: o operador aciona evidência, não autentica verdade sozinho (princípio da seção 6); recorrência restrita por operador (seção 41); revisão humana e exigência probatória progressiva quando há padrão anômalo. Nunca blacklist automática.
+
+**Adulteração de dossiê.** Alteração de mídia, hash, reason code ou status depois do registro. Mitigação: Evidence Register com trilha de criação/alteração/exportação no MVP-0; Custody Ledger append-only na arquitetura-alvo, onde correções são novos eventos, nunca sobrescrita; hash manifest no dossiê exportado.
+
+**Ataque ao tempo.** Manipulação de relógio local, reboot para resetar tempo monotônico, sincronização tardia forjada. Já tratado na seção 20; o tempo local nunca é fonte absoluta, e reboot é evento técnico a reconciliar.
+
+**Falsificação de certificação.** Componente, lacre, doca ou transportadora que se diz "SILD Certified" sem ser. Mitigação: registro público verificável de certificados, com validade e revogação; o selo só vale se for checável contra a fonte de governança (seção 77).
+
+**Captura ou manipulação da governança.** Ator que influencia o padrão para favorecer o próprio produto, ou que usa a certificação como arma comercial. Tratado na seção 77 (separação institucional, transparência de financiamento, certificação contestável).
+
+**Envenenamento da inteligência de rede.** Injeção deliberada de eventos para distorcer sinais agregados, prejudicar concorrente ou esconder padrão real. Mitigação na seção 92 (federação, agregação, revisão humana, ausência de efeito automático condenatório).
+
+### Princípio de segurança do protocolo
+
+A regra é:
+
+> **A Confiança Zero do SILD se aplica ao próprio SILD. Nenhum lacre, dossiê, certificado, operador ou sinal de rede deve ser tratado como verdade absoluta só porque carrega a marca SILD. O protocolo classifica a força da própria evidência — inclusive contra tentativas de falsificá-la.**
+
+Uma consequência de produto: cada nível de conformidade (L0–L5) deve declarar não apenas o que ele prova, mas **contra qual classe de ataque ele resiste**. Um L0 resiste a desorganização e perda de evidência, mas não a falsificação determinada. Um L2 atestado resiste a reaproveitamento de mídia. Um L5 certificado resiste a conluio isolado e adulteração de dossiê. Vender resistência que o nível não oferece é tão perigoso quanto a falsificação em si.
+
+## 91-A. Saturação Probatória Adversarial e Proteção de Fluxo · [BASE/PADRÃO]
+
+A seção 91 trata ataques contra a evidência. Esta seção trata uma ameaça de segunda ordem: ataques contra a **reação à evidência**. O alvo não é uma carga, é a legitimidade operacional do próprio SILD.
+
+### 91-A.1 Definição
+
+A **Saturação Probatória Adversarial** ocorre quando agentes hostis produzem ou induzem múltiplas anomalias logísticas deliberadas — lacres rompidos, cargas violadas, mídia cega, divergências físicas — em volume suficiente para sobrecarregar inspeções, atrasar cadeias lícitas, degradar a percepção pública do protocolo e induzir reação regulatória, comercial ou institucional contra o próprio sistema de evidência.
+
+É um ataque reflexivo: o adversário tenta usar a reação defensiva do sistema como arma contra ele. A tática não busca capturar valor econômico direto numa carga específica; busca produzir a conclusão de que "o SILD atrapalha a logística", para que mercado, imprensa ou Estado pressionem contra o protocolo.
+
+Isso é diferente de roubo, desvio ou fraude documental. Aqui o objeto atacado é a confiança no SILD, não a carga.
+
+### 91-A.2 Risco de falso positivo: o ataque espelhado
+
+Há uma falha lógica que precisa ser endereçada de frente, porque o próprio mecanismo de defesa pode virar vetor de ataque. Se o SILD reage a "aumento anômalo de anomalias", o adversário inteligente não precisa sabotar carga alguma: basta **induzir o SILD a declarar saturação onde não há ataque**, para então alegar que "o SILD acusa ataques fantasmas e paralisa o fluxo". Um falso alerta de saturação é tão danoso à legitimidade quanto a saturação real.
+
+Por isso:
+
+> **O SILD deve ser resistente tanto à saturação real quanto à falsa alegação de saturação.**
+
+E a trava central da seção:
+
+> **A classificação de Saturação Probatória Adversarial nunca é automática. Ela exige múltiplos sinais independentes, revisão humana, registro da decisão, justificativa técnica, possibilidade de reversão e separação entre anomalia operacional, degradação sistêmica e hipótese adversarial.**
+
+Declarar saturação adversarial é, por si só, um ato sensível, auditável e reversível.
+
+### 91-A.3 Condições mínimas para suspeita
+
+Nenhuma suspeita de saturação se sustenta sem o conjunto:
+
+- aumento acima da linha de base estabelecida;
+- múltiplos sinais independentes — não apenas volume, mas independência de origem;
+- distribuição temporal ou material incomum;
+- impacto mensurável em throughput;
+- ausência de explicação operacional simples (sazonalidade, mudança de processo, fornecedor de lacre ruim, treinamento);
+- revisão humana antes de qualquer classificação alta.
+
+A ausência de explicação operacional simples é condição necessária: a maioria dos picos de anomalia tem causa banal, e o SILD deve esgotar a hipótese banal antes de cogitar a hipótese adversarial.
+
+### 91-A.4 Escala de resposta proporcional
+
+A resposta é escalonada, nunca binária entre "liberar" e "parar":
+
+- **Nível 0 — Ruído normal:** fluxo normal, sem ação.
+- **Nível 1 — Anomalia local:** aumentar captura e auditoria amostral no ponto afetado.
+- **Nível 2 — Recorrência restrita:** exigir evidência adicional apenas para a combinação afetada (rota, doca, transportadora), conforme a lógica de recorrência restrita já existente no protocolo.
+- **Nível 3 — Risco de saturação operacional provável:** ativar o Modo de Proteção de Fluxo e triagem seletiva, sempre com revisão humana.
+- **Nível 4 — Risco institucional ou regulatório:** gerar dossiê institucional de saturação. O SILD **não aciona autoridade automaticamente**; o dossiê fica disponível mediante base legal, solicitação formal, governança interna ou decisão do cliente, seguradora ou jurídico.
+
+Mesmo no Nível 4, o SILD não vira polícia, não determina bloqueio geral e não atribui autoria. A regra do protocolo permanece: risco aumenta exigência probatória; não substitui prova.
+
+### 91-A.5 Modo de Proteção de Fluxo
+
+A reação errada à saturação seria parar tudo. A reação correta:
+
+> **Quando a anomalia cresce, o SILD não paralisa a cadeia; ele separa fluxo, prioriza risco e aumenta evidência por camada.**
+
+No Modo de Proteção de Fluxo:
+
+- cargas com evidência forte continuam fluindo;
+- cargas com anomalia leve recebem observação, não bloqueio;
+- cargas com anomalia material entram em triagem;
+- inspeção profunda é reservada para casos com múltiplos sinais independentes;
+- o sistema evita recomendar inspeção massiva de todos os veículos;
+- o protocolo mede o impacto de qualquer ação sobre a cadência logística;
+- nenhuma rota inteira é bloqueada e nenhuma blacklist é criada.
+
+A regra é:
+
+> **O SILD não pode ser usado para transformar anomalia estatística em congestionamento sistêmico.**
+
+### 91-A.6 Dossiê de Saturação Probatória
+
+Quando o padrão excede o caso individual, o SILD gera um relatório distinto do dossiê de regresso. Ele é factual, sem autoria e sem acusação, e mostra: janela temporal, rotas e nós afetados, tipos de anomalia, volume comparado à linha de base, impacto em tempo de inspeção e em throughput, proporção de cargas legais atrasadas, evidências físicas preservadas, reason codes agregados, limites da inferência e recomendação de resposta proporcional.
+
+Redação-padrão:
+
+> **O SILD registra aumento anômalo de eventos de comprometimento físico e/ou baixa qualidade probatória em múltiplas operações, com potencial de saturação operacional. Este dossiê não atribui autoria nem confirma ilícito; organiza sinais para auditoria, gestão de risco, seguradora, governança do protocolo e autoridade competente quando aplicável.**
+
+Esse dossiê protege o SILD inclusive politicamente: ele demonstra que o sistema não está "travando a logística", e sim identificando um padrão anômalo e recomendando resposta proporcional.
+
+### 91-A.7 Limite por fase
+
+A detecção de saturação adversarial **não pertence ao MVP-0** e depende da camada federada, pelas mesmas razões das seções 81 e 92 — volume, governança e base legal.
+
+- **MVP-0:** apenas preserva sinais e reason codes. Não detecta saturação, não classifica nível, não ativa Modo de Proteção de Fluxo. Um cliente único enxerga só a fração de eventos que passa por ele, e fração não é padrão coordenado.
+- **MVP-3:** recorrência interna por cliente, restrita ao próprio ambiente.
+- **MVP-5:** inteligência federada que torna a detecção multiorigem possível, dentro da base legal e da governança da seção 92.
+- **MVP-6:** resiliência institucional do padrão.
+
+Qualquer linguagem de "detecção de saturação" antes da camada federada é incorreta. No ciclo zero, a única entrega é preservar o sinal para que a detecção seja possível depois.
+
+Reason codes de preservação de sinal (registráveis desde cedo, sem efeito automático): `adversarial_saturation_suspected`, `inspection_load_risk_detected`, `coordinated_anomaly_pattern`, `throughput_degradation_risk`, `institutional_pressure_risk`. No MVP-0 eles, se existirem, são apenas marcações analíticas, nunca gatilhos de ação.
+
+### 91-A.8 Comunicação pública
+
+Coerente com a seção 93, a gramática externa é de triagem e proteção de fluxo, nunca de combate ao crime.
+
+O SILD nunca comunica:
+
+> "O SILD descobriu uma rede criminosa."
+
+O SILD comunica:
+
+> **Foi identificado aumento anômalo de inconsistências logísticas. O protocolo recomenda triagem proporcional para preservar o fluxo de cargas regulares e concentrar inspeção apenas onde há múltiplos sinais independentes.**
+
+A mensagem externa tem três objetivos: mostrar que o SILD não causa o congestionamento, que ele reduz inspeção cega e que ele protege o fluxo lícito.
+
+### 91-A.9 Regras de ouro
+
+> **O adversário quer que o SILD responda com paralisia. O SILD deve responder com triagem, preservação de fluxo lícito e aumento seletivo de evidência.**
+
+> **O falso alerta de saturação é também um ataque possível; por isso, nenhum modo avançado de saturação deve ser declarado sem revisão humana, múltiplos sinais independentes e registro auditável da decisão.**
+
+## 92. Inteligência de rede federada e base legal · [ALVO/PADRÃO]
+
+A inteligência de rede do SILD (seções 35, 81) só é legítima se nascer dentro de uma base legal explícita e de um desenho que separe dado operacional identificável de sinal estatístico agregado. Esta seção amarra essa exigência ao quadro regulatório brasileiro atual, porque "inteligência federada e privacidade-preservada" não é trivial — é um problema jurídico e técnico sério, e tratá-lo como detalhe convida a passivo.
+
+### A pergunta dura que o mercado fará
+
+Para virar padrão, o SILD terá que responder, de forma convincente: **"meus dados logísticos vão alimentar uma inteligência que pode ser usada contra mim, meus clientes ou meus trabalhadores?"** Uma resposta vaga inviabiliza adoção institucional.
+
+### Base legal no Brasil
+
+O tratamento de dados para prevenção a fraude e segurança tem amparo na LGPD, mas condicionado. No âmbito da LGPD, o tratamento de dados com finalidade de prevenção a fraudes encontra respaldo principalmente no legítimo interesse do controlador, previsto no art. 7º, IX, e na garantia de prevenção à fraude e segurança do titular. Esse amparo não é incondicional: previamente ao tratamento com base no legítimo interesse, a ANPD determina que seja realizada uma avaliação de proporcionalidade — o teste de balanceamento — aplicado para cada finalidade específica, ponderando legitimidade do interesse, necessidade do tratamento, impactos sobre os direitos dos titulares e suas legítimas expectativas.
+
+Há ainda o cuidado com dados sensíveis e com a possibilidade de exigência regulatória de relatório de impacto. A ANPD pode solicitar ao controlador a elaboração de Relatório de Impacto à Proteção de Dados Pessoais (RIPD), observados os segredos comercial e industrial.
+
+### O que isso impõe ao desenho da inteligência SILD
+
+Da base legal decorrem requisitos de arquitetura, não apenas de política:
+
+- **Finalidade específica e declarada.** A inteligência de rede deve ter finalidade explícita — aumentar exigência probatória em padrões recorrentes de baixa confiabilidade — e não pode ser usada para finalidade incompatível depois (princípio da não-reutilização).
+- **Teste de balanceamento documentado por finalidade.** Antes de operar qualquer sinal agregado que toque dado pessoal incidental (operador, motorista), o SILD deve ter teste de balanceamento registrado, como a ANPD exige para legítimo interesse.
+- **Minimização e agregação na origem.** A inteligência deve operar preferencialmente sobre sinais estatísticos agregados (aumento de mídia cega por rota, reincidência de lacre ilegível por tipo de operação, concentração de claims após certo evento), não sobre dado individual identificável exportado entre clientes.
+- **Federação em vez de centralização.** Quando envolver múltiplos clientes, o desenho preferencial é federado: o sinal é computado localmente e só o agregado, sem identificação, compõe a visão de rede. Isso protege segredo comercial de rota e cliente, e reduz o risco de re-identificação por cruzamento.
+- **Segregação por cliente.** Dados operacionais identificáveis de um cliente não devem ser visíveis a outro. A rede vê padrões, não prontuários.
+- **Registro de operações e RIPD quando aplicável.** Manter o registro das operações de tratamento e estar preparado para produzir RIPD se a ANPD solicitar, preservando segredo comercial.
+
+### Honestidade sobre a dificuldade
+
+Separar "dado operacional identificável" de "sinal estatístico agregado" parece simples e não é. Re-identificação por cruzamento de rota, horário e volume é um risco real; agregados pequenos podem expor um único cliente; e a base legal para uso secundário precisa ser revista a cada nova finalidade. Por isso a inteligência de rede pertence a fases tardias (MVP-5), depende de volume, governança e maturidade jurídica, e nunca deve produzir efeito automático condenatório.
+
+A regra é:
+
+> **A inteligência de rede aumenta exigência probatória; não substitui prova, não acusa e não condena automaticamente. Ela só é legítima dentro de finalidade declarada, teste de balanceamento documentado, minimização, federação, segregação por cliente e direito de contestação.**
+
+## 93. Comunicação estratégica: visão interna versus mensagem de mercado · [BASE]
+
+O SILD tem uma camada de ambição — impacto sobre mercados ilícitos, negação logística ilícita (seções 82, 83) — que é legítima como visão de longo prazo, mas arriscada como mensagem pública de mercado. Esta seção separa as duas coisas, porque confundi-las prejudica a adoção.
+
+### O risco de comunicar o SILD como ferramenta anticrime
+
+Posicionar publicamente o SILD como instrumento de combate ao crime, mesmo que indireto, produz três efeitos adversos:
+
+- **Escrutínio regulatório e jurídico precoce.** Um sistema que se anuncia como anticrime atrai questionamento sobre vigilância, devido processo, presunção de inocência e papel de fiscalização privada — exatamente os terrenos que o SILD diz não ocupar.
+- **Resistência dos atores observados.** Transportadoras, operadores e motoristas que se sentem alvos de um "sistema de vigilância" resistem à adoção, ainda que o SILD observe ativos e não pessoas.
+- **Expectativa que o produto não cumpre.** "Combate ao crime" cria expectativa de detecção e punição que o SILD, por princípio, não entrega. Isso prepara frustração e desconfiança.
+
+### A separação
+
+> **A camada de impacto sobre mercados ilícitos é visão interna e tese de longo prazo. Ela orienta o porquê profundo do projeto. Ela não deve ser a mensagem de venda, nem no MVP-0 nem nos ciclos seguintes.**
+
+A mensagem de mercado deve permanecer ancorada em valor econômico verificável: defesa de receita, regresso, sinistro, redução de disputa, qualificação de evidência. O impacto sobre o ilícito aparece, quando aparece, como **consequência** descrita em linguagem sóbria, nunca como promessa.
+
+A formulação filosófica da seção 83 — tornar a logística lícita mais difícil de ser parasitada por narrativas falsas — é excelente como princípio orientador e perigosa como pitch comercial. Ela deve viver no documento e na visão, não no material de vendas.
+
+A regra é:
+
+> **Internamente, o SILD pode sonhar com impacto sobre mercados ilícitos. Externamente, o SILD vende prova, defesa e redução de disputa. A filosofia orienta; ela não anuncia.**
+
+## 94. Segmentação ampliada por valor da prova · [MVP-0]
+
+Esta seção amplia a seção 87. O critério de entrada do SILD não é o tamanho do setor, mas a combinação de três fatores que tornam a prova economicamente desejável: **valor por unidade, risco de desvio e custo de disputa.** Onde os três coincidem, a evidência melhor gera ganho imediato e o SILD vira referência rápido.
+
+Setores prioritários, ordenados por aderência ao MVP-0 e aos ciclos seguintes:
+
+- **Farmacêuticos e distribuição hospitalar** — alto valor por unidade, regulação de rastreabilidade, cadeia fria, baixa tolerância a desvio.
+- **Eletrônicos** — alvo clássico de roubo e desvio, alto chargeback em marketplace, alto valor por volume.
+- **Químicos sensíveis e defensivos agrícolas** — risco regulatório e de segurança, valor alto, exigência documental.
+- **Autopeças** — desvio recorrente, glosa frequente, alto custo de disputa.
+- **Cadeia fria e alimentos de alto valor** — avaria e perda por quebra de custódia, prova de condição essencial.
+- **Bebidas e cigarros legais** — alvo de furto e desvio, valor concentrado.
+- **Cosméticos e perfumaria** — alto valor por volume, furto recorrente.
+- **Peças aeronáuticas** — valor extremo por unidade, exigência probatória e de conformidade alta.
+- **Cargas seguradas em geral** — onde a seguradora já exige prova, o SILD encaixa via âncora de adoção (seção 90).
+- **Embarcadores com alto volume de chargeback de marketplace** — entram por Claim Intake e defesa documental, com a ressalva honesta de que o MVP-0 não vence a glosa do marketplace, mas organiza regresso e sinistro.
+- **Operadores com histórico de roubo ou desvio recorrente** — onde o custo de disputa e sinistro já é dor explícita.
+
+Por outro lado, o SILD **não** deve começar por logística genérica de baixa margem nem por last-mile capilar não cooperativo, onde a prova vale pouco e a topologia não sustenta evidência forte (seções 57, 70).
+
+A regra de segmentação é:
+
+> **Comece onde valor por unidade, risco de desvio e custo de disputa coincidem. Nesses setores, uma evidência melhor vira dinheiro rápido — e é assim que o SILD acumula a massa de casos que, repetida, vira padrão.**
+
+## 95. Síntese final · [BASE]
 
 O SILD não controla toda a estrada.
 
@@ -4016,3 +4425,202 @@ As frases finais do sistema são:
 > **O SILD não torna a fraude impossível; torna a mentira logística mensurável, contestável e cara de sustentar.**
 
 > **O SILD não combate crime como polícia. Ele torna a logística lícita mais difícil de ser parasitada por narrativas falsas.**
+
+---
+
+# APÊNDICES — RECORTES INTERNOS DO DOCUMENTO-MÃE
+
+> Os apêndices a seguir são recortes do mesmo documento único, não arquivos separados. Cada um filtra o conteúdo para um leitor específico. Em caso de divergência, o corpo do documento (seções 1–95) prevalece; os apêndices são vistas, não fontes paralelas.
+
+---
+
+## Apêndice A — SILD MVP-0 Field Spec
+
+Recorte técnico-operacional para engenharia e piloto. Sem Confiança Zero, sem padrão global, sem Negação Logística Ilícita, sem MVP-5/MVP-6. Só o que se constrói no ciclo zero.
+
+### A.1 Entidades
+
+- **Operação** — criada por NF, pedido ou manifesto; chave de vínculo de tudo.
+- **Documento** — NF/chave de acesso, pedido ou manifesto, com valor bruto e normalizado preservados.
+- **Lacre** — serial, método de vínculo, estágio de vínculo, mídia associada.
+- **Mídia** — foto aproximada do lacre, foto de contexto traseiro, hashes.
+- **Ator** — operador autenticado do pátio.
+- **Dispositivo** — identificador do aparelho de captura.
+- **Glosa (claim)** — registro comercial importado em template SILD.
+- **Dossiê** — PDF de defesa/regresso com teto probatório explícito.
+- **RPI Lite** — flag documental aberta por claim match; sem ciclo de vida.
+
+### A.2 Eventos do backend (MVP-0)
+
+```text
+operation_created
+manifest_or_nf_linked
+closure_point_reached
+seal_bound                 (só no ponto físico de fechamento)
+seal_read_failed
+invalid_pre_scan_blocked
+origin_media_captured
+origin_capture_confirmed
+claim_file_imported
+commercial_claim_received
+claim_line_rejected
+claim_linked_to_origin_evidence
+claim_line_pending_exported
+defense_dossier_generated
+rpi_lite_opened_by_claim_match   (derivado opcional)
+```
+
+### A.3 Campos de backend do lacre e da captura
+
+- `seal_bind_method` — `qr_read`, `barcode_read`, `nfc_read`, `manual_entry`, `not_verified`;
+- `seal_bind_stage` — `post_lock_installed`, `at_closure_point`, `invalid_pre_scan`;
+- `seal_read_attempts` — inteiro;
+- `seal_fallback_reason` — enum;
+- `manual_entry_visual_support` — `not_yet_audited`, `serial_visible_in_photo`, `serial_partially_visible`, `serial_not_visible`, `not_applicable`;
+- `manual_visual_audited_at` — timestamp opcional;
+- `manual_visual_audited_by` — usuário opcional;
+- `probative_ceiling` — `origin_evidence_registered`, `origin_evidence_registered_with_observation`, `origin_evidence_incomplete`;
+- `reason_code` — enum (ver A.5);
+- `seal_photo_hash` — hash;
+- `context_photo_hash` — hash;
+- `operator_id` — ID;
+- `server_timestamp` — timestamp;
+- `capture_instruction_acknowledged` — boolean opcional.
+
+### A.4 Estados de lacre
+
+| Cenário | `seal_bind_method` | `seal_bind_stage` | `manual_entry_visual_support` | `probative_ceiling` | Ação |
+| --- | --- | --- | --- | --- | --- |
+| Leitura no ponto de fechamento | `qr_read`/`barcode_read`/`nfc_read` | `post_lock_installed` | `not_applicable` | `origin_evidence_registered` | Dossiê automático |
+| Falha de leitura, serial digitado, foto não auditada | `manual_entry` | `post_lock_installed` | `not_yet_audited` | `origin_evidence_registered_with_observation` | Dossiê com ressalva |
+| Serial digitado, auditoria confirma foto nítida | `manual_entry` | `post_lock_installed` | `serial_visible_in_photo` | `origin_evidence_registered_with_observation` | Dossiê mantém ressalva |
+| Serial digitado, auditoria acha foto parcial | `manual_entry` | `post_lock_installed` | `serial_partially_visible` | `..._with_observation` ou `..._incomplete` | Decisão humana pós-glosa |
+| Serial digitado, foto cega | `manual_entry` | `post_lock_installed` | `serial_not_visible` | `origin_evidence_incomplete` | Dossiê fraco |
+| Pré-escaneamento | bloqueado | `invalid_pre_scan` | `not_applicable` | nenhum | Não gera `seal_bound` |
+| Sem leitura, sem serial, sem foto útil | `not_verified` | `post_lock_installed` | `serial_not_visible` | `origin_evidence_incomplete` | Evidência incompleta |
+
+### A.5 Reason codes (taxonomia única do MVP-0)
+
+Lacre e captura: `origin_evidence_registered`, `seal_photo_captured`, `context_photo_captured`, `seal_read_success`, `seal_read_failed`, `manual_seal_entry`, `seal_not_verified`, `invalid_pre_scan_blocked`, `manual_entry_pending_visual_audit`, `manual_entry_visual_confirmed`, `manual_entry_visual_blind`, `origin_evidence_registered_with_observation`, `origin_evidence_incomplete`.
+
+Glosa e dossiê: `claim_template_imported`, `claim_line_rejected`, `claim_linked_to_origin_evidence`, `claim_line_pending_exported`, `rpi_lite_opened_by_claim_match`, `defense_dossier_generated`, `claim_without_matching_origin_evidence`.
+
+### A.6 Fluxo do app de pátio
+
+Abrir operação → ir ao ponto de fechamento → leitura do lacre instalado (câmera abre só aqui) → leitura OK salva método/serial/mídia; falha libera contingência manual com foto aproximada obrigatória → foto de contexto obrigatória → confirmar saída (salva hash, operador, horário, reason code, teto). Sem leitura em lote. Pré-scan bloqueado.
+
+### A.7 Telas (UX mínima)
+
+- Leitura: "Leia o lacre já instalado no ponto de fechamento." Sem modo lote.
+- Falha: botão único "Digitar código manual — lacre instalado". Não perguntar se está travado.
+- Foto: "Se o metal refletir, desligue o flash e fotografe a cerca de 20 cm." Foto aproximada obrigatória antes de confirmar contingência.
+- Final: status simples — "Evidência registrada", "Registrada com observação" ou "Incompleta".
+
+### A.8 Claim Intake
+
+Um template oficial SILD. A plataforma não limpa planilha bruta; a conversão é do cliente, assistida por planilha-matriz de implantação (fora do software). Normalização de chaves (NF, pedido, CNPJ, datas, valor) e cascata determinística de matching (NF → NF+série+CNPJ → pedido+CNPJ → referência). Linha não conciliada vira CSV de pendência para correção e novo upload — sem tela de investigação no P0.
+
+### A.9 Dossiê PDF
+
+Capa mostra teto probatório. Seção de lacre mostra método de vínculo e reason code; se manual, declara que o serial foi informado pelo operador e depende de suporte visual. Seção de mídia exibe foto aproximada e de contexto. Seção de limites: "Origem registrada; destino não provado; conteúdo interno não certificado." Marca "suporte visual pendente de auditoria" quando `not_yet_audited` e "falha visual de contingência" quando foto cega após auditoria. Linguagem factual: "documenta evidência disponível", nunca "prova responsabilidade".
+
+### A.10 Auditoria visual
+
+A foto de serial manual não é auditada em tempo real. `manual_entry_visual_support` nasce `not_yet_audited`. A auditoria ocorre sob demanda, só quando houver glosa, sinistro, regresso ou revisão amostral. Sem Mesa Humana formal no MVP-0.
+
+### A.11 Métricas
+
+Tempo em duas medidas: `human_claim_preparation_time` (processo do cliente) e `sild_template_upload_to_pdf_time` (core do software). Mais: `origin_capture_completion_rate`, `manual_seal_entry_rate`, `seal_not_verified_rate`, `qr_read_success_rate`, `claim_template_rejection_rate`, `claim_auto_match_rate`, `claim_pending_export_rate`, taxa de novo upload após correção, taxa de dossiês com ressalva, distribuição do método de vínculo do lacre.
+
+---
+
+## Apêndice B — SILD Commercial Brief MVP-0
+
+Recorte comercial curto. Foco em glosa, regresso, sinistro, transportadora, tempo de dossiê, limite probatório e piloto. Sem linguagem de protocolo.
+
+**A dor.** Toda entrega contestada vira uma investigação improvisada: canhoto, foto de WhatsApp, e-mail, ligação para a transportadora. Demora, custa e muitas vezes a empresa começa a defesa sem prova organizada.
+
+**A promessa.**
+
+> **Da glosa recebida ao dossiê de regresso e sinistro em minutos.**
+
+**Como funciona.** Na saída, o pátio registra a operação por NF, vincula o lacre no ponto de fechamento, tira foto do lacre e foto de contexto. Quando a glosa chega ao financeiro, ela é importada no template SILD, cruzada com a operação e vira um dossiê estruturado.
+
+**Onde o dossiê ajuda primeiro.** Apoio ao pleito de regresso contra a transportadora e à instrução de sinistro junto à seguradora — terrenos onde prova organizada tem peso. Secundariamente, defesa comercial interna e contestação.
+
+**O que o MVP-0 não promete.** Não vence automaticamente glosa de marketplace dominante. Não prova chegada. Não prova conteúdo interno. Não detecta fraude. E — importante — **não promete resultado jurídico, desconto de prêmio, aceite automático de seguradora nem aceleração garantida de sinistro.** Ele organiza a prova; a consequência depende de contrato e análise jurídica.
+
+**Limite probatório explícito.** Todo dossiê declara o que a evidência permite afirmar e o que não permite. Origem registrada; destino não provado; conteúdo interno não certificado.
+
+**O piloto.** 30 dias, uma rota/cliente/CD. Semana 1 mede a linha de base (qualidade dos lacres atuais, tempo de preparação de glosa do financeiro). Semanas 2–4 rodam o MVP-0. O sucesso separa falha de software, falha de lacre e falha de processo financeiro.
+
+**A frase de fechamento.** O SILD não obriga ninguém a aceitar sua versão; ele impede que sua equipe comece a defesa sem prova organizada e apoia o pleito de regresso e a instrução de sinistro com evidência estruturada.
+
+*(Nota interna, não usar como slogan: a descrição técnica do MVP-0 é "estruturador de prova de origem para defesa e regresso".)*
+
+---
+
+## Apêndice C — SILD Protocol Thesis
+
+Recorte institucional. Aqui ficam Confiança Zero, padrão global, certificação, governança, interoperabilidade, rede federada e impacto sobre mercados ilícitos. Este apêndice **não** contamina a venda do MVP-0.
+
+**Tese.** O SILD é um padrão progressivo de evidência de custódia para cadeias de entrega. Ele mede a confiabilidade da narrativa logística e define como eventos de custódia devem ser registrados, classificados, reconciliados, certificados e preservados.
+
+**Confiança Zero.** Princípio do protocolo-alvo: não confiar isoladamente em operador, smartphone, lacre, WMS, TMS, cliente ou sistema legado. Combina sessão viva, objeto verificável, ambiente ancorado, dispositivo conhecido, ator identificado, evidência física e reconciliação auditável. Aplica-se inclusive ao próprio SILD (ver seção 91).
+
+**Três camadas.** Protocol (vocabulário, eventos, reason codes, estados, dossiê), Platform (implementação SaaS) e Certification (conformidade de componentes e organizações).
+
+**Níveis de conformidade.** L0 Registered → L1 Controlled → L2 Attested → L3 Symmetric → L4 Granular → L5 Certified Network. Cada nível declara o que prova e contra qual classe de ataque resiste.
+
+**Interoperabilidade.** Contratos de evidência antes de conectores: Operation API, Evidence Event API, Claim Intake API, RPI API, Dossier Export API, Conformance API, webhooks. Modelo internacional desde o schema (shipment document, party identifier, custody unit), com NF/DANFE/CNPJ como mapeamento local.
+
+**Governança.** Em fases: custódia única do mantenedor → comitê técnico com participação externa → governança separada da operação comercial. Conflito Platform-vende/Protocol-governa nomeado e mitigado por separação de papéis, especificação aberta, certificação contestável e transparência de financiamento.
+
+**Inteligência federada.** Tardia (MVP-5), ancorada na base legal da LGPD (legítimo interesse, teste de balanceamento da ANPD, possível RIPD), com minimização, agregação na origem, federação, segregação por cliente e direito de contestação. Aumenta exigência probatória; não acusa nem condena.
+
+**Adoção.** Valor unilateral antes da rede; seguradora como possível âncora de adoção (sem prometer consequência jurídica); segmentação por valor da prova.
+
+**Impacto sobre mercados ilícitos.** Visão de longo prazo, **interna**: reduzir a zona cega onde narrativas falsas se escondem. Não é mensagem de mercado (ver seção 93). O SILD não combate crime como polícia; torna a logística lícita mais difícil de parasitar.
+
+---
+
+## Apêndice D — Matriz de Escopo Congelado do MVP-0
+
+Checklist final do ciclo zero. O MVP-0 está congelado nesta frase:
+
+> **Receber dado normalizado, registrar prova de origem, vincular lacre no ponto físico de fechamento, preservar mídia, cruzar chaves em cascata e gerar dossiê de defesa/regresso com teto probatório explícito.**
+
+### D.1 Entra no MVP-0
+
+- Console Web: criar operação por NF, pedido ou manifesto;
+- Captura C0: foto do lacre + foto de contexto, vínculo à operação;
+- vínculo de lacre no ponto físico de fechamento (leitura preferencial; fallback manual com foto);
+- Evidence Register simples com trilha de criação/alteração/exportação;
+- Claim Intake por template único, com normalização e cascata de matching;
+- CSV de rejeições/pendências para correção externa e novo upload;
+- Dossiê PDF com teto probatório explícito;
+- RPI Lite como flag documental por claim match.
+
+### D.2 Fica fora do MVP-0
+
+Confiança Zero como linguagem comercial; mapper visual de planilhas; parser nativo de marketplace; UI de associação manual de glosas; leitura prévia de lacre como vínculo probatório; troca obrigatória de lacre metálico já travado; homologação obrigatória de novo lacre para piloto; IA de legibilidade de foto; auditoria visual em tempo real; Mesa Humana formal; PACC Lite; SILD Hub; Symmetry; G2 Lite; PIP físico; Fast Track; cold storage; API/EDI/SFTP; inteligência visual; inteligência federada; bloqueio financeiro automático.
+
+### D.3 Reason codes congelados
+
+Ver Apêndice A.5 — taxonomia única, sem duplicação (`seal_read_failed` substitui `seal_unreadable`).
+
+### D.4 Campos de backend congelados
+
+Ver Apêndice A.3.
+
+### D.5 Matriz de lacre congelada
+
+Ver Apêndice A.4.
+
+### D.6 Métricas congeladas
+
+Ver Apêndice A.11. Métrica principal: tempo core do software (upload do template ao PDF). Métrica de saúde: taxa de match automático. Tempo total da glosa bruta ao dossiê é diagnóstico de processo do cliente, nunca métrica comercial isolada.
+
+### D.7 Critérios de piloto
+
+30 dias, uma rota/cliente/CD. Linha de base na semana 1 (incluindo qualidade dos lacres existentes e tempo de preparação de glosa). MVP-0 nas semanas 2–4. Resultado separa falha de software, falha de lacre e falha de processo financeiro. Não medir sucesso por Symmetry, Fast Track, G2 Lite, PACC ou cold storage.
