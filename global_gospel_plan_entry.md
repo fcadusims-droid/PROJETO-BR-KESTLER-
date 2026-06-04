@@ -1,6 +1,6 @@
 # Proclaiming the Gospel So That It Is Understood
 
-### Entry Document — The Spine in Brief
+### Entry Document — The Spine, Not the Safeguards
 
 **Prepared for:** Gospel Mundial
 **Date:** May 31, 2026
@@ -10,6 +10,12 @@
 > **This is an entry document, not the full plan. It introduces the spine; it does not replace the safeguards.**
 >
 > What follows is a faithful summary, meant to present the approach in a few minutes — to a partner, a church, a prospective volunteer. It is deliberately incomplete. The mechanisms that make this approach *safe* — the training and competence gate, the security modes for dangerous places, the anti-manipulation rules, the mentor accountability, the ethics of piloting — live in the full plan and cannot be carried by this summary alone. No one should facilitate, send, or measure on the strength of these three pages. Read them to understand the shape; go to the full document to do the work.
+
+---
+
+### What this plan does not control
+
+Read this before reading the rest, so the approach is not mistaken for a global, fully-controlled method with guaranteed quality. Gospel Mundial does not control the organic reproduction of the Gospel; the simple core is free, and believers do not need anyone's permission to tell the story, gather, pray, and disciple. Because the core is free, the tools can be copied and misused, and not every distortion can be caught or corrected in time. The advanced tools are different: they are meant to travel with training and mentoring, not alone. In dangerous places, no data may be produced at all, and silence rightly prevails over publicity. External help to a field in collapse does not prove that field is self-sustaining. The institution answers for what it supplies, funds, trains, publishes, and claims — not for every use the free core is put to. None of this is failure; it is the honest shape of an open, decentralized, safety-first approach.
 
 ---
 
@@ -57,11 +63,11 @@ Begin from a concrete, culturally real experience (the *anchor*); ask questions 
 
 - **Any believer** can tell the Gospel, hear it retold, run a simple Scripture discussion, and flag what is missing or confused to a mentor.
 - **The trained facilitator** runs the full cycle, handles cultural anchors, keeps obedience diagnostic, and reports to a mentor.
-- **The regional mentor** maps worldviews, forms leaders, audits health, and guards against drift.
+- **The regional mentor** maps worldviews, forms leaders, helps discern health and drift, and guards the Gospel.
 
 The simplicity of the base is a simplicity of *form, not of substance*: fewer pages, never fewer protections. No group, however remote, operates without a reachable mentor.
 
-**Built to multiply without dependency.** The aim is the four-self church — self-supporting, self-governing, self-propagating, self-theologizing. Outside money may fund one-time, catalytic things (translation, first training); it may never fund the recurring costs that, if cut, would stop the movement. The one-sentence test: *if the outside money stopped today, would the movement keep multiplying?*
+**Built to multiply without dependency.** The aim is the four-self church — self-supporting, self-governing, self-propagating, self-theologizing. Outside money may serve the work, especially for first training, translation, emergency relief, and fields under collapse, but it must never become the hand that controls local doctrine, leadership, obedience, or survival. The danger is not every recurring cost; the danger is recurring outside control disguised as local sustainability. The one-sentence test: *if the outside money stopped today, would local believers still carry the life of the work under Christ, or would outsiders still be holding the controls?* A field under shared care is not inferior, but it must not be presented as proof of self-sustainability.
 
 ---
 
@@ -91,4 +97,4 @@ And a hard limit, stated so no one mistakes it: *this approach teaches comprehen
 
 *The whole stands or falls on one thing: faithfulness to the Gospel it proclaims. If it gains audience but loses truth, it fails. If it gains speed but loses discipleship, it fails. If it gains money but breeds dependency, it fails. If it gains influence but loses Christ at the center, it fails. The Gospel does not need to be made powerful; it is the power of God for salvation. The task is only to proclaim it faithfully, teach it wisely, guard it carefully, and pass it on without distortion.*
 
-**To do any of this in practice, go to the full plan — and to the safeguards this summary only names.**
+**Do not use this document to facilitate, send, or measure. Use the full plan, with its safeguards and mentors.**
