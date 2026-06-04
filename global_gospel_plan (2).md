@@ -21,6 +21,8 @@ A note on confidence. Parts of this plan rest on Scripture and settled missiolog
 
 A note on safety and measurement. This plan is used in safe places and in dangerous ones — including prisons, refugee camps, and regions of active persecution. Its goal never changes: faithful *comprehension*. But how that comprehension is verified must change with the danger, because a written record of who believes and where they meet can cost lives. So the plan operates in three modes, chosen by the risk of the context: **Tracking** (open settings — measure normally), **Sampling** (sensitive settings — record only anonymous, aggregate, non-identifying findings), and **Silence** (high-risk settings — record nothing measurable; rely on oral, in-person discernment). The rule that governs all three: **measure where you can, sample where you must, and go silent where measuring would endanger lives.** A second rule follows from it and is stated plainly so no one mistakes the plan's competence: this document teaches comprehensible proclamation, not clandestine security. It gives enough caution to prevent recklessness, but operational security under persecution — surveillance, physical risk, armed actors — exceeds its scope, and workers in those contexts should seek specialized training and, when in doubt, record nothing.
 
+A note on control, openness, and limits. This plan does not control the organic reproduction of the Gospel, and does not pretend to. It does not license the right of believers to tell the biblical story, gather, pray, retell the Gospel, or disciple one another informally — that right is Christ's gift to his Church, not this plan's to grant or withhold. Gospel Mundial is responsible only for what it actually supplies, funds, formally trains, publishes, and presents as the fruit of its own process; it is not responsible for every organic or derived use. This openness has a cost, and the cost is stated up front rather than hidden: **a free, oral, secure, and decentralized approach necessarily permits misuse, delayed detection, and incomplete correction.** This plan does not promise to prevent every distortion. It seeks only to keep a clear core, to refuse to fund or publish distortion, and to make distortion more visible wherever humility, Scripture, and correction still remain.
+
 ---
 
 # PART ONE — THE STRATEGIC FRAMEWORK
@@ -59,6 +61,12 @@ Success is not that people *hear* a Christian message. It is that people become 
 > **The message is fixed. The bridge is local. The learning pathway is adaptive.**
 
 The *fixed message* is the apostolic Gospel — it is never negotiated. The *local bridge* is the culturally meaningful entry point that helps a particular learner begin to understand. The *adaptive pathway* is the structured process that moves a learner from human experience into the biblical narrative, then into discovery, retelling, obedience, reflection, clarification, discipleship, and multiplication. This formula governs everything that follows, and it is the only sentence in this document worth memorizing whole.
+
+A second sentence governs how the work is *held*, so the plan is never mistaken for a franchise:
+
+> **The Gospel is fixed. The simple core is free. The advanced tools are accompanied. The institution answers only for what it supplies, funds, trains, publishes, and claims.**
+
+The *simple core* — the Gospel in nine movements, retelling, basic Scripture discussion, the refusal of false gospels, and non-manipulation — belongs to the whole Church and may be copied, memorized, translated, and used without anyone's permission. The *advanced tools* — the full teaching cycle, the anchor bank, facilitator training, distortion assessment, the pilot — are meant to travel with training and mentoring, because they do harm when detached from it. This division is what keeps the plan from imagining it owns the reproduction of the Gospel.
 
 ---
 
@@ -149,6 +157,8 @@ Christian language, absorbed into a non-Christian framework, produces a confiden
 **Institutional substitution.** People confuse salvation with membership, attendance, baptismal registration, or denominational loyalty. The Church is essential; the institution is not the Savior.
 
 The strategic implication is blunt: **this plan must be designed as a comprehension-and-formation system, not a distribution system.** The honest measure of progress is not "How many heard?" but "What did they understand, can they retell it, are they obeying it, can they tell it from a counterfeit, and can it continue without us?"
+
+One hard truth belongs here, because it follows directly: a comprehension tool can itself be captured. A clear storying method, a retelling discipline, a reproducible field card — each can be detached from the Gospel it was built to protect and used to spread a counterfeit *more* efficiently. The very things that make this approach reproducible also make it copyable by people who keep the form and discard the message. So the plan does not pretend that good method prevents distortion. Method, at its best, only makes distortion easier to see where Scripture, humility, and correction are still wanted.
 
 ---
 
@@ -347,7 +357,9 @@ Every group carries multiplication DNA from the start, trained to ask who else n
 
 For this to last, the work must be able to reproduce *without* foreign money, centralized control, celebrity leaders, expensive buildings, professional clergy, proprietary technology, or political protection. The target is the four-self church: **self-supporting** (local responsibility to capacity), **self-governing** (local leaders under Scripture, not permanent foreign control), **self-propagating** (reproducing into nearby networks), and **self-theologizing** (applying Scripture faithfully to local questions). Outside donors must never control local doctrine or leadership, conversion must never be made to look financially advantageous, and aid must never be a condition for hearing or accepting the Gospel.
 
-External funds are permitted, but "catalytic infrastructure" is a phrase that has hidden a great deal of permanent dependency in the history of missions, so the plan refuses to leave the boundary vague. The line is between *non-recurring* and *recurring* cost. External money may pay for one-time, catalytic things — translating Scripture into a new language, the first generation's training, initial materials, emergency relief — because once done they are done and the local work is not left leaning on them. External money may **not** fund any recurring cost whose removal would stop the movement: salaries that keep mentoring alive, ongoing platform operation, the running expenses of a local church. The one-sentence test: *if the outside money stopped today, would the movement keep multiplying?* If yes, it was a spark. If no, it was dependency wearing the word "catalytic," and it must be corrected now, not later. Every external injection therefore carries a dated withdrawal plan from the day it begins; money with no end date is operating dependency by another name. This is also why the volunteer force (above) is a sending-and-training cost, not an operating one: it lights the fire and steps back, and if it ever becomes the thing the local fire depends on to keep burning, it has failed the same test.
+External funds are permitted, but "catalytic infrastructure" is a phrase that has hidden a great deal of permanent dependency in the history of missions, so the plan refuses to leave the boundary vague. The danger is not recurrence itself — some local costs simply recur, and a field does not become unfaithful because it has ongoing needs. The danger is **externally controlled recurrence disguised as local sustainability**: outside money that quietly becomes the hand on the lever, so that whoever pays decides. So external money may freely pay for one-time, catalytic things — translating Scripture into a new language, the first generation's training, initial materials, emergency relief. Where it funds recurring life, the test is not "is this recurring?" but "does this create permanent *external control* over essential recurring life?" The one-sentence version: *if the outside money stopped today, would the movement keep going — under its own people — or would outsiders still be holding the controls?* Every external injection therefore carries a dated review from the day it begins; money with no end in view, and no plan to pass control to local hands, is dependency by another name.
+
+This requires one honest distinction, so that the rule does not shame the poor. Fields fall into three kinds. A **locally sustained field** carries its own essential life — mentoring and discipleship continue without outside support. A **shared-care field** cannot, for now: war, prison, persecution, displacement, economic collapse, or structural poverty mean it needs recurring outside help for care, safe communication, travel, or essential mentoring. A **humanitarian-care field** is one where survival, care, and protection come first and method comes a distant second. A shared-care field is **not** spiritually inferior, and is never to be treated as a lesser tier; it simply may not be presented as proof of local self-sustainability, and its support must be reviewed regularly to be sure it is serving life rather than buying control. The same guardrails always hold: outside donors must never control local doctrine or leadership, conversion must never be made to look financially advantageous, and aid must never be a condition for hearing or accepting the Gospel. This is also why the volunteer fellowship (above) is a sending-and-training cost, not an operating one: it lights the fire and steps back, and if it ever becomes the thing the local fire depends on to keep burning, it has failed the same test.
 
 ### Technology as servant, not foundation
 
@@ -425,6 +437,10 @@ Orthodox content can still be deformed by poor method. These are the failure mod
 | Therapeutic reduction | The Gospel shrinks to self-care | Recenter sin, cross, resurrection, repentance, lordship |
 | Discovery drift | Novices build doctrine from impressions | Guided discovery plus trained clarification |
 
+### Distortions introduced when the method is copied without the Gospel
+
+Because the simple core is free (see "How to read"), it will be copied — and some copies will keep the method while stripping out the Gospel it was built to carry. These are not failures of the plan's own groups but of detached imitations, and they should be named so they are recognized: a **misused method for moralism** (the Bible story and retelling used to teach "God accepts those who behave"); **for prosperity** (seeds, faith, obedience, and testimony used to promise wealth or protection); **for syncretism** (local anchors used without letting the biblical narrative correct their meaning); **for control** (the training and the cards used to prop up a leader who cannot be questioned); and **for numbers** (reproduction and enthusiasm treated as proof of comprehension). The plan cannot prevent all of these. What it can do is hold a clear, canonical core, refuse to fund distortion, refuse to publish distortion as fruit, and correct what can be corrected without exposing anyone. A copy that keeps the story but removes the cross, resurrection, grace, and repentance may still use Bible words, but it is no longer this plan's Gospel.
+
 ### The strongest objections — and honest answers
 
 A plan implemented across many cultures should anticipate its critics rather than wait for them. Four serious objections deserve a hearing.
@@ -474,6 +490,8 @@ This research agenda is itself bound by the three security modes (see "How to re
 
 The plan succeeds only if it stays faithful to the Gospel it proclaims. If it gains audience but loses truth, it fails. If it gains speed but loses discipleship, it fails. If it gains money but breeds dependency, it fails. If it gains influence but loses Christ at the center, it fails. The Gospel does not need to be *made* powerful; it is the power of God for salvation. The task is only to proclaim it faithfully, teach it wisely, guard it carefully, and pass it on without distortion.
 
+This plan also fails if it pretends to control what it cannot control. It does not own the Gospel, does not govern local churches, does not map hidden believers, and does not turn vulnerable people into evidence. Its responsibility is narrower, and therefore stricter: keep the core clear, train without coercion, support without buying dependence, publish without exposing, measure without endangering, and confess honestly where it does not know.
+
 ---
 
 # PART TWO — THE FIELD KIT
@@ -495,6 +513,8 @@ The tools are sorted into three layers by who needs them, so that no one has to 
 ---
 
 > **The security floor — read before writing or recording anything.** This plan is used in prisons, refugee camps, and places of active persecution (Section 7, Card 23). In any such context, a record of who believes, who leads, who is converting whom, where they meet, and how they travel is a gift to the persecutor: one captured page, phone, or recording can expose an entire network. So a rule governs every card that records anything: **in any context of risk, record nothing that identifies a person or a place — and nothing that exposes one indirectly.** That means no names and no locations, but also no voices, faces, or images; no household maps or lists of contacts and emerging leaders; and no fixed routes or predictable meeting patterns that let a network be inferred even when no content is stored. This follows the three modes from "How to read": **Tracking** where it is safe to record openly, **Sampling** where only anonymous aggregate findings may be written, and **Silence** where nothing measurable is recorded and discernment is wholly oral and in person. The doctrinal information a mentor actually needs — what distortion appeared, whether it was corrected, whether retelling is improving, whether reproduction happened at all — is almost entirely anonymous and can usually be held safely. The relational accountability that requires identities (who shared with whom, who is ready to lead) is carried *orally*, as the persecuted Church has always done. And a hard limit on this document's own competence: operational security beyond these principles — counter-surveillance, secure communications, evasion — is a specialist field this plan does not teach; in genuinely dangerous contexts, seek trained help, and when in doubt, go to Silence. Cards 12A, 14, 15, 22, 24, 25, 25b, and 25c each carry this rule.
+
+One duty survives even here. Where Gospel Mundial's own material, training, or validation has contributed to harm, it carries a residual responsibility it may not wash its hands of — to correct, to stop supporting what caused the harm, and to make right what can be made right. But in risk contexts that duty is exercised without ever exposing people: no traceable public retraction, no identifiable regional alert, no donor communication that lets a network be inferred. The honest forms are quiet ones — private correction, silent suspension of support, periodic generic teaching, deferred public correction once it is safe, and referral to a church authority where possible. The governing priority, stated plainly: **the duty to protect life comes before the duty to protect the institution's reputation.**
 
 ---
 
@@ -591,6 +611,9 @@ If something feels wrong but you cannot name it, that feeling is worth reporting
 | Institutional | "Joining the group saves us." | Clarify that Christ alone saves |
 | Therapeutic | "God just wants me to feel better." | Recenter reconciliation, repentance, holiness |
 | Incomplete | Cross, resurrection, sin, or grace omitted | Retell the larger biblical story |
+| Authority abuse | "Our leader cannot be questioned." | Christ rules through Scripture; leaders serve and can be corrected |
+| Material inducement | "Believe or obey, and you will get help, protection, or status." | Aid must never purchase faith; grace is free |
+| Method without Gospel | "We use the stories and retelling, but leave out grace, repentance, or the cross." | The method without the Gospel core is no longer faithful |
 
 *Retelling is a diagnostic for discipleship, not an exam to shame anyone. Security floor: record only the anonymous finding (what distortion, whether corrected), never who said it or where.*
 
@@ -692,6 +715,8 @@ If something feels wrong but you cannot name it, that feeling is worth reporting
 **A person of peace** welcomes relationship, is spiritually open, has relational influence, will gather others, shows interest in Scripture, and opens a household or network. Serve and invite them — never manipulate them.
 
 **Drift alarms — stop and correct if you hear:** "God just wants us to be good people." · "Faith means God will make us rich." · "Jesus is one of many ways." · "Repentance isn't necessary." · "Our leader has authority beyond Scripture." · "The church or organization saves us." · "Suffering means lack of faith." · "The Gospel is mainly about our nation or cause." · "The Bible is useful but not final." · "We can keep the old powers and add Jesus."
+
+**One quieter alarm, for the mentor's own circle.** Be wary when every local mentor agrees too quickly that no distortion exists — a circle that only confirms itself can preserve the same cultural error in everyone at once. Healthy correction needs at least one voice from outside the shared assumptions; if no one in the circle can name where it might be wrong, that is itself the warning.
 
 ---
 
@@ -938,6 +963,9 @@ Teaching of Christ → one bounded act of obedience → real-life attempt
 | Paralysis by audit | safeguards become so heavy the work cannot move in hard contexts | emergency clauses (Card 21b); proportional, not maximal, safeguards |
 | Reckless or coerced sending | volunteers pushed into danger unprepared, by guilt, enthusiasm, or false promises of safety | the sending conversation (Card 25b); free refusal; sender's duty of care |
 | Quota pressure on volunteers | numbers become targets, so reaction is forced and mistaken for fruit | no quotas; worth measured by fidelity, not output; reports serve care, not surveillance |
+| Method copied without the Gospel | the stories and cards spread while grace, cross, or repentance are stripped out | a clear canonical core; refuse to fund or publish distortion; correct what is safely correctable |
+| Self-validating mentor circle | local mentors confirm one another in the same cultural error | at least one outside voice; treat too-quick agreement as a warning (Card 15) |
+| Shared-care stigma | supported fields treated as second-class or paraded as proof of self-sufficiency | shared-care is not inferior; never used as evidence of sustainability; reviewed for control |
 
 ---
 
@@ -970,7 +998,7 @@ Teaching of Christ → one bounded act of obedience → real-life attempt
 
 # 25. Card (Layer 3): The Minimum Pilot Protocol
 
-*Before scaling anywhere, run a small pilot — and resist the urge to measure everything. The discipline of a good pilot is measuring few things honestly rather than many things vaguely.*
+*Before using the advanced tools more widely, run a small pilot — and resist the urge to measure everything. The discipline of a good pilot is measuring few things honestly rather than many things vaguely.*
 
 **Scope.** Five to ten real facilitators, each running one group through the eight-session arc (Section 4) with the full CAAGP-R cycle (Card 14). Long enough to see a second generation begin — roughly one to two cycles.
 
